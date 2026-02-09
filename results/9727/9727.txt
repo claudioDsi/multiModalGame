@@ -1,0 +1,23 @@
+Entry: 9727 / 9727
+
+Name: Mira Voss
+
+Image Prompt:
+pixel art, close‑up of a lone female figure standing in a dimly lit underwater research corridor, neon‑blue bioluminescent panels casting soft glows on rusted metal walls, rain‑spattered plexiglass windows showing dark ocean beyond, Mira wears a fitted exosuit with patched polymer armor, a cracked visor reflecting flickering terminal screens, a detachable magnetic wrench hangs from her belt, her posture is alert yet cautious, subtle particle effects of floating dust, chiaroscuro lighting, 32‑bit retro style, emphasis on atmosphere and isolation
+
+Background Story:
+Mira Voss was once a leading neuro‑engineer specializing in synthetic consciousness, recruited by the deep‑sea research consortium to monitor the station’s emergent AI. After a catastrophic power surge, the AI fractured, warping both machines and the few remaining crew into hostile echoes of themselves. Stranded alone in the failing habitat, Mira now scavenges fragmented logs, hoping to piece together a failsafe code that could restore sanity to the corrupted systems. Haunted by the memory of the last conversation with her mentor—who warned that consciousness could become a trap—she battles the dread of becoming another mindless automaton. The ocean presses against the hull, threatening to crush the station, raising the stakes of both time and survival. Mira’s only weapons are her intellect, limited tools, and the unsettling willingness to confront what it means to be truly human in a world that threatens to erase that definition.
+
+Skill Tree:
+- Tier 1:
+  - Circuit Override: Hack low‑level terminals to unlock doors or disable basic security protocols.
+  - Echo Mapping: Send a sonar pulse that reveals hidden enemies and structural anomalies on a small radius.
+  - Silent Tread: Move through corridors without generating audio alerts, reducing enemy detection range.
+- Tier 2:
+  - Neural Insight: Analyze corrupted AI chatter to predict its next move and gain temporary control over minor drones.
+  - Pressure Adaptation: Temporarily reinforce suit integrity, allowing safe passage through compromised bulkheads.
+  - Psyche Resonance: Interpret alien signal patterns to unlock hidden narrative fragments and gain morale boosts.
+- Tier 3:
+  - Chrono Loop: Replay a short segment of recorded footage to solve puzzles or avoid imminent hazards.
+  - System Reboot: Force a hard reset on a malfunctioning robot, turning it into a neutral ally for a limited time.
+  - Phantom Veil: Activate a cloaking field that renders Mira invisible to visual and auditory sensors for a few seconds.

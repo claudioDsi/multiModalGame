@@ -1,0 +1,23 @@
+Entry: 25076 / 25076
+
+Name: Kael Mercer
+
+Image Prompt:
+pixel art, 32-bit style, Kael Mercer standing on a dusty train platform at twilight, wearing a long weathered coat with brass buckles, a wide-brimmed hat tipped low, fingerless leather gloves, a bandolier of clockwork gadgets across his chest, a sleek revolver with ornate engravings at his hip, his other hand clutching a glowing, half‑mechanical compass. Behind him, steam locomotive pistons glow orange, steam billows, distant factory silhouettes under a pink‑purple sky. Soft rim lighting highlights his determined face, while shadows fall on the cobblestones. Art style tags: isometric, vibrant palette, retro pixel, dramatic lighting, early‑industrial aesthetic. 
+
+Background Story:
+Kael Mercer was born in the soot‑filled slums of the iron‑clad city of New Valora, learning to survive by pilfering gears and steam vents. After his sister vanished under mysterious orders from the Iron Syndicate, Kael swore revenge and took up the mantle of outlaw, stealing the syndicate’s own blueprints to build his own steam‑powered arsenal. He now roams the sprawling railway network of the Western Frontier, a fugitive hunted by the Syndicate’s relentless enforcers. Kael hopes to expose the Syndicate’s plan to monopolize the new age of mechanized transport and free the oppressed workers. Yet his own hunger for power threatens to blur the line between justice and tyranny. With each daring heist, he must decide whether his quest is vengeance or the birth of a new order. The dawn of the modern age hangs in balance on the tracks he rides. 
+
+Skill Tree:
+- Tier 1:
+  - Gritty Revolver: Fires rapid, low‑damage shots that stagger enemies.
+  - Steam‑Boost Dash: Short burst of speed leaving a brief trail of steam that obscures vision.
+  - Scavenger’s Insight: Reveals hidden loot and trap mechanisms in the immediate area.
+- Tier 2:
+  - Clockwork Grenade: Throws a timed explosive that deals medium AoE damage and disables mechanical foes for 3 seconds.
+  - Ironclad Resolve: Increases damage resistance when health falls below 30%.
+  - Railbound Ambush: Sets a hidden trap on railway tracks that detonates when an enemy passes.
+- Tier 3:
+  - Syndicate Sabotage: Permanently cripples a target’s mechanical equipment, reducing its effectiveness by 50%.
+  - Phantom Steam Cloak: Grants invisibility for 5 seconds while emitting a veil of steam that confuses pursuers.
+  - Titan’s Revolver: Charges a powerful shot that pierces armor and deals high damage to a single target.

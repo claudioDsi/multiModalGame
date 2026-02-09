@@ -1,0 +1,23 @@
+Entry: 1000 / 1000
+
+Name: Riven Thorne
+
+Image Prompt:
+pixel art, 16‑bit style, foreground shows a grizzled yet spry explorer with a scruffy beard, wearing a weathered leather coat patched with glowing sigils, a brass‑rimmed gas mask perched on his head, and a utility belt loaded with bone‑shaped vials; his left hand lifts a pulsing crystal while his right hand releases a cartoonish puff of green gas that glows faintly; background depicts the ruined arches of a buried mud‑like city, skeletal stone columns covered in bioluminescent moss, shafts of twilight seeping through cracks; soft ambient lighting with neon‑green highlights from the crystal and gas, dynamic shadows, vibrant yet muted color palette; art style tags: pixel art, 16‑bit, vibrant, atmospheric, comedic tone.
+
+Background Story:
+Riven Thorne spent his twilight years enjoying quiet days as a lighthouse keeper on the desolate coast of the Whispering Cliffs. One night a flickering vision delivered by the enigmatic Order of the Veiled Eye warned him that the Order was mining the sacred Necro‑Mud city of the dead to harvest its bone relics for the mind‑crushing brew known as the Ember‑Grail. Driven by guilt and curiosity, Riven abandoned his tranquil post and ventured into the catacombs, freeing imprisoned Mud‑spirit ancestors trapped within the Bone‑Vault and the Echoing Sepulcher. The Order, impressed by his resilience, granted him uncanny powers: the ability to cleanse his Mud‑kin companions of Ember‑Grail addiction and to melt into shadows at will. Armed with explosive “wind‑burst” farts as a makeshift propulsion, he infiltrated the rail hub of Gloomspire and survived perilous trials in the Scented Caverns and the Acidic Geysers. After uncovering the true secret ingredient of the Ember‑Grail—a corrupted spirit core—he shattered the Order’s citadel with the combined might of the liberated Mud‑spirit legion, then joined his brew‑addled comrades at the Dawn‑brew Tavern to finally sip the cure, launching a journey that may span a single step or a dozen lifetimes.
+
+Skill Tree:
+- Tier 1:
+  - Fart Burst: releases a short, high‑velocity gas blast that propels Riven forward and damages nearby foes.
+  - Spectral Sight: reveals hidden spirits and invisible objects within a modest radius.
+  - Bonecraft: allows collection of bone fragments that can be used to craft temporary buffs.
+- Tier 2:
+  - Healing Breeze: emits a cleansing wind that removes Ember‑Grail addiction debuffs from allies.
+  - Shadow Step: grants temporary invisibility and silent movement for a few seconds.
+  - Echo Pulse: sends out a resonant pulse that stuns enemies caught in its range.
+- Tier 3:
+  - Cavern Collapse: detonates a large area, turning the ground into a cloud of crushing debris.
+  - Spirit Fusion: merges with a freed Mud‑spirit, massively increasing attack power for a limited time.
+  - Final Brew: drinks a distilled Ember‑Grail cure, granting brief invincibility and rapid health regeneration.

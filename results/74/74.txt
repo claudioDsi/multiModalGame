@@ -1,0 +1,24 @@
+Entry: 74 / 74
+
+Name: Commander Aster Veyra  
+
+Image Prompt: pixel art, front‑facing portrait of a charismatic space commander with short silver‑blue hair, sharp amber eyes behind a semi‑transparent HUD visor, wearing a fitted dark‑teal tactical suit with glowing teal circuitry accents and a lightweight armored chest plate, left hand resting on a compact plasma sidearm, right hand outstretched as if issuing orders, background of a cramped star‑ship bridge with holographic star maps and distant nebula visible through a round porthole, soft rim lighting from the ship’s consoles, vibrant neon highlights, 32‑bit retro sci‑fi style, high detail, dynamic pose  
+
+Background Story:  
+Aster Veyra grew up on the mining colony of Kiros IV, where they learned to survive amid corporate exploitation and relentless radiation storms. After a brutal raid by the predatory Orion Syndicate, Aster swore never to let a single world fall under the shadow of oppressive forces. Rising through the ranks of the Free Coalition, they earned a reputation for daring raids, diplomatic finesse, and an uncanny ability to rally disparate factions. Now, as the galaxy faces an unprecedented invasion from the mechanized Void Covenant, Aster is tasked with uniting the galaxy’s fiercest allies while navigating treacherous internal politics. Haunted by the loss of their sister during the Syndicate raid, Aster struggles between the weight of command and the desire for personal vengeance. Every choice they make could either forge a lasting peace or plunge the stars into endless war.  
+
+Skill Tree:  
+- Tier 1:  
+  - **Starlight Reflex**: Grants a brief window of increased movement speed and evasion after taking damage.  
+  - **Tactical Scan**: Reveals enemy weak points for a short duration, increasing damage dealt to them.  
+  - **Nano‑Heal Injector**: Activates rapid health regeneration for a few seconds, consuming a small amount of energy.  
+
+- Tier 2:  
+  - **Command Beacon**: Boosts nearby allies’ attack speed and shield regeneration for a limited time.  
+  - **Diplomat’s Edge**: Reduces hostility of neutral factions during conversations, unlocking additional dialogue options.  
+  - **Adaptive Arsenal**: Allows instant swapping of equipped weapons without pause, each swap grants a minor damage bonus.  
+
+- Tier 3:  
+  - **Galaxy’s Resolve**: Once per mission, prevents all allied deaths for a short interval, sacrificing a portion of the commander’s health.  
+  - **Voidbreaker Protocol**: Unleashes a powerful area‑of‑effect blast that disables enemy shields and staggered robots.  
+  - **Eternal Covenant**: Grants a permanent passive increase to maximum health and a slow health regeneration boost after combat.

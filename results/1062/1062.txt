@@ -1,0 +1,23 @@
+Entry: 1062 / 1062
+
+Name: Elias Varn
+
+Image Prompt:
+pixel art, 32-bit style, close‑up of a weary man in his late thirties with short dark hair, stubble, and tired green eyes; wearing a weathered leather trench coat over a plain white shirt, a dark scarf loosely draped, and fingerless gloves; standing in a dimly lit, mist‑filled forest clearing at night, a faint lantern in his right hand casting a soft golden glow that illuminates his face and the surrounding trees; shadows creep along the ground, hinting at unseen shapes; pose is slightly hunched, head turned toward an unseen whisper, expression a mix of determination and dread; art style tags: pixel art, moody, cinematic lighting, atmospheric, low‑poly, retro‑fantasy. 
+
+Background Story:
+Elias Varn was once a celebrated author of mind‑bending thrillers, praised for weaving reality and fiction into seamless nightmares. After a brutal public scandal erased his confidence, he suffered a crippling writer’s block that stole his voice. Hoping a remote mountain resort would rekindle his muse, he traveled there with his wife, Mira, a botanist who adored the solitude of pine forests. Within days of their arrival, Mira vanished without a trace, leaving behind only a stray notebook filled with story fragments Elias could not remember writing. As he flipped through the pages, the grotesque scenes described began to spill into the world around him—shadowy silhouettes that stalked the trees and cold whispers that tugged at his mind. The resort’s once‑peaceful woods have become a battleground of light versus an eldritch darkness that feeds on unfinished narratives. Elias must confront his own unwritten fears, uncover the truth behind the missing pages, and rescue Mira before the darkness consumes both his reality and the stories he once crafted. 
+
+Skill Tree:
+- Tier 1:
+  - Flicker Torch: Emits a brief burst of bright light that temporarily blinds nearby hostile entities.
+  - Ink Insight: Reveals hidden text on objects, granting clues about upcoming threats.
+  - Breathing Calm: Reduces panic meter buildup when in darkness, improving stamina regeneration.
+- Tier 2:
+  - Lantern Ward: Projects a steady cone of light that weakens dark entities’ attack power while in range.
+  - Narrative Echo: Copies a short line from the mysterious pages to summon a phantom ally for a single attack.
+  - Memory Surge: Briefly boosts melee damage after reading a page, channeling adrenaline from fragmented memories.
+- Tier 3:
+  - Paradox Veil: Creates a protective field of intertwining light and shadow, reducing damage from all sources for a short duration.
+  - Blinding Prose: Unleashes a wave of luminous script that disintegrates multiple enemies and reveals secret passages.
+  - Final Chapter: Sacrifices a portion of health to rewrite the immediate environment, turning a hostile area into a safe zone for a limited time.

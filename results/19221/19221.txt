@@ -1,0 +1,23 @@
+Entry: 19221 / 19221
+
+Name: Varyn Thornwhisper
+
+Image Prompt:
+pixel art, 32‑bit style, front‑facing Varyn standing on a misty cliff edge overlooking a sunrise‑lit valley, wearing weathered leather armor with brass buckles, a dark green cloak trimmed in silver thread, a hood pulled back to reveal short, ash‑brown hair and sharp amber eyes, a curved obsidian dagger sheathed at the waist, a wooden staff planted in the ground beside him glowing faintly with pale blue sigils, torches flickering in the background, soft golden sunrise lighting, atmospheric, high detail, vibrant palette, top‑down RPG pixel art.  
+
+Background Story:
+Varyn Thornwhisper was born in the frontier village of Greyfen, a settlement that once marked the outermost border of the ancient kingdom. When the borders were torn down by the Great Unsealing, his home fell into chaos as wandering armies and strange beasts crossed the newly opened lands. Guided by the memory of his mother's stories about the lost provinces beyond, Varyn set out to map the uncharted territories and uncover the secrets that lie hidden. He carries a staff forged from a fallen star, believing it can bind the fragmented energies that now tear at the world. Yet he is haunted by a lingering oath to protect the fragile peace his people barely understand, fearing that his curiosity may awaken greater darkness. As rival factions vie for control over the newly accessible realms, Varyn must decide whether to become a unifying bridge or a solitary wanderer lost to the wilds. His journey will shape the fate of the lands beyond the former borders, and his choices will echo through the roots of the world itself.  
+
+Skill Tree:
+- Tier 1:
+  - Star‑forged Strike: Unleashes a swift melee attack that deals additional damage equal to a small portion of the enemy’s max health.
+  - Boundless Survey: Reveals hidden terrain and points of interest within a moderate radius for a short duration.
+  - Ember Ward: Creates a protective field that reduces incoming damage by a modest percentage for a few seconds.
+- Tier 2:
+  - Celestial Pulse: Emits a wave of star‑energy that damages and briefly stuns nearby foes.
+  - Echoing Steps: Grants temporary movement speed boost and leaves a faint trail that confuses enemies who follow.
+  - Lorekeeper’s Insight: Grants a temporary boost to experience gain and reveals the next major objective on the map.
+- Tier 3:
+  - Rift Seal: Channels star‑energy to temporarily close a portal or rift, preventing enemies from emerging for a limited time.
+  - Dawn’s Resolve: Massive AoE attack that deals high damage and heals allies within its radius based on Varyn’s missing health.
+  - Veil of the Wilds: Cloaks Varyn in a camouflage of forest shadows, rendering him invisible to enemies unless he attacks.

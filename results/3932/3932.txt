@@ -1,0 +1,23 @@
+Entry: 3932 / 3932
+
+Name: Rion Aster
+
+Image Prompt:
+pixel art, 32‑bit style, a muscular young gladiator standing in the center of a sand‑covered arena lit by torches, wearing a dented bronze breastplate with a crimson cape, a scarred leather gauntlet on his right hand, short dark hair tied back, intense green eyes, pose: brandishing a short curved sword high above his head while a battered wooden shield rests on his left forearm, background shows towering stone arches, distant crowd silhouettes, warm amber lighting casting dramatic shadows, detailed pixel shading, dynamic pose, top‑down isometric view, retro video game aesthetic
+
+Background Story:
+Rion Aster was born in the shadow of the great coliseum, the son of a renowned arena trainer who fell in a cursed bout when Rion was still a child. Sworn to honor his father's legacy, he left his hometown to wander the harsh lands, seeking masters who could teach him the forgotten arts of the arena. Each victory in distant pits earned him scrap fragments of ancient armor and whispered rumors of a legendary championship school that once united the strongest fighters. Haunted by the fear that his father's death was not a tragedy but a betrayal, Rion fights to uncover the hidden conspiracies that still poison the blood‑sport. His ambition is to gather a cadre of elite gladiators, train them in his own hall, and challenge the corrupt guilds that hoard glory. Yet, every battle pulls him deeper into a web of political intrigue, forcing him to balance personal vengeance with the dream of a true, honorable arena.
+
+Skill Tree:
+- Tier 1:
+  - Blade Surge: Deals a quick slash that hits a single enemy and increases next attack speed by 10%.
+  - Iron Guard: Raises shield to block the next incoming attack, reducing damage by 50%.
+  - Battle Cry: Grants all allies +5% morale, raising their critical hit chance for two turns.
+- Tier 2:
+  - Warrior’s Resolve: Restores a small amount of health to self and adjacent allies when health drops below 30%.
+  - Chain Flurry: Performs three rapid strikes on a single target, each hit increasing the next strike’s damage by 5%.
+  - Arena Insight: Reveals enemy intentions for the next turn, allowing you to anticipate their moves.
+- Tier 3:
+  - Champion’s Verdict: Unleashes a powerful finishing blow that deals massive damage to a weakened opponent and silences them for one turn.
+  - Gladiator’s Aegis: Creates a protective aura around the school, reducing incoming damage to all members by 15% for three turns.
+  - Legacy of the School: Passively increases experience gain for the whole team by 20% and unlocks a bonus recruitment slot.

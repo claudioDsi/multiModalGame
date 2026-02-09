@@ -1,0 +1,23 @@
+Entry: 1981 / 1981
+
+Name: Jaxen Kade
+
+Image Prompt:
+pixel art portrait of a slender, young cyber‑hacker standing confidently, short teal hair under a pair of glowing neon goggles, wearing a fitted leather coat etched with faint circuit patterns, fingerless gloves with tiny LED accents, a hovering data blade humming beside the right hand, background of a rain‑slick alley in a digital city simulation with towering holographic advertisements, floating streams of green code flowing around, neon pink and blue streetlights casting dynamic reflections, subtle particle spark effects, synthwave cyberpunk atmosphere, vibrant colors, 32‑bit style, high detail, dynamic lighting, retro futuristic vibe
+
+Background Story:
+Jaxen grew up in the shadow of the megacity’s neon towers, orphaned after a raid that dismantled his neighborhood gang. He turned to the underground hacktivist collective, mastering forbidden code to survive in a world ruled by the omnipresent corporate syndicate. When the alien invaders known as the Voidborne breached the city’s simulation, the syndicate’s leader, now president, sealed the digital realm to protect their power, imprisoning countless citizens inside. Haunted by the faces of his lost friends trapped in the simulation, Jaxen vows to breach the artificial walls and free them. He struggles with the temptation to use the syndicate’s own surveillance tools for personal revenge. The fate of both the real city and the virtual prison hangs on his ability to outwit alien algorithms and corporate tyranny.
+
+Skill Tree:
+- Tier 1:
+  - Data Surge: Launch a short-range wave of corrupted packets that temporarily disables enemy sensors.
+  - Circuit Dash: Perform a quick burst of movement that leaves a trail of static, confusing pursuers.
+  - Stealth Glide: Blend into ambient code, reducing detection chance for a brief period.
+- Tier 2:
+  - Code Breaker: Overload an enemy’s control module, causing them to malfunction for several seconds.
+  - Echo Pulse: Emit a resonant pulse that reveals hidden traps and flickers nearby holograms.
+  - Synthetic Reflex: Auto‑dodge the next incoming attack with heightened reaction speed.
+- Tier 3:
+  - Reality Override: Rewrite a section of the simulation, creating a temporary safe zone free of alien influence.
+  - Quantum Rift: Open a brief portal that teleports Jaxen and allies a short distance through the code.
+  - Aegis Matrix: Deploy a shield of encrypted energy that absorbs damage and reflects projectiles for a limited time.

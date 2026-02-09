@@ -1,0 +1,23 @@
+Entry: 1050 / 1050
+
+Name: Riven Kade
+
+Image Prompt:
+pixel art, night‑time rooftop of a neon‑lit megacity, Riven crouched on the edge with a sleek matte black trench coat, high‑collar, cyber‑optic visor glowing faint teal, armed with a compact rail‑gun and a set of modular gadget gauntlets, smoke curling from a distant alley, rain slick streets reflecting light, color palette of deep blues and purples, dynamic pose emphasizing stealth and focus, top‑down isometric view, detailed pixel‑perfect shading, 32‑bit style, dramatic low‑key lighting, cyber‑punk atmosphere, no branding
+
+Background Story:
+Riven Kade grew up in the underbelly of a megacity, rescued from a clandestine lab that used genetic splicing to create elite operatives. After escaping, they forged a reputation as a forensic assassin, piecing together crime scenes to eliminate targets with surgical precision. Haunted by fragmented memories of the experiments that made them, Riven seeks redemption by exposing the corporation behind the program. Their work is funded by anonymous clients who value discretion over fame, forcing Riven to balance lethal efficiency with moral ambiguity. Each contract uncovers another layer of the conspiracy, pulling them deeper into a web of betrayal. With every successful extraction, Riven inches closer to the truth that could shatter the city's power structure—or cement their own demise.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Blend: briefly become semi‑invisible when standing still in low light, reducing enemy detection radius.
+  - Quickdraw Rail‑Gun: fire a single high‑velocity shot with reduced cooldown after moving.
+  - Forensic Scan: analyze a corpse or body part to reveal enemy weaknesses and hidden objectives.
+- Tier 2:
+  - Adaptive Disguise: swap outfits on the fly to mimic nearby civilian or security uniforms, granting temporary access to restricted areas.
+  - Toxic Injector: attach a micro‑needle to weapons that delivers a silent poison, dealing damage over time.
+  - Neural Overload: emit a short EMP pulse from the visor, temporarily stunning electronic enemies and cameras.
+- Tier 3:
+  - Echo Trace: leave a decoy hologram that draws enemy fire for a limited duration, allowing safe escape routes.
+  - Gene‑Lock Override: temporarily disable a target's genetic augmentations, rendering them vulnerable to all attacks.
+  - Apex Extraction: perform a high‑risk, high‑reward dash through enemies, killing those in the path and instantly reloading primary weapon.

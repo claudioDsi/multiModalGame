@@ -1,0 +1,22 @@
+Entry: 115304 / 115304
+
+Name: Lumen Quinn  
+
+Image Prompt: pixel art, 32‑pixel character portrait, young adult with short electric‑blue hair styled in a spiky bob, bright amber eyes, wearing a teal jumpsuit with neon orange circuit patterns and a utility belt loaded with retro arcade tokens, holding a glowing joystick‑shaped shield in one hand and a compact handheld console in the other, standing in a dimly lit arcade hallway lined with flickering neon signs and broken vending machines, light shafts from overhead flickering bulbs create dramatic shadows, style: vibrant retro‑futuristic pixel art, high contrast, 8‑bit shading, no brand logos.  
+
+Background Story:  
+Lumen Quinn grew up in the bustling neon district of Gearhaven, where arcades were the heart of community life. After a mysterious power surge caused several animatronic entertainers to become hostile, the city’s authorities sealed the arcade complex and recruited Lumen for a secret night‑shift program. Trained as a former stunt performer, Lumen blends acrobatic agility with deep knowledge of arcade circuitry, hoping to uncover the source of the animatronics’ corruption. Haunted by memories of their sibling lost during the first malfunction, Lumen feels a personal duty to protect any who wander inside. Each night, Lumen must navigate a gauntlet of classic mini‑games while fending off the rogue machines that stalk the corridors. Success could restore the arcade to its former glory, but failure would let the malevolent code spread beyond Gearhaven’s borders.  
+
+Skill Tree:  
+- Tier 1:  
+  - Circuit Burst: Emits a short ranged shock wave that briefly stuns nearby animatronics.  
+  - Token Toss: Throws a glowing token that distracts a single enemy for 3 seconds.  
+  - Quick Slide: Performs a rapid slide maneuver, evading attacks and moving through tight spaces.  
+- Tier 2:  
+  - Glitch Dash: Dashes forward, phasing through obstacles and leaving a trail that confuses enemies for 5 seconds.  
+  - Power Surge: Charges the joystick shield, granting temporary invulnerability while reflecting projectiles.  
+  - Arcade Insight: Highlights interactive objects in the environment, revealing hidden bonuses in mini‑games.  
+- Tier 3:  
+  - Overclocked Core: Overclocks Lumen’s internal cybernetic implants, increasing movement speed and attack rate for 10 seconds.  
+  - Synthwave Shield: Projects a pulsating energy barrier that absorbs a set amount of damage and restores health to allies.  
+  - Final Reset: Triggers a system-wide reboot, temporarily disabling all animatronic AI in the current room and resetting mini‑game timers.

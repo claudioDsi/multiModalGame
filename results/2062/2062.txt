@@ -1,0 +1,23 @@
+Entry: 2062 / 2062
+
+Name: Mira Kade
+
+Image Prompt:
+pixel art, 32-bit style, a slender woman in her late twenties with short, asymmetrical teal hair and cybernetic amber eye implant, wearing a weathered leather jacket over a dark tactical bodysuit, fingerless gloves, and silver combat boots, standing on a rain‑slick alleyway beneath neon signs, holding a compact electromagnetic pistol at her side, distant city skyline with towering skyscrapers and smog, dynamic low‑angle lighting with neon reflections and mist, expressive pixelated facial details, muted color palette with neon accents, cyber‑punk atmosphere, dramatic shadow play, detailed sprite, isometric view
+
+Background Story:
+Mira Kade grew up in the underbelly of the sprawling megacity, learning to navigate its labyrinthine alleys after her older brother vanished under mysterious circumstances. Trained as a street‑wise informant, she now works freelance for the city's covert enforcement agency, feeding them intel in exchange for clues about her brother's fate. Her cybernetic eye implant, salvaged from a black‑market tech vendor, grants her the ability to see hidden data streams, but it also constantly feeds her fragmented memories of a hidden surveillance program. Mira wrestles with the moral ambiguity of selling secrets to an organization that may be responsible for her brother’s disappearance. When a rival syndicate threatens to destabilize the fragile peace, she is forced to choose between exposing the agency’s corruption or protecting the only family she has left. Her personal vendetta intertwines with the city’s power struggle, making her a pivotal player in the looming conflict.
+
+Skill Tree:
+- Tier 1:
+  - Data Glint: Reveals hidden electronic devices and surveillance nodes within a short radius.
+  - Quick Escape: Grants a brief burst of speed to dodge attacks or flee danger.
+  - Street Smarts: Increases detection of traps and ambushes while exploring urban environments.
+- Tier 2:
+  - Pulse Hack: Temporarily disables enemy cyber‑augments, leaving them vulnerable.
+  - Neon Veil: Creates a flickering light field that obscures Mira’s position from enemies.
+  - Razor Reflexes: Enhances melee counterattack damage after a successful dodge.
+- Tier 3:
+  - Echo Scan: Allows Mira to trace the origin of a specific data packet across the city network.
+  - Overload Shot: Fires a concentrated EMP blast from her pistol, stunning multiple foes.
+  - Reckoning Insight: Grants a one‑time revelation of a major plot secret, affecting story outcomes.

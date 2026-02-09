@@ -1,0 +1,23 @@
+Entry: 6060 / 6060
+
+Name: Kade “Ashen” Morrell
+
+Image Prompt:
+pixel art, close‑up of a lean, gritty survivor with ash‑gray short hair and a scar across the left cheek, wearing a scavenged modular combat suit patched with rusted metal plates, neon‑blue visor glowing faintly, gripping a repurposed rotary gauss pistol, standing in a dimly lit, smog‑filled penal settlement alley with broken concrete walls, distant flickering lanterns, rain dripping off his shoulders, dramatic low‑key lighting, 16‑bit style, high contrast, retro‑futuristic atmosphere
+
+Background Story:
+Kade grew up in the soot‑choked outskirts of the former megacity before the Collapse, where his family perished in a resource raid. Drafted into the central penitentiary at sixteen, he learned to survive by trading information and weapon parts on the black market. A secret resistance cell recruited him after he rescued a captive engineer who knew the location of a hidden clean‑water reservoir. Haunted by the memory of his parents’ death, Kade fights each mission hoping to secure enough intel to bargain for his release. He constantly wrestles with the temptation to betray teammates for a shortcut to freedom. The looming threat of the rival enforcement faction forces him to balance personal vengeance with the greater good of the civilians he saves. Every successful extraction chips away at his sentence, but the looming possibility of eternal confinement keeps his resolve razor‑sharp.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger’s Insight: Reveals hidden caches and weak points in enemy structures within a short radius.
+  - Rapid Reload: Reduces weapon reload time by 20% and grants a brief movement speed boost after reloading.
+  - Ember Strike: Fires a low‑damage incendiary shot that ignites enemies for 3 seconds, dealing damage over time.
+- Tier 2:
+  - Adaptive Armor: Temporarily increases damage resistance by 15% when taking consecutive hits.
+  - Tactical Coordination: Grants a passive aura that slightly reduces cooldowns of nearby allies’ abilities.
+  - Circuit Breach: Hacks a target enemy’s cybernetic augment, disabling its special ability for 5 seconds.
+- Tier 3:
+  - Overcharge Blast: Unleashes a powerful charged shot that pierces multiple enemies and leaves a lingering EMP field.
+  - Redemption Protocol: Once per mission, instantly restores half of Kade’s health and resets all cooldowns when a civilian is rescued.
+  - Shadow Fade: Activates a short‑duration cloaking effect, allowing silent movement and evasion of detection.

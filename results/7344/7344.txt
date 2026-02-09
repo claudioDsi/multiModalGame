@@ -1,0 +1,22 @@
+Entry: 7344 / 7344
+
+Name: Liora Emberwind  
+
+Image Prompt: pixel art portrait of a young orphan girl with short, windswept auburn hair and bright amber eyes, wearing a tattered charcoal cloak over a simple linen tunic, a glowing ember lantern clutched in one hand, standing on the edge of a crumbling cliff overlooking a storm‑ravaged valley; soft purple and teal storm clouds swirl in the background, lightning illuminates distant ruined towers, warm candle‑light glow from the lantern contrasts with cool ambient light, dynamic pose with one foot forward, ready to leap, detailed pixel shading, high contrast, 32‑bit style, vibrant yet melancholic color palette, emphasis on hand‑painted texture feel.  
+
+Background Story:  
+Liora was left at the doorstep of the village orphanage the night a violent gale tore through the coastal town of Zephra. She grew up listening to the elders speak of the ancient Guardians who once shielded the land from the endless tempests. When the Great Storm shattered the sky and the sea began to recede, the town’s lifeblood—the luminous Crystal of Tides—faded, casting darkness over the once‑hopeful settlement. Driven by a whispered promise from a dying mentor, Liora decides to brave the ruined highlands to retrieve the lost fragments of the Crystal. Along the way, she battles corrupted storm spirits that feed on fear, forcing her to confront the doubt that has long haunted her orphaned heart. The ultimate nemesis, a shadowy tyrant fed by the storm’s rage, seeks to drown the world in perpetual night. Liora’s journey is a test of courage, love, and the belief that even the smallest light can pierce the deepest gloom.  
+
+Skill Tree:  
+- Tier 1:  
+  - Ember Lantern: Emits a small radius of light that reveals hidden platforms and weakens minor enemies.  
+  - Gale Leap: Performs a powerful forward jump propelled by a gust of wind, reaching distant ledges.  
+  - Heartbeat Pulse: Sends out a rhythmic pulse that momentarily stuns nearby foes.  
+- Tier 2:  
+  - Storm Bind: Throws a tether of crackling energy that temporarily immobilizes a single enemy.  
+  - Wind‑Weave Dash: Grants a brief burst of speed while leaving a trailing wind vortex that damages enemies it passes through.  
+  - Ember Shield: Generates a protective ember aura that reduces incoming damage for a short duration.  
+- Tier 3:  
+  - Tempest Resonance: Channels the storm’s power to unleash a wave of lightning that damages all enemies in a line.  
+  - Guardian’s Grace: Temporarily grants invulnerability and restores a small amount of health when activated near the Crystal fragments.  
+  - Radiant Dawn: Summons a blinding flash of light from the lantern, clearing darkness and healing allies within range.

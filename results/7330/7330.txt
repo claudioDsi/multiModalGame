@@ -1,0 +1,23 @@
+Entry: 7330 / 7330
+
+Name: Lira Lumis
+
+Image Prompt:
+Pixel art portrait of a youthful explorer with bright teal hair styled in loose braids, wearing a patchwork explorer’s jacket covered in tiny embroidered symbols of brushes, gears, and stars. She holds a glowing, multi‑colored paintbrush in one hand and a compact, holographic tablet in the other, both emitting soft neon light. She stands on a floating platform made of stacked sketchbooks and canvas rolls, surrounded by whimsical floating islands of pastel clouds and glowing lanterns. The scene is lit by a golden sunset casting long shadows, with subtle particle sparkles around her. Art style: vibrant 16‑bit pixel art, high contrast, detailed shading, with a whimsical, adventurous mood.
+
+Background Story:
+Lira Lumis grew up in the bustling artisan district of Kaleido Cove, where every alley was lined with studios and workshops. As a child she discovered an ancient, blank sketchbook that whispered promises of worlds yet unimagined. Driven by curiosity, she learned to harness the sketchbook’s latent power, turning thoughts into tangible terrain. When the shadowy trickster known as the Voidcurser began draining color and creativity from the realm, Lira vowed to restore the lost hues. She now journeys across the ever‑shifting landscapes of the Creative Expanse, befriending quirky inhabitants and uncovering hidden wonders left by the enigmatic Curio Collective. Her internal conflict lies between the desire to perfect her own creations and the need to let others’ imaginations flourish. The fate of the world’s endless surprises hinges on her ability to unite scattered inspiration into a radiant masterpiece.
+
+Skill Tree:
+- Tier 1:
+  - Palette Burst: Unleash a splash of chromatic energy that damages nearby enemies and restores a small amount of stamina.
+  - Imagination Leap: Perform a short-range teleport that leaves a trail of glowing doodles, momentarily confusing foes.
+  - Crafty Insight: Reveal hidden interactable objects and secret pathways within a limited radius.
+- Tier 2:
+  - World Weave: Temporarily bind two separate platforms together, creating a bridge made of solid light.
+  - Mimicry Mode: Copy the passive ability of an allied NPC for a brief period.
+  - Puzzle Pulse: Emit a resonant wave that solves minor environmental puzzles and activates dormant mechanisms.
+- Tier 3:
+  - Masterpiece Manifest: Summon a large, animated construct based on a drawn design to fight alongside you for a short time.
+  - Reality Remix: Repaint a section of the environment, altering its terrain type and granting new traversal options.
+  - Creative Overdrive: Enter a heightened creative state, increasing all skill effects and reducing cooldowns for a limited duration.
