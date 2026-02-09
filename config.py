@@ -1,4 +1,6 @@
 # endpoints
+from xml.dom.pulldom import CHARACTERS
+
 GAMES_URL = "https://api.igdb.com/v4/games"
 PLATFORM_URL = "https://api.igdb.com/v4/platforms"
 GENRES_URL = "https://api.igdb.com/v4/genres"
@@ -6,7 +8,7 @@ VIDEOS_URL = "https://api.igdb.com/v4/game_videos"
 SCREENSHOTS_URL = "https://api.igdb.com/v4/screenshots"
 SEARCH_URL = "https://api.igdb.com/v4/search"
 YOU_TUBE_URL = "http://youtube.com/watch?v="
-
+CHARACTERS_URL = "https://api.igdb.com/v4/characters"
 
 
 
@@ -56,8 +58,8 @@ RETRY_INTERVAL = 5  # Seconds to wait between retries
 
 
 # auth config
-token = "your IGDB token"
-CLIENT_ID = "your IGDB"
+token = "axaa3vlk4p568swth6oskvhb1a63mz"
+CLIENT_ID = "m0jr7fmh5098pvc0szzs7zjxcq0cxe"
 AUTH = {'Authorization': "Bearer {}".format(token)}
 
 # headers
