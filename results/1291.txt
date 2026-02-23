@@ -1,0 +1,23 @@
+Entry: 1291 / 1291
+
+Name: Kael Varyn
+
+Image Prompt:
+pixel art, side view of a gaunt, scarred warrior standing in a dimly lit stone cell, cracked walls with flickering torches, Kael wears segmented dark iron armor etched with faint runes, a tattered crimson cloak drapes over his shoulders, he grips a glowing twin‑blade artifact pulsing with violet light, his left hand is clenched in a gauntlet that emanates a faint blue aura, his posture is tense and ready to strike, ambient light from a small, barred window casts dramatic shadows, background hints of ancient glyphs and a shattered altar, style: high‑detail retro 16‑bit, vibrant yet moody color palette, emphasis on atmospheric lighting.  
+
+Background Story:
+Kael Varyn was once the most trusted enforcer of the Aetheric Covenant, an order tasked with safeguarding the world’s fragile balance. When the Covenant’s high council manipulated a ritual, Kael was deceived into slaying his own family, believing it would prevent a cataclysm. The betrayal shattered his oath, and he fled, only to be captured and bound within the Covenant’s deepest prison, a labyrinth of stone and illusion. While shackled, Kael discovered the Eclipse Sigil, an ancient artifact that granted him the ability to channel lost magics. Determined to break his chains, he learns to wield four elemental disciplines, each unlocking a fragment of his former power and a new purpose. Now, haunted by guilt and driven by a thirst for freedom, Kael must carve a path through the Covenant’s twisted guardians, sever the ties that bind him, and uncover the truth behind the order’s falsehoods before the world is plunged into darkness.
+
+Skill Tree:
+- Tier 1:
+  - Rift Slash: A quick melee attack that emits a short burst of temporal distortion, briefly slowing enemies.
+  - Boundbreaker Parry: Counter an incoming strike and shatter nearby minor restraints, reducing crowd control duration.
+  - Echoing Step: Short dash that leaves a faint after‑image, granting a brief boost to movement speed.
+- Tier 2:
+  - Chrono Shield: Summons a temporal barrier that absorbs a set amount of damage and rewinds minor injury effects.
+  - Umbral Clone: Creates a shadow duplicate that mimics Kael’s attacks for a few seconds, drawing enemy fire.
+  - Veil Dispel: Emits a pulse that dispels illusory constructs and reveals hidden traps within a radius.
+- Tier 3:
+  - Abyssal Rage: Fully charged rage unleashes a relentless flurry, increasing attack speed and damage until Kael is hit.
+  - Divine Alignment: Aligns with a chosen deity, granting a temporary aura that enhances all magical abilities.
+  - Ethereal Ascendance: Transcends the material plane briefly, allowing Kael to phase through obstacles and enemies while dealing spectral damage.

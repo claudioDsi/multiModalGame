@@ -1,0 +1,24 @@
+Entry: 1528 / 1528
+
+Name: Jasper Wavecrest  
+
+Image Prompt: 8‑bit pixel art of a teenage protagonist with shaggy teal hair and bright amber eyes, wearing a sleeveless navy jacket over a striped orange‑green hoodie, cargo shorts, and sturdy canvas sneakers; a sleek, silver‑accented wrist device glows on his left wrist; he stands on a rocky riverbank at dusk, one hand extended toward a small, mischievous otter‑weasel hybrid companion perched on a mossy stone; warm lantern light reflects off the water, fireflies drift nearby; background shows distant misty cliffs and glowing fungi; style: vibrant retro pixel art, high contrast, dynamic pose, slight animation frame.  
+
+Background Story:  
+Jasper Wavecrest grew up in the mist‑shrouded town of Ripplegate, a community perched along the winding Serpent River where legends of water‑spirit creatures are whispered at night. As a curious teen, he spent his days exploring the river’s hidden caves, documenting strange fauna with his trusty handheld scanner. One evening, his best friend, a playful otter‑weasel hybrid named Nix, was inadvertently transformed into a luminous "ottsel" by a rogue alchemical experiment gone awry. Determined to restore Nix, Jasper sets out on a journey across diverse biomes, uncovering ancient mechanisms and gathering scattered relics. Along the way he confronts a secretive guild that seeks to harness the ottsel’s unique energy for their own gain. Jasper’s internal conflict revolves around his fear of losing his friend forever versus the growing responsibility of becoming a guardian of the river’s mysteries. The fate of Ripplegate and the balance of the river’s magic hinge on his success.  
+
+Skill Tree:  
+- Tier 1:  
+  - River Dash: Grants a short burst of speed along water surfaces, ignoring shallow obstacles.  
+  - Echo Scan: Reveals hidden collectibles and secret passages within a limited radius.  
+  - Ottsel Bond: Temporarily summons Nix as a helper to retrieve distant items.  
+
+- Tier 2:  
+  - Ripple Glide: Allows sustained gliding over gaps by riding currents of air and water.  
+  - Alchemy Burst: Uses collected alchemical fragments to unleash a small area‑of‑effect blast.  
+  - Aqua Shield: Generates a protective bubble that repels enemies for a few seconds.  
+
+- Tier 3:  
+  - Tide Convergence: Charges a powerful wave that clears multiple obstacles and damages foes.  
+  - Spirit Link: Permanently links Jasper’s abilities with Nix, granting enhanced mobility and a double‑jump.  
+  - River’s Fury: Unlocks an ultimate mode where Jasper gains increased attack speed and regenerates health while in water.

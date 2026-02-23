@@ -1,0 +1,23 @@
+Entry: 1164 / 1164
+
+Name: Kara Voss
+
+Image Prompt:
+pixel art, 16-bit style, close‑up portrait of a hardened young woman with cropped dark hair, a jagged scar crossing one eye, grime‑streaked face, wearing a weathered leather duster and fingerless gloves, fists clenched, standing in dimly lit underground corridors of a crumbling industrial complex, flickering neon tubes casting harsh shadows, rain dripping from a broken ceiling, gritty texture, low‑contrast lighting, dramatic pose, background filled with rusted machinery and ominous symbols, cinematic, retro video game aesthetic
+
+Background Story:
+Kara grew up in the shadow of the abandoned steel district of Ironhaven, where scarcity forced her to scavenge for food and shelter. When she was fifteen, a sudden blackout trapped the entire sector, and the flood of unseen horrors drove many to madness. Surviving that night left her with a scar across her eye and an unyielding resolve to never be powerless again. She discovered an ancient journal hinting at a buried truth about Ironhaven’s founding—an experiment that bound the city’s very walls with a sentient malice. Determined to free herself and the lingering souls, Kara trains her body to the brink of human limits, using raw instinct as her only weapon. Each step deeper into the labyrinthine tunnels uncovers fragments of a dark history that threatens to consume anyone who dares to remember. Now, with only her wits, endurance, and a burning need for redemption, she battles the relentless grip of the place that birthed her nightmare.
+
+Skill Tree:
+- Tier 1:
+  - Adrenaline Surge: Temporarily boosts movement speed and attack strength for a few seconds after taking damage.
+  - Street Scrapper: Increases melee damage against unarmored enemies and reduces stamina cost of basic attacks.
+  - Endurance: Raises maximum health and slowly regenerates a small portion of health when standing still.
+- Tier 2:
+  - Night Vision: Grants heightened visibility in low‑light areas, revealing hidden pathways and traps.
+  - Shadow Step: Allows a short, silent dash through enemies, evading damage and briefly cloaking Kara.
+  - Will of the Broken: Reduces the duration of status effects such as fear or stun.
+- Tier 3:
+  - Ruin’s Echo: Unleashes a shockwave that damages all nearby foes and shatters fragile walls.
+  - Heart of the Abyss: Grants a persistent damage‑over‑time aura that weakens enemies the longer they stay close.
+  - Final Ascent: Once per run, fully restores health and grants temporary invulnerability for a brief window.

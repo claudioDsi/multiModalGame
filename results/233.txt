@@ -1,0 +1,23 @@
+Entry: 233 / 233
+
+Name: Kade Voss
+
+Image Prompt:
+pixel art, 32‑bit style, full‑body portrait of a rugged, mid‑20s mercenary with short, tousled black hair and a scar across his left eyebrow, wearing a weathered leather coat over a tactical combat vest, fingerless gloves, and reinforced combat boots; he holds a sleek, high‑tech energy pistol in his right hand and a compact grappling device on his left forearm; background is a dystopian industrial alley at night, neon signs flickering, rain-slicked pavement reflecting soft blue light; dramatic side lighting emphasizes his determined expression; art style tags: pixel art, isometric, high contrast, cyber‑punk ambience.  
+
+Background Story:
+Born in the sprawling megacity of Ironhaven, Kade grew up amid the constant clash of corporate warlords and street gangs. After his sister vanished during a covert raid, he swore to uncover the truth behind the city’s hidden machinations. Trained as a former security operative, Kade now works as a freelance infiltrator, taking contracts that reveal the fragile balance of power. Haunted by guilt and the fear of losing those he cares for, he walks the razor’s edge between vengeance and redemption. The city’s adaptive AI surveillance system reacts to his every move, turning walls into obstacles and citizens into reluctant allies or foes. Kade’s ultimate goal is to dismantle the omnipotent network that controls Ironhaven, freeing its populace from engineered fear.  
+
+Skill Tree:
+- Tier 1:
+  - Pulse Trigger: Fires a quick, low‑damage burst that temporarily disrupts nearby electronic devices.
+  - Reactive Guard: Activates a brief energy shield that reduces incoming damage when health drops below 30%.
+  - Urban Awareness: Highlights interactive environmental objects within a short radius.
+- Tier 2:
+  - Gravity Grapple: Deploys a tether that pulls Kade toward surfaces, allowing rapid vertical movement.
+  - Empathy Hack: Emits a pulse that temporarily calms enemy combatants, reducing their aggression.
+  - Overload Blast: Charges the pistol for a high‑impact shot that stuns mechanical enemies for 2 seconds.
+- Tier 3:
+  - Resonant Echo: Creates a shockwave that damages and disorients all foes in a medium radius while shaking loose debris.
+  - Adaptive Camouflage: Renders Kade invisible to both human and AI sensors for a limited time after remaining still.
+  - Core Liberation: Executes a powerful finishing move that disables a major enemy AI node, causing nearby systems to malfunction.

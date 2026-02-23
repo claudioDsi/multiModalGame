@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69510d50-17c7-4ed7-8645-3c406b6921b1" name="Changes" comment="added initial results">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/multiModalGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all_games_PC.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/igdb_miner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompt_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1000/1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1020/1020.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1020.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1050/1050.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1050.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1062/1062.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1062.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/113345/113345.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/113345.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/115304/115304.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/115304.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1164/1164.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1164.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/116419/116419.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/116419.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1254/1254.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1254.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/127/127.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/127.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1291/1291.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1291.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1388/1388.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1388.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1443/1443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1443.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/152354/152354.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/152354.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1528/1528.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1528.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1529/1529.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1529.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1871/1871.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1871.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/19221/19221.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/19221.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/1981/1981.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/1981.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/20/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/2062/2062.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/2062.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/2289/2289.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/2289.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/233/233.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/233.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/2449/2449.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/2449.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/25076/25076.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/25076.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/26758/26758.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/26758.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/26845/26845.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/26845.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/2993/2993.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/2993.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/3025/3025.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/3025.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/3097/3097.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/3097.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/375/375.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/375.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/3932/3932.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/3932.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/4/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/41/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/4130/4130.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/4130.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/431/431.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/431.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/478/478.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/478.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/5322/5322.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/5322.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/538/538.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/538.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6060/6060.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/6060.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6326/6326.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/6326.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6517/6517.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/6517.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6750/6750.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/6750.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7194/7194.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/7194.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7292/7292.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/7292.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/73/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/733/733.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/733.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7330/7330.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/7330.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7344/7344.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/7344.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/74/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/7609/7609.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/7609.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/76885/76885.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/76885.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/8479/8479.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/8479.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/8576/8576.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/8576.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/9141/9141.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/9141.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/9630/9630.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/9630.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/9727/9727.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/9727.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/9730/9730.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/9730.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;claudioDsi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/claudioDsi/multiModalGame.git&quot;,
+    &quot;accountId&quot;: &quot;2fca3d39-32b5-4328-8070-6ee7d36d6efa&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="39FiWyktFEGO0Jq9kOKR63sTv6c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.evaluation_utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.miner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Claudio/PycharmProjects/multiModalGame&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Claudio\PycharmProjects\multiModalGame" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Claudio\PycharmProjects\multiModalGame\results" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.evaluation_utils">
+    <configuration name="evaluation_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="multiModalGame" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="multiModalGame" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.evaluation_utils" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69510d50-17c7-4ed7-8645-3c406b6921b1" name="Changes" comment="" />
+      <created>1770298254300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770298254300</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1770298510892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770298510892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update prompt utils and config">
+      <option name="closed" value="true" />
+      <created>1770640033903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770640033903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update prompt utils and config">
+      <option name="closed" value="true" />
+      <created>1770640056249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770640056249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added initial results">
+      <option name="closed" value="true" />
+      <created>1770645555740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770645555740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="update prompt utils and config" />
+    <MESSAGE value="added initial results" />
+    <option name="LAST_COMMIT_MESSAGE" value="added initial results" />
+  </component>
+</project>

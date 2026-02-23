@@ -1,0 +1,23 @@
+Entry: 1388 / 1388
+
+Name: Kairo Frostborne
+
+Image Prompt:
+8-bit pixel art of a lithe fighter with short white hair streaked with icy blue, wearing a torn navy trench coat over sleek silver armor plates, fingerless gloves with crystal accents, and rugged boots. He stands on a cracked ice platform with splashing water at his feet, one hand gripping a curved frost‑etched spear, the other clenched in a ready fist. The background shows a dimly lit frozen warehouse with looming metal walls and a distant waterfall. Soft moonlight reflects off the ice, casting cool blue highlights. Pixel art, retro gaming style, high contrast, dynamic pose, focus on weapon and icy effects. 
+
+Background Story:
+Kairo grew up in the icy port city of Glacialis, a place where merchants and smugglers constantly clash over control of the frozen waterways. Orphaned during a brutal raid, he was taken in by a secretive order of martial monks who taught him to channel the harsh climate into lethal techniques. Though he mastered the order’s disciplined stance, Kairo’s heart burns with a desire to uncover the truth behind the raid that shattered his family. He now enters the tournament to draw out the shadowy syndicate that manipulates the city’s water and ice resources. Each fight brings him closer to the veiled leaders, but also forces him to confront his own growing reliance on cold vengeance. As the stakes rise, Kairo must decide whether to freeze his past away or melt it with a new purpose. 
+
+Skill Tree:
+- Tier 1:
+  - Frostbite Jab: Quick punch that inflicts a brief stun on hit.
+  - Icebound Throw: Fast forward throw that can punish opponent’s blows.
+  - Shiver Hold: Grip that immobilizes the opponent for a short duration.
+- Tier 2:
+  - Glacial Surge: Sliding blow that launches opponents into the air, setting up juggle combos.
+  - Tidal Grapple: Throw that pulls a stunned opponent closer, allowing follow‑up attacks.
+  - Crystal Bind: Enhanced hold that prevents the opponent from guarding while stunned.
+- Tier 3:
+  - Arctic Collapse: Powerful launch that sends the foe crashing into walls for extra damage.
+  - Frostwyrm Rush: Multi‑hit dash that breaks through defenses and induces a deep stun.
+  - Boreal Dominion: Ultimate move that creates a temporary ice arena, increasing stun duration and weakening opponent’s throws.

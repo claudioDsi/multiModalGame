@@ -1,0 +1,24 @@
+Entry: 127 / 127
+
+Name: Cassian Thorne  
+
+Image Prompt: pixel art, 32-bit style, lone figure standing on a rain‑slick rooftop at twilight, overlooking maze‑like canals below; Cassian wears a dark leather coat with a high collar, fitted gauntlets, a crimson scarf, and twin curved daggers sheathed at his hips; his posture is crouched, one foot on the edge, eyes narrowed, wind ruffling his short, disheveled hair; lantern light from the city glints off wet stone, soft neon reflections in the water; background shows distant bell towers and narrow alleyways; shading is crisp with a limited palette of deep blues, muted grays, and splashes of ruby red; art style tags: pixel art, isometric view, cinematic lighting, atmospheric, gritty, retro‑modern.  
+
+Background Story:  
+Cassian grew up in the bustling canal district of Valeria, a city whose merchants thrived during the great trade treaty of the Red Accord. When the treaty was sabotaged by a secret cabal, his family’s warehouse was razed, leaving him the sole survivor of a brutal raid. Swearing vengeance, he was taken in by the Whispering Blade, an underground order of assassins who taught him the arts of stealth, blades, and subterfuge. As the political tide turns and the empire’s war drums echo, Cassian discovers that the cabal responsible for his loss now seeks to usurp the throne itself. Torn between his personal revenge and the looming catastrophe that could engulf the entire region, he must decide whether to aid the rebels or exploit the chaos for his own ends. His journey weaves through opulent rooftops, shadowed canals, and corrupted courts, where each choice reshapes the fragile balance of power.  
+
+Skill Tree:  
+- Tier 1:  
+  - Shadow Slip: instantly dash a short distance, becoming briefly untargetable.  
+  - Blade Focus: increase critical strike chance with daggers by 10%.  
+  - Canal Sprint: sprint along narrow pathways without stamina loss.  
+
+- Tier 2:  
+  - Whispering Strike: perform a silent melee attack that silences the target’s abilities for 3 seconds.  
+  - Rooftop Leap: jump from any elevated surface to a lower one, dealing damage upon landing.  
+  - Counter‑Pulse: when blocked, automatically counter‑attack with a short‑range shockwave.  
+
+- Tier 3:  
+  - Vengeance Echo: after defeating a marked enemy, gain a temporary damage boost proportional to the enemy’s health.  
+  - Phantom Veil: enter a near‑invisible state for 5 seconds, allowing traversal through heavily guarded zones.  
+  - Conspiracy Unveiled: reveal the hidden motives of nearby NPCs, granting insight into secret objectives and hidden loot.

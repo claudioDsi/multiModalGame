@@ -1,0 +1,23 @@
+Entry: 4 / 4
+
+Name: Riven Talon
+
+Image Prompt:
+pixel art, 16-bit style, a lithe thief crouched on a rain‑slick rooftop overlooking a sprawling dystopian city, neon pink and teal signs flicker, fog drifts below, wearing a fitted dark leather coat with reinforced kevlar pads, a half‑mask with glowing amber lenses, a compact grappling harpoon strapped to the thigh, one hand gripping a magnetic lockpick, the other holding a small holo‑projector, dynamic low‑key lighting with reflective puddles, cinematic angle, detailed pixel shading, vibrant but gritty atmosphere, art style: retro cyber‑noir pixel art
+
+Background Story:
+Riven grew up in the crumbling districts of the port district, where hunger and disease gnawed at the lives of the downtrodden. As a child they witnessed the elite’s opulent towers rise like ivory monoliths over the squalor below, fueling a deep‑seated resentment. After a corrupt official took their younger sibling for forced labor, Riven swore to dismantle the power structures from within. Trained by a secretive guild of cat‑burglars, they mastered the art of silent infiltration and mechanical persuasion. Now, they infiltrate the gilded vaults of the rich, stealing not for wealth but to fund a covert uprising. Every heist brings them closer to exposing the regime’s hidden machinations, but the weight of their family's safety haunts each daring step.
+
+Skill Tree:
+- Tier 1:
+  - Silenced Footstep: Reduces footfall noise, decreasing enemy detection range.
+  - Lock Whisper: Instantly crack basic mechanical locks without triggering alarms.
+  - Quick Swap: Instantly switch equipped gadgets, cutting ability cooldowns in half.
+- Tier 2:
+  - Shadow Meld: Blend into darkness, becoming invisible to visual sensors for a short duration.
+  - Pulse Hack: Overload nearby surveillance drones, disabling them for 10 seconds.
+  - Acrobatic Evasion: Perform a rapid roll to dodge incoming attacks, granting temporary invulnerability.
+- Tier 3:
+  - Phantom Heist: Execute a multi‑target theft without alerting any guard, instantly gaining extra loot value.
+  - Cerebral Overload: Emit a pulse that temporarily stuns all enemies within a radius.
+  - Temporal Slip: Briefly slow time, allowing precise navigation through complex security systems.

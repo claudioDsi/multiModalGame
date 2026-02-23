@@ -1,0 +1,23 @@
+Entry: 9141 / 9141
+
+Name: Kaze Shiro
+
+Image Prompt:
+16-bit pixel art, dynamic side‑view stance, Kaze Shiro leans forward with katana drawn, half‑masked cyber‑samurai helmet glowing teal, crimson lacquered armor plates with lightning motifs, flowing white coat with ragged edges, neon‑lit rain‑soaked alley background, puddles reflecting neon signs, dramatic backlight from street lamps, pixel art style, vibrant colors, high contrast shading, motion blur on sword swing, focus on crisp pixel detail
+
+Background Story:
+Kaze Shiro was once a humble courier in the neon districts of Neo‑Kyoto, delivering encrypted data across rival syndicates. After a raid left his brother mortally wounded, Shiro was rebuilt with experimental cyber‑limbs and a plasma‑edge katana, turning his grief into a quest for vengeance. He now fights in the grand tournament to unmask the shadow organization that weaponized his own technology. Beneath his stoic exterior lies a lingering doubt: whether the man he has become is still his brother’s protector or a tool of the very empire he despises. Each victory brings him closer to the truth, but also deeper into the arena’s deadly politics. Driven by honor and the faint echo of his brother’s laughter, Shiro seeks to claim the title of champion and use the prize to dismantle the syndicate’s grip on the city.
+
+Skill Tree:
+- Tier 1:
+  - Slash of Dawn: A quick horizontal katana slash that deals moderate damage and pushes the opponent back.
+  - Echo Parry: A brief forward block that repels incoming projectiles and grants a small frame advantage.
+  - Lightning Step: A short dash forward that can cross low attacks and resets the player’s position.
+- Tier 2:
+  - Plasma Crescent: A charged upward slash that launches the opponent into the air for follow‑up combos.
+  - Neon Counter: After a successful Echo Parry, unleash a burst of neon energy dealing extra damage.
+  - Shadow Veil: Temporarily become semi‑transparent, reducing damage taken for 2 seconds.
+- Tier 3:
+  - Tempest Edge: Unleash a sweeping, multi‑hit katana barrage that hits three times and briefly stuns the opponent.
+  - Kaze’s Resolve: Fill the ultimate gauge to gain an invulnerable aura for 3 seconds while increasing attack power.
+  - Stormbreaker Finish: A cinematic finishing move that slams the opponent with a massive plasma blade, dealing massive damage and ending the round if the opponent’s health is low.

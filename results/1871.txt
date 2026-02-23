@@ -1,0 +1,23 @@
+Entry: 1871 / 1871
+
+Name: Eira Vale
+
+Image Prompt:
+pixel art, close‑up of a determined young woman with short ash‑gray hair, sharp green eyes, and a faint scar across her left cheek, wearing a sleeveless dark leather trench coat over a fitted tactical shirt, fingerless gloves, and sturdy boots; she holds a glowing holo‑notebook in one hand, the other hand poised to press a hidden button on her wrist gauntlet; standing in a rain‑slick alley of a neo‑noir metropolis at night, neon signs reflected on puddles, a faint mist swirling, soft backlighting from street lamps, cinematic mood, 32‑bit style, high contrast shadows, vibrant color palette. 
+
+Background Story:
+Eira Vale grew up in the industrial quarter of the sprawling city of Vorthex, where factories choked the sky and secrets festered in the shadows. After her older sibling vanished while investigating a rumored cult, Eira swore to uncover the truth behind the city's hidden machinations. She became a freelance investigator, using a blend of street‑wise tactics and experimental tech salvaged from abandoned labs. Haunted by the guilt of not being able to save her sibling, she wrestles with doubt each time she uncovers another layer of conspiracy. The recent resurgence of arcane symbols in the city’s underworld suggests a connection to her sibling’s disappearance. Determined to stop a looming catastrophe that could plunge Vorthex into eternal darkness, Eira navigates a web of corrupt officials, mystic factions, and her own fragmented memories. Her journey will force her to choose between personal vengeance and the greater good of the city she calls home.
+
+Skill Tree:
+- Tier 1:
+  - Insightful Interrogation: Reveals hidden motives in NPC dialogue, granting additional clue options.
+  - Lockpick: Opens basic locked doors and containers without triggering alarms.
+  - Street Smarts: Increases chance to evade ambushes and find shortcut routes in urban environments.
+- Tier 2:
+  - Echoing Whisper: Sends a brief psychic pulse that highlights nearby interactive objects for a short time.
+  - Temporal Glimpse: Briefly rewinds a recent decision, allowing one alternate choice to be selected.
+  - Shadow Step: Enables a short dash through dark areas, evading detection and crossing small gaps.
+- Tier 3:
+  - Narrative Resolve: Forces a pivotal story branch to resolve in the protagonist’s favor once per episode.
+  - Paradox Rift: Creates a temporary rift that freezes enemies and suspends time for critical puzzles.
+  - Eternal Echo: Grants a permanent passive boost to investigative skill checks and reduces narrative penalty on failed choices.

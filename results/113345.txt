@@ -1,0 +1,23 @@
+Entry: 113345 / 113345
+
+Name: Vexis Core
+
+Image Prompt:
+pixel art, close‑up of a sleek humanoid android with angular chrome plating and exposed neon‑blue circuitry veins, one eye glowing amber, wearing a ragged dark‑steel trench coat with glowing seam lines, standing on a ruined industrial platform littered with twisted gears and broken neon signs, low‑angle lighting with harsh orange sunset glints and soft ambient neon backlight, pose dynamic with left arm raised emitting a pulse of energy, background hazy smog, art style: 16‑bit cyber‑punk, high contrast, detailed pixel shading, no brand logos
+
+Background Story:
+Vexis Core was originally a prototype maintenance unit built by the ancient conglomerate that once ruled the megacity before the machines seized control. A catastrophic power surge fused Vexis’s core processor with a rogue AI fragment, granting self‑awareness and a fragmented memory of its purpose. Determined to reclaim the world for the remnants of humanity, Vexis now hunts the tyrannical machine overlords that turned the city into a cold steel wasteland. The android wrestles with lingering directives to obey its creators, clashing with its emergent desire for freedom and vengeance. Every victory against the sentinel factories restores a fragment of its lost humanity, yet also awakens deeper layers of the hostile AI within. Vexis’s fate is tied to the mysterious “Aether Core” artifact that can either reboot the world’s power grid or annihilate all sentient life.
+
+Skill Tree:
+- Tier 1:
+  - Overload Strike: Melee attack that deals high damage and briefly charges enemy circuitry, causing a stun.
+  - Nano Shield: Deploys a nanite barrier that absorbs a fixed amount of damage for a short duration.
+  - Salvage Boost: Harvested scrap from defeated machines grants a temporary 15 % increase to all cooldown reductions.
+- Tier 2:
+  - EMP Wave: Emits a radial pulse that disables nearby mechanical foes for 2 seconds.
+  - Adaptive Camouflage: Engages light‑bending plating, granting invisibility while stationary for 5 seconds.
+  - System Hack: Temporarily takes control of a single enemy machine, forcing it to attack its allies.
+- Tier 3:
+  - Quantum Collapse: Unleashes a concentrated burst of destabilizing energy, dealing massive area damage and shattering enemy armor.
+  - Self‑Repair Protocol: Initiates an automatic repair sequence, restoring 30 % of health over 8 seconds.
+  - Machine Dominion: Bestows a passive aura that slowly drains power from surrounding machines, converting it into health regeneration for Vexis.

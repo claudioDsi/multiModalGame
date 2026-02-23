@@ -1,0 +1,23 @@
+Entry: 538 / 538
+
+Name: Riven Holt
+
+Image Prompt:
+Pixel art of a lithe, gender‑ambiguous mercenary standing on a cracked concrete platform overlooking an abandoned industrial yard at dusk; wears a weathered dark trench coat with reinforced shoulder padding, a high‑collared tactical vest, fingerless gloves, and a half‑mask visor that glows faintly blue; holds a compact sniper rifle horizontally across the chest with a sleek pistol resting on the right hip; posture is poised, one foot on a rusted pipe, the other planted firmly, head tilted slightly as if scanning the horizon; background features broken metal girders, distant neon signage flickering, and a low‑lying fog; lighting is a cool twilight with rim light accentuating the coat’s edges; art style tags: pixel art, 32‑bit, isometric view, high detail, vibrant yet gritty palette. 
+
+Background Story:
+Riven Holt grew up in the shadow of the sprawling megacity of Veridian, learning to survive among its endless corridors and abandoned warehouses. After being recruited by an elite corporate security unit, they excelled in both close‑quarters combat and long‑range marksmanship. A betrayal during a covert extraction left Riven disillusioned, prompting them to abandon the corporation and become a freelance operative. Now, they wander the fractured landscapes of the new frontier, where open deserts meet crumbling citadels, seeking fragments of a hidden archive that could expose the truth behind the betrayal. Haunted by the faces of former comrades, Riven struggles between a desire for vengeance and the hope of redemption. The stakes rise as rival factions vie for control of the archive, threatening to plunge the world into further chaos unless Riven can retrieve it first.
+
+Skill Tree:
+- Tier 1:
+  - Rapid Reload: Decreases reload time for all firearms by 20%.
+  - Close Quarters Strike: Grants a swift melee attack that deals bonus damage after a successful dodge.
+  - Adaptive Camouflage: Reduces detection radius while stationary for a short duration.
+- Tier 2:
+  - Precision Sniper: Increases head‑shot damage and adds a slight bullet slow‑down effect on hit.
+  - Explosive Trap: Deploys a proximity mine that detonates with area damage when enemies approach.
+  - Tactical Dash: Allows a short, invincible dash forward to close distance or evade fire.
+- Tier 3:
+  - Overwatch Protocol: Enables marking multiple enemies, granting increased damage against marked targets.
+  - Bullet Storm: Unleashes a rapid burst of shots that can hit up to fifteen enemies within a wide cone.
+  - Last Stand: When health falls below 15%, temporarily boosts armor and grants a regeneration field around the player.

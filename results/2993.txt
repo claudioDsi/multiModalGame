@@ -1,0 +1,23 @@
+Entry: 2993 / 2993
+
+Name: Calista “Shade” Mordant
+
+Image Prompt:
+pixel art, 32‑bit, gritty urban night, rain‑slick cobblestones, dim streetlamp casting amber glow, Calista standing with a half‑turned profile, leather trench coat open to reveal tactical vest, smoke‑stained pistol in right hand, left hand gripping a glowing rune‑etched talisman, short cropped dark hair, scar across left cheek, background blurred silhouettes of towering gothic spires and faintly glowing mythic serpents winding between rooftops, dramatic chiaroscuro lighting, cyber‑noir atmosphere, detailed pixel shading, slight motion blur on rain, art style reminiscent of classic 90s RPG sprites.  
+
+Background Story:
+Calista Mordant grew up on the crime‑riddled outskirts of New Arkane, a city where the ancient myths have seeped into steel‑crowned streets. After witnessing the brutal murder of the Sanctum Relic—a crystal that kept the veil between worlds thin—she swore to uncover who weaponized legend against humanity. Trained as an ex‑operative for the city's covert Order of the Veil, she blends lethal marksmanship with forbidden occult knowledge. Haunted by a lingering vision of the relic’s shattered light, she battles both human conspirators and awakened mythic beasts that stalk the night. Every choice she makes can either seal the rift forever or tear the world open to chaos. Driven by a personal vendetta and a reluctant hope to protect the few innocent souls still untouched by the darkness, Calista walks the thin line between hunter and hunted.  
+
+Skill Tree:
+- Tier 1:
+  - Shadow Trigger: Fires a quick, silenced shot that deals extra damage when attacking from stealth.
+  - Runic Insight: Reveals hidden mythic symbols on objects and enemies within a short radius.
+  - Iron Resolve: Reduces damage taken from physical attacks by a modest percentage for a few seconds after taking lethal damage.
+- Tier 2:
+  - Veil Pierce: Launches a projectile infused with rune energy that temporarily disrupts a creature’s supernatural abilities.
+  - Grim Harvest: Execute a finishing move that restores a portion of health when the enemy's health drops below 20%.
+  - Echo Step: Perform a silent dash that leaves a brief after‑image, confusing nearby foes and granting brief invulnerability.
+- Tier 3:
+  - Relic Resonance: Unleash a burst of stored rune power, dealing massive area damage and briefly stabilizing the veil around the player.
+  - Nightshade Covenant: Summon a tethered shadow spirit that attacks enemies and grants increased critical chance while active.
+  - Fate’s Reckoning: Upon a decisive choice, trigger a cinematic event that either seals a mythic breach permanently or grants a temporary power boost at great risk.

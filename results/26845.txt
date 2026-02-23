@@ -1,0 +1,23 @@
+Entry: 26845 / 26845
+
+Name: Calia Dawnbinder
+
+Image Prompt:
+8‑bit pixel art, young scholar‑professor with shoulder‑length silver hair tied back, amber eyes, wearing a dark violet robe trimmed with gold sigils, a crimson sash, and a brass–capped staff adorned with a floating crystal. She stands at the podium of a grand marble lecture hall inside a towering crystal citadel, chalk in one hand and the staff in the other, gesturing toward a holographic tactical map that glows teal. Sunlight streams through stained‑glass windows, casting colorful pillars of light across polished stone floors. Small floating textbooks orbit her, and a few diverse student silhouettes sit at desks, listening. The atmosphere is scholarly yet heroic, with a subtle magical aura. Pixel art style, top‑down isometric view, vibrant palette, crisp shading, no brand logos. 
+
+Background Story:
+Calia Dawnbinder was born in the low‑lying valleys of the Ironreach, where ancient runes carved into the cliffs whispered of forgotten knowledge. Driven by a yearning to preserve the fragile balance between magic and machinery, she earned a place among the elite scholars of the Order of the Meridian, the organization that upholds order across the realm. After years of research and field campaigns, Calia was summoned to the crystal citadel to become a professor for one of its three venerable houses, each led by a royal heir. She now mentors bright‑minded youths, guiding them through rigorous lectures and the chaos of turn‑based tactical battles that test strategy and resolve. Haunted by a past failure that cost a village its protector, she seeks redemption by ensuring her students never repeat her mistakes. The future of the citadel’s prestige and the stability of the kingdom rest on the alliances she forges in both the classroom and the battlefield. 
+
+Skill Tree:
+- Tier 1:
+  - Arcane Lectern: Grants a temporary boost to all allies’ accuracy during the next turn.
+  - Insightful Query: Reveals hidden enemy intents on the tactical map for one round.
+  - Runes of Resolve: Reduces incoming status‑effect damage for the caster and adjacent allies.
+- Tier 2:
+  - Crystal Barrier: Creates a protective dome that halves damage to allies within for two turns.
+  - Tactical Resonance: Synchronizes two allied units, allowing them to swap positions as a free action.
+  - Enigmatic Cipher: Unlocks a hidden skill in a chosen student, giving them a one‑time powerful attack.
+- Tier 3:
+  - Dawnbinder’s Gambit: Allows the caster to rewrite the turn order, letting any ally act first this round.
+  - Sovereign’s Blessing: Grants the house’s royal patron’s emblem to all allies, providing a cumulative attack boost for three turns.
+  - Legacy of the Meridian: Upon defeat, revives the caster with half health and grants all allies a defensive shield.

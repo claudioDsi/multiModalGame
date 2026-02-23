@@ -1,0 +1,24 @@
+Entry: 478 / 478
+
+Name: Kael Thornbane  
+
+Image Prompt: pixel art, 16‑bit style, dark fantasy western scene at twilight; Kael stands on a cracked sandstone ridge overlooking a burning frontier town, long black duster coat fluttering, blood‑stained leather gauntlet on his left forearm, ornate silver‑rimmed revolver with glowing runes aimed slightly downward, scarred cheek, long dark hair pulled back, half‑turned pose as if listening to distant gunfire; low amber lantern light from distant tavern windows casts long shadows, muted sepia sky with dark clouds; art style tags: pixel art, chiaroscuro, moody lighting, gritty texture, western, dark fantasy.  
+
+Background Story:  
+Kael Thornbane was once a celebrated royal scout, entrusted with the monarch’s secret correspondences across the fractured empire. When the king was found slain on his throne, Kael was found holding the ceremonial dagger, and the empire’s courts sentenced him to death for regicide. Fleeing the capital under a storm of bloodhounds, he swore to prove his innocence and uncover the true murderer lurking in the shadows of political intrigue. Haunted by the image of the slain king, Kael struggles between his lingering loyalty to the crown and the growing suspicion that the imperialistic Dominion of the Iron Crown engineered the murder to seize power. As the Dominion and the rebellious Free League of the Wildlands edge toward open war, Kael must navigate treacherous deserts, haunted ruins, and enemy encampments to gather evidence. Every choice he makes can tip the balance of the looming conflict, and the truth he seeks may shatter the fragile peace or forge a new destiny for the realm.  
+
+Skill Tree:  
+- Tier 1:  
+  - Gunslinger's Gambit: Fires a quick, high‑velocity shot that deals moderate damage and briefly staggers the target.  
+  - Runic Eye: Reveals hidden traps and secret passages within a short radius for a limited time.  
+  - Cinder Step: Performs a short dash that leaves a trail of ember, granting brief invulnerability while moving.  
+
+- Tier 2:  
+  - Echoing Shot: Charges the revolver to release a piercing bullet that passes through enemies, dealing reduced damage to each subsequent target.  
+  - Spectral Ward: Conjures a protective rune shield that absorbs a set amount of damage for a few seconds.  
+  - Blood Oath: Marks an enemy; Kael’s attacks against the marked target deal increased damage and restore a small portion of health.  
+
+- Tier 3:  
+  - Judgment of the Crown: Unleashes a massive, rune‑etched blast that deals heavy area damage and temporarily weakens enemy defenses.  
+  - Phantom Requiem: Summons incorporeal allies to fight for a short duration, each dealing spectral damage to foes.  
+  - War's End: Executes a cinematic finishing move that instantly defeats a weakened boss and grants a permanent boost to reputation with whichever faction aids Kael.

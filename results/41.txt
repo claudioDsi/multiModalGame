@@ -1,0 +1,23 @@
+Entry: 41 / 41
+
+Name: Rin Calix
+
+Image Prompt:
+pixel art portrait of a slender, gender‑fluid agent with short silver hair streaked with neon teal, half‑face cybernetic implants glowing faintly blue, dark matte combat jacket marked with the insignia of a stylized phoenix, visor displaying scrolling data, standing in a rain‑slick alley of a crumbling megacity at night, neon signs flickering, wet pavement reflecting soft ambient lights, dramatic low‑key lighting, 32‑bit style, detailed shading, cinematic composition
+
+Background Story:
+Rin grew up in the overcrowded lower tiers of New Avalon, where scavenged nanotech was the only hope for survival. After a tragic raid claimed their sibling, they enlisted in the Federal Counter‑Insurgency Corps, undergoing experimental nano‑augmentation to become a field operative. Though celebrated for surgical precision and uncanny reflexes, Rin secretly questions whether the corps’ methods truly protect the innocent. When a radical faction, the Iron Covenant, launches a coordinated assault on the orbital hub of Chronos Gate, Rin is ordered to halt the invasion at any cost. As the battle unfolds, encrypted memories hidden within Rin’s nanites surface, revealing ties to the Covenant’s ideological roots. Faced with the revelation that both sides manipulate truth, Rin must decide if loyalty lies with the institution that saved them or with a fledgling vision of a freer humanity.
+
+Skill Tree:
+- Tier 1:
+  - Neural Reflexes: Boosts dodge and reaction speed by 15% for a short duration.
+  - Nano‑Seal: Deploys a temporary nanite field that reduces incoming damage by 10%.
+  - Data Whisper: Allows passive interception of nearby communications, granting situational awareness.
+- Tier 2:
+  - Echo Veil: Projects a holographic distortion that confuses enemies, lowering their accuracy.
+  - Cortical Overclock: Increases skill cooldown reduction by 20% at the cost of stamina drain.
+  - Adaptive Camouflage: Grants temporary invisibility when standing still in low light.
+- Tier 3:
+  - Paradox Protocol: Rewinds personal health to a previous state once per mission.
+  - Sovereign Override: Forces a hostile AI unit to obey a single command before self‑destructing.
+  - Moral Reckoning: Triggers a powerful area effect that damages enemies proportionally to their hostile intent, also healing allies who share Rin’s values.

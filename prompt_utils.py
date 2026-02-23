@@ -1,10 +1,10 @@
 from __future__ import annotations
 import requests
 import json
-import re
+import re, os
 from typing import Optional
 import csv
-from typing import Dict, List
+from typing import Dict, List, Set
 
 
 
@@ -236,7 +236,7 @@ Return ONLY the following sections, in this exact order and format:
 Name: <character name>
 
 Image Prompt:
-<one single, detailed prompt optimized for a vision model; include appearance, outfit, pose, environment, lighting, art style tags; avoid brand/franchise names>
+<one single, detailed prompt optimized for a vision model; include appearance, outfit, pose, environment, lighting, art style tags; avoid brand/franchise names; The image should be draw in pixel art style>
 
 Background Story:
 <6–10 sentences; origin, motivation, internal conflict, stakes, how they connect to the setting>
@@ -262,33 +262,49 @@ CONSTRAINTS
     return prompt.strip()
 
 
-def generate_characters_from_obfuscated_csv(
+def _safe_filename(name: str, max_len: int = 80) -> str:
+    """
+    Make a filesystem-safe filename stem.
+    """
+    name = (name or "").strip()
+    name = re.sub(r"\s+", " ", name)
+    name = re.sub(r"[^a-zA-Z0-9._ -]+", "_", name)
+    name = name.strip(" ._-")
+    if not name:
+        name = "unnamed"
+    return name[:max_len]
+
+
+def generate_characters_from_obfuscated_csv_to_files(
     csv_path: str,
     model: str,
     obfuscated_column: str,
-    output_txt_path: str,
+    output_dir: str,
     *,
-    id_column: str = "id",
-    separator: str = "\n\n" + ("=" * 72) + "\n\n",
+    game_id_column: str = "id",
+    character_id_column: str = "id",
+    game_name_column: Optional[str] = None,
+    # NEW: limit processing to a subset of games
+    max_games: Optional[int] = None,
+    game_offset: int = 0,
 ) -> None:
     """
     Read a CSV containing an obfuscated description column and generate a new main character
     for each row using the same LLM model.
 
-    Inputs:
-      - csv_path: input CSV file path
-      - model: model name used by _call_llm (e.g., an Ollama model tag)
-      - obfuscated_column: the column containing obfuscated descriptions
-      - output_txt_path: plain text output file containing generated character assets
+    Writes ONE output file per row (per game/character), organized by game:
+      output_dir/<game_folder>/<character_file>.txt
 
-    Optional:
-      - id_column: column used to label entries in the output (defaults to "id");
-                   if missing, a row index label is used.
-      - separator: text separator between entries in the output file
+    NEW: You can limit how many DISTINCT games are processed via:
+      - max_games: process only this many distinct games (None = all)
+      - game_offset: skip the first N distinct games before starting (default 0)
+
+    Notes:
+    - Distinct games are determined by `game_id_column` (first occurrence order in the CSV).
+    - All rows belonging to a selected game are processed.
     """
+    # 0) Load CSV rows
     rows: List[Dict[str, str]] = []
-
-    # 1) Load CSV
     with open(csv_path, "r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -298,25 +314,83 @@ def generate_characters_from_obfuscated_csv(
         print(f"No rows found in {csv_path}")
         return
 
-    # 2) Generate per row and write to a single plain text file
-    outputs: List[str] = []
+    if max_games is not None and max_games < 0:
+        raise ValueError("max_games must be None or >= 0")
+    if game_offset < 0:
+        raise ValueError("game_offset must be >= 0")
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    # 1) Discover distinct games in order of appearance
+    game_order: List[str] = []
+    seen: Set[str] = set()
+    for row in rows:
+        gid = (row.get(game_id_column) or "").strip()
+        if not gid:
+            continue
+        if gid not in seen:
+            seen.add(gid)
+            game_order.append(gid)
+
+    if not game_order:
+        print(f"No valid game ids found in column '{game_id_column}'")
+        return
+
+    # 2) Apply offset + threshold
+    start = min(game_offset, len(game_order))
+    end = len(game_order) if max_games is None else min(start + max_games, len(game_order))
+    selected_games = set(game_order[start:end])
+
+    if not selected_games:
+        print("No games selected (check max_games/game_offset).")
+        return
+
+    print(
+        f"Processing {len(selected_games)} game(s): "
+        f"offset={game_offset}, max_games={max_games}, "
+        f"range=[{start}:{end}] out of {len(game_order)} total distinct games."
+    )
+
+    # 3) Process only rows that belong to selected games
+    processed_rows = 0
     for idx, row in enumerate(rows, start=1):
+        raw_game_id = (row.get(game_id_column) or "").strip()
+        if not raw_game_id or raw_game_id not in selected_games:
+            continue
+
         obf = (row.get(obfuscated_column) or "").strip()
+        raw_char_id = (row.get(character_id_column) or "").strip() or f"character_{idx}"
+
+        # Folder naming
+        raw_game_name = (row.get(game_name_column) or "").strip() if game_name_column else ""
+        if raw_game_name:
+            game_folder = f"{_safe_filename(raw_game_name)}__{_safe_filename(raw_game_id)}"
+        else:
+            game_folder = _safe_filename(raw_game_id)
+
+        char_file_stem = _safe_filename(raw_char_id)
+
+        game_dir = os.path.join(output_dir, game_folder)
+        os.makedirs(game_dir, exist_ok=True)
+        out_path = os.path.join(game_dir, f"{char_file_stem}.txt")
+
         if not obf:
-            label = (row.get(id_column) or f"row_{idx}").strip()
-            outputs.append(
-                f"Entry: {label}\n\n"
-                f"(Skipped: empty '{obfuscated_column}' column value.)"
-            )
+            with open(out_path, "w", encoding="utf-8") as f_out:
+                f_out.write(
+                    f"Entry: {raw_game_id} / {raw_char_id}\n\n"
+                    f"(Skipped: empty '{obfuscated_column}' column value.)\n"
+                )
+            print(f"Row {idx}: wrote skipped file (empty obfuscated text): {out_path}")
+            processed_rows += 1
             continue
 
         prompt = build_character_generation_prompt(obf)
         result = _call_llm(model=model, prompt=prompt).strip()
 
-        label = (row.get(id_column) or f"row_{idx}").strip()
-        outputs.append(f"Entry: {label}\n\n{result}")
+        with open(out_path, "w", encoding="utf-8") as f_out:
+            f_out.write(f"Entry: {raw_game_id} / {raw_char_id}\n\n{result}\n")
 
-    with open(output_txt_path, "w", encoding="utf-8") as f_out:
-        f_out.write(separator.join(outputs).strip() + "\n")
+        print(f"Row {idx}: wrote character assets to: {out_path}")
+        processed_rows += 1
 
-    print(f"Character assets written to: {output_txt_path}")
+    print(f"Done. Processed {processed_rows} row(s) across {len(selected_games)} game(s).")

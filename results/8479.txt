@@ -1,0 +1,23 @@
+Entry: 8479 / 8479
+
+Name: Kael Vryn
+
+Image Prompt:
+pixel art, 32-bit style, Kael Vryn standing on a rain‑slick cyber‑punk rooftop at night, neon signs flickering behind, wearing a long dark trench coat with teal circuitry patterns, a glowing violet katana sheathed at his side, cybernetic left eye glowing amber, hair short and silver‑blue, pose with one hand resting on hilt, wind blowing coat, low‑angle lighting, misty atmosphere, high contrast shadows, detailed pixel shading, background includes distant skyscrapers and floating drones, art style reminiscent of classic arcade action RPGs.
+
+Background Story:
+Kael Vryn was born in the hidden enclave of the Veilforge, a clan of techno‑shamans who blend ancient rites with cutting‑edge augmentations. When a rogue syndicate razed his home to seize a relic known as the Heartfire Core, Kael escaped with only fragments of his past and a burning desire for vengeance. Haunted by the echo of his mentor’s dying words, he now wanders the sprawling megacity seeking allies who share his respect for the balance between magic and machinery. Internally, Kael struggles between the cold efficiency of his cybernetic implants and the lingering warmth of his ancestral spirit. The city’s fate teeters on the brink as the syndicate plans to weaponize the Heartfire Core to control all energy flows. Kael’s journey forces him to confront the truth that the greatest threat may not be external, but the loss of his own humanity. He allies with the underground ninjas, hoping their stealth and his infused blade can stop the looming catastrophe.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Step: Teleport a short distance, becoming briefly untargetable.
+  - Ember Slash: Strike with the katana, dealing fire damage and igniting the target.
+  - Tech Pulse: Release a burst of circuitry that disables enemy shields for 2 seconds.
+- Tier 2:
+  - Veilforge Guard: Generate a protective field that reduces incoming damage by 20% for 5 seconds.
+  - Neon Flurry: Unleash a rapid combo of three slashes, each adding a burst of electric damage.
+  - Spirit Sync: Merge with ancestral spirit to recover 15% of max health over 4 seconds.
+- Tier 3:
+  - Heartfire Convergence: Channel the Heartfire Core to unleash a massive area blast, dealing massive fire and lightning damage.
+  - Phantom Blade: Summon a spectral duplicate of the katana that attacks independently for 6 seconds.
+  - Ascendant Resolve: Gain temporary invulnerability and double attack speed for 3 seconds when health drops below 25%.

@@ -1,0 +1,23 @@
+Entry: 26758 / 26758
+
+Name: Aeris Vell
+
+Image Prompt:
+pixel art, vibrant 16‑bit style, teenage explorer with short wind‑tossed auburn hair, bright green eyes, wearing a weathered leather bomber jacket over a teal shirt, cargo pants with many pockets, sturdy brown boots, goggles perched on forehead, a sleek wrist‑mounted gauntlet glowing faintly, standing on the deck of a massive sky‑bound airship with brass rivets and billowing white clouds behind, holding a glowing crystal orb in one hand, pose dynamic as if ready to leap, soft sunrise lighting casting warm hues, background includes floating islands and distant mountains, art style reminiscent of classic SNES adventure games.  
+
+Background Story:
+Aeris Vell grew up in the floating dockyards of Skyhaven, where massive airships were as common as ships on seas. Fascinated by the tales of lost continents above the clouds, they trained in the ancient art of Resonance, allowing them to channel energy into objects and creatures. When the legendary Skyforge relic was stolen, the kingdom’s flagship, the Celestial Zephyr, began to lose power, endangering all sky‑bound travel. Aeris discovers that the relic is the key to re‑igniting the Zephyr’s heart and must collect scattered shards scattered across distant lands. Their best friend, a clever sky‑whale named Nara, joins the quest, providing aerial support and wisdom. Yet Aeris is haunted by the promise they made to their sibling, who is being forced into a grand wedding that would bind the skies to a tyrant’s rule; saving the sibling becomes a personal battle against destiny and duty.
+
+Skill Tree:
+- Tier 1:
+  - Resonant Grasp: Temporarily bind a nearby object or enemy, pulling it toward you.
+  - Skybound Leap: Perform a high jump that launches you onto distant platforms.
+  - Feathered Dash: Quick burst of speed leaving a faint after‑image, evading attacks.
+- Tier 2:
+  - Echo Bind: Extend Resonant Grasp to control multiple small enemies simultaneously.
+  - Crystal Pulse: Emit a wave from your gauntlet that stuns foes and reveals hidden items.
+  - Aerial Glide: Deploy a compact wing harness that lets you glide safely from heights.
+- Tier 3:
+  - Sovereign Capture: Fully dominate a larger enemy or creature, using it as a mount for a limited time.
+  - Artifact Conduit: Transfer collected shard energy to the airship’s core, restoring its power instantly.
+  - Celestial Harmonization: Sync with the sky‑whale allies to unleash a massive area‑wide resonant shockwave.
