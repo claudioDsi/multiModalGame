@@ -9,7 +9,7 @@ SCREENSHOTS_URL = "https://api.igdb.com/v4/screenshots"
 SEARCH_URL = "https://api.igdb.com/v4/search"
 YOU_TUBE_URL = "http://youtube.com/watch?v="
 CHARACTERS_URL = "https://api.igdb.com/v4/characters"
-
+MUG_SHOT_URL = "https://api.igdb.com/v4/character_mug_shots"
 
 
 #platform all

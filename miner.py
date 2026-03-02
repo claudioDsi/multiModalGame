@@ -6,8 +6,29 @@ import os
 
 
 
+
+
+def build_query_mug_shot(name):
+    return f'fields name,mug_shot;  where  name = {name};'
+
+def get_mug_shot(csv_char):
+    df_char = pd.read_csv(csv_char)
+
+    for name in df_char['name']:
+        q = build_query_mug_shot(name)
+        header = {'headers': {'Client-ID': cf.CLIENT_ID, 'Authorization': 'Bearer ' + cf.token}, 'data': q}
+        response = post(cf.CHARACTERS_URL, **header)
+        res = pd.DataFrame(response.json())
+
+    return res
+
+
+
+
+
+
 def build_query_characters():
-    return f'fields name,character_gender,description,games;  where description != ""; limit 100;'
+    return f'fields akas,character_gender,character_species,checksum,country_name,created_at,description,games,gender,mug_shot,name,slug,species,updated_at,url; where description != ""; limit 100;'
 
 def build_query_games(game_id):
     return f'fields name,genres,summary,screenshots;  where id={game_id};'

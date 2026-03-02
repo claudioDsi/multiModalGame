@@ -229,14 +229,20 @@ Generate a NEW main character concept that fits the description.
 - Do NOT use or guess any real game/franchise/character names.
 - Do NOT introduce identifiable IP-specific proper nouns.
 - Keep the character consistent with the tone/genre implied by the description.
+- Keep the two image prompts, (the concept art and the sprite sheet), consistent with the character and among them.
 
 OUTPUT REQUIREMENTS
 Return ONLY the following sections, in this exact order and format:
 
 Name: <character name>
 
-Image Prompt:
+Concept art Image Prompt:
 <one single, detailed prompt optimized for a vision model; include appearance, outfit, pose, environment, lighting, art style tags; avoid brand/franchise names; The image should be draw in pixel art style>
+
+Sprite sheet Image Prompt:
+<one single, detailed prompt optimized for a vision model; generate 4 frame to represent 4 poses: standing, crouching, walking, jumping; The image should be draw in pixel art style; canvas size 64x64>
+
+
 
 Background Story:
 <6–10 sentences; origin, motivation, internal conflict, stakes, how they connect to the setting>
