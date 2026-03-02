@@ -1,0 +1,26 @@
+Entry: 4130 / 4130
+
+Name: Kade Chronos
+
+Concept art Image Prompt:
+Pixel art illustration of Kade Chronos, a gritty future mercenary with a cyber‑enhanced arm and a sleek, worn leather coat streaked with neon teal circuitry patterns. He wears a reinforced visor that glows faintly, a utility belt loaded with modular ammo canisters, and combat boots with magnetic soles. Pose: standing on a cracked concrete platform overlooking a ruined cityscape with floating time‑rifts swirling in the sky, one hand gripping a high‑tech pulse rifle, the other clenched in a defiant fist. Dynamic dramatic lighting with harsh backlight from the rifts, atmospheric dust, and subtle neon glow. Style tags: pixel art, 16‑bit, isometric view, high contrast, cyber‑punk, gritty, vibrant colors.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kade Chronos: (1) standing pose, arms relaxed holding pulse rifle at side, visor illuminated; (2) crouching pose, knees bent, rifle angled forward ready to fire; (3) walking pose, left leg forward, right arm swinging, rifle slung across back; (4) jumping pose, body mid‑air with legs tucked, rifle raised, visor flare. Consistent palette of dark leather, neon teal accents, and muted city grime. Style tags: pixel art, 16‑bit, side view, transparent background.  
+
+Background Story:
+Kade Chronos was once a specialist in the Temporal Enforcement Agency, tasked with policing illegal chronal disturbances. After a rogue experiment fractured his own timeline, he became unstuck, gaining the ability to slip through brief fissures in time. Now branded a traitor, he roams the shattered worlds seeking the source of the temporal rift that shattered his past. His motivation is two‑fold: to avenge the loss of his comrades and to prevent the cataclysmic collapse of the time stream. Internally, he battles the whispering echoes of alternate selves, fearing he may become the very villain he hunts. The stakes rise as the rifts grow, threatening to erase entire eras unless he can locate the Chrono Core and seal it. His rugged attitude and relentless firepower make him the perfect anti‑hero for a chaotic, time‑bending shooter.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Shift: Short‑range teleport that instantly relocates Kade a few meters, evading enemy fire.
+  - Pulse Blaster: Fires a rapid‑fire burst dealing moderate damage with a slight stun effect.
+  - Adaptive Armor: Reduces incoming damage by 10% and gains a brief shield after each kill.
+- Tier 2:
+  - Chrono Mine: Deploys a time‑locked explosive that detonates after 2 seconds or on proximity, slowing nearby foes.
+  - Phase Strike: Melee attack that briefly freezes the target’s movement for 1 second.
+  - Echo Vision: Highlights enemy positions through walls for a short duration.
+- Tier 3:
+  - Rift Cannon: Charges a powerful shot that creates a temporary rift, pulling enemies toward its center.
+  - Time Dilation Field: Generates a 5‑meter radius field that slows enemy projectiles and speeds up Kade’s reload rate.
+  - Paradox Overdrive: Enter a berserk mode for 8 seconds, doubling fire rate and granting immunity to stun effects.

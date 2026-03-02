@@ -1,0 +1,26 @@
+Entry: 7344 / 7344
+
+Name: Aeron Vale
+
+Concept art Image Prompt:
+Aeron Vale, a slender 12‑year‑old orphan with tousled ash‑brown hair and bright emerald eyes, stands on a ruined pier overlooking a storm‑swept bay. He wears a weather‑worn, hand‑stitched leather jerkin over a faded teal shirt, patched trousers, and sturdy boots, with a small, lantern‑shaped talisman glowing softly around his neck. His right hand grips a curved, crystal‑lined staff that hums with faint light. The scene is drenched in twilight, with heavy clouds swirling and a faint aurora glimmering behind him. Soft moonlight reflects off the wet wood, casting gentle rim lighting on his determined face. Rendered in detailed, vibrant pixel art style – high‑resolution, hand‑painted texture, rich color palette, dramatic lighting, 4K resolution, with emphasis on atmospheric mood.
+
+Sprite sheet Image Prompt:
+Four 64x64 pixel art frames of Aeron Vale, the young orphan hero in a rugged leather jerkin and teal shirt, holding his crystal‑lined staff: 1) standing upright, staff rested on his shoulder, eyes forward; 2) crouching low, staff angled diagonally, ready to spring; 3) walking cycle, left foot forward, staff swaying slightly; 4) jumping, knees bent, staff raised overhead, expression focused. Pixel art style, crisp pixels, limited but vivid palette, consistent shading and lighting across frames, transparent background.
+
+Background Story:
+Aeron was left alone on the storm‑blasted coast of Windhaven after a fierce gale tore his village from the map, forcing him to survive among wrecked ships and drifting debris. He discovered an ancient, glowing talisman among the ruins, which awakened a dormant crystal staff bound to his bloodline. Though terrified, Aeron feels a lingering promise from the faint memory of his parents’ lullaby, urging him to protect the last fragment of his home. The relentless storm has awakened a shadowy entity, the Maw of Tempest, which drains the life from the very air, threatening to extinguish the remaining light of Windhaven. Determined to reclaim his courage, Aeron sets out across perilous cliffs and shattered islands to reunite the broken talismans and confront the Maw. Along the journey he learns that true heroism lies not in vengeance but in sacrifice, love, and the hope that endures within even a solitary child.
+
+Skill Tree:
+- Tier 1:
+  - Ember Strike: Unleashes a swift burst of flame from the staff, dealing moderate damage to a single enemy.
+  - Gale Dash: Performs a short, wind‑charged dash forward, evading attacks and briefly granting invulnerability.
+  - Resolve Pulse: Emits a calming wave that restores a small amount of health to Aeron and nearby allies.
+- Tier 2:
+  - Crystal Shard Barrage: Fires three piercing crystal projectiles that ricochet off surfaces, hitting multiple foes.
+  - Tempest Guard: Channels storm energy into a protective shield that absorbs a set amount of damage for a short time.
+  - Beacon of Hope: Places a luminous beacon that gradually heals the player over time while granting increased stamina regeneration.
+- Tier 3:
+  - Stormbreaker Blast: Channels the full power of the talisman into a massive explosion, dealing heavy area‑of‑effect damage and stunning enemies.
+  - Ascendant Leap: A charged jump that propels Aeron high into the air, allowing him to slam down and create a shockwave that damages surrounding enemies.
+  - Light of Sacrifice: Consumes a portion of Aeron’s health to fully restore the health of all allies and grant them temporary damage resistance.

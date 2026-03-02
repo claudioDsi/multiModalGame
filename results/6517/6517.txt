@@ -1,0 +1,26 @@
+Entry: 6517 / 6517
+
+Name: Kairo Tenrai
+
+Concept art Image Prompt:
+Pixel art illustration of a youthful warrior with spiky teal hair and a glowing crimson scar across the left eye, wearing sleek jade armor adorned with faint circuit patterns and glowing cyan trim, equipped with a long celestial blade that hums with energy; dynamic pose mid‑strike with the blade extended, background a stylized manga panel filled with vibrant ink splashes and exaggerated speed lines, dramatic rim lighting and high‑contrast shadows, vivid saturated colors, comic‑book shading and exaggerated perspective, pixel art style
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kairo Tenrai: frame 1 standing tall with celestial blade sheathed, frame 2 crouching low ready to spring, frame 3 mid‑step walking with armor glowing, frame 4 jumping with blade raised, each frame cleanly outlined, consistent color palette from concept, transparent background, crisp pixel resolution, pixel art style
+
+Background Story:
+Kairo Tenrai hails from the floating citadel of Luminara, a city of scholars who fused ancient mysticism with cutting‑edge nanotech. Trained as the heir to the Guardian Blade, he swore to protect the balance between the arcane and the mechanical. When a rogue faction shattered the Nexus Crystal, dark energy began corrupting the world’s storylines, pulling heroes and villains from every era into chaotic battles. Kairo now travels across the shattered arcs, seeking the scattered crystal fragments to restore order. He is haunted by visions of a future where his own power becomes the very source of the corruption he fights. Driven by duty and a personal promise to his late mentor, he must master both his blade and the latent energy within his scar before the manga’s pages tear completely apart.
+
+Skill Tree:
+- Tier 1:
+  - Blade Spark: A quick slash that releases a burst of cyan energy, dealing low damage and briefly stunning the opponent.
+  - Circuit Dash: A short forward dash that leaves a trail of electric particles, evading attacks and closing distance.
+  - Neon Guard: Passive aura that slightly reduces damage taken from special moves.
+- Tier 2:
+  - Celestial Arc: A mid‑range projectile that arcs upward before descending, hitting multiple times.
+  - Resonant Counter: When timed with an incoming hit, counterattacks with a burst of energy, dealing moderate damage.
+  - Photon Pulse: Emits a pulse that slows enemy movement speed for a short duration.
+- Tier 3:
+  - Skyward Ascension: A powerful upward leaping attack that launches Kairo into the air and slams down with a shockwave.
+  - Eternity Slash: Charged heavy strike that penetrates defenses, dealing high damage and briefly disabling the opponent’s special abilities.
+  - Sovereign Resolve: Ultimate buff that for a few seconds doubles attack damage and grants immunity to stun while a luminous aura surrounds Kairo.

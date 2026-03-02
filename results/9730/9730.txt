@@ -1,0 +1,26 @@
+Entry: 9730 / 9730
+
+Name: Avery Hale
+
+Concept art Image Prompt:
+Pixel art, highly detailed 32‑bit style portrait of a young adult fire lookout named Avery Hale, gender‑neutral appearance, short tousled dark hair with a faint scar across the left cheek, wearing a weathered tan field jacket over an insulated olive‑green vest, rugged cargo pants, worn leather boots, and a handheld radio clipped to a leather strap across the chest; standing on a rocky ridge at sunrise with pine forest stretching below, mist curling around the base, warm orange light highlighting the silhouette, holding a wooden staff in one hand, expression thoughtful yet wary, vibrant pixel palette, dramatic lighting, render in pixel art style.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, four 64x64 frames showing Avery Hale in side view: 1) standing tall with radio at side, neutral expression; 2) crouching low, gripping a pine branch for balance; 3) walking stride, boots kicking up small dust puffs; 4) jumping pose, arms raised, radio bouncing, hair scattering, consistent outfit and color palette as concept art, transparent background, pixel art style, canvas size 64x64.
+
+Background Story:
+Avery grew up in a small mountain town, dreaming of escape but always feeling the pull of the forest that surrounded their childhood home. When a summer job as a fire lookout opened at the remote Northridge Tower, they saw it as a chance to find solitude and sort through tangled personal problems. The isolation is broken only by a crackling handheld radio that connects them to their supervisor, Mara, who lives in the nearest ranger station. As days stretch into weeks, strange phenomena—flickering lights, inexplicable footprints, and whispers carried on the wind—begin to erode Avery’s sense of reality. Haunted by memories of a lost sibling who vanished in the woods years before, Avery starts to suspect the wilderness holds secrets tied to that tragedy. Determined to uncover the truth, they must balance the demanding duty of spotting fires with navigating a psychological maze that threatens to trap them forever.
+
+Skill Tree:
+- Tier 1:
+  - Vigilant Scan: Reveals nearby hazards and hidden objects within a short radius.
+  - Radio Relay: Allows instant short‑range communication that can interrupt enemy alerts.
+  - Survival Stance: Increases stamina regeneration while standing still.
+- Tier 2:
+  - Ember Insight: Highlights flammable terrain and predicts fire spread patterns.
+  - Echo Recall: Records and replays distant radio chatter to uncover clues.
+  - Agile Climb: Reduces stamina cost for climbing and grants a brief speed boost on slopes.
+- Tier 3:
+  - Mind Shield: Temporarily blocks hallucination effects and reduces sanity loss.
+  - Beacon Burst: Emits a bright flash that disorients nearby threats and reveals hidden pathways.
+  - Forest Whisper: Grants a passive aura that slows enemy movement when near trees.

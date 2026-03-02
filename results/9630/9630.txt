@@ -1,0 +1,26 @@
+Entry: 9630 / 9630
+
+Name: Kael Voss
+
+Concept art Image Prompt:
+Pixel art, 4K resolution, highly detailed illustration of Kael Voss, a lean early‑30s survivor with short, ash‑colored hair and a scar across his left eye, wearing a patched leather duster over a reinforced kevlar vest, cargo pants with makeshift utility belts, and rugged steel‑toed boots; he holds a salvaged welding torch in his right hand, left hand gripping a battered pipe, standing amid the ruins of a cracked concrete cityscape illuminated by a muted orange sunset, overturned cars and twisted metal scaffolding in the background, soft rim lighting highlighting dust particles in the air, style reminiscent of gritty retro‑future game concept art, pixel art aesthetic.  
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas per frame, four frames of Kael Voss: 1) standing pose, hands on hips, slight forward lean, eyes focused; 2) crouching pose, one knee down, welding torch ready, eyes narrowed; 3) walking pose, left leg forward, right arm swinging, broken pipe slung over shoulder; 4) jumping pose, knees bent, torso arched upward, torch ignited, dust puff trailing, muted desolate backdrop, consistent color palette and pixel resolution across frames.  
+
+Background Story:
+Kael Voss was a junior engineer at the coastal megafacility of Argus Bay when the nuclear exchange erupted, sealing his fate as the sole survivor of the fallout‑scarred district. Buried beneath the wreckage for weeks, he emerged to a world of ash, radiation‑twisted flora, and fragmented societies fighting over scarce resources. Driven by guilt over the lives lost in his former community, Kael vows to rebuild a safe haven using his technical knowledge and scavenged tech. He constantly battles the temptation to surrender to despair as radiation‑sick mutants and hostile raiders threaten his progress. Each sunrise forces him to decide whether to hoard his findings or share them with wandering survivors, shaping the destiny of the ruined settlement he calls home.  
+
+Skill Tree:
+- Tier 1:
+  - Scavenge Mastery: Increases the chance of finding valuable components from debris by 25%.
+  - Radiation Resilience: Reduces radiation damage taken by 15% and slows poisoning effects.
+  - Improvised Weaponry: Grants a temporary boost to melee damage when wielding makeshift tools.
+- Tier 2:
+  - Weldcraft: Allows crafting of reinforced armor plates that add extra defense.
+  - Tactical Stealth: Reduces detection radius from enemies while crouching or moving slowly.
+  - Energy Conversion: Converts collected scrap into small bursts of renewable power for gadgets.
+- Tier 3:
+  - Habitat Builder: Enables the construction of modular shelters that provide morale and resource bonuses.
+  - Overcharge Burst: Unleashes a powerful, short‑range shockwave from the welding torch, staggering foes.
+  - Leadership Resolve: Inspires nearby NPC survivors, increasing their combat efficiency and health regeneration.

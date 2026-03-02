@@ -1,0 +1,26 @@
+Entry: 8479 / 8479
+
+Name: Kairo Vantage
+
+Concept art Image Prompt:
+A lone cyber‑ninja stands atop a rain‑slick neon rooftop at night, city skyline glowing in teal and magenta. He wears a sleek matte‑black armor with subtle iridescent circuitry patterns, a half‑mask that reveals sharp amber eyes, and a flowing dark cloak billowing in the wind. In each hand he grips twin katana blades that emit a faint blue aura, and a compact, glowing shuriken launcher is strapped to his forearm. He leans forward in a ready stance, one foot hooked over the edge, with distant holographic advertisements reflected in puddles below. Soft moonlight and neon signs provide rim lighting, casting dramatic shadows. Rendered in highly detailed 32‑bit pixel art style, vibrant colors, dynamic lighting, and a slight grainy texture for atmosphere.
+
+Sprite sheet Image Prompt:
+Create a 64x64 pixel art sprite sheet containing four sequential frames of a cyber‑ninja character: 1) standing idle with arms relaxed and cloak slightly fluttering, 2) crouching low ready to spring, knees bent, blades drawn partially, 3) walking forward with a smooth two‑step cycle, cloak swaying, katana sheathed, 4) jumping upward with legs tucked, arms raised, blades igniting with a blue trail. Use a consistent dark armor palette with cyan accents, crisp pixel resolution, and subtle shading to convey depth. No background, transparent canvas.
+
+Background Story:
+Kairo Vantage was once a street‑level data courier in the sprawling neon district of Nova‑Shore, navigating the city’s underbelly with unrivaled speed. After a corporate syndicate sabotaged his brother’s neural implant, leaving him in a coma, Kairo was rescued by a secretive order of ex‑ninja technomancers who fused ancient martial arts with cutting‑edge cybernetics. Swearing vengeance, he now walks a thin line between assassin and protector, hunting the syndicate’s elite enforcers while uncovering the truth behind the city’s perpetual war. His internal conflict stems from the fear of losing his humanity to the cold steel that now courses through his veins. The stakes rise as the syndicate threatens to unleash a city‑wide AI lockdown that would erase the free will of every citizen. Kairo’s mission is to dismantle the syndicate from within, reclaim his brother’s freedom, and decide whether to become the city’s silent guardian or its ultimate weapon.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Dash: Instantly dash a short distance, becoming briefly untargetable.
+  - Wind Slash: Unleash a swift, linear slash that deals moderate damage and slightly pushes enemies back.
+  - Nano Shuriken: Throw a rapid burst of glowing shuriken that pierces up to three foes.
+- Tier 2:
+  - Storm Veil: Activate a temporary shield of electric wind that reduces incoming damage by 20%.
+  - Echo Blade: After a basic attack, the blade emits a delayed echo dealing extra damage to the same target.
+  - Shuriken Storm: Release a fan of shuriken in a 180° arc, hitting all enemies within range.
+- Tier 3:
+  - Tempest Fury: Unleash a massive area attack that summons a vortex of wind and lightning, damaging all nearby enemies.
+  - Eternal Mirage: Create a holographic duplicate that mimics movements for 5 seconds, confusing opponents.
+  - Serpent's Requiem: Charge the katana with corrosive energy, delivering a powerful strike that applies a lingering bleed over time.

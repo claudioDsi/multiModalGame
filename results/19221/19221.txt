@@ -1,0 +1,26 @@
+Entry: 19221 / 19221
+
+Name: Kael Stormwatcher
+
+Concept art Image Prompt:
+A lone wanderer standing on a mist‑shrouded mountain pass at dawn, rugged face partially covered by a weathered leather hood, long dark coat adorned with muted tribal engravings, a wooden staff topped with a faintly glowing crystal. Wind whips his cloak, distant silhouettes of foreign provinces visible beyond the ridge. Soft golden sunrise lighting, atmospheric depth, high‑detail pixel art style, 4‑K resolution, vibrant yet muted palette, emphasis on texture and mood.
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet showing Kael Stormwatcher in four sequential frames: (1) standing upright with staff planted, eyes forward; (2) crouching low, ready to spring, staff angled downward; (3) mid‑step walking animation, left foot forward, coat swaying; (4) jumping upward, staff raised, hair and cloak fluttering. Pixel art style, limited color palette, clean outline, consistent lighting from top left, no background.
+
+Background Story:
+Kael Stormwatcher hails from the secluded highlands that once formed the outer shield of a great empire, a region long sealed off by ancient border wards. When the wards failed, Kael ventured beyond the hidden passes and discovered the neighboring provinces teeming with strange cultures and untold dangers. Driven by a promise to his dying mentor to map the lost frontier, he now chronicles the lands beyond, seeking the truth behind the shattered borders. Haunted by visions of a looming darkness that whispers from the east, Kael wrestles with doubt—whether his curiosity will bring salvation or doom. The fate of the borderlands rests on his discoveries, as each new province may hold the key to repairing the broken world or unleash its ruin. His resolve is tested by rival explorers, hostile factions, and the ever‑present threat of the unknown.
+
+Skill Tree:
+- Tier 1:
+  - Border Insight: Reveals hidden paths and secret entrances within a short radius.
+  - Wind‑borne Step: Increases movement speed and adds a brief dash with reduced cooldown.
+  - Staff Strike: A quick melee attack that deals moderate damage and briefly staggers enemies.
+- Tier 2:
+  - Crystal Ward: Projects a small shield around Kael that absorbs a fixed amount of damage.
+  - Echoing Call: Emits a low‑frequency pulse that momentarily reveals distant enemies on the mini‑map.
+  - Mountain Resolve: Grants temporary resistance to elemental effects when standing on elevated terrain.
+- Tier 3:
+  - Stormwatcher's Beacon: Summons a radiant beacon that heals allies and weakens nearby foes over time.
+  - Riftwalk: Allows Kael to phase through a short distance, ignoring obstacles and enemy attacks.
+  - Legacy of the Ward: Permanently reduces cooldowns of all mobility skills and increases detection range for hidden lore objects.

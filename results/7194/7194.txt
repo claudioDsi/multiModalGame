@@ -1,0 +1,26 @@
+Entry: 7194 / 7194
+
+Name: Kaito Aizawa
+
+Concept art Image Prompt:
+portrait of a teenage male with messy dark hair and sharp amber eyes, wearing a slightly oversized white lab coat over a black hoodie, a thin digital chrono‑watch on his left wrist, and worn sneakers; he stands on a rooftop overlooking a neon‑lit cityscape at night, distant skyscrapers reflected in a rain‑slick surface; soft backlight from a flickering billboard casts a cyan glow on his coat, while subtle wind lifts his hair and coat’s sleeves; his pose is confident yet inquisitive, one hand holding a compact handheld device displaying a swirling time vortex; pixel art, 32‑bit style, vibrant colors, detailed lighting and shading, atmospheric background, high resolution, no text.
+
+Sprite sheet Image Prompt:
+four 64x64 pixel art frames of Kaito Aizawa in a 32‑bit style: 1) standing pose, feet shoulder‑width apart, holding the chrono‑watch up, slight smile; 2) crouching pose, knees bent, one hand touching the ground, eyes focused forward; 3) walking pose, left foot forward, coat fluttering, right arm swinging, determined expression; 4) jumping pose, mid‑air with both knees drawn up, chrono‑watch glowing, a faint temporal distortion ripple behind him; vibrant colors, consistent shading, clear silhouette, no background details.
+
+Background Story:
+Kaito Aizawa was once a gifted physics prodigy at a prestigious Tokyo university, whose curiosity about temporal mechanics led him to join the clandestine research group known as Chrono Nexus. During a failed experiment in 2010, a sudden temporal backlash stranded him in a looped version of his hometown, where past and future bleed into each other. Determined to untangle the fractured timeline, Kaito now seeks the elusive “Anchor Point” that can anchor reality and free the city from perpetual time distortion. His greatest internal conflict is the fear that altering events may erase his own memories and the people he loves. As the city’s strange anomalies grow—people experiencing déjà vu, objects aging backward—Kaito’s decisions will either stabilize the flow of time or plunge the world into irreversible chaos. He wields his chrono‑watch and a prototype device, hoping to rewrite destiny without losing himself.
+
+Skill Tree:
+- Tier 1:
+  - Time Pulse: Sends a short burst that momentarily slows enemy actions.
+  - Echo Scan: Reveals hidden choices and branching paths in the current scene.
+  - Temporal Guard: Increases defense for a brief period by briefly shifting out of sync with attacks.
+- Tier 2:
+  - Chrono Leap: Allows Kaito to dash forward a short distance while briefly freezing time around him.
+  - Memory Recall: Restores a small amount of health by recalling a personal memory of strength.
+  - Phase Shift: Grants temporary intangibility, letting him pass through obstacles.
+- Tier 3:
+  - Anchor Surge: Creates a stabilizing field that stops all time anomalies in a radius for several seconds.
+  - Paradox Resolve: Rewrites a recent decision, reverting the storyline to an earlier branch.
+  - Infinite Loop: Traps an enemy in a time loop, rendering them immobile for an extended duration.

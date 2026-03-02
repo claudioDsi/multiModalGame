@@ -1,0 +1,26 @@
+Entry: 7292 / 7292
+
+Name: Kairo Vex
+
+Concept art Image Prompt:
+A highly detailed pixel art illustration of Kairo Vex, a lithe combatant with cyber‑enhanced limbs, wearing a torn high‑collar trench coat with glowing teal circuitry patterns, fingertip gauntlets that emit a faint electric hum, and combat boots reinforced with metal plating. He stands on a shattered rooftop at dusk, lightning crackling in the background, one hand poised to unleash a telekinetic punch while the other grips a detachable energy blade that glows red. The pose is dynamic, weight shifted forward, eyes glowing amber, with dramatic rim lighting highlighting his silhouette. Style: pixel art, 8‑bit, vibrant neon colors, high contrast, cinematic lighting.
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet containing four frames of Kairo Vex: 1) standing pose with fists relaxed, slight forward lean; 2) crouching pose with knees bent, blade partially drawn, ready to strike; 3) walking pose showing one leg forward, coat flapping, gauntlet emitting a small spark; 4) jumping pose with arms raised, energy blade trailing a brief neon arc. All frames use consistent color palette of teal, black, and electric red, with clear pixel‑perfect outlines, background transparent.
+
+Background Story:
+Kairo Vex was once a promising engineer in the floating metropolis of Zircon Spire, specializing in kinetic weaponry. After a catastrophic experiment fused his nervous system with prototype energy conduits, he gained the ability to channel electricity through his body but lost control over the volatile power. Driven to master his newfound abilities, Kairo entered the tournament to locate the ancient Core Matrix rumored to stabilize his condition. Yet the Core also promises untold power, forcing him to choose between personal salvation and the risk of unleashing a city‑wide catastrophe. Haunted by visions of his former self, he fights not only opponents but the inner surge that threatens to consume him. His journey intertwines with the tournament’s chaotic stages, where every bout could bring him closer to redemption or ruin.
+
+Skill Tree:
+- Tier 1:
+  - Pulse Jab: A quick light punch that briefly stuns the opponent.
+  - Shock Step: A low dash that leaves an electric trail damaging anyone who steps on it.
+  - Blade Snap: A fast melee strike with the energy blade that reduces opponent’s block meter.
+- Tier 2:
+  - Arc Uppercut: A powerful upward punch that launches the foe and builds X‑Ray meter faster.
+  - Tesla Teleport: Short-range teleport that instantly repositions and deals minor shock damage on arrival.
+  - Overload EX: Enhanced EX move that adds a burst of area‑wide electricity to any special attack.
+- Tier 3:
+  - Core Burst: An X‑Ray move that channels the Core Matrix, delivering a massive multi‑hit combo with visual distortion.
+  - Circuit Breaker: A combo breaker that nullifies opponent’s ongoing combo and resets their meter.
+  - Voltaic Finale: A fatality where Kairo summons a storm of electric arcs, disintegrating the opponent in a dazzling display.

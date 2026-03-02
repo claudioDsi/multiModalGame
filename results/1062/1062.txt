@@ -1,0 +1,26 @@
+Entry: 1062 / 1062
+
+Name: Silas Vale
+
+Concept art Image Prompt:
+pixel art, highly detailed 2:3 aspect, side‑view illustration of Silas Vale standing on a fog‑shrouded forest clearing at night, clutching an old brass lantern that casts warm amber light on his face; he wears a long, weather‑worn charcoal trench coat, dark denim shirt, slim black trousers, and leather boots, with silver-rimmed glasses perched on his nose and a notebook tucked in his coat pocket; his hair is short, dark, slightly disheveled, and his expression is tense, eyes narrowed as shadows writhe behind him; the background shows twisted trees, half‑seen ruins, and faint glowing glyphs etched into stone, illuminated by the lantern’s glow; lighting is dramatic with deep silhouettes and soft rim light; art style tags: pixel art, atmospheric, horror, noir, high contrast, 32‑color palette.
+
+Sprite sheet Image Prompt:
+pixel art, 64x64 canvas sprite sheet containing four sequential frames of Silas Vale in a side‑scroll view: 1) standing pose, holding lantern at chest level, slight forward lean; 2) crouching pose, knees bent, lantern lowered, ready to sneak; 3) walking pose, left leg forward, lantern swinging gently, coat swaying; 4) jumping pose, mid‑air with arms raised, lantern raised above head emitting a burst of light; character wears a dark trench coat, black boots, silver glasses, and carries a brass lantern; color palette muted greys, deep blues, and amber highlights; background transparent.
+
+Background Story:
+Silas Vale was once the celebrated author of best‑selling psychological thrillers, his name synonymous with twist‑laden narratives that haunted readers long after the final page. After a sudden, crippling bout of writer’s block, he and his wife Mara accepted an invitation to retreat to the isolated mountain town of Grayhaven, hoping the change of scenery would reignite his creativity. Within days of their arrival, Mara vanished without a trace, leaving behind only a shattered photograph and a scream echoing through the pine‑laden valleys. While scouring the old inn’s attic, Silas discovered a battered manuscript of a novel he swore he never wrote; each chapter described events that began to materialize around him in grotesque form. Dark, faceless entities known only as the Umbral Covenant emerge from the shadows, feeding on fear and the unwritten words that linger in the air. Armed with only his lantern and the lingering ink of his own mind, Silas must navigate the nightmarish town, confront the living pages of his subconscious, and rescue Mara before the darkness consumes both reality and fiction.
+
+Skill Tree:
+- Tier 1:
+  - Lantern Pulse: Emits a short burst of bright light that briefly blinds nearby enemies.
+  - Ink Insight: Reveals hidden passages and clues on walls when activated.
+  - Echoing Footsteps: Reduces detection radius by moving silently for a short duration.
+- Tier 2:
+  - Narrative Shield: Projects a protective aura that absorbs a limited amount of damage.
+  - Penetrating Beam: Channels focused lantern light forward, dealing damage to a single target.
+  - Fractured Recall: Temporarily slows all enemies by recalling a disturbing scene from the manuscript.
+- Tier 3:
+  - Illumination Torrent: Unleashes a wave of concentrated light that damages all foes in its path.
+  - Author’s Resolve: Grants a temporary boost to health and stamina when the player completes a chapter objective.
+  - Reality Rewrite: Allows Silas to alter a small environmental element (e.g., open a locked door) by writing it into existence for a few seconds.

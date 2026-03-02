@@ -1,0 +1,26 @@
+Entry: 152354 / 152354
+
+Name: Glint Bloom
+
+Concept art Image Prompt:
+Pixel art illustration of Glint Bloom, a charismatic, anthropomorphic cupcake creature with golden frosting swirls and petal-like flower sprinkles, large expressive eyes, and a small glowing star badge on its head; wearing a lightweight, iridescent cape made of shimmering pollen threads; standing on a festive board-game tile surrounded by floating coins, star tokens, and colorful confetti; bright midday lighting with soft shadows; vibrant pastel color palette; dynamic pose with one hand holding a sparkling star and the other wielding a decorative whisk; detailed pixel shading, 32‑bit retro style, reminiscent of classic party game visuals.
+
+Sprite sheet Image Prompt:
+Pixel art 64x64 sprite sheet, four frames of Glint Bloom the cupcake‑creature: (1) standing pose, arms at sides, gentle smile, star badge glows; (2) crouching pose, low center of gravity, whisk ready, eyes narrowed; (3) walking pose, left foot forward, frosting wobble animation, cape flutter; (4) jumping pose, mid‑air with arms raised, star badge trailing sparkles; consistent pastel color scheme, 32‑bit retro aesthetic, clean pixel lines.
+
+Background Story:
+Glint Bloom hails from the Sugarpetal Glade, a hidden garden where confectionery and flora intertwine, granting its residents both sweet charm and botanical vigor. Ever curious, Glint left the Glade to chase legendary Star Crystals said to amplify the garden’s bloom forever. While enthusiastic and friendly, Glint secretly wrestles with a mischievous streak, delighting in playful sabotage to outwit rivals. The recent revival of the ancient board realms threatens to drain the Glade’s life force unless the Star Crystals are reclaimed. Determined to protect their home, Glint enters the competition, balancing the joy of friendship with the cunning needed to survive. Each victory brings them closer to securing the crystals and preserving the garden’s radiant future. Yet, the looming artifact—an ever‑ticking timer known as the “Chrono Confection”—pressures Glint to act swiftly, lest the competition collapse into chaos.
+
+Skill Tree:
+- Tier 1:
+  - Frostpetal Dash: Quick burst forward that leaves a slippery frosting trail, briefly slowing opponents.
+  - Starburst Toss: Throws a glowing star that bounces once, stealing a small coin from any hit player.
+  - Petal Shield: Summons a brief shield of flower petals that deflects one incoming attack.
+- Tier 2:
+  - Whisk Whirl: Spins the decorative whisk, creating a short-range vortex that pushes nearby foes away.
+  - Sugar Rush: Activates a temporary speed boost, leaving a sparkling comet trail that speeds up movement on the board.
+  - Bloom Boost: Gains a small increase in star collection rate for a few turns after collecting a coin.
+- Tier 3:
+  - Chrono Confection Burst: Releases a burst of timed sparkles that temporarily freezes all opponents for one turn.
+  - Stellar Sprout: Plants a glowing seed that sprouts a star‑bearing vine, granting extra points to allies standing on it.
+  - Celestial Sabotage: Unleashes a hidden artifact fragment that randomly swaps positions of all players on the board.

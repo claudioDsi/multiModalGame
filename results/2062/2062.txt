@@ -1,0 +1,26 @@
+Entry: 2062 / 2062
+
+Name: Sora Mori
+
+Concept art Image Prompt:
+Pixel art of Sora Mori, a mid‑30s detective with short, messy black hair, a narrow scar across his left cheek, wearing a rumpled dark trench coat, leather gloves, and a utility belt with a smoked revolver; he stands in a neon‑lit, rain‑slick alleyway, neon signs reflected on puddles, soft backlight glows behind him, atmosphere heavy with mist, dramatic shadows, 32‑bit style, vivid colors, cyber‑noir mood, pixel art
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames (standing, crouching, walking, jumping) of Sora Mori in a dark trench coat with a visible holster, leather gloves, short black hair, each pose shown on a transparent 64x64 canvas, coat flutters subtly, neutral gray background, 32‑bit palette, crisp pixel art style
+
+Background Story:
+Sora Mori grew up on the hard‑knock streets of the sprawling metropolis, watching his older brother fall victim to a notorious syndicate. Determined to dismantle the criminal network, he joined the city police force, quickly rising to become a detective renowned for his relentless interrogation techniques. A botched raid left him with a permanent scar, a reminder of both his failure and his resolve. Haunted by the loss of his brother, Sora walks a thin line between law and vengeance, often bending rules to extract the truth. The city’s new surge of organized crime threatens to drag the innocent into its vortex, and Sora sees his personal vendetta entwined with the larger battle for justice. As the city’s shadows deepen, he must decide whether to become the very thing he despises in order to protect the people he swore to serve.
+
+Skill Tree:
+- Tier 1:
+  - Rapid Draw: Instantly draws the revolver, granting a brief speed boost to the next attack.
+  - Street Insight: Highlights nearby points of interest and enemy positions for a short duration.
+  - Bullet Parry: Blocks an incoming projectile, reducing damage and briefly stuns the attacker.
+- Tier 2:
+  - Crouch Shot: Fires from a crouched stance, increasing accuracy and critical hit chance.
+  - Interrogation Tactics: Temporarily lowers enemy alertness, making them vulnerable to stealth actions.
+  - Cover Fire: Suppresses enemies in a small radius, reducing their movement speed.
+- Tier 3:
+  - Rainy Reprisal: Unleashes a charged shot that deals extra damage during rain, shattering enemy defenses.
+  - Silent Vengeance: Performs a silent dash behind an enemy, delivering a high‑damage backstab.
+  - Nightfall Resolve: Grants a persistent damage resistance bonus when health drops below 30 %.

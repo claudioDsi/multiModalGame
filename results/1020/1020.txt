@@ -1,0 +1,26 @@
+Entry: 1020 / 1020
+
+Name: Nico Alvarez
+
+Concept art Image Prompt:
+pixel art, vibrant 8‑bit style, sun‑drenched megacity skyline at midday with towering glass towers and bustling streets below, rooftop helipad littered with holo‑screens, Nico standing confidently on the edge, wearing a fitted reflective bomber jacket with neon trim, cargo pants, lightweight boots, a cybernetic glowing eye implant, a compact holo‑camera clipped to his chest, one hand gripping a sleek hover‑blade, the other holding a glowing data reel, warm golden lighting contrasting with electric pink neon accents, detailed city backdrop with billboard advertising cheap reality TV shows, dynamic pose, front‑left three‑quarter view, pixel art style, high‑detail, no text.
+
+Sprite sheet Image Prompt:
+pixel art, 8‑bit style, 64x64 canvas, four sequential frames of Nico Alvarez in the same outfit and cybernetic features: frame 1 standing upright with neutral expression, frame 2 crouching low ready to spring, frame 3 mid‑step walking with one leg forward, frame 4 mid‑air jumping with hover‑blade raised, background transparent, consistent color palette of teal, orange, and neon pink, detailed but simple enough for pixel clarity.
+
+Background Story:
+Nico Alvarez grew up on the lower decks of the sun‑soaked metropolis, dreaming of fame on the cheap reality TV circuit that dominated the city’s airwaves. He achieved brief stardom as a flamboyant host of “Skyline Scramble,” but the show's collapse amid economic turmoil left him disillusioned and indebted to shadowy sponsors. Determined to expose the corrupt media moguls, Nico repurposed his on‑camera tech into a toolkit for hacking and covert information gathering. He now leads a loose collective of “Signal Runners,” smuggling data between the affluent towers and the struggling districts. Beneath his charismatic exterior, Nico battles guilt over the lives he once exploited for entertainment. The city’s precarious economy fuels his urgency, as each broadcast threatens to drown the populace in further desperation. His choices will either ignite a grassroots uprising or cement the media’s tyrannical grip on the metropolis.
+
+Skill Tree:
+- Tier 1:
+  - Flash Capture: Instantly records a short holographic clip of nearby activity, revealing hidden clues.
+  - Street Sprint: Increases movement speed by 15% when moving through crowded streets.
+  - Data Scramble: Briefly disrupts enemy surveillance drones within a small radius.
+- Tier 2:
+  - Holo Decoy: Projects a temporary illusion of Nico to distract opponents.
+  - Neon Blade: Unleashes a quick melee strike with the hover‑blade, dealing moderate damage and briefly blinding the target.
+  - Broadcast Hijack: Overrides a nearby advertisement screen to display a message, lowering enemy morale.
+- Tier 3:
+  - Skyhook Leap: Launches Nico upward from any surface, covering large distances and evading attacks.
+  - Network Overload: Sends a powerful pulse through city infrastructure, temporarily disabling all electronic devices in a wide area.
+  - Reputation Ripple: Gains the trust of a faction, unlocking unique dialogue options and resources throughout the city.

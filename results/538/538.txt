@@ -1,0 +1,26 @@
+Entry: 538 / 538
+
+Name: Kade Vex
+
+Concept art Image Prompt:
+pixel art, highly detailed full-body portrait of a lithe, armored operative standing on a crumbling cliff edge overlooking a vast desert valley dotted with ruined structures, holding a modular sniper rifle slung across the chest, worn leather gauntlet on left hand, tactical visor glowing faint teal, wind blowing scarf, background with distant sandstorm and faint silhouettes of fifteen enemy drones, dramatic low-angle lighting with orange sunset glow, shadows accentuating armor plates, style: retro 32‑bit game concept art, vibrant color palette, emphasis on gritty realism and dynamic pose
+
+Sprite sheet Image Prompt:
+pixel art, 4‑frame horizontal sprite sheet, canvas size 256x64 (each frame 64x64), character Kade Vex in tactical gear with visor, modular rifle, gauntlet; frame 1 standing idle, shoulders relaxed, rifle at side; frame 2 crouching low, aiming with rifle steady, visor focused; frame 3 walking, left leg forward, rifle poised; frame 4 jumping, knees bent, rifle raised, dust particles, style: retro 16‑bit action sprite, clear outlines, limited but vibrant palette
+
+Background Story:
+Kade Vex grew up in the nomadic settlements of the Scorched Expanse, learning to survive among shifting dunes and hostile warbands. After a betrayal that cost the lives of his family, he swore to dismantle the shadow syndicate that commandeered the region’s resources. Trained as both a close‑quarters brawler and a precision marksman, Kade now roams the fractured world, seeking fragments of an ancient beacon that could restore balance. He wrestles with the fear that his relentless vengeance may cloud his judgment, endangering innocents he vows to protect. Every mission forces him to adapt—tight corridors demand swift blades, while open ruins call for patient sniping. The stakes rise as the syndicate's influence spreads, threatening to plunge the entire continent into perpetual war, and Kade holds the key to either its salvation or its ruin.
+
+Skill Tree:
+- Tier 1:
+  - Quickdraw: Reduces weapon swap time by 15%.
+  - Reactive Combat: Grants a brief dodge after taking melee damage.
+  - Adaptive Vision: Highlights weak points on enemies for 3 seconds after a successful hit.
+- Tier 2:
+  - Sniper’s Patience: Increases headshot damage by 25% when scoped for more than 2 seconds.
+  - Close‑Quarters Surge: Boosts melee attack speed by 20% after a kill.
+  - Modular Loadout: Allows swapping barrel attachments mid‑combat to switch between sniper and close‑range modes.
+- Tier 3:
+  - Shadow Step: Grants temporary invisibility when entering crouch behind cover.
+  - Overwatch Barrage: Fires a rapid volley that can hit up to 15 enemies in a wide arc, consuming half of the current ammo clip.
+  - Last Stand: Upon reaching 0 health, automatically deploys a defensive turret that provides suppressive fire for 5 seconds.

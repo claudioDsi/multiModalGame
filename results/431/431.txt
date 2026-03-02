@@ -1,0 +1,24 @@
+Entry: 431 / 431
+
+Name: Riven Kade  
+
+Concept art Image Prompt: pixel art, full-body portrait of a rugged fortune hunter standing in the yawning entrance of an overgrown stone temple at twilight, lantern light flickering on a weathered leather trench coat with brass buckles, short dark hair with an amber streak, sharp green eyes, utility belt laden with lock picks, a compact antique pistol at hip, a satchel of ancient maps slung across the chest, pose is half‑turn, one hand resting on the pistol, the other holding a glowing relic, soft mist curling around the steps, muted teal‑purple ambient lighting, highly detailed 32‑bit style, no logos, no text, focus on rugged adventurer vibe.  
+
+Sprite sheet Image Prompt: pixel art, 64x64 canvas, four sequential frames of Riven Kade – standing pose with relaxed shoulders holding a pistol at side, crouching pose low to ground with a lock‑pick poised, walking pose mid‑stride with coat billowing, jumping pose airborne with lantern raised, consistent color palette of dark leathers, brass accents, amber hair streak, background transparent, crisp 32‑bit style, no extra characters or text.  
+
+Background Story:  
+Riven Kade grew up in the shadow of the Ironrail City’s sprawling junkyards, learning to salvage and repurpose discarded tech from a young age. A whispered legend about a 400‑year‑old cryptic journal sealed inside a forgotten noble’s coffin sparked her obsession with the fabled Sun‑etched Crown of Azhara. When a salvaged fragment of the journal led her to the remote jungle isle of Kharun’s Maw, she assembled a small crew and set sail for the promised treasure. A violent storm wrecked their vessel, leaving Riven stranded on the island’s cursed ruins while a band of well‑armed mercenaries, hired by rival collectors, began hunting her down. Outnumbered and outgunned, she must use every ounce of cunning, old‑world knowledge, and improvised weaponry to survive. As she pushes deeper into the labyrinthine catacombs, the island’s dark history unfolds, revealing that the Crown was a seal for a forgotten calamity. Riven now wrestles with the choice: claim the artifact’s power for herself or destroy it to prevent a new era of horror.  
+
+Skill Tree:  
+- Tier 1:  
+  - Quick Draw: Instantly ready the pistol for a faster first shot after sprinting.  
+  - Salvage Insight: Gain a 15% chance to recover useful components from destroyed objects.  
+  - Jungle Camouflage: Slightly increase movement speed while hidden in foliage.  
+- Tier 2:  
+  - Lock‑Pick Mastery: Reduce lock‑picking time and increase success rate against complex mechanisms.  
+  - Reactive Dodge: Perform a brief invulnerability roll when enemy attack telegraphs.  
+  - Explosive Trap: Place a small timed charge that deals area damage on detonation.  
+- Tier 3:  
+  - Relic Resonance: Temporarily boost health regeneration after retrieving any ancient artifact.  
+  - Shadow Strike: Combine crouch and jump to deliver a high‑damage melee attack from above.  
+  - Echo of the Crown: Once per mission, unleash a pulse that disables nearby enemy weapons for 3 seconds.

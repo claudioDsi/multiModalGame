@@ -1,0 +1,26 @@
+Entry: 7330 / 7330
+
+Name: Kairo Vivid
+
+Concept art Image Prompt:
+Pixel art portrait of Kairo Vivid, a youthful explorer with teal hair tied in a spiky bun, wearing a bright orange utility jumpsuit with reinforced sleeves, neon goggles perched on the forehead, holding a hovering holographic paintbrush that leaves sparkling trails, standing in a bustling creative plaza of floating pastel platforms, glowing crystal sculptures, and swirling color vortexes, soft ambient glow from floating lanterns, dynamic confident pose, 32-bit high‑detail pixel art style, vibrant saturated colors, pixel art
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kairo Vivid: frame 1 standing facing right with holo‑brush at side, frame 2 crouching ready with brush angled upward, frame 3 walking cycle (two steps) showing leg movement and brush swaying, frame 4 jumping upward with brush projecting a burst of color, consistent teal hair, orange jumpsuit, neon goggles, transparent background, 32-bit pixel art style
+
+Background Story:
+Kairo Vivid grew up in the bustling Creative Quarter of Prismopolis, a district where imagination literally shapes the streets. As a child, they discovered an ancient holo‑brush left by the legendary Artisans, a tool that can paint reality itself. When the nefarious Cipher, a shadowy figure intent on draining color from the world, began corrupting the luminous districts, Kairo pledged to protect the vibrancy of their home. Guided by the Collective of Curators, a secretive organization that curates endless surprises, Kairo learns to harness the brush’s power to restore hue and inspire fellow citizens. Yet the deeper they delve, the more they question whether wielding such creation magic might distort their own identity. Determined to balance creation and responsibility, Kairo ventures into the unknown corners of the world, hoping to out‑paint the darkness and keep imagination alive for everyone.
+
+Skill Tree:
+- Tier 1:
+  - Chromatic Dash: Sprint forward leaving a short rainbow trail that briefly boosts speed for allies.
+  - Palette Shield: Generate a rotating shield of mixed pigments that reduces incoming damage by 15%.
+  - Ink Blast: Fire a concentrated blob of colored ink that deals damage and briefly slows enemies.
+- Tier 2:
+  - Canvas Clone: Summon a temporary duplicate of yourself that mimics your moves and distracts foes.
+  - Spectrum Surge: Release a burst of all spectrum colors around you, healing nearby allies for 10% health.
+  - Brushstroke Barrier: Draw a larger, semi‑transparent wall of light that blocks projectiles for 5 seconds.
+- Tier 3:
+  - Masterpiece Manifest: Create a large, radiant masterpiece that immobilizes enemies within its area for 3 seconds.
+  - Reality Rewrite: Rewrite a small segment of terrain into a favorable platform, granting instant traversal.
+  - Eternal Gallery: Unlock a passive aura that continuously restores a small amount of color energy, enhancing all creative abilities.

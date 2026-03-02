@@ -1,0 +1,26 @@
+Entry: 3097 / 3097
+
+Name: Riven Hale
+
+Concept art Image Prompt:
+pixel art, 2D character portrait of a young adult scavenger with short, tousled dark hair, sharp green eyes, and a faint scar across the left cheek, wearing a patched leather jacket over a faded gray shirt, cargo pants with multiple utility belts, sturdy boots, and a makeshift wrist-mounted gadget; standing in a dimly lit, post‑apocalyptic urban alley with broken glass, hanging neon signs flickering, mist swirling around the character’s feet; pose is confident with one hand resting on a battered crowbar slung over shoulder, the other holding a glowing blue datapad; dramatic low-key lighting with orange streetlight glints and soft shadows, detailed pixel art style, 32‑bit color palette, emphasis on texture and atmosphere.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 4 frames of Riven Hale, each 64x64 pixels, side‑by‑side in a horizontal strip; Frame 1: standing pose, feet shoulder‑width apart, holding crowbar horizontally across chest, confident expression; Frame 2: crouching pose, knees bent, one hand gripping crowbar tip, eyes focused forward; Frame 3: walking pose, mid‑step with left foot forward, right arm swinging, crowbar held low; Frame 4: jumping pose, mid‑air with knees pulled up, crowbar raised above head, determined look; consistent outfit and colors across frames, clear pixel art style, limited 32‑color palette, simple background transparent. 
+
+Background Story:
+Riven Hale grew up in the ruins of a once‑great metropolis, learning to survive among crumbling skyscrapers and roaming scavenger crews. After discovering a mysterious data crystal that hinted at a hidden sanctuary, Riven pledged to locate it before the ruthless warlords seize its power. Haunted by the loss of their younger sibling to a rogue band of raiders, Riven grapples with guilt and a fierce protectiveness over any companions they meet. The crystal’s fragmented clues drive Riven across dangerous districts, forcing tough moral choices that shape alliances. Every decision can mean the difference between rescuing a stranded survivor or leaving them to the wandering walkers. As time runs short, Riven must balance cunning investigation with split‑second actions to stay alive and fulfill the promise made to the lost sibling.
+
+Skill Tree:
+- Tier 1:
+  - Quick Scan: Reveals hidden objects in the immediate vicinity for a short duration.
+  - Improvised Weaponry: Increases damage of makeshift weapons by 10%.
+  - Calm Demeanor: Reduces time pressure on dialogue selections by 20%.
+- Tier 2:
+  - Hack Pulse: Temporarily disables electronic defenses on scavenged devices.
+  - Evasion Burst: Grants a brief speed boost to dodge incoming threats.
+  - Persuasive Insight: Unlocks additional dialogue options with key NPCs.
+- Tier 3:
+  - Sanctuary Beacon: Marks a safe location that can be fast‑travelled to once per chapter.
+  - Masterful Tinker: Allows crafting of advanced tools from collected parts.
+  - Resolve of the Lost: Restores a portion of health when a critical choice is made to save an ally.

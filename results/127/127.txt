@@ -1,0 +1,26 @@
+Entry: 127 / 127
+
+Name: Silas Marrow
+
+Concept art Image Prompt:
+Pixel art illustration of a lone assassin standing on a rain‑slick rooftop overlooking a labyrinth of shimmering canals at dusk, wearing a dark, weather‑worn leather coat with reinforced brass shoulder guards, a torn hood pulled back to reveal a sharp scar across his left cheek, a sleek rapier sheathed at his side and a compact mechanical crossbow strapped to his back, intricate brass gauntlets covering his forearms, a faint glow from a lantern in his left hand casting soft amber light, mist curling around the edge of the roof, city skyline of tiled roofs and narrow alleyways in the distance, high‑detail 32‑bit pixel art style, cinematic lighting with chiaroscuro contrast.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, four 64x64 frames on a transparent background, depicting Silas Marrow: (1) standing pose, feet shoulder‑width apart, hand gripping the rapier hilt, cloak draped, (2) crouching pose, knees bent, weight low, crossbow ready, (3) walking pose, left foot forward, coat fluttering, (4) jumping pose, mid‑air with cloak billowing and dagger drawn, consistent dark leather and brass color palette, 32‑bit pixel art style, no background details.
+
+Background Story:
+Silas Marrow grew up in the shadowed alleys of a river‑lined republic, the son of a master locksmith who vanished under mysterious orders from the ruling council. Sworn to uncover the truth, he trained in the art of silent blades, parkour, and guerilla tactics, becoming a whispered legend among the oppressed. When the council staged a coup during the historic signing of the Accord of Bridges, Silas witnessed his mentor’s betrayal and the massacre of his family. Consumed by revenge, he now roams the rooftops and canals, pulling strings behind the scenes to destabilize the conspirators. His internal conflict stems from the thin line between justice and vengeance, fearing he might become the very tyrant he hunts. The fate of the republic hangs on his ability to expose the hidden network of power before the city drowns in its own blood.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Step: Briefly become semi‑invisible while moving, reducing enemy detection radius.
+  - Quickdraw Rapier: Instantly draw and strike, increasing attack speed for the next three hits.
+  - Parry Counter: Successful parry triggers a quick counter‑strike that deals bonus damage.
+- Tier 2:
+  - Brass Gauntlet Blast: Unleash a short‑range shockwave from the gauntlets, staggering nearby foes.
+  - Rope Grapple: Throw a grappling hook to ascend or swing across rooftops, improving traversal speed.
+  - Silent Takedown: Eliminate an enemy from behind without alerting nearby guards, gaining a small health restore.
+- Tier 3:
+  - Echoing Requiem: Emit a resonant pulse that reveals hidden enemies and traps within a radius for a few seconds.
+  - Mechanical Crossbow Mastery: Charge the crossbow for a powerful piercing shot that penetrates armor.
+  - Vengeful Resolve: When health drops below 25%, temporarily boost damage and movement speed, reflecting his relentless thirst for revenge.

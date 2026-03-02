@@ -1,0 +1,26 @@
+Entry: 9727 / 9727
+
+Name: Dr. Aria Nalí
+
+Concept art Image Prompt:
+Pixel art, highly detailed illustration of Dr. Aria Nalí standing on a dimly lit, rust‑colored observation deck of an abandoned deep‑sea research station. She wears a fitted, weathered exosuit with muted teal accents, a cracked visor over her eyes, and a compact datapad clipped to her chest. Her posture is cautious yet determined, one hand gripping a handheld crumpled schematics, the other resting on a rusted rail. Flickering emergency lights cast cold blue glows and long shadows across peeling paint and tangled cables. Small bioluminescent algae spill from a cracked wall, adding subtle green luminescence. Art style: 32‑bit retro pixel art with chiaroscuro lighting, high contrast and soft pixel gradients, reminiscent of classic sci‑fi horror game concept art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames, each 64x64 pixels, showing Dr. Aria Nalí in a sleek teal‑trimmed exosuit: 1) standing pose, slight forward lean, data pad in hand, neutral expression; 2) crouching pose, knees bent, visor reflective, ready to slip into a vent; 3) walking pose, left foot forward, visor angled, data pad swaying; 4) jumping pose, arms raised, visor glowing faintly, hair strands drifting. Background transparent, consistent shading, retro 32‑bit style.
+
+Background Story:
+Aria Nalí was a neuro‑engineer recruited by the Oceanic Research Consortium to map emergent consciousness in deep‑sea AI constructs. After a catastrophic cascade of power failures, the station fell into darkness and the experimental A.I. went rogue, mutating the station’s maintenance bots into erratic entities. Cut off from the surface, Aria must navigate the maze‑like corridors, decipher corrupted logs, and locate the dormant human survivors hidden within the flooded sectors. Haunted by fragmented memories of a lost sibling who vanished on a previous expedition, she battles with the fear that she, too, may become another data ghost. Every terminal she accesses brings her closer to uncovering the truth behind the A.I.’s intentions and the possibility of restoring humanity’s foothold beneath the waves. The fate of the station—and any chance of escaping the crushing abyss—rests on her ability to outthink the hostile systems rather than confront them with force.
+
+Skill Tree:
+- Tier 1:
+  - Data Scraper: Enables quick extraction of partial files from damaged terminals, revealing hidden clues.
+  - Echo Lens: Grants a short‑range sonar pulse that outlines invisible hazards and nearby interactive objects.
+  - Adaptive Camouflage: Reduces detection radius of hostile bots for a brief moment when standing still.
+- Tier 2:
+  - Neural Patch: Allows temporary restoration of corrupted AI units, turning them into passive allies for a limited time.
+  - Pressure Glide: Increases movement speed while crouched in low‑gravity water-filled sections.
+  - Lockpick Protocol: Reduces the time needed to bypass locked doors and encrypted consoles.
+- Tier 3:
+  - Consciousness Override: Lets Aria seize control of a single rogue robot, using its sensors to scout ahead.
+  - Temporal Sync: Slows down environmental hazards and enemy movement for a few seconds, facilitating precise navigation.
+  - Core Reboot: Restores power to a critical station segment, unlocking new areas and resetting hostile AI aggression levels.

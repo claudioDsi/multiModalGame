@@ -1,0 +1,26 @@
+Entry: 3025 / 3025
+
+Name: Kael Varyn
+
+Concept art Image Prompt:
+A lone figure standing on a cracked stone balcony overlooking a moon‑lit, fog‑filled city of twisted spires in the Land of Shadows. Kael Varyn is a gaunt man in his early thirties with sharp cheekbones, short unkempt dark hair, and a scar crossing his left eye. He wears a weathered dark leather coat trimmed with silver runes, a torn shirt beneath, and rugged trousers bound with iron buckles. In his right hand he grips a translucent, rune‑etched greatsword that glows faintly blue; his left hand clutches a small, spinning talisman that emits a soft ember light. The scene is illuminated by the cold moonlight and distant lanterns, casting long shadows. Rendered in detailed pixel art style, 32‑bit palette, high contrast, with subtle particle effects around the sword and talisman, and a gritty, atmospheric background.
+
+Sprite sheet Image Prompt:
+Four 64x64 pixel art frames of Kael Varyn in a dark, misty alley of the Land of Shadows: (1) standing pose with a slight forward lean, holding his glowing greatsword ready; (2) crouching pose, knees bent, sword lowered, eyes focused; (3) walking pose, left foot forward, cloak billowing, sword swung slightly behind; (4) jumping pose, mid‑air, sword raised overhead, talisman glowing, with motion blur pixels; each frame uses a muted dark palette with bright blue highlights on the weapon, rendered in crisp pixel art style, consistent character proportions and shading across all frames.
+
+Background Story:
+Kael Varyn was once a humble blacksmith in the bustling market district of the capital, known for his skill and honest demeanor. When a mysterious plague swept the city, his family perished, and a shadowy militia burned his workshop to the ground, leaving him for dead. Miraculously, Kael survived, but the experience shattered his mortal coil, binding his spirit to a lingering blade forged from the ashes of his forge. Now a revenant of vengeance, he roams the Land of Shadows seeking the architects of the plague and the militia that betrayed him. Haunted by flickering memories of his lost life, Kael wrestles with the temptation to become the very darkness he despises. The stakes grow as each enemy he spares remembers him, altering their tactics, forcing Kael to decide whether to break the cycle of blood or be consumed by it. His quest intertwines personal redemption with uncovering the true cause of the plague that still threatens the world.
+
+Skill Tree:
+- Tier 1:
+  - Ember Strike: Unleash a quick melee attack that adds a burst of fire damage and briefly ignites the enemy.
+  - Shadow Dodge: Perform a swift roll that grants temporary invulnerability frames and leaves a faint shadow trail.
+  - Spirit Pulse: Release a short‑range pulse that reveals hidden enemy memory markers and slightly regains stamina.
+- Tier 2:
+  - Rift Blade: Charge the greatsword to create a cleaving wave that penetrates multiple foes and reduces their combat memory.
+  - Echoing Counter: Time a counter‑attack perfectly to stun the attacker and increase combo multiplier for a short period.
+  - Veil of Ash: Activate a defensive aura that absorbs a portion of incoming damage and cloaks Kael in ash, reducing enemy detection.
+- Tier 3:
+  - Revenant's Fury: Enter a berserk state where attacks chain automatically, dramatically raising damage and combo multiplier.
+  - Memory Sever: Strike an enemy to erase their recollection of Kael, resetting their tactics and removing hostility bonuses.
+  - Dark Ascendance: Summon spectral wings for a brief flight, allowing a devastating aerial plunge that deals massive area damage.

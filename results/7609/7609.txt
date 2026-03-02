@@ -1,0 +1,26 @@
+Entry: 7609 / 7609
+
+Name: Aiden Vale
+
+Concept art Image Prompt:
+Pixel art illustration of a young adult male protagonist standing in a dimly lit, abandoned research facility hallway. He has short, messy dark hair, pale skin, and weary green eyes. He wears a weathered dark coat with reinforced shoulders, a fitted utility shirt underneath, cargo trousers, and sturdy boots; a small flashlight clips to his chest strap and a rusted pocketknife hangs from his belt. His posture is tense, one hand gripping the flashlight, the other resting on a crumpled notebook. Light streams from a flickering overhead bulb, casting long shadows on cracked concrete walls covered in faded warning signs. The scene uses a muted color palette with splashes of teal and amber, atmospheric fog drifting near the floor. Art style tags: pixel art, isometric perspective, high detail, cinematic lighting, horror ambience.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of the same young male protagonist in a survival horror setting: 1) standing pose with flashlight raised, neutral expression; 2) crouching pose, low to the ground, holding a small knife; 3) walking pose, left leg forward, coat fluttering, flashlight leading; 4) jumping pose, mid-air with arms raised, flashlight shining upward. Consistent outfit and color scheme as described, crisp pixel resolution, clear silhouette, subtle shading, horror‑themed background elements faintly visible.
+
+Background Story:
+Aiden Vale grew up on the outskirts of the coastal town that now houses the derelict research complex, spending his youth exploring crumbling warehouses and documenting urban decay. After his older sister vanished during a secret expedition into the facility, he vowed to uncover the truth behind the site’s hidden experiments. Armed with a family heirloom notebook and a restless curiosity, Aiden returns to the complex, driven by both grief and a need for closure. He wrestles with the moral weight of sacrificing strangers to obtain clues that might rescue his sister’s memory. The butterfly effect of each decision haunts him, as every action ripples through the labyrinthine corridors, altering the fates of the other survivors. Aiden’s internal battle between self‑preservation and altruism defines his journey through the nightmarish halls.
+
+Skill Tree:
+- Tier 1:
+  - Keen Observation: Increases detection range for hidden items and clues.
+  - Steady Hands: Reduces quick‑time event failure chance by 15%.
+  - Lightweight Gear: Decreases stamina consumption while crouching and walking.
+- Tier 2:
+  - Moral Resolve: Grants a small boost to sanity when making difficult ethical choices.
+  - Improvised Weaponry: Allows the use of found objects as temporary weapons, dealing moderate damage.
+  - Echo Recall: Highlights previously visited locations on the map for a brief period.
+- Tier 3:
+  - Paradox Insight: Unlocks a one‑time ability to briefly reverse a recent butterfly‑effect consequence.
+  - Survivor’s Instinct: Automatically alerts you to nearby hostile entities before they appear.
+  - Last Light: Extends flashlight duration and brightens its beam for a short burst in darkness.

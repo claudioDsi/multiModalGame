@@ -1,0 +1,26 @@
+Entry: 1000 / 1000
+
+Name: Jaxy Moors  
+
+Concept art Image Prompt:
+A detailed pixel art portrait of Jaxy Moors, a wiry middle‑aged explorer with a scruffy beard, wild copper hair tied back, wearing a patched leather coat over a glowing teal exosuit and a half‑covered amber visor. He holds a pulsating bone‑infused crystal in one hand and a rusted pipe‑wrench in the other, standing in the dimly lit, cavernous ruins of the ancient Mudokite burial city, surrounded by bioluminescent skeletal remains and swirling spectral mist. Soft rim lighting highlights his determined expression, with a faintly glowing aura of invisibility flickering around him. Rendered in vibrant 16‑bit style pixel art, dramatic low‑key lighting, with atmospheric haze and subtle reflections on the wet stone floor.  
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet featuring four sequential frames of Jaxy Moors: (1) standing neutral pose with hands at sides, (2) crouching low ready to spring, (3) walking stride with one foot forward and coat fluttering, (4) jumping pose with knees bent, a burst of orange‑yellow gas emanating from his rear, all using a consistent muted‑earthy palette and glowing teal accents, rendered in crisp 16‑bit style.  
+
+Background Story:
+Jaxy Moors spent his twilight years in a quiet mountain cabin, harvesting herbs and sipping fermented mushroom brew, until a cryptic vision from the enigmatic Order of the Veiled Cog shattered his peace. The Order revealed that the Order of the Veiled Cog itself was mining the sacred Mudokite City of the Dead, extracting brittle bone fragments to forge the mind‑bending narcotic known as the Greyroot Elixir. Driven by guilt and curiosity, Jaxy descended into the catacombs, freeing trapped Mudokite spirits from the Echoing Sepulcher and the Whispering Shaft, which granted him uncanny powers including spectral healing and the ability to slip between shadows. Armed with his exosuit and a trusty pipe‑wrench, he infiltrated the airborne transit hub of the Sky‑Rail Dock, surviving hazardous tunnels with explosive farts that shattered crystal barriers. In the heart of the Boneforge Citadel, Jaxy uncovered the true secret ingredient of the Elixir—a harvested fragment of a forgotten soul. He detonated the citadel using the combined power of the healed Mudokite allies, turning the once‑dead city to ash. Finally, he reunited with his brew‑addled companions at the Ember Tavern, sharing the cure and setting off on a new quest—one step, or perhaps twelve, into the unknown.  
+
+Skill Tree:  
+- Tier 1:  
+  - Gasburst Blast: Releases a short‑range explosive fart that damages and staggers enemies.  
+  - Spectral Mend: Heals a nearby Mudokite ally of Greyroot addiction, removing all status effects.  
+  - Veil Shift: Grants temporary invisibility for a few seconds, breaking when the player attacks.  
+- Tier 2:  
+  - Bone Harvest: Collects bone fragments from defeated enemies, granting a temporary damage boost.  
+  - Echo Step: Performs a short teleport dash that passes through enemies without collision.  
+  - Spirit Resonance: Empowers nearby allies, increasing their attack speed for a limited time.  
+- Tier 3:  
+  - Cataclysmic Detonation: Unleashes a massive blast centered on Jaxy, obliterating terrain and enemies in range.  
+  - Soulfire Purge: Fires a beam of purifying energy that cures all allies of addiction and damages foes.  
+  - Chrono Leap: Jumps forward through time, landing at a distant point while briefly freezing surrounding enemies.
