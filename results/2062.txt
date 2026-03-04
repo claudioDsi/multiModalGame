@@ -1,23 +1,26 @@
 Entry: 2062 / 2062
 
-Name: Mira Kade
+Name: Sora Mori
 
-Image Prompt:
-pixel art, 32-bit style, a slender woman in her late twenties with short, asymmetrical teal hair and cybernetic amber eye implant, wearing a weathered leather jacket over a dark tactical bodysuit, fingerless gloves, and silver combat boots, standing on a rain‑slick alleyway beneath neon signs, holding a compact electromagnetic pistol at her side, distant city skyline with towering skyscrapers and smog, dynamic low‑angle lighting with neon reflections and mist, expressive pixelated facial details, muted color palette with neon accents, cyber‑punk atmosphere, dramatic shadow play, detailed sprite, isometric view
+Concept art Image Prompt:
+Pixel art of Sora Mori, a mid‑30s detective with short, messy black hair, a narrow scar across his left cheek, wearing a rumpled dark trench coat, leather gloves, and a utility belt with a smoked revolver; he stands in a neon‑lit, rain‑slick alleyway, neon signs reflected on puddles, soft backlight glows behind him, atmosphere heavy with mist, dramatic shadows, 32‑bit style, vivid colors, cyber‑noir mood, pixel art
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames (standing, crouching, walking, jumping) of Sora Mori in a dark trench coat with a visible holster, leather gloves, short black hair, each pose shown on a transparent 64x64 canvas, coat flutters subtly, neutral gray background, 32‑bit palette, crisp pixel art style
 
 Background Story:
-Mira Kade grew up in the underbelly of the sprawling megacity, learning to navigate its labyrinthine alleys after her older brother vanished under mysterious circumstances. Trained as a street‑wise informant, she now works freelance for the city's covert enforcement agency, feeding them intel in exchange for clues about her brother's fate. Her cybernetic eye implant, salvaged from a black‑market tech vendor, grants her the ability to see hidden data streams, but it also constantly feeds her fragmented memories of a hidden surveillance program. Mira wrestles with the moral ambiguity of selling secrets to an organization that may be responsible for her brother’s disappearance. When a rival syndicate threatens to destabilize the fragile peace, she is forced to choose between exposing the agency’s corruption or protecting the only family she has left. Her personal vendetta intertwines with the city’s power struggle, making her a pivotal player in the looming conflict.
+Sora Mori grew up on the hard‑knock streets of the sprawling metropolis, watching his older brother fall victim to a notorious syndicate. Determined to dismantle the criminal network, he joined the city police force, quickly rising to become a detective renowned for his relentless interrogation techniques. A botched raid left him with a permanent scar, a reminder of both his failure and his resolve. Haunted by the loss of his brother, Sora walks a thin line between law and vengeance, often bending rules to extract the truth. The city’s new surge of organized crime threatens to drag the innocent into its vortex, and Sora sees his personal vendetta entwined with the larger battle for justice. As the city’s shadows deepen, he must decide whether to become the very thing he despises in order to protect the people he swore to serve.
 
 Skill Tree:
 - Tier 1:
-  - Data Glint: Reveals hidden electronic devices and surveillance nodes within a short radius.
-  - Quick Escape: Grants a brief burst of speed to dodge attacks or flee danger.
-  - Street Smarts: Increases detection of traps and ambushes while exploring urban environments.
+  - Rapid Draw: Instantly draws the revolver, granting a brief speed boost to the next attack.
+  - Street Insight: Highlights nearby points of interest and enemy positions for a short duration.
+  - Bullet Parry: Blocks an incoming projectile, reducing damage and briefly stuns the attacker.
 - Tier 2:
-  - Pulse Hack: Temporarily disables enemy cyber‑augments, leaving them vulnerable.
-  - Neon Veil: Creates a flickering light field that obscures Mira’s position from enemies.
-  - Razor Reflexes: Enhances melee counterattack damage after a successful dodge.
+  - Crouch Shot: Fires from a crouched stance, increasing accuracy and critical hit chance.
+  - Interrogation Tactics: Temporarily lowers enemy alertness, making them vulnerable to stealth actions.
+  - Cover Fire: Suppresses enemies in a small radius, reducing their movement speed.
 - Tier 3:
-  - Echo Scan: Allows Mira to trace the origin of a specific data packet across the city network.
-  - Overload Shot: Fires a concentrated EMP blast from her pistol, stunning multiple foes.
-  - Reckoning Insight: Grants a one‑time revelation of a major plot secret, affecting story outcomes.
+  - Rainy Reprisal: Unleashes a charged shot that deals extra damage during rain, shattering enemy defenses.
+  - Silent Vengeance: Performs a silent dash behind an enemy, delivering a high‑damage backstab.
+  - Nightfall Resolve: Grants a persistent damage resistance bonus when health drops below 30 %.

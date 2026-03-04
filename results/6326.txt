@@ -1,23 +1,26 @@
 Entry: 6326 / 6326
 
-Name: Solan Lightwarden
+Name: Lumen Kade
 
-Image Prompt:
-pixel art, 32x32 sprite of a teenage male inventor with short spiky blond hair and bright amber eyes, wearing a lightweight solar-plate chest harness glowing with golden circuitry, a utility belt with glass vials, and fingerless gloves; holding a sleek sun‑infused crossbow that emits a faint aurora, stance mid‑step on a sun‑drenched stone path surrounded by wilted gothic ruins, shafts of golden sunlight streak across the scene, dynamic lighting highlights shimmering reflections on his gear, background includes distant vampire silhouettes; art style: vibrant retro pixel, high contrast, emphasis on warm color palette, no brand logos.
+Concept art Image Prompt:
+pixel art, 4k resolution, vibrant daylight, young adult with short wind‑swept ash‑gray hair and golden eyes, wearing a lightweight solar‑woven leather jacket with glowing amber trim, reinforced gauntlet on right arm that houses a sun‑charged blaster, dark cargo pants with reflective strips, sturdy boots with small solar panels on the heels, standing on a sun‑drenched rooftop overlooking a gothic cityscape with distant bat silhouettes, sunrise casting long rays, pose dynamic with one hand gripping the blaster, the other outstretched toward the light, soft shadows, high contrast, retro handheld game aesthetic
+
+Sprite sheet Image Prompt:
+pixel art, 64x64 canvas, 4 frames of Lumen Kade: 1) standing pose, shoulders back, blaster holstered, faint glow on gauntlet; 2) crouching pose, low to the ground, aiming blaster upward, solar panel on boot illuminated; 3) walking pose, one leg forward, blaster raised slightly, sun‑flare accent on jacket trim; 4) jumping pose, knees bent, arms raised, blaster firing a burst of light, background is transparent, retro GBA style, crisp pixel edges, limited palette with bright yellows and deep blues
 
 Background Story:
-Solan grew up in the isolated lighthouse town of Dawnwatch, where his mother tended the beacon and his father crafted solar lenses to power the lantern. Fascinated by light, he taught himself engineering, eventually creating a compact sun‑collector that could store daylight in crystal cells. When a wave of nocturnal predators—vampires drawn to the town’s darkness—began hunting the citizens, Solan realized his inventions could become weapons. He forged the Sunflare Crossbow, a gun that converts stored sunlight into concentrated beams capable of searing the undead. Yet he wrestles with his fear of shadows, knowing that prolonged darkness will drain his power and leave him vulnerable. Determined to protect his home, he ventures into the cursed woods, urged on by the promise that every sunrise restores his strength and edges him closer to eradicating the night’s menace.
+Lumen Kade grew up in the shadow of the ancient Cravenspire Cathedral, where generations of hunters whispered of nocturnal predators that fed on fear. After a mysterious vampire slayed Lumen’s older sibling, they swore to master the very element that repels such creatures: sunlight. Guided by a reclusive inventor, Lumen crafted a solar‑enhanced gauntlet that channels ambient light into weaponized energy. Though the device grants great power, it also leaves Lumen vulnerable when clouds gather, creating an inner struggle between reliance on light and fear of darkness. The city’s night‑time streets are now crawling with blood‑thirsty vampires, and the only hope lies in coaxing the world’s inhabitants to step outside and feed the sun sensor. Lumen must rally the populace, expose hidden vampire lairs, and keep the sun’s rays flowing, lest the darkness consume everything. Each sunrise becomes both a weapon and a race against time.
 
 Skill Tree:
 - Tier 1:
-  - Sunflare Shot: Fires a single concentrated ray of stored sunlight, dealing moderate damage to a target.
-  - Radiant Dash: Short burst of speed leaves a trail of bright afterglow that briefly blinds nearby enemies.
-  - Light Shield: Generates a temporary solar barrier that absorbs a small amount of incoming damage.
+  - Solar Pulse: fires a short burst of light that damages and momentarily blinds nearby vampires.
+  - Light Harvest: passively converts ambient daylight into a small amount of energy per second.
+  - Sun‑Ward Reflex: increases dodge speed when standing in direct sunlight.
 - Tier 2:
-  - Solar Burst: Unleashes a small area‑of‑effect explosion of light, damaging all enemies within radius.
-  - Helios Charge: Charges the crossbow for a powerful charged shot that pierces multiple foes.
-  - Daybreak Reflex: Increases dodge speed and reduces cooldowns when sunlight intensity is high.
+  - Radiant Dash: a quick forward dash that leaves a trail of scorching light, damaging enemies.
+  - Photon Shield: creates a brief protective barrier that absorbs one hit, powered by stored solar energy.
+  - Daybreak Insight: reveals hidden vampire sigils and weak points when the sun sensor registers high light levels.
 - Tier 3:
-  - Sunstorm Cannon: Fires a massive, continuous beam of pure sunlight that devastates a large cone of enemies.
-  - Eclipse Veil: Creates a field that nullifies darkness‑based attacks and reduces enemy vision range.
-  - Dawn's Ascendance: Fully charges solar energy to grant temporary invulnerability and rapid health regeneration while in direct sunlight.
+  - Solar Cannon: charges a powerful concentrated beam that pierces multiple foes, consuming a large energy reserve.
+  - Eclipse Counter: when light levels drop, temporarily boost melee damage and grant a short invulnerability window.
+  - Dawn’s Blessing: fully restores energy and health if the player spends a continuous minute outdoors in full sun.

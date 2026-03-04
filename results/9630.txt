@@ -1,23 +1,26 @@
 Entry: 9630 / 9630
 
-Name: Aria Voss
+Name: Kael Voss
 
-Image Prompt:
-pixel art, 32-bit style, young adult survivor with short, shaggy dark hair streaked with ash, green-gray eyes, slight scar across left cheek; wearing a patched leather jacket over a thermal undershirt, cargo pants reinforced with scrap metal plates, utility belt with makeshift tools and a glowing radium lantern; standing amid ruined skyscraper skeletons under a muted orange sky, radioactive mist swirling at ground level; holding a reinforced pipe wrench in one hand, a salvaged handheld radio in the other; soft rim lighting from distant firelight, detailed texture on debris, isometric perspective, dramatic, atmospheric, retro pixel art. 
+Concept art Image Prompt:
+Pixel art, 4K resolution, highly detailed illustration of Kael Voss, a lean early‑30s survivor with short, ash‑colored hair and a scar across his left eye, wearing a patched leather duster over a reinforced kevlar vest, cargo pants with makeshift utility belts, and rugged steel‑toed boots; he holds a salvaged welding torch in his right hand, left hand gripping a battered pipe, standing amid the ruins of a cracked concrete cityscape illuminated by a muted orange sunset, overturned cars and twisted metal scaffolding in the background, soft rim lighting highlighting dust particles in the air, style reminiscent of gritty retro‑future game concept art, pixel art aesthetic.  
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas per frame, four frames of Kael Voss: 1) standing pose, hands on hips, slight forward lean, eyes focused; 2) crouching pose, one knee down, welding torch ready, eyes narrowed; 3) walking pose, left leg forward, right arm swinging, broken pipe slung over shoulder; 4) jumping pose, knees bent, torso arched upward, torch ignited, dust puff trailing, muted desolate backdrop, consistent color palette and pixel resolution across frames.  
 
 Background Story:
-Aria Voss was a junior engineer living in the coastal research hub of Havenport when the nuclear barrage struck, turning the city into a crater of glass and fire. She escaped the initial blast by sealing herself in an underground maintenance tunnel, emerging hours later to a world of silence and ruin. With only her knowledge of machinery and a stubborn will to survive, Aria scavenges the wasteland to keep the remnants of humanity’s technology alive. Haunted by the loss of her younger brother, who perished in the fallout, she struggles with guilt that drives her to rebuild what was lost. Every decision she makes—whether to trade scarce resources or to defend a settlement—shapes the fragile hope blooming among the ruins. The fate of the once‑thriving settlement of New Dawn, a beacon of renewal, now hangs on her ability to unite scattered survivors. Aria’s ultimate goal is to restore power to the dormant hydro‑grid, reigniting civilization’s heart and offering a home for those who remain.
+Kael Voss was a junior engineer at the coastal megafacility of Argus Bay when the nuclear exchange erupted, sealing his fate as the sole survivor of the fallout‑scarred district. Buried beneath the wreckage for weeks, he emerged to a world of ash, radiation‑twisted flora, and fragmented societies fighting over scarce resources. Driven by guilt over the lives lost in his former community, Kael vows to rebuild a safe haven using his technical knowledge and scavenged tech. He constantly battles the temptation to surrender to despair as radiation‑sick mutants and hostile raiders threaten his progress. Each sunrise forces him to decide whether to hoard his findings or share them with wandering survivors, shaping the destiny of the ruined settlement he calls home.  
 
 Skill Tree:
 - Tier 1:
-  - Scavenger’s Insight: Highlights salvageable items and hidden caches within the immediate vicinity.
-  - Quick Patch: Instantly repairs minor damage on weapons or equipment for a short duration.
-  - Survival Instinct: Grants a temporary boost to movement speed when health drops below 30%.
+  - Scavenge Mastery: Increases the chance of finding valuable components from debris by 25%.
+  - Radiation Resilience: Reduces radiation damage taken by 15% and slows poisoning effects.
+  - Improvised Weaponry: Grants a temporary boost to melee damage when wielding makeshift tools.
 - Tier 2:
-  - Radiant Shield: Deploys a portable field that reduces radiation damage for nearby allies.
-  - Improvised Contraption: Crafts a one‑use gadget from collected parts that can stun or distract enemies.
-  - Tactical Recall: Marks a location and instantly teleports back to it once per mission.
+  - Weldcraft: Allows crafting of reinforced armor plates that add extra defense.
+  - Tactical Stealth: Reduces detection radius from enemies while crouching or moving slowly.
+  - Energy Conversion: Converts collected scrap into small bursts of renewable power for gadgets.
 - Tier 3:
-  - Grid Revitalizer: Reactivates dormant power nodes, restoring energy to allied structures and providing a large area buff.
-  - Engineer’s Resolve: Permanently increases the durability of all equipped gear and reduces repair costs.
-  - Beacon of Hope: Emits a radiant pulse that heals allies over time and inspires increased combat effectiveness.
+  - Habitat Builder: Enables the construction of modular shelters that provide morale and resource bonuses.
+  - Overcharge Burst: Unleashes a powerful, short‑range shockwave from the welding torch, staggering foes.
+  - Leadership Resolve: Inspires nearby NPC survivors, increasing their combat efficiency and health regeneration.

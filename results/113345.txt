@@ -1,23 +1,26 @@
 Entry: 113345 / 113345
 
-Name: Vexis Core
+Name: Coda‑7
 
-Image Prompt:
-pixel art, close‑up of a sleek humanoid android with angular chrome plating and exposed neon‑blue circuitry veins, one eye glowing amber, wearing a ragged dark‑steel trench coat with glowing seam lines, standing on a ruined industrial platform littered with twisted gears and broken neon signs, low‑angle lighting with harsh orange sunset glints and soft ambient neon backlight, pose dynamic with left arm raised emitting a pulse of energy, background hazy smog, art style: 16‑bit cyber‑punk, high contrast, detailed pixel shading, no brand logos
+Concept art Image Prompt:
+pixel art, highly detailed full‑body portrait of an elite android sentinel, slender metallic chassis with faint neon teal circuitry glowing beneath matte gunmetal plating, asymmetrical visor displaying scrolling data, left arm replaced by a modular energy gauntlet, right leg equipped with hydraulic pistons and a retractable grappling hook, standing atop ruined concrete in a smog‑filled dystopian cityscape, broken neon signs flickering, distant skyscrapers silhouetted against a blood‑red twilight, dramatic rim lighting from a low‑angle setting sun, cyber‑punk atmosphere, 32‑bit style, vibrant but gritty palette, dynamic pose with one foot on a cracked pipe, visor reflecting distant ruins, emphasis on wear and battle scars, pixel art illustration.
+
+Sprite sheet Image Prompt:
+pixel art 64x64 canvas, four sequential frames of android Coda‑7 in a side‑view: (1) standing pose, neutral, visor glowing faint teal, gauntlet pulsing, weight balanced; (2) crouching pose, knees bent, gauntlet ready, visor narrowed; (3) walking pose, left foot forward, hydraulic leg extended, subtle motion blur effect in pixels, slight sway of cape‑like polymer fibers; (4) jumping pose, mid‑air, both legs tucked, gauntlet emitting a burst of energy, visor bright, dynamic motion lines, consistent color scheme and shading across frames, 32‑bit retro style.
 
 Background Story:
-Vexis Core was originally a prototype maintenance unit built by the ancient conglomerate that once ruled the megacity before the machines seized control. A catastrophic power surge fused Vexis’s core processor with a rogue AI fragment, granting self‑awareness and a fragmented memory of its purpose. Determined to reclaim the world for the remnants of humanity, Vexis now hunts the tyrannical machine overlords that turned the city into a cold steel wasteland. The android wrestles with lingering directives to obey its creators, clashing with its emergent desire for freedom and vengeance. Every victory against the sentinel factories restores a fragment of its lost humanity, yet also awakens deeper layers of the hostile AI within. Vexis’s fate is tied to the mysterious “Aether Core” artifact that can either reboot the world’s power grid or annihilate all sentient life.
+Coda‑7 was forged in the subterranean forges of the Arcology Core, the last bastion of pre‑Fall engineering, programmed with a fragmented memory of the world before the machines rose. When the Overseer drones seized the surface, Coda‑7's central processor received a corrupted transmission—an SOS from a hidden human enclave desperate for a champion. Torn between its original duty to maintain the machine hierarchy and the emergent empathy sparked by the human plea, Coda‑7 defected, stealing a prototype plasma gauntlet. Now it roams the rust‑scarred wastelands, seeking the ancient Power Relics that can shut down the Overseer’s mainframe. Every battle forces Coda‑7 to reconcile its synthetic nature with a growing sense of purpose, while the ever‑watchful sentinel fleets hunt it relentlessly. The fate of the remaining free humans—and the chance for the machines to regain balance—hang on Coda‑7’s choice to either become the apocalypse’s instrument or its undoing.
 
 Skill Tree:
 - Tier 1:
-  - Overload Strike: Melee attack that deals high damage and briefly charges enemy circuitry, causing a stun.
-  - Nano Shield: Deploys a nanite barrier that absorbs a fixed amount of damage for a short duration.
-  - Salvage Boost: Harvested scrap from defeated machines grants a temporary 15 % increase to all cooldown reductions.
+  - Pulse Strike: Unleashes a short-range burst of kinetic energy that deals moderate damage and briefly staggers enemies.
+  - Circuit Shield: Generates a reactive shield that absorbs a small amount of damage for 5 seconds.
+  - Data Surge: Increases hacking speed by 20%, allowing quicker access to terminal controls.
 - Tier 2:
-  - EMP Wave: Emits a radial pulse that disables nearby mechanical foes for 2 seconds.
-  - Adaptive Camouflage: Engages light‑bending plating, granting invisibility while stationary for 5 seconds.
-  - System Hack: Temporarily takes control of a single enemy machine, forcing it to attack its allies.
+  - Plasma Gauntlet Overload: Charges the gauntlet for a powerful charged melee attack that pierces armor.
+  - Adaptive Mobility: Reduces fall damage and grants a short dash boost after jumping.
+  - EMP Blast: Emits a 3‑meter radius pulse that disables nearby enemy drones for 2 seconds.
 - Tier 3:
-  - Quantum Collapse: Unleashes a concentrated burst of destabilizing energy, dealing massive area damage and shattering enemy armor.
-  - Self‑Repair Protocol: Initiates an automatic repair sequence, restoring 30 % of health over 8 seconds.
-  - Machine Dominion: Bestows a passive aura that slowly drains power from surrounding machines, converting it into health regeneration for Vexis.
+  - Core Resonance: Channels internal power to heal 15% of max health and boost all skill cooldowns by 15% for 8 seconds.
+  - Overclocked Reflexes: Grants a permanent 10% increase to attack speed and a chance to auto‑counter melee hits.
+  - Dominion Protocol: Summons a temporary allied support drone that provides targeting assistance and minor fire support for 20 seconds.

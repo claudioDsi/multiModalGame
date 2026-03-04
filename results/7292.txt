@@ -2,22 +2,25 @@ Entry: 7292 / 7292
 
 Name: Kairo Vex
 
-Image Prompt:
-Kairo Vex, a cyber‑enhanced ronin with a sleek chrome arm and glowing blue tattoos, standing in a rain‑slick neon alley at night, holding a translucent energy katana in one hand and a compact wrist‑mounted gauntlet in the other, mid‑teleport with a motion blur effect, eyes illuminated by holographic circuitry, wearing a torn high‑collar trench coat that flutters, pixel art style, 16‑bit resolution, vibrant neon lighting, dynamic pose, detailed background with flickering signs and puddles reflecting light, art style tags: pixel art, cyberpunk, neon, dramatic lighting, action pose.  
+Concept art Image Prompt:
+A highly detailed pixel art illustration of Kairo Vex, a lithe combatant with cyber‑enhanced limbs, wearing a torn high‑collar trench coat with glowing teal circuitry patterns, fingertip gauntlets that emit a faint electric hum, and combat boots reinforced with metal plating. He stands on a shattered rooftop at dusk, lightning crackling in the background, one hand poised to unleash a telekinetic punch while the other grips a detachable energy blade that glows red. The pose is dynamic, weight shifted forward, eyes glowing amber, with dramatic rim lighting highlighting his silhouette. Style: pixel art, 8‑bit, vibrant neon colors, high contrast, cinematic lighting.
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet containing four frames of Kairo Vex: 1) standing pose with fists relaxed, slight forward lean; 2) crouching pose with knees bent, blade partially drawn, ready to strike; 3) walking pose showing one leg forward, coat flapping, gauntlet emitting a small spark; 4) jumping pose with arms raised, energy blade trailing a brief neon arc. All frames use consistent color palette of teal, black, and electric red, with clear pixel‑perfect outlines, background transparent.
 
 Background Story:
-Kairo Vex grew up in the underbelly of a megacity where corporate warlords ruled the streets with merciless drones. After a secret experimental upgrade fused his nervous system with alien alloy, he gained unparalleled speed and the ability to manipulate energy. He swore vengeance against the conglomerate that sacrificed his sister in a reckless weapons test, vowing to expose their cruelty. Haunted by the lingering echo of his sister’s voice, Kairo struggles between his humanity and the cold logic of his cybernetic parts. The fighting tournament offers a direct route to the conglomerate’s elite enforcers, each match a stepping stone toward the final showdown. Yet his growing power risks losing the very soul he fights to protect, making every victory a double‑edged blade.
+Kairo Vex was once a promising engineer in the floating metropolis of Zircon Spire, specializing in kinetic weaponry. After a catastrophic experiment fused his nervous system with prototype energy conduits, he gained the ability to channel electricity through his body but lost control over the volatile power. Driven to master his newfound abilities, Kairo entered the tournament to locate the ancient Core Matrix rumored to stabilize his condition. Yet the Core also promises untold power, forcing him to choose between personal salvation and the risk of unleashing a city‑wide catastrophe. Haunted by visions of his former self, he fights not only opponents but the inner surge that threatens to consume him. His journey intertwines with the tournament’s chaotic stages, where every bout could bring him closer to redemption or ruin.
 
 Skill Tree:
 - Tier 1:
-  - Photon Punch: A rapid straight punch that deals low damage and briefly staggers the opponent.
-  - Echo Kick: A low sweep kick that launches a short wave of sonic energy, pushing enemies back.
-  - Glint Block: A timed block that reflects a portion of incoming damage as a flash of light.
+  - Pulse Jab: A quick light punch that briefly stuns the opponent.
+  - Shock Step: A low dash that leaves an electric trail damaging anyone who steps on it.
+  - Blade Snap: A fast melee strike with the energy blade that reduces opponent’s block meter.
 - Tier 2:
-  - Nebula Slash: Unleashes a wide arc of energy with the katana, slicing multiple foes in range.
-  - Phase Rift: Teleports a short distance, leaving behind a disorienting afterimage that confuses the opponent.
-  - Weapon Overload: Charges the wrist gauntlet for a powerful blast that penetrates armor.
+  - Arc Uppercut: A powerful upward punch that launches the foe and builds X‑Ray meter faster.
+  - Tesla Teleport: Short-range teleport that instantly repositions and deals minor shock damage on arrival.
+  - Overload EX: Enhanced EX move that adds a burst of area‑wide electricity to any special attack.
 - Tier 3:
-  - X‑Ray Collapse: Triggers a high‑damage X‑Ray move that flares through the opponent’s defenses, causing internal damage.
-  - EX Surge: Consumes EX energy to boost attack speed and damage for a limited time.
-  - Nullify Breaker: Executes a combo breaker that resets the opponent’s meter and stuns them briefly.
+  - Core Burst: An X‑Ray move that channels the Core Matrix, delivering a massive multi‑hit combo with visual distortion.
+  - Circuit Breaker: A combo breaker that nullifies opponent’s ongoing combo and resets their meter.
+  - Voltaic Finale: A fatality where Kairo summons a storm of electric arcs, disintegrating the opponent in a dazzling display.

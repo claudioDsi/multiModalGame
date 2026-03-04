@@ -1,23 +1,26 @@
 Entry: 19221 / 19221
 
-Name: Varyn Thornwhisper
+Name: Kael Stormwatcher
 
-Image Prompt:
-pixel art, 32‑bit style, front‑facing Varyn standing on a misty cliff edge overlooking a sunrise‑lit valley, wearing weathered leather armor with brass buckles, a dark green cloak trimmed in silver thread, a hood pulled back to reveal short, ash‑brown hair and sharp amber eyes, a curved obsidian dagger sheathed at the waist, a wooden staff planted in the ground beside him glowing faintly with pale blue sigils, torches flickering in the background, soft golden sunrise lighting, atmospheric, high detail, vibrant palette, top‑down RPG pixel art.  
+Concept art Image Prompt:
+A lone wanderer standing on a mist‑shrouded mountain pass at dawn, rugged face partially covered by a weathered leather hood, long dark coat adorned with muted tribal engravings, a wooden staff topped with a faintly glowing crystal. Wind whips his cloak, distant silhouettes of foreign provinces visible beyond the ridge. Soft golden sunrise lighting, atmospheric depth, high‑detail pixel art style, 4‑K resolution, vibrant yet muted palette, emphasis on texture and mood.
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet showing Kael Stormwatcher in four sequential frames: (1) standing upright with staff planted, eyes forward; (2) crouching low, ready to spring, staff angled downward; (3) mid‑step walking animation, left foot forward, coat swaying; (4) jumping upward, staff raised, hair and cloak fluttering. Pixel art style, limited color palette, clean outline, consistent lighting from top left, no background.
 
 Background Story:
-Varyn Thornwhisper was born in the frontier village of Greyfen, a settlement that once marked the outermost border of the ancient kingdom. When the borders were torn down by the Great Unsealing, his home fell into chaos as wandering armies and strange beasts crossed the newly opened lands. Guided by the memory of his mother's stories about the lost provinces beyond, Varyn set out to map the uncharted territories and uncover the secrets that lie hidden. He carries a staff forged from a fallen star, believing it can bind the fragmented energies that now tear at the world. Yet he is haunted by a lingering oath to protect the fragile peace his people barely understand, fearing that his curiosity may awaken greater darkness. As rival factions vie for control over the newly accessible realms, Varyn must decide whether to become a unifying bridge or a solitary wanderer lost to the wilds. His journey will shape the fate of the lands beyond the former borders, and his choices will echo through the roots of the world itself.  
+Kael Stormwatcher hails from the secluded highlands that once formed the outer shield of a great empire, a region long sealed off by ancient border wards. When the wards failed, Kael ventured beyond the hidden passes and discovered the neighboring provinces teeming with strange cultures and untold dangers. Driven by a promise to his dying mentor to map the lost frontier, he now chronicles the lands beyond, seeking the truth behind the shattered borders. Haunted by visions of a looming darkness that whispers from the east, Kael wrestles with doubt—whether his curiosity will bring salvation or doom. The fate of the borderlands rests on his discoveries, as each new province may hold the key to repairing the broken world or unleash its ruin. His resolve is tested by rival explorers, hostile factions, and the ever‑present threat of the unknown.
 
 Skill Tree:
 - Tier 1:
-  - Star‑forged Strike: Unleashes a swift melee attack that deals additional damage equal to a small portion of the enemy’s max health.
-  - Boundless Survey: Reveals hidden terrain and points of interest within a moderate radius for a short duration.
-  - Ember Ward: Creates a protective field that reduces incoming damage by a modest percentage for a few seconds.
+  - Border Insight: Reveals hidden paths and secret entrances within a short radius.
+  - Wind‑borne Step: Increases movement speed and adds a brief dash with reduced cooldown.
+  - Staff Strike: A quick melee attack that deals moderate damage and briefly staggers enemies.
 - Tier 2:
-  - Celestial Pulse: Emits a wave of star‑energy that damages and briefly stuns nearby foes.
-  - Echoing Steps: Grants temporary movement speed boost and leaves a faint trail that confuses enemies who follow.
-  - Lorekeeper’s Insight: Grants a temporary boost to experience gain and reveals the next major objective on the map.
+  - Crystal Ward: Projects a small shield around Kael that absorbs a fixed amount of damage.
+  - Echoing Call: Emits a low‑frequency pulse that momentarily reveals distant enemies on the mini‑map.
+  - Mountain Resolve: Grants temporary resistance to elemental effects when standing on elevated terrain.
 - Tier 3:
-  - Rift Seal: Channels star‑energy to temporarily close a portal or rift, preventing enemies from emerging for a limited time.
-  - Dawn’s Resolve: Massive AoE attack that deals high damage and heals allies within its radius based on Varyn’s missing health.
-  - Veil of the Wilds: Cloaks Varyn in a camouflage of forest shadows, rendering him invisible to enemies unless he attacks.
+  - Stormwatcher's Beacon: Summons a radiant beacon that heals allies and weakens nearby foes over time.
+  - Riftwalk: Allows Kael to phase through a short distance, ignoring obstacles and enemy attacks.
+  - Legacy of the Ward: Permanently reduces cooldowns of all mobility skills and increases detection range for hidden lore objects.

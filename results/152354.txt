@@ -1,23 +1,26 @@
 Entry: 152354 / 152354
 
-Name: Kiara Starflare
+Name: Glint Bloom
 
-Image Prompt:
-pixel art, 32x32 sprite of a vibrant, youthful heroine with teal hair styled in a high ponytail, sparkling gold star-shaped hair clips, bright amber eyes, wearing a sleeveless teal bomber jacket adorned with glowing star patches, purple short shorts, knee-high white sneakers with glitter accents, a golden utility belt with tiny coin pouches, striking a confident forward-leaning pose holding a glowing star token in one hand and a candy‑cane‑like wand in the other, standing on a colorful board game tile that blends frosting swirls and blooming flowers, soft ambient lighting with a gentle glow around the star token, low‑resolution, retro video game aesthetic, bright saturated palette, dynamic shading, no text.  
+Concept art Image Prompt:
+Pixel art illustration of Glint Bloom, a charismatic, anthropomorphic cupcake creature with golden frosting swirls and petal-like flower sprinkles, large expressive eyes, and a small glowing star badge on its head; wearing a lightweight, iridescent cape made of shimmering pollen threads; standing on a festive board-game tile surrounded by floating coins, star tokens, and colorful confetti; bright midday lighting with soft shadows; vibrant pastel color palette; dynamic pose with one hand holding a sparkling star and the other wielding a decorative whisk; detailed pixel shading, 32‑bit retro style, reminiscent of classic party game visuals.
+
+Sprite sheet Image Prompt:
+Pixel art 64x64 sprite sheet, four frames of Glint Bloom the cupcake‑creature: (1) standing pose, arms at sides, gentle smile, star badge glows; (2) crouching pose, low center of gravity, whisk ready, eyes narrowed; (3) walking pose, left foot forward, frosting wobble animation, cape flutter; (4) jumping pose, mid‑air with arms raised, star badge trailing sparkles; consistent pastel color scheme, 32‑bit retro aesthetic, clean pixel lines.
 
 Background Story:
-Kiara grew up in the bustling Festival District, where nightly parades turned streets into living board games of light and laughter. As a child she discovered a hidden relic—a luminous star amulet—that resonated with the rhythmic beats of the district’s celebrations. Driven by a desire to prove herself, she entered the grand Starfall Challenge, a competition that blends racing, sabotage, and treasure‑hunting across five legendary arenas. Though she revels in the thrill of out‑witting rivals, Kiara wrestles with the fear that the amulet’s power might corrupt her joyous spirit. Each victory fuels her hope of unlocking the artifact’s secret, a promise that could restore the fading sparkle of her hometown. Yet the tide of luck can turn in an instant, and she must balance ambition with the camaraderie of fellow partygoers, lest the very festival she loves be lost to chaos.  
+Glint Bloom hails from the Sugarpetal Glade, a hidden garden where confectionery and flora intertwine, granting its residents both sweet charm and botanical vigor. Ever curious, Glint left the Glade to chase legendary Star Crystals said to amplify the garden’s bloom forever. While enthusiastic and friendly, Glint secretly wrestles with a mischievous streak, delighting in playful sabotage to outwit rivals. The recent revival of the ancient board realms threatens to drain the Glade’s life force unless the Star Crystals are reclaimed. Determined to protect their home, Glint enters the competition, balancing the joy of friendship with the cunning needed to survive. Each victory brings them closer to securing the crystals and preserving the garden’s radiant future. Yet, the looming artifact—an ever‑ticking timer known as the “Chrono Confection”—pressures Glint to act swiftly, lest the competition collapse into chaos.
 
 Skill Tree:
 - Tier 1:
-  - Star Dash: Instantly dash forward a short distance, leaving a trail of glitter that briefly slows opponents.
-  - Frosted Blooms: Toss a handful of frosted petals that create a small sticky zone, trapping anyone who steps on it for one turn.
-  - Coin Grasp: Gain a temporary boost that allows collection of nearby coins without moving.
+  - Frostpetal Dash: Quick burst forward that leaves a slippery frosting trail, briefly slowing opponents.
+  - Starburst Toss: Throws a glowing star that bounces once, stealing a small coin from any hit player.
+  - Petal Shield: Summons a brief shield of flower petals that deflects one incoming attack.
 - Tier 2:
-  - Radiant Sabotage: Place a deceptive star token that explodes into confetti, causing opponents to lose a turn.
-  - Melody Boost: Play a catchy tune that increases movement speed for yourself and allies for two turns.
-  - Shimmer Shield: Summon a brief shimmering barrier that blocks incoming attacks and redirects a single projectile.
+  - Whisk Whirl: Spins the decorative whisk, creating a short-range vortex that pushes nearby foes away.
+  - Sugar Rush: Activates a temporary speed boost, leaving a sparkling comet trail that speeds up movement on the board.
+  - Bloom Boost: Gains a small increase in star collection rate for a few turns after collecting a coin.
 - Tier 3:
-  - Celestial Countdown: Initiate a timer that, when expired, unleashes a burst of star energy dealing damage to all opponents in range.
-  - Starforge Revival: Consume a stored star to fully restore health and grant a brief invulnerability.
-  - Galaxy Gambit: Trade a portion of your accumulated coins for a massive, single-use boost that lets you roll double dice on the next turn.
+  - Chrono Confection Burst: Releases a burst of timed sparkles that temporarily freezes all opponents for one turn.
+  - Stellar Sprout: Plants a glowing seed that sprouts a star‑bearing vine, granting extra points to allies standing on it.
+  - Celestial Sabotage: Unleashes a hidden artifact fragment that randomly swaps positions of all players on the board.

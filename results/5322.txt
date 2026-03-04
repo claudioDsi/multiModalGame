@@ -1,23 +1,26 @@
 Entry: 5322 / 5322
 
-Name: Kael Vireo
+Name: Kael Vire
 
-Image Prompt:
-pixel art, 32-bit style, dynamic side‑view portrait of a lithe, athletic explorer with short teal hair and a scar across one eye, wearing a weathered leather jacket adorned with metallic plates, fingerless gloves, and high‑top boots, wielding a glowing ethereal cord coiled around his forearm; background shows a misty jungle canopy with ancient stone ruins and a faint outline of a serpentine silhouette; lighting is dramatic sunrise with warm gold highlights and cool cyan glows from the cord; art style tags: pixel art, vibrant, sci‑fantasy, dynamic pose, cinematic lighting
+Concept art Image Prompt:
+pixel art, full‑body portrait of Kael Vire, a lithe explorer with short teal hair, bright amber eyes, and a light‑metallic chest harness that glows faintly, wearing a sleeveless tunic of dark forest green with intricate amber circuitry patterns, armored forearm gauntlet that channels a glowing sapphire cord, standing on a cliff overlooking a sprawling jungle of towering bioluminescent flora, sunset light casting warm orange and purple hues, wind blowing a utility cape that shimmers with faint electric threads, dynamic pose with cord stretched forward, ready to swing, art style: high‑detail 32‑bit pixel art, cinematic lighting, vibrant colors, no text or UI.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 4 frames sized 64x64 each, depicting Kael Vire in a sleek dark‑green tunic with amber circuitry accents and a glowing sapphire cord gauntlet, frame 1 standing confident with cord coiled at side, frame 2 crouching low, knees bent, cord pulsing, frame 3 walking with one leg forward, cord trailing behind, frame 4 jumping upward with cord extended upward, background transparent, crisp 32‑bit pixel style, vibrant yet limited palette, no UI elements.
 
 Background Story:
-Kael Vireo grew up in the remote highlands where myths spoke of a colossal serpentine entity that once ruled the world. As a child he discovered a fragment of an ancient artifact—a pulsating energy cord—buried beneath a collapsed temple, which bonded to his arm and granted him extraordinary mobility. When the serpent‑like villain, known only as the Abyssal Serpent, awakens to rebuild its army, Kael is thrust into a reluctant alliance with other heroes to stop the looming calamity. Haunted by whispers that the cord also feeds on his life force, he wrestles with the fear of becoming a weapon for the very evil he fights. Determined to prove the artifact can be a force for good, Kael trains to master its versatility in combat and traversal. The fate of lush, uncharted realms rests on his ability to outpace the ancient menace and shatter its dark resurgence.
+Kael Vire grew up among the ruins of the Old Sanctum, a forgotten citadel where ancient energy conduits still whispered through cracked stone. As a child they discovered a dormant sapphire cord—an artifact forged by the ancients to harness the world’s latent power. When the serpentine villain, the Void Serpent, began reactivating the dormant conduits to empower its legion, Kael vowed to stop it before the world fell into endless darkness. Guided by the memory of a lost mentor who taught them to balance speed with precision, Kael now journeys with a disparate team, each mastering their own relics. Internally, Kael wrestles with the fear that the cord’s power could consume them, turning hero into weapon. The stakes rise as the Void Serpent seeks to fuse the cord’s energy with its own, promising an army that could reshape reality. Kael’s resolve rests on mastering the cord’s limits while protecting the fragile balance of the world’s living energy.
 
 Skill Tree:
 - Tier 1:
-  - Sprinting Surge: Increases movement speed by 20% for a short burst.
-  - Cord Snare: Throw the energy cord to briefly tether and stun a single enemy.
-  - Blade Echo: Basic melee attack that deals modest damage and restores a small amount of cord charge.
+  - Pulse Lash: releases a short burst of energy from the cord that damages nearby enemies.
+  - Quick Shift: briefly increases movement speed and reduces stamina consumption.
+  - Grapple Snap: pulls Kael toward a targeted point within short range, useful for evasion.
 - Tier 2:
-  - Zipline Glide: Use the cord to create a temporary zip‑line, allowing traversal across large gaps.
-  - Shield Piercer: Charged cord thrust bypasses enemy shields, dealing extra damage.
-  - Rapid Recoil: After a successful stun, automatically rebound the cord to strike a nearby foe.
+  - Arc Slash: channels cord energy into a sweeping melee attack that pierces enemy shields.
+  - Volt Glide: activates a temporary hover using the cord, allowing traversal over small gaps.
+  - Resonance Shield: creates a brief energy barrier that absorbs a single hit.
 - Tier 3:
-  - Vortex Bind: Unleash a wide‑area pull that drags multiple enemies toward Kael and immobilizes them briefly.
-  - Aether Burst: Release stored cord energy in a radial shockwave that damages and knocks back all enemies.
-  - Serpent’s Bane: Ultimate ability that summons a massive energy blade from the cord, delivering massive damage to the Abyssal Serpent and reducing its power for a limited time.
+  - Serpent’s Bane: unleashes a charged cord projectile that homes in on the Void Serpent’s weak points.
+  - Tempest Surge: dramatically boosts attack speed and cord power for a limited time.
+  - Eclipse Anchor: plants the cord into the ground to immobilize enemies in a radius and restore a portion of health.

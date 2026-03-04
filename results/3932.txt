@@ -1,23 +1,26 @@
 Entry: 3932 / 3932
 
-Name: Rion Aster
+Name: Varek Ironhart
 
-Image Prompt:
-pixel art, 32‑bit style, a muscular young gladiator standing in the center of a sand‑covered arena lit by torches, wearing a dented bronze breastplate with a crimson cape, a scarred leather gauntlet on his right hand, short dark hair tied back, intense green eyes, pose: brandishing a short curved sword high above his head while a battered wooden shield rests on his left forearm, background shows towering stone arches, distant crowd silhouettes, warm amber lighting casting dramatic shadows, detailed pixel shading, dynamic pose, top‑down isometric view, retro video game aesthetic
+Concept art Image Prompt:
+A stoic, muscular gladiator with shaved head and a scar across his left cheek, wearing battered bronze cuirass with an engraved phoenix emblem, dark leather greaves, gauntlets with spiked knuckles, and a crimson cape flowing behind him. He stands in a sun‑drenched arena sandpit, one hand gripping a massive, rune‑etched war hammer, the other resting on his hip. Warm golden lighting casts sharp shadows, highlighting the metallic sheen of his armor. Background shows distant stone pillars and a cheering crowd of silhouettes. Rendered in vibrant, high‑detail pixel art style, 32‑bit color palette, with a slightly exaggerated heroic pose.
+
+Sprite sheet Image Prompt:
+Four 64x64 pixel art frames of Varek Ironhart: (1) standing pose – feet shoulder‑width apart, war hammer rested on shoulder, determined gaze; (2) crouching pose – low squat, hammer raised ready to strike, eyes narrowed; (c) walking pose – left foot forward, hammer swinging gently by his side, confident stride; (d) jumping pose – mid‑air, hammer thrust upward, cape fluttering, expression fierce. Clean outline, limited palette of bronze, crimson, dark leather, and sand tones, consistent shading and sprite style.
 
 Background Story:
-Rion Aster was born in the shadow of the great coliseum, the son of a renowned arena trainer who fell in a cursed bout when Rion was still a child. Sworn to honor his father's legacy, he left his hometown to wander the harsh lands, seeking masters who could teach him the forgotten arts of the arena. Each victory in distant pits earned him scrap fragments of ancient armor and whispered rumors of a legendary championship school that once united the strongest fighters. Haunted by the fear that his father's death was not a tragedy but a betrayal, Rion fights to uncover the hidden conspiracies that still poison the blood‑sport. His ambition is to gather a cadre of elite gladiators, train them in his own hall, and challenge the corrupt guilds that hoard glory. Yet, every battle pulls him deeper into a web of political intrigue, forcing him to balance personal vengeance with the dream of a true, honorable arena.
+Born in the ash‑covered outskirts of the Imperial Colosseum, Varek was the son of a blacksmith who forged weapons for the arena’s fiercest combatants. After his family perished in a failed coup, he swore to protect the weak and turn the chaos of bloodsport into a disciplined craft. Varek traveled the continent, earning respect by defeating notorious champions and rescuing captured recruits from ruthless trainers. Haunted by the memory of his parents’ death, he now seeks to build a gladiator academy where honor outweighs spectacle. He believes that structured training can transform raw fury into controlled mastery, and he hopes his school will become a sanctuary for the displaced. Yet he wrestles with the temptation to use his growing influence for personal vengeance against the corrupt Senate that sanctioned the coup.
 
 Skill Tree:
 - Tier 1:
-  - Blade Surge: Deals a quick slash that hits a single enemy and increases next attack speed by 10%.
-  - Iron Guard: Raises shield to block the next incoming attack, reducing damage by 50%.
-  - Battle Cry: Grants all allies +5% morale, raising their critical hit chance for two turns.
+  - Iron Grip: Increases melee damage by 10% and reduces stagger chance.
+  - Forge Insight: Grants a one‑time ability to repair any broken equipment during battle.
+  - Rally Cry: Boosts allies’ morale, granting +5% health regeneration for 2 turns.
 - Tier 2:
-  - Warrior’s Resolve: Restores a small amount of health to self and adjacent allies when health drops below 30%.
-  - Chain Flurry: Performs three rapid strikes on a single target, each hit increasing the next strike’s damage by 5%.
-  - Arena Insight: Reveals enemy intentions for the next turn, allowing you to anticipate their moves.
+  - Phoenix Strike: Calls a burst of flame on hammer impact, dealing extra fire damage to all adjacent enemies.
+  - Unbreakable Stance: Reduces incoming damage by 15% while standing still for a turn.
+  - Mentor’s Guidance: Allows you to transfer a portion of your experience points to a recruited trainee.
 - Tier 3:
-  - Champion’s Verdict: Unleashes a powerful finishing blow that deals massive damage to a weakened opponent and silences them for one turn.
-  - Gladiator’s Aegis: Creates a protective aura around the school, reducing incoming damage to all members by 15% for three turns.
-  - Legacy of the School: Passively increases experience gain for the whole team by 20% and unlocks a bonus recruitment slot.
+  - Colosseum’s Dominion: Once per combat, forces all enemies to target a chosen ally, protecting the frontline.
+  - Hammer of Legacy: Empowers the war hammer to ignore enemy armor for the next three attacks.
+  - Eternal Oath: Permanently increases the maximum number of gladiators you can recruit by 2.

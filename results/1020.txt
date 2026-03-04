@@ -1,23 +1,26 @@
 Entry: 1020 / 1020
 
-Name: Kian Marlowe
+Name: Nico Alvarez
 
-Image Prompt:
-8-bit pixel art, Kian stands on a bustling rooftop overlooking a neon‑lit, sun‑bleached megacity; he wears a lightweight, weathered bomber jacket with teal accents, a loose graphic tee, cargo pants, and a pair of worn combat boots. His short, shaved hair frames a cyber‑enhanced left eye glowing faintly amber, while his right eye shows a faint scar. He holds a handheld holo‑recorder in one hand and a folded city map in the other, leaning slightly forward as if about to leap. The setting sun casts long orange shadows, while distant billboard screens flicker with reality‑show promos. Pixel art style, vibrant yet gritty, with dynamic lighting and subtle particle effects for dust in the air. 
+Concept art Image Prompt:
+pixel art, vibrant 8‑bit style, sun‑drenched megacity skyline at midday with towering glass towers and bustling streets below, rooftop helipad littered with holo‑screens, Nico standing confidently on the edge, wearing a fitted reflective bomber jacket with neon trim, cargo pants, lightweight boots, a cybernetic glowing eye implant, a compact holo‑camera clipped to his chest, one hand gripping a sleek hover‑blade, the other holding a glowing data reel, warm golden lighting contrasting with electric pink neon accents, detailed city backdrop with billboard advertising cheap reality TV shows, dynamic pose, front‑left three‑quarter view, pixel art style, high‑detail, no text.
+
+Sprite sheet Image Prompt:
+pixel art, 8‑bit style, 64x64 canvas, four sequential frames of Nico Alvarez in the same outfit and cybernetic features: frame 1 standing upright with neutral expression, frame 2 crouching low ready to spring, frame 3 mid‑step walking with one leg forward, frame 4 mid‑air jumping with hover‑blade raised, background transparent, consistent color palette of teal, orange, and neon pink, detailed but simple enough for pixel clarity.
 
 Background Story:
-Kian Marlowe grew up in the lower districts of the sprawling metropolis, watching his parents lose everything to a market crash that reshaped the city’s financial districts. Determined to understand the forces that toppled his family, he earned a scholarship to a prestigious finance academy, only to be expelled after exposing a corporate fraud scheme on a live reality‑show interview. Now a freelance data‑hunter, Kian sells incriminating information to the highest bidder while secretly feeding evidence to a grassroots resistance. He wrestles with his desire for redemption versus the temptation of wealth that could finally secure his sister’s future. The city’s relentless media circus fuels his cynicism, yet he remains fascinated by the power of narrative to sway the masses. As the economic tide threatens to drown the entire metropolis, Kian’s next big scoop could either ignite a revolution or cement the ruling elite’s grip.
+Nico Alvarez grew up on the lower decks of the sun‑soaked metropolis, dreaming of fame on the cheap reality TV circuit that dominated the city’s airwaves. He achieved brief stardom as a flamboyant host of “Skyline Scramble,” but the show's collapse amid economic turmoil left him disillusioned and indebted to shadowy sponsors. Determined to expose the corrupt media moguls, Nico repurposed his on‑camera tech into a toolkit for hacking and covert information gathering. He now leads a loose collective of “Signal Runners,” smuggling data between the affluent towers and the struggling districts. Beneath his charismatic exterior, Nico battles guilt over the lives he once exploited for entertainment. The city’s precarious economy fuels his urgency, as each broadcast threatens to drown the populace in further desperation. His choices will either ignite a grassroots uprising or cement the media’s tyrannical grip on the metropolis.
 
 Skill Tree:
 - Tier 1:
-  - Data Scrape: Quickly extracts hidden data packets from nearby terminals.
-  - Streetwise Negotiation: Gains a bonus to barter and dialogue options with civilians.
-  - Quick Evade: Performs a short dash to avoid enemy attacks.
+  - Flash Capture: Instantly records a short holographic clip of nearby activity, revealing hidden clues.
+  - Street Sprint: Increases movement speed by 15% when moving through crowded streets.
+  - Data Scramble: Briefly disrupts enemy surveillance drones within a small radius.
 - Tier 2:
-  - Holo Disruption: Emits a brief interference field that disables surveillance drones.
-  - Market Insight: Reveals real‑time economic fluctuations, granting extra resources from missions.
-  - Adaptive Camouflage: Blends with surroundings for brief periods of invisibility.
+  - Holo Decoy: Projects a temporary illusion of Nico to distract opponents.
+  - Neon Blade: Unleashes a quick melee strike with the hover‑blade, dealing moderate damage and briefly blinding the target.
+  - Broadcast Hijack: Overrides a nearby advertisement screen to display a message, lowering enemy morale.
 - Tier 3:
-  - Blackout Broadcast: Hijacks a citywide screen to spread propaganda, temporarily demoralizing enemies.
-  - Financial Leverage: Forces a rival faction to lose a portion of their assets in exchange for a deal.
-  - Ultimate Escape: Executes a high‑speed zipline maneuver across rooftops, evading any pursuit.
+  - Skyhook Leap: Launches Nico upward from any surface, covering large distances and evading attacks.
+  - Network Overload: Sends a powerful pulse through city infrastructure, temporarily disabling all electronic devices in a wide area.
+  - Reputation Ripple: Gains the trust of a faction, unlocking unique dialogue options and resources throughout the city.

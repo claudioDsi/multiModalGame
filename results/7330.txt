@@ -1,23 +1,26 @@
 Entry: 7330 / 7330
 
-Name: Lira Lumis
+Name: Kairo Vivid
 
-Image Prompt:
-Pixel art portrait of a youthful explorer with bright teal hair styled in loose braids, wearing a patchwork explorer’s jacket covered in tiny embroidered symbols of brushes, gears, and stars. She holds a glowing, multi‑colored paintbrush in one hand and a compact, holographic tablet in the other, both emitting soft neon light. She stands on a floating platform made of stacked sketchbooks and canvas rolls, surrounded by whimsical floating islands of pastel clouds and glowing lanterns. The scene is lit by a golden sunset casting long shadows, with subtle particle sparkles around her. Art style: vibrant 16‑bit pixel art, high contrast, detailed shading, with a whimsical, adventurous mood.
+Concept art Image Prompt:
+Pixel art portrait of Kairo Vivid, a youthful explorer with teal hair tied in a spiky bun, wearing a bright orange utility jumpsuit with reinforced sleeves, neon goggles perched on the forehead, holding a hovering holographic paintbrush that leaves sparkling trails, standing in a bustling creative plaza of floating pastel platforms, glowing crystal sculptures, and swirling color vortexes, soft ambient glow from floating lanterns, dynamic confident pose, 32-bit high‑detail pixel art style, vibrant saturated colors, pixel art
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kairo Vivid: frame 1 standing facing right with holo‑brush at side, frame 2 crouching ready with brush angled upward, frame 3 walking cycle (two steps) showing leg movement and brush swaying, frame 4 jumping upward with brush projecting a burst of color, consistent teal hair, orange jumpsuit, neon goggles, transparent background, 32-bit pixel art style
 
 Background Story:
-Lira Lumis grew up in the bustling artisan district of Kaleido Cove, where every alley was lined with studios and workshops. As a child she discovered an ancient, blank sketchbook that whispered promises of worlds yet unimagined. Driven by curiosity, she learned to harness the sketchbook’s latent power, turning thoughts into tangible terrain. When the shadowy trickster known as the Voidcurser began draining color and creativity from the realm, Lira vowed to restore the lost hues. She now journeys across the ever‑shifting landscapes of the Creative Expanse, befriending quirky inhabitants and uncovering hidden wonders left by the enigmatic Curio Collective. Her internal conflict lies between the desire to perfect her own creations and the need to let others’ imaginations flourish. The fate of the world’s endless surprises hinges on her ability to unite scattered inspiration into a radiant masterpiece.
+Kairo Vivid grew up in the bustling Creative Quarter of Prismopolis, a district where imagination literally shapes the streets. As a child, they discovered an ancient holo‑brush left by the legendary Artisans, a tool that can paint reality itself. When the nefarious Cipher, a shadowy figure intent on draining color from the world, began corrupting the luminous districts, Kairo pledged to protect the vibrancy of their home. Guided by the Collective of Curators, a secretive organization that curates endless surprises, Kairo learns to harness the brush’s power to restore hue and inspire fellow citizens. Yet the deeper they delve, the more they question whether wielding such creation magic might distort their own identity. Determined to balance creation and responsibility, Kairo ventures into the unknown corners of the world, hoping to out‑paint the darkness and keep imagination alive for everyone.
 
 Skill Tree:
 - Tier 1:
-  - Palette Burst: Unleash a splash of chromatic energy that damages nearby enemies and restores a small amount of stamina.
-  - Imagination Leap: Perform a short-range teleport that leaves a trail of glowing doodles, momentarily confusing foes.
-  - Crafty Insight: Reveal hidden interactable objects and secret pathways within a limited radius.
+  - Chromatic Dash: Sprint forward leaving a short rainbow trail that briefly boosts speed for allies.
+  - Palette Shield: Generate a rotating shield of mixed pigments that reduces incoming damage by 15%.
+  - Ink Blast: Fire a concentrated blob of colored ink that deals damage and briefly slows enemies.
 - Tier 2:
-  - World Weave: Temporarily bind two separate platforms together, creating a bridge made of solid light.
-  - Mimicry Mode: Copy the passive ability of an allied NPC for a brief period.
-  - Puzzle Pulse: Emit a resonant wave that solves minor environmental puzzles and activates dormant mechanisms.
+  - Canvas Clone: Summon a temporary duplicate of yourself that mimics your moves and distracts foes.
+  - Spectrum Surge: Release a burst of all spectrum colors around you, healing nearby allies for 10% health.
+  - Brushstroke Barrier: Draw a larger, semi‑transparent wall of light that blocks projectiles for 5 seconds.
 - Tier 3:
-  - Masterpiece Manifest: Summon a large, animated construct based on a drawn design to fight alongside you for a short time.
-  - Reality Remix: Repaint a section of the environment, altering its terrain type and granting new traversal options.
-  - Creative Overdrive: Enter a heightened creative state, increasing all skill effects and reducing cooldowns for a limited duration.
+  - Masterpiece Manifest: Create a large, radiant masterpiece that immobilizes enemies within its area for 3 seconds.
+  - Reality Rewrite: Rewrite a small segment of terrain into a favorable platform, granting instant traversal.
+  - Eternal Gallery: Unlock a passive aura that continuously restores a small amount of color energy, enhancing all creative abilities.

@@ -1,23 +1,26 @@
 Entry: 8576 / 8576
 
-Name: Lyra Stormsong
+Name: Lyra Dawnrune
 
-Image Prompt:
-pixel art, 32-bit style, young woman with silver hair in a braided crown, vibrant teal eyes, wearing sleek midnight-blue mail with gold musical motif engravings, a radiant crystal lute strapped to her back, standing on a cliff edge overlooking a stormy sky, a spectral dragon silhouette coiled around her left shoulder, wind whipping her cloak, soft moonlight glimmering on metal, pastel highlights, dynamic pose with lute raised as if about to play, detailed background of distant medieval towers and floating islands, dramatic lighting, high contrast, fantasy atmosphere, pixel art illustration
+Concept art Image Prompt:
+Pixel art illustration of a lithe, bronze‑skinned woman with long silver hair tied in a high braid, wearing ornate armor forged from blue‑etched steel and flowing teal bardic robes, a crystal‑filled harp strapped across her back, standing on a crumbling stone balcony overlooking a twilight sky streaked with aurora, a faint glow emanating from her hands as she summons a swirling rune, dramatic rim lighting, detailed background ruins, soft shadows, vibrant color palette, pixel art style.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames, each 64x64 pixels, showing Lyra Dawnrune in a fantasy medieval setting: frame 1 standing upright with harp slung, holding a glowing rune; frame 2 crouching low, ready to strike, left foot forward; frame 3 walking stride to the right, cloak fluttering; frame 4 jumping upward, hair and cloak billowing, rune trail behind, consistent color scheme and pixel detail, pixel art style.
 
 Background Story:
-Lyra was born in the hidden citadel of the Six Sisters, a lineage of mage-sisters who bind their magic to ancient songs. As a child she trained under the tutelage of the eldest, learning to weave blade and melody into a single weapon. When the eldest sister turned against her kin, Lyra swore to protect the younger sisters and uncover the truth behind the betrayal. She bonded with Aetherwing, a wounded sky-drake whose scales pulse with forgotten lullabies. Together they scout the shattered skies, rescuing villages plagued by the wounded sister’s corrupted minions. Lyra’s inner conflict lies in balancing her loyalty to her bloodline with the dawning realization that the eldest’s motives may be rooted in a deeper tragedy. The fate of the world hangs on whether she can harmonize the discord before the sky itself cracks.
+Lyra Dawnrune was born in the hidden valley where the six goddess‑like sisters first sang the world into harmony, trained from childhood in both martial combat and the ancient Song of Resonance. When the eldest sister, Seraphine, turned against her kin and allied with the blackened dragon Vyrath, Lyra vowed to protect the younger sisters and uncover the truth behind Seraphine’s betrayal. Guided by a fragment of the original celestial melody, she wields a harp‑blade that converts music into blade and spell. Haunted by doubts—whether her sister’s motives are truly malevolent or driven by a deeper curse—Lyra battles relentless fiends while searching for the lost verses of the sisters’ hymn. Each victory strengthens the harmonic ties that hold the realm together, but failing could shatter the fragile peace and plunge the world into chaos. Lyra’s journey intertwines personal redemption with the fate of the entire continent.
 
 Skill Tree:
 - Tier 1:
-  - Resonant Strike: Melee attack that deals damage and briefly silences enemies.
-  - Song of Ward: Plays a protective chord that grants a small shield to allies for 5 seconds.
-  - Dragon's Grace: Summons Aetherwing for a short boost of aerial movement speed.
+  - Resonant Strike: Melee attack infused with a burst of sound, dealing extra magical damage.
+  - Echo Shield: Generates a short‑lived barrier that reflects a portion of incoming projectiles.
+  - Harmonize Step: Quick dash that leaves a trailing note, briefly slowing enemies it passes.
 - Tier 2:
-  - Harmonic Blade: Channels melody into the weapon, adding magic damage over time.
-  - Echoing Roar: Aetherwing releases a sonic blast that damages and stuns nearby foes.
-  - Terra Chorus: Grounded chant creates a circular zone that heals allies over time.
+  - Song of Binding: Casts a melodic pulse that immobilizes nearby foes for 2 seconds.
+  - Dragoncall Echo: Summons a spectral dragon spirit to briefly assist in combat, dealing fire damage.
+  - Rhapsody Recovery: Successful hits restore a small amount of health and stamina.
 - Tier 3:
-  - Celestial Aria: Ultimate song that unleashes a massive wave of light, damaging all enemies and clearing debuffs.
-  - Dragonfire Tempest: Calls Aetherwing to soar, raining fire and wind that pierces enemy ranks.
-  - Eternal Concord: Grants permanent aura that increases ally damage and reduces incoming magic damage.
+  - Celestial Aria: Unleashes a massive area‑of‑effect wave of sound, damaging all enemies and cleansing debuffs.
+  - Luminous Anthem: Grants allies a temporary boost to attack speed and damage resistance.
+  - Final Cadence: Ultimate finisher that channels the full power of the sisters’ original hymn, dealing massive damage and shattering enemy defenses.

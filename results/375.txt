@@ -1,23 +1,26 @@
 Entry: 375 / 375
 
-Name: Lyra Vale
+Name: Varek Shade  
 
-Image Prompt:
-8-bit pixel art, top‑down perspective of a female stealth operative standing in a dimly lit industrial warehouse corridor, wearing a fitted dark tactical bodysuit with light‑absorbing matte fabric, a hooded trench coat, fingerless gloves, and low‑profile combat boots; a compact silenced pistol rests on her thigh, a small multi‑tool gadget hangs from her belt; her posture is slightly crouched, one hand resting on a wall, eyes narrowed as she surveys the area; faint shafts of cold blue light filter through high windows, casting long shadows; pixel art style with limited palette, crisp outlines, and subtle animation‑ready detail. 
+Concept art Image Prompt:
+pixel art, top‑down view, slender masked operative in a fitted dark tactical suit with subtle teal neon trim, hooded cloak fluttering, fingerless gloves, utility belt with gadgets, standing in a dimly lit industrial warehouse corridor, shafts of cold light streaming through overhead grates, dust motes floating, high‑contrast shadows, moody atmosphere, 8‑bit style, muted gray‑blue palette with accent neon, cinematic lighting  
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 4 frames, 64x64 canvas each, Varek Shade in dark tactical suit with teal accents, hood up, compact silenced pistol tucked at hip, frame 1: standing facing north, frame 2: crouching low, frame 3: walking stride left‑right, frame 4: leaping upward, transparent background, consistent pixel resolution, crisp edge, top‑down orientation, subtle motion blur on jump, minimalist UI‑ready sprites  
 
 Background Story:
-Lyra Vale grew up in the neon‑lit underbelly of a megacity, where surveillance drones constantly watched the streets. Orphaned after a corporate raid claimed her family, she was recruited by a covert resistance cell that taught her the art of moving unseen. Over the years she became a master infiltrator, extracting secrets from heavily guarded research facilities. When the resistance was betrayed, Lyra uncovered a plot to unleash a mind‑control nanovirus on the civilian population. Haunted by guilt over past missions that inadvertently harmed innocents, she now seeks redemption by stopping the virus at its source. The stakes are personal: failure would mean the loss of the few remaining free voices in the city and the erasure of her own past. Guided by cryptic messages from a former mentor presumed dead, Lyra navigates the labyrinthine complex of the corrupt corporation, using stealth and cunning to stay ahead of alarmed guards and automated security. 
+Varek Shade grew up in the soot‑filled districts of a sprawling megacity, learning to move unseen among the endless factories and surveillance towers. After his younger sibling was taken by a corrupt syndicate, Varek swore to dismantle the organization that thrives on oppression. He was recruited by a covert resistance cell that provided him with experimental stealth gear and a network of informants. Though driven by vengeance, Varek battles the fear that each success may pull him deeper into the shadows he despises. The syndicate now plans to unleash a city‑wide lockdown mechanism that will erase all dissent. To stop it, Varek must infiltrate heavily guarded complexes, extract key intel, and expose the truth before the city succumbs to perpetual surveillance.  
 
-Skill Tree:
-- Tier 1:
-  - Silent Step: Reduces footstep noise, decreasing enemy detection range by 30%.
-  - Cloak Shroud: Activates a brief low‑visibility cloak that lasts 5 seconds.
-  - Distraction Dart: Throws a noise‑making dart that draws enemies to its impact point.
-- Tier 2:
-  - Shadow Blend: While standing still in darkness, become invisible to enemies for 8 seconds.
-  - Echo Hack: Temporarily disables nearby security cameras and motion sensors for 10 seconds.
-  - Quick Disable: Instantly disables a single enemy guard's weapon without raising alarm.
-- Tier 3:
-  - Phantom Walk: Grants unlimited silent movement for 12 seconds, ignoring all detection zones.
-  - Spectral Overload: Overloads the alarm system, causing all guards to investigate a random location for 15 seconds.
-  - Mastermind: Allows planning of a synchronized multi‑enemy distraction, reducing detection radius of all enemies by 50% for the duration of the plan.
+Skill Tree:  
+- Tier 1:  
+  - Silent Step: Reduces footstep noise by 50%, making detection radius smaller.  
+  - Shadow Veil: Grants a temporary 2‑second invisibility when standing in dark areas.  
+  - Quick Disable: Instantly disables a nearby electronic lock or camera with a single use.  
+- Tier 2:  
+  - Echo Pulse: Emits a low‑frequency pulse that masks all sounds within a 5‑tile radius for 5 seconds.  
+  - Adaptive Camouflage: Increases movement speed by 20% while crouched in shadows.  
+  - Ghost Walk: Allows the player to pass through enemy sight lines without triggering alarms for a short burst.  
+- Tier 3:  
+  - Phantom Strike: Perform a silent melee takedown that also briefly stuns surrounding enemies.  
+  - Net Override: Hack into the central security grid to temporarily shut down all alarms in the current floor.  
+  - Last Light: When health is critically low, automatically enter a stealth mode that renders Varek invisible for 3 seconds.

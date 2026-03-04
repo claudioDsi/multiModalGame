@@ -595,20 +595,20 @@ def compute_report_statistics(
 
 
 if __name__ == "__main__":
-    '''
-        compute_bertscore_for_games_and_export(
-            original_csv_path="characters.csv",
-            generated_txt_root="results",
-            output_csv_path="bertscore_report.csv",
-            games_column="games",
-            original_story_column="description",
-            max_games=58,
-            offset=0,
-            lang="en",
-            model_type=None,
-            hf_token="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",  # set if needed
-        )
-    '''
+
+    compute_bertscore_for_games_and_export(
+        original_csv_path="characters.csv",
+        generated_txt_root="results",
+        output_csv_path="bertscore_report.csv",
+        games_column="games",
+        original_story_column="description",
+        max_games=58,
+        offset=0,
+        lang="en",
+        model_type=None,
+        hf_token="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",  # set if needed
+    )
+
     stats = compute_report_statistics(
         report_csv_path="bertscore_report.csv",
         length_unit="words",

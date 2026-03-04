@@ -1,23 +1,26 @@
 Entry: 4 / 4
 
-Name: Riven Talon
+Name: Kael Vire  
 
-Image Prompt:
-pixel art, 16-bit style, a lithe thief crouched on a rain‑slick rooftop overlooking a sprawling dystopian city, neon pink and teal signs flicker, fog drifts below, wearing a fitted dark leather coat with reinforced kevlar pads, a half‑mask with glowing amber lenses, a compact grappling harpoon strapped to the thigh, one hand gripping a magnetic lockpick, the other holding a small holo‑projector, dynamic low‑key lighting with reflective puddles, cinematic angle, detailed pixel shading, vibrant but gritty atmosphere, art style: retro cyber‑noir pixel art
+Concept art Image Prompt:  
+Pixel art illustration of Kael Vire, a lithe master thief, standing on a rain‑slick cobblestone alley of a grim industrial city at night. He wears a dark, weathered leather coat with hidden pockets, a fitted hood, a half‑mask covering his lower face, and thigh‑high boots etched with faint teal runes. One hand rests on a sleek lock‑pick set, the other grips a faintly glowing energy dagger. Neon‑lit signs flicker in the background, their reflections shimmering on the wet stones. Moody, low‑key lighting with a single streetlamp casting dramatic shadows, cyber‑gothic aesthetic, 32‑color palette, close‑up composition, pixel art style.  
 
-Background Story:
-Riven grew up in the crumbling districts of the port district, where hunger and disease gnawed at the lives of the downtrodden. As a child they witnessed the elite’s opulent towers rise like ivory monoliths over the squalor below, fueling a deep‑seated resentment. After a corrupt official took their younger sibling for forced labor, Riven swore to dismantle the power structures from within. Trained by a secretive guild of cat‑burglars, they mastered the art of silent infiltration and mechanical persuasion. Now, they infiltrate the gilded vaults of the rich, stealing not for wealth but to fund a covert uprising. Every heist brings them closer to exposing the regime’s hidden machinations, but the weight of their family's safety haunts each daring step.
+Sprite sheet Image Prompt:  
+Four 64x64 pixel art frames arranged horizontally, depicting Kael Vire in a dark urban setting: (1) standing neutral on cobblestones, coat slightly open, lock‑pick visible; (2) crouching low, knees bent, cloak tight, ready to spring; (3) walking cycle (two frames) with subtle coat sway and shifting weight; (4) jumping upward, body elongated, energy dagger raised, hair and coat trailing. Muted gray‑blue palette with teal highlights, crisp pixel shading, pixel art style.  
 
-Skill Tree:
-- Tier 1:
-  - Silenced Footstep: Reduces footfall noise, decreasing enemy detection range.
-  - Lock Whisper: Instantly crack basic mechanical locks without triggering alarms.
-  - Quick Swap: Instantly switch equipped gadgets, cutting ability cooldowns in half.
-- Tier 2:
-  - Shadow Meld: Blend into darkness, becoming invisible to visual sensors for a short duration.
-  - Pulse Hack: Overload nearby surveillance drones, disabling them for 10 seconds.
-  - Acrobatic Evasion: Perform a rapid roll to dodge incoming attacks, granting temporary invulnerability.
-- Tier 3:
-  - Phantom Heist: Execute a multi‑target theft without alerting any guard, instantly gaining extra loot value.
-  - Cerebral Overload: Emit a pulse that temporarily stuns all enemies within a radius.
-  - Temporal Slip: Briefly slow time, allowing precise navigation through complex security systems.
+Background Story:  
+Kael Vire grew up on the lowest tiers of the sprawling port city of Selcorte, where famine and disease gnawed at the desperate populace. Orphaned by a raid on his family's shanty, he learned to survive by lifting food and information from the wealthier districts. Over the years he refined his craft, turning his nimble fingers into a weapon against the oppressive elite who profit from the suffering. When a mysterious benefactor offered a covenant to dismantle the corrupt merchants’ vaults, Kael saw a chance to finally tilt the balance. Haunted by the faces of those he could not save, he now roams the city's shadows, stealing not just riches but the secrets that keep the ruling class in power. Each heist draws him deeper into a conspiratorial web that could either liberate the oppressed or plunge Selcorte into deeper chaos.  
+
+Skill Tree:  
+- Tier 1:  
+  - Shadow Slip: Dash a short distance while becoming briefly untargetable.  
+  - Quick Pick: Instantly unlock simple locks without consuming lock‑pick items.  
+  - Swift Draw: Pull out the energy dagger faster, reducing weapon switch time.  
+- Tier 2:  
+  - Silent Takedown: Eliminate an enemy from behind without raising an alarm.  
+  - Smoke Veil: Deploy a short‑lived smoke cloud that obscures vision and muffles footsteps.  
+  - Evasion Roll: Perform a rapid roll that grants temporary invulnerability frames.  
+- Tier 3:  
+  - Phantom Cloak: Activate a full-body invisibility for a few seconds, with a cooldown.  
+  - Master Alchemist: Craft potent consumables from salvaged materials, granting temporary buffs.  
+  - Time Rift: Briefly slow time for all enemies while Kael’s movement remains normal.

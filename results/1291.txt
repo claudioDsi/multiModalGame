@@ -1,23 +1,26 @@
 Entry: 1291 / 1291
 
-Name: Kael Varyn
+Name: Kael Thornhart
 
-Image Prompt:
-pixel art, side view of a gaunt, scarred warrior standing in a dimly lit stone cell, cracked walls with flickering torches, Kael wears segmented dark iron armor etched with faint runes, a tattered crimson cloak drapes over his shoulders, he grips a glowing twin‑blade artifact pulsing with violet light, his left hand is clenched in a gauntlet that emanates a faint blue aura, his posture is tense and ready to strike, ambient light from a small, barred window casts dramatic shadows, background hints of ancient glyphs and a shattered altar, style: high‑detail retro 16‑bit, vibrant yet moody color palette, emphasis on atmospheric lighting.  
+Concept art Image Prompt:
+a highly detailed pixel art illustration of Kael Thornhart, a gaunt, scar‑marked warrior standing atop a shattered stone pillar inside a dimly lit ancient temple; he wears layered blackened steel plates etched with faint runes, a tattered crimson cloak billowing behind him, and a glowing dual‑blade forged from an otherworldly crystal artifact that pulses with shifting colors; his left arm is wrapped in a leather bracer that houses the “Artifact Core” allowing weapon swaps, and faint magical sigils hover around his shoulders representing the four disciplines; the background features flickering torchlight casting soft amber shadows, broken statues, and swirling ethereal mist; lighting is dramatic with rim light highlighting his silhouette; art style: 32‑bit retro pixel art, high contrast, slightly isometric perspective, focus on texture and atmospheric depth.
+
+Sprite sheet Image Prompt:
+a 64x64 pixel art sprite sheet containing four sequential frames of Kael Thornhart: frame 1 – standing pose, feet shoulder‑width apart, dual‑blade lowered, determined gaze; frame 2 – crouching pose, knees bent, blade angled forward ready to strike; frame 3 – walking pose, left leg forward, cape fluttering, blade trailing behind; frame 4 – jumping pose, mid‑air with legs tucked, blade raised overhead, aura of magical energy surrounding him; each frame rendered in retro 32‑bit style with consistent color palette, clear outlines, and subtle shading; background transparent.
 
 Background Story:
-Kael Varyn was once the most trusted enforcer of the Aetheric Covenant, an order tasked with safeguarding the world’s fragile balance. When the Covenant’s high council manipulated a ritual, Kael was deceived into slaying his own family, believing it would prevent a cataclysm. The betrayal shattered his oath, and he fled, only to be captured and bound within the Covenant’s deepest prison, a labyrinth of stone and illusion. While shackled, Kael discovered the Eclipse Sigil, an ancient artifact that granted him the ability to channel lost magics. Determined to break his chains, he learns to wield four elemental disciplines, each unlocking a fragment of his former power and a new purpose. Now, haunted by guilt and driven by a thirst for freedom, Kael must carve a path through the Covenant’s twisted guardians, sever the ties that bind him, and uncover the truth behind the order’s falsehoods before the world is plunged into darkness.
+Kael Thornhart was once the most trusted enforcer of the Obsidian Covenant, a secretive order that wielded the Relic of Binding to control the realm’s forbidden magics. Manipulated by the Covenant’s high council, Kael was forced to unleash a devastating ritual that unintentionally annihated his own family, shattering his oath and loyalty. In a desperate act of defiance, he shattered his binding sigil and fled, only to be captured and sealed in the Iron Maw Prison, a labyrinthine citadel designed to break spirits. While imprisoned, Kael discovered the dormant Artifact Core hidden within his bloodline, granting him the power to forge and switch weapons at will. After a brutal breakout, he now roams the shattered continents, seeking to dismantle the Covenant’s grip, reclaim his lost honor, and uncover the truth behind the ancient relics that granted him forbidden disciplines. Haunted by the ghosts of his past and the lingering binds of the Covenant, Kael must master time‑bending, shadow‑forming, and illusion‑dispelling abilities while battling both mortal foes and the lingering guardians of his former masters.
 
 Skill Tree:
 - Tier 1:
-  - Rift Slash: A quick melee attack that emits a short burst of temporal distortion, briefly slowing enemies.
-  - Boundbreaker Parry: Counter an incoming strike and shatter nearby minor restraints, reducing crowd control duration.
-  - Echoing Step: Short dash that leaves a faint after‑image, granting a brief boost to movement speed.
+  - Blade Resonance: basic attack gains a brief pulse of elemental damage.
+  - Rift Step: short teleport forward, bypassing small obstacles.
+  - Oathbreaker’s Guard: passive shield that absorbs a small amount of damage when health drops below 30%.
 - Tier 2:
-  - Chrono Shield: Summons a temporal barrier that absorbs a set amount of damage and rewinds minor injury effects.
-  - Umbral Clone: Creates a shadow duplicate that mimics Kael’s attacks for a few seconds, drawing enemy fire.
-  - Veil Dispel: Emits a pulse that dispels illusory constructs and reveals hidden traps within a radius.
+  - Temporal Slash: melee strike briefly slows enemy movement speed.
+  - Shadow Clone: creates a fleeting duplicate that mimics the next attack, dealing half damage.
+  - Breath of the Deep: activates underwater breathing for a limited time and reduces water resistance.
 - Tier 3:
-  - Abyssal Rage: Fully charged rage unleashes a relentless flurry, increasing attack speed and damage until Kael is hit.
-  - Divine Alignment: Aligns with a chosen deity, granting a temporary aura that enhances all magical abilities.
-  - Ethereal Ascendance: Transcends the material plane briefly, allowing Kael to phase through obstacles and enemies while dealing spectral damage.
+  - Relic of Chronos: freeze time for 2 seconds, affecting all enemies but not the player.
+  - Veil of Illusions: dispels enemy constructs and grants temporary immunity to illusion attacks.
+  - Eternal Rage: when rage meter fills, Kaet’s attacks become unstoppable for a short burst, automatically continuing until damage is taken.

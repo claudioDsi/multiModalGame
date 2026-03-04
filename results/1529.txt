@@ -1,23 +1,26 @@
 Entry: 1529 / 1529
 
-Name: Kael Voss
+Name: Kairo Vex
 
-Image Prompt:
-pixel art, 16‑bit style, Kael Voss stands atop a crumbling cliff overlooking a neon‑lit metropolis fused with ancient ruins, dusk lighting with a purple‑orange sky, wearing a weathered leather cyber‑coat with reinforced kevlar plates, a high‑collar hood partially covering a shaved head, glowing turquoise cybernetic eye implant, fingerless gauntlets that emit faint energy, a compact pulse rifle slung across his torso, boots with magnetic soles, pose: one hand gripping the rifle barrel, the other lightly resting on a holographic map projected from his wrist, distant flying drones and hovering lanterns around, pixel art with vibrant colors and subtle shading.  
+Concept art Image Prompt:
+Pixel art concept illustration of Kairo Vex, a lean cyber‑enhanced bounty hunter wearing a weathered leather coat threaded with glowing teal circuitry, reinforced kevlar chestplate, dual gauntlet‑mounted pulse rifles, short cropped hair, a scar cutting across the left eye, standing on a rusted platform overlooking a sprawling neon‑lit megacity at dusk; dramatic backlighting casts long shadows, atmospheric mist curls around his boots, dynamic pose with one knee bent and a rifle gripped tightly, vibrant neon‑purple and orange sky, high‑detail 32‑bit style, vibrant color palette, pixel art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, four 64x64 frames showing Kairo Vex: (1) standing pose, feet shoulder‑width, rifle slung over shoulder, confident expression; (2) crouching pose, low squat, aiming pulse rifle forward, visor glowing; (3) walking pose, mid‑step with left foot forward, coat fluttering, rifle balanced; (4) jumping pose, mid‑air with knees bent, rifle raised, teal circuitry accents pulsing; consistent cybernetic armor colors, transparent background, pixel art style.
 
 Background Story:
-Kael Voss grew up in the undercity of Aetherforge, a sprawling settlement built atop the ruins of a forgotten civilization. As a child he discovered a dormant relic—an ancient AI core—that fused with his nervous system, granting him a cybernetic eye and limited interfacing abilities. Determined to uncover the truth behind the relic’s origin, he became a freelance operative, taking contracts that led him across the continent’s wild frontiers and sprawling megacities. His latest mission is to locate the fragmented “Eclipse Engine,” a weapon capable of reshaping reality, now sought by rival factions and a tyrannical regime. Haunted by memories of his sister, lost to the regime’s purges, Kael wrestles with the temptation to use the Engine’s power for vengeance versus protecting the fragile balance of the world. The stakes rise as the regime mobilizes their army of sentient drones, threatening to raze the remaining free zones. Kael’s journey forces him to confront his own humanity, the legacy of the ancient tech, and the choice between personal revenge and the greater good.  
+Kairo Vex was born in the industrial outskirts of the megacity known as the Spire, where he learned to survive among scrap yards and rogue drones. After his sister vanished during a corporate raid, he joined the black‑market hunters to track down the faction responsible. The deeper he delved, the uncovered a conspiracy that could collapse the city's fragile equilibrium. Haunted by guilt for each life taken and driven by the promise to rescue his sister, Kairo now roams the open world, hunting down high‑value targets while gathering fragments of a hidden code. His internal conflict pits his cold, efficient killer persona against lingering memories of his once‑peaceful life. The stakes rise as the conspirators unleash a weapon capable of turning the entire metropolis into a weaponized wasteland, and only Kairo's skill set can stop them.
 
 Skill Tree:
 - Tier 1:
-  - Pulse Shot: Fires a rapid‑fire burst from the pulse rifle dealing moderate damage to nearby enemies.
-  - Grapple Hook: Launches a magnetic tether, allowing Kael to swing across gaps or pull himself toward metallic surfaces.
-  - Overclock: Temporarily boosts movement speed and reload rate by 20% for 8 seconds.
+  - Pulse Burst: Fires a short‑range shockwave from the gauntlet, staggering nearby enemies.
+  - Reactive Cloak: Grants a brief burst of invisibility after remaining stationary for 2 seconds.
+  - Grapple Hook: Deploys a tether that pulls Kairo toward a surface, enabling quick vertical movement.
 - Tier 2:
-  - Echo Shield: Deploys a short‑duration energy barrier that absorbs a set amount of damage.
-  - Drone Companion: Summons a small reconnaissance drone that highlights hidden items and alerts Kael to nearby threats.
-  - Phase Step: Executes a short‑range teleport that evades attacks and instantly repositions Kael.
+  - Overload Shot: Charges the pulse rifle for a high‑damage penetrative blast that pierces armor.
+  - Nanite Repair: Activates an auto‑heal nanobot field, restoring a portion of health over 5 seconds.
+  - Echo Scan: Reveals hidden paths and enemy locations within a medium radius for a short time.
 - Tier 3:
-  - Nova Blast: Charges the pulse rifle to release a concentrated energy explosion, dealing high area‑of‑effect damage.
-  - Temporal Surge: Briefly slows time for all enemies within a radius, allowing Kael to maneuver or land precise shots.
-  - Relic Integration: Unlocks the full potential of Kael’s AI core, granting a passive regeneration shield that absorbs damage equal to 15% of his max health.
+  - Temporal Rift: Slows time around Kairo for 3 seconds, allowing precise platforming and targeting.
+  - Nova Grenade: Throws an explosive device that detonates in a wide radius, dealing massive area damage.
+  - Sovereign Resolve: Passive aura that increases damage resistance and reload speed when health drops below 30%.

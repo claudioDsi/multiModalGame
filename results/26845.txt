@@ -1,23 +1,26 @@
 Entry: 26845 / 26845
 
-Name: Calia Dawnbinder
+Name: Selene Ashcroft
 
-Image Prompt:
-8‑bit pixel art, young scholar‑professor with shoulder‑length silver hair tied back, amber eyes, wearing a dark violet robe trimmed with gold sigils, a crimson sash, and a brass–capped staff adorned with a floating crystal. She stands at the podium of a grand marble lecture hall inside a towering crystal citadel, chalk in one hand and the staff in the other, gesturing toward a holographic tactical map that glows teal. Sunlight streams through stained‑glass windows, casting colorful pillars of light across polished stone floors. Small floating textbooks orbit her, and a few diverse student silhouettes sit at desks, listening. The atmosphere is scholarly yet heroic, with a subtle magical aura. Pixel art style, top‑down isometric view, vibrant palette, crisp shading, no brand logos. 
+Concept art Image Prompt:
+Pixel art portrait of a young female professor with sharp violet eyes and shoulder-length silver hair, wearing elegant navy-blue academic robes adorned with gold trim and the emblem of a crescent‑talon house, clutching a sleek crystal‑staff that glows faintly; she stands confidently in the grand atrium of a towering ivory marble headquarters, massive stained‑glass windows casting multicolored light across polished stone floors, ancient floating lanterns hovering nearby, background filled with towering bookshelves and a massive floating sigil of the organization, dramatic yet soft lighting, high detail, vibrant colors, 32‑bit style, pixel art.
+
+Sprite sheet Image Prompt:
+Pixel art 64x64 sprite sheet of Professor Selene Ashcroft in four frames: (1) standing upright with staff at her side, slight smile, (2) crouching low, staff lowered ready for command, (3) walking mid‑step, robes flowing, staff tipped forward, (4) jumping with staff raised, hair fluttering, all set against a neutral transparent background, bright yet subtle shading, 32‑bit style, pixel art.
 
 Background Story:
-Calia Dawnbinder was born in the low‑lying valleys of the Ironreach, where ancient runes carved into the cliffs whispered of forgotten knowledge. Driven by a yearning to preserve the fragile balance between magic and machinery, she earned a place among the elite scholars of the Order of the Meridian, the organization that upholds order across the realm. After years of research and field campaigns, Calia was summoned to the crystal citadel to become a professor for one of its three venerable houses, each led by a royal heir. She now mentors bright‑minded youths, guiding them through rigorous lectures and the chaos of turn‑based tactical battles that test strategy and resolve. Haunted by a past failure that cost a village its protector, she seeks redemption by ensuring her students never repeat her mistakes. The future of the citadel’s prestige and the stability of the kingdom rest on the alliances she forges in both the classroom and the battlefield. 
+Selene Ashcroft grew up in the bustling market district of the capital, where she discovered a love for riddles and strategy while assisting her family’s cartographers. Accepted into the prestigious Order of the Ivory Quill at a young age, she excelled in both scholarship and battlefield tactics, quickly rising to become the youngest professor in the academy. When the Order reorganized its three noble houses, Selene was appointed head of the House of the Crescent Talon, guiding its prodigious students toward mastery of both knowledge and combat. She carries the weight of her family's legacy, fearing that failure would tarnish their name and plunge the house into obscurity. Yet her ambition drives her to uncover forgotten battle doctrines hidden within the Order’s vaults, hoping to give her pupils an edge. Internal conflict brews as she balances the desire for personal glory with the responsibility of nurturing diverse personalities under her care. The stakes rise when rival houses begin covertly sabotaging each other, forcing Selene to unite her students for the looming tactical wars that will decide the Order’s future.
 
 Skill Tree:
 - Tier 1:
-  - Arcane Lectern: Grants a temporary boost to all allies’ accuracy during the next turn.
-  - Insightful Query: Reveals hidden enemy intents on the tactical map for one round.
-  - Runes of Resolve: Reduces incoming status‑effect damage for the caster and adjacent allies.
+  - Inkblade Strike: Deliver a quick melee attack that deals light damage and reduces enemy accuracy for one turn.
+  - Scholarly Insight: Grant an allied student a minor boost to their next action’s effectiveness.
+  - Radiant Glyph: Place a short‑lived glyph on the ground that heals a small amount of HP to any ally who steps on it.
 - Tier 2:
-  - Crystal Barrier: Creates a protective dome that halves damage to allies within for two turns.
-  - Tactical Resonance: Synchronizes two allied units, allowing them to swap positions as a free action.
-  - Enigmatic Cipher: Unlocks a hidden skill in a chosen student, giving them a one‑time powerful attack.
+  - Tactical Reversal: Swap positions of two allied units, allowing repositioning without consuming movement.
+  - Echoing Lecture: Emit a resonant chant that raises all allies’ morale, increasing their attack speed for two turns.
+  - Arcane Ward: Create a protective barrier around a single student that absorbs a moderate amount of damage.
 - Tier 3:
-  - Dawnbinder’s Gambit: Allows the caster to rewrite the turn order, letting any ally act first this round.
-  - Sovereign’s Blessing: Grants the house’s royal patron’s emblem to all allies, providing a cumulative attack boost for three turns.
-  - Legacy of the Meridian: Upon defeat, revives the caster with half health and grants all allies a defensive shield.
+  - Celestial Command: Oversee a coordinated strike, granting all allies a powerful combo attack that deals high damage to a single target.
+  - Legacy of the Talon: Unlock a passive that permanently improves the house’s students' critical hit rate.
+  - Boundless Resolve: When Selene’s health falls below 30%, all allies gain a temporary shield and a boost to their defenses for three turns.

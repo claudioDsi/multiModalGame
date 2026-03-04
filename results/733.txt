@@ -1,22 +1,26 @@
 Entry: 733 / 733
 
-Name: Rex "Circuit" Marlowe  
+Name: Jax Marlowe  
 
-Image Prompt: pixel art, 32-bit style, night city street drenched in neon rain, Rex standing confidently on a half‑lit highway curb, wearing a teal bomber jacket with rolled sleeves, faded graphic tee, fingerless leather gloves, high‑top sneakers, and a tucked‑in bandana; short, spiky dark hair with a single electric blue streak, cyber‑enhanced eyes glowing faintly; holding a vintage handheld radio in one hand and a custom scooter helmet under the other arm; background includes flickering arcade signs, graffiti‑covered warehouses, and a low‑rising skyline of 1980s‑inspired skyscrapers; dramatic backlighting from street lamps and a rumbling thunderstorm, pixel‑perfect detailing, vibrant palette, retro‑futuristic vibe.  
+Concept art Image Prompt:  
+Pixel art illustration of a lanky early‑20s male with a neon‑green mullet, cyber‑chrome aviator sunglasses, and a leather bomber jacket adorned with retro 80s patches (pineapple, cassette, roller‑skate). He leans against a flickering streetlamp on a rain‑slicked boulevard, holding a vintage boom box on his shoulder. Neon signs in magenta and cyan illuminate the wet pavement, reflecting off puddles. In his other hand he grips a cheap semi‑auto pistol, the barrel glinting. Background shows a stylized downtown skyline with billboard towers, all rendered in vibrant 8‑bit style, high contrast lighting, dusk atmosphere, synthwave vibe.  
+
+Sprite sheet Image Prompt:  
+Pixel art 64x64 sprite sheet of Jax Marlowe in four frames: (1) standing pose facing right, arms relaxed, jacket fluttering, boom box slung over shoulder; (2) crouching pose, knees bent, pistol raised, ready to fire; (3) walking pose, one foot forward, jacket swaying, boom box slightly bouncing; (4) jumping pose, airborne with legs tucked, fist raised, neon‑green mullet spiking upward, same color palette and outfit across all frames, crisp 8‑bit style.  
 
 Background Story:  
-Born in the gritty outskirts of Neon Harbor, Rex grew up dodging rival crews and dreaming of neon‑lit domination over the city’s infamous downtown district, called the Neon Quarter. Desperate for fast cash, he took a high‑risk cargo run for the shadowy syndicate known as the Circuit Collective, only to have the deal blow up in a spectacular fireball, leaving him owing a mountain of debt to his ruthless superiors. While the Collective pressures him to repay with dangerous jobs, Rex’s true ambition is to seize control of the Neon Quarter and turn it into a haven for his own crew of outcasts. He’s torn between the blood‑money enforcement squads hunting him and the seductive promise of building a new empire from the ashes. Each night, he radios underground stations playing synth‑pop hits that fuel his resolve, while the city's rain‑slick streets echo with the revs of his souped‑up scooter. The stakes rise as the Collective threatens to sabotage his plans, forcing Rex to navigate betrayal, street wars, and his own lingering guilt over the lives lost in the botched deal.  
+Born in the industrial outskirts of Neon Harbor, Jax Marlowe grew up hustling arcade tokens for pocket change. By twenty he was recruited by the Crimson Cartel, a shadowy organization that used the city’s nightclubs as fronts for their drug shipments. A botched deal left him owing the Cartel a mountain of cash and a promise to deliver the next shipment untouched. While the Cartel sees him as a disposable courier, Jax’s true ambition is to seize control of the glittering downtown district known as the Neon Strip, turning it into his own empire of music, chrome, and chaos. He quietly builds alliances with street racers, disaffected radio DJs, and disgruntled city officials, balancing loyalty to his creditors against his dream of power. Every radio hit he hijacks on the airwaves fuels his resolve, and each high‑speed chase through the city’s neon‑lit avenues brings him closer to the throne he intends to claim.  
 
 Skill Tree:  
 - Tier 1:  
-  - Street Sprint: Increases movement speed on roads and alleys by 15%.  
-  - Radio Hijack: Temporarily disables enemy communication within a small radius.  
-  - Quick Fix: Restores a small amount of health after each successful vehicle chase.  
+  - Streetwise Negotiator: Reduces price of illegal goods and increases reputation with street contacts.  
+  - Neon Reflexes: Grants a brief speed boost after taking damage, allowing quick escapes.  
+  - Boom Box Blast: Emits a short-range sonic wave that disorients nearby enemies.  
 - Tier 2:  
-  - Neon Drift: Grants a boost of speed and a brief invulnerability window while drifting around corners.  
-  - Circuit Sabotage: Plant explosives on enemy vehicles that detonate after a short delay.  
-  - Credit Crunch: Reduces the debt owed to the Collective by a fixed amount each mission completed.  
+  - Turbo Drifter: Unlocks an upgraded vehicle handling mode for tight cornering and drift boosts.  
+  - Silent Shot: Silences pistol fire, reducing enemy alertness radius.  
+  - Radio Hijack: Allows you to broadcast any station, temporarily lowering police alertness in the area.  
 - Tier 3:  
-  - Synthfire: Unleash a burst of electric projectiles from your weapon, stunning nearby foes.  
-  - Power Play: Gain a temporary control over rival gang territory, increasing resource generation.  
-  - Final Override: Permanently disables one of the Collective’s surveillance hubs, reducing enemy spawn rates in the affected zone.
+  - Empire’s Edge: Increases damage and loot gains when operating within the Neon Strip district.  
+  - Cartel Counter: Grants a one‑time ability to cancel a debt payment, reducing the Cartel’s hold on you.  
+  - Midnight Overdrive: Enables a permanent 10% increase to vehicle top speed and reduces fuel consumption.

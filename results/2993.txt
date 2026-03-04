@@ -1,23 +1,26 @@
 Entry: 2993 / 2993
 
-Name: Calista “Shade” Mordant
+Name: Corin Vane
 
-Image Prompt:
-pixel art, 32‑bit, gritty urban night, rain‑slick cobblestones, dim streetlamp casting amber glow, Calista standing with a half‑turned profile, leather trench coat open to reveal tactical vest, smoke‑stained pistol in right hand, left hand gripping a glowing rune‑etched talisman, short cropped dark hair, scar across left cheek, background blurred silhouettes of towering gothic spires and faintly glowing mythic serpents winding between rooftops, dramatic chiaroscuro lighting, cyber‑noir atmosphere, detailed pixel shading, slight motion blur on rain, art style reminiscent of classic 90s RPG sprites.  
+Concept art Image Prompt:
+pixel art, 3/4 view of a gritty urban alley at night, rain slick cobblestones reflecting neon signs, fog drifting, Corin Vane standing tall in a long dark trench coat with a high collar, leather gloves, holster with a mystic sigil-emblazoned pistol, scarred face partially hidden by a fedora, sharp eyes glowing faintly amber, one hand gripping a cracked ancient amulet, dramatic backlight from a flickering streetlamp, moody chiaroscuro lighting, noir cyber‑mythic aesthetic, highly detailed 32‑bit style, no trademark or brand references
+
+Sprite sheet Image Prompt:
+pixel art, 64x64 canvas, four sequential frames of Corin Vane in a dark rain‑soaked city: 1) standing upright, arms relaxed by sides, trench coat fluttering slightly, neon glow on shoulders; 2) crouching low, one knee bent, pistol raised, eyes narrowed, rain droplets visible; 3) walking stride left, coat swaying, left foot forward, subtle motion blur effect; 4) jumping upward, body arched, amulet shining, rain splashing around, all frames share consistent color palette, lighting, and style, noir cyber‑mythic theme, no trademarks
 
 Background Story:
-Calista Mordant grew up on the crime‑riddled outskirts of New Arkane, a city where the ancient myths have seeped into steel‑crowned streets. After witnessing the brutal murder of the Sanctum Relic—a crystal that kept the veil between worlds thin—she swore to uncover who weaponized legend against humanity. Trained as an ex‑operative for the city's covert Order of the Veil, she blends lethal marksmanship with forbidden occult knowledge. Haunted by a lingering vision of the relic’s shattered light, she battles both human conspirators and awakened mythic beasts that stalk the night. Every choice she makes can either seal the rift forever or tear the world open to chaos. Driven by a personal vendetta and a reluctant hope to protect the few innocent souls still untouched by the darkness, Calista walks the thin line between hunter and hunted.  
+Corin Vane was once a seasoned homicide detective in a metropolis where mythic creatures stalk the shadows. After a routine case led him to a desecrated shrine, he uncovered an ancient amulet that fused his blood with the spirit of the legendary raven‑god, granting him a fragment of divine perception. Haunted by the murder of the relic’s keeper, Corin now walks the line between law and legend, hunting the blood‑thirsty beasts that once were mere folklore. His newfound powers come at a price: each use erodes his humanity, threatening to turn him into the very monster he hunts. Driven by guilt and a promise to protect the innocent, he must unravel the conspiracy that seeks to unleash a forgotten cataclysm. Every choice he makes can either seal the veil between worlds or tear it apart, reshaping the city’s fate forever.
 
 Skill Tree:
 - Tier 1:
-  - Shadow Trigger: Fires a quick, silenced shot that deals extra damage when attacking from stealth.
-  - Runic Insight: Reveals hidden mythic symbols on objects and enemies within a short radius.
-  - Iron Resolve: Reduces damage taken from physical attacks by a modest percentage for a few seconds after taking lethal damage.
+  - Raven’s Insight: Reveals hidden enemies and secret pathways within a short radius.
+  - Shadow Step: Grants a quick dash that makes Corin briefly untargetable.
+  - Iron Grip: Increases melee damage and reduces recoil on pistol shots.
 - Tier 2:
-  - Veil Pierce: Launches a projectile infused with rune energy that temporarily disrupts a creature’s supernatural abilities.
-  - Grim Harvest: Execute a finishing move that restores a portion of health when the enemy's health drops below 20%.
-  - Echo Step: Perform a silent dash that leaves a brief after‑image, confusing nearby foes and granting brief invulnerability.
+  - Echoing Caw: Emits a sonic burst that disorients nearby foes for a few seconds.
+  - Blood Pact: Sacrifices a portion of health to restore a larger amount of stamina.
+  - Mystic Mark: Places a lingering sigil on the ground that damages enemies over time.
 - Tier 3:
-  - Relic Resonance: Unleash a burst of stored rune power, dealing massive area damage and briefly stabilizing the veil around the player.
-  - Nightshade Covenant: Summon a tethered shadow spirit that attacks enemies and grants increased critical chance while active.
-  - Fate’s Reckoning: Upon a decisive choice, trigger a cinematic event that either seals a mythic breach permanently or grants a temporary power boost at great risk.
+  - Celestial Dive: Leaps high into the air, descending with a devastating ground slam that creates a shockwave.
+  - Spirit Veil: Temporarily cloaks Corin in darkness, granting invisibility and reduced damage taken.
+  - Oblivion Shot: Charged pistol fire that pierces multiple enemies and shatters mythic barriers.

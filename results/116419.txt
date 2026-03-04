@@ -1,23 +1,26 @@
 Entry: 116419 / 116419
 
-Name: Lyra Vex
+Name: Lyra Pulse
 
-Image Prompt:
-8-bit pixel art of a young, agile heroine with teal hair styled in a high ponytail, wearing a sleek silver-laced cybernetic suit that glows with pulsing neon pink accents. She wields a handheld holo‑drum that emits visible sound waves. Pose: mid‑leap with one foot planted on a floating, rhythmic platform, drum raised to strike the beat. Background: colorful, procedurally shifting hallway of a neon‑lit dungeon with floating musical notes and rhythmic crystals. Lighting: dynamic, beat‑synchronized glows casting vibrant shadows. Art style: retro pixel art, vibrant palette, isometric perspective, emphasis on motion blur and rhythmic visual effects.
+Concept art Image Prompt:
+Pixel art illustration of a young adventurer with short neon‑teal hair and luminous circuit tattoos across the temples, wearing a sleek fitted suit patterned with glowing musical notes and a cyber‑enhanced gauntlet on the right arm, holding a staff shaped like a stylized treble clef that pulses with light. She strikes a dynamic mid‑beat pose on a floating stone platform inside a procedurally generated crystal cavern, walls shimmering with rhythmic light ribbons and bass‑beat resonators. Ambient lantern‑glow lighting casts colorful reflections, emphasizing motion and rhythm. Vibrant, high‑contrast palette, isometric angle, detailed pixel art style.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames each 64x64 pixels, depicting Lyra Pulse in a consistent neon‑teal and dark‑violet outfit with musical‑note patterns and a glowing treble‑clef staff: 1) standing pose with staff upright, 2) crouching low ready stance, 3) walking cycle (two‑step stride), 4) jumping pose with staff raised, all on transparent background, crisp pixel art style, clear silhouette, rhythmic motion emphasis.
 
 Background Story:
-Lyra Vex grew up in the echoing corridors of the Harmonic Citadel, a sprawling complex where every stone resonated with ancient melodies. As a child prodigy of the Beatcraft Guild, she learned to bind her movements to the world’s underlying rhythm. When the citadel’s core began to falter, a dissonant curse spread, turning once‑harmonious dungeons into chaotic, off‑beat labyrinths. Determined to restore balance, Lyra dons her sync‑suit and ventures into the procedurally generated depths, guided by a reliced remix of the citadel’s original anthem. She battles foes whose attacks are timed to the corrupted tempo, seeking to reunite the fractured beats. Yet each victory brings her closer to a personal truth: the source of the curse may be the very song she once composed, forcing her to confront her own legacy.
+Lyra Pulse grew up in the humming corridors of the Resonance Forge, a settlement built atop the world’s forgotten drumbeats. As a child, she discovered an ancient relic—a treble‑clef staff—that syncs her movements with the planet’s hidden rhythm. When a discordant shadow spreads from the Core Echo, corrupting the world’s natural beats, Lyra vows to restore harmony. She joins the quest to traverse randomly generated soundscapes and dungeons, using her rhythm‑fueled abilities to outpace the encroaching silence. Haunted by the memory of her mentor’s last, unfinished melody, she feels the pressure to finish what was started. Each successful beat brings her closer to healing the Core Echo and saving the realm’s pulse. Yet the deeper she ventures, the more she learns that the true enemy may be the silence within herself.
 
 Skill Tree:
 - Tier 1:
-  - Beat Step: Dash forward a short distance on each strong beat, dodging enemy attacks.
-  - Rhythm Slash: Perform a melee strike that deals damage in sync with the current measure.
-  - Sync Shield: Activate a temporary shield that reflects projectiles arriving on the beat.
+  - Pulse Strike: Deals damage proportional to the player’s current beat meter.
+  - Echo Guard: Grants a temporary shield that absorbs one hit, synchronized to the next downbeat.
+  - Beat Boost: Increases movement speed for a short duration after landing on a musical tile.
 - Tier 2:
-  - Echo Dash: After a successful Beat Step, chain an additional dash that leaves a lingering echo damaging nearby foes.
-  - Harmonic Burst: Release a radial wave of sound that stuns enemies for one beat when timed perfectly.
-  - Tempo Shield Up: Expand the Sync Shield into a larger area that grants allies a damage bonus while active.
+  - Rhythm Dash: Performs a rapid dash that cuts through enemies, resetting the beat timer.
+  - Harmonic Wave: Emits a radial wave that stuns nearby foes on the strong beat.
+  - Sync Step: Allows a second jump in mid‑air if executed precisely on a sync point.
 - Tier 3:
-  - Resonance Overdrive: Enter a heightened state where all actions gain double speed for four beats.
-  - Cadence Requiem: Charge a powerful chord that deals massive area damage if released on a downbeat.
-  - Finale Fury: Unleash a rapid series of Rhythm Slashes that sync with each remaining beat in the current bar, culminating in a massive final blow.
+  - Crescendo Blast: Unleashes a powerful blast that scales with accumulated rhythm energy, clearing the screen of minor enemies.
+  – Reverberation Shield: Creates a lasting aura that reflects projectiles when the player maintains perfect timing.
+  – Finale Strike: A finishing move that deals massive damage when the final note of a track is reached.

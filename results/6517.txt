@@ -1,24 +1,26 @@
 Entry: 6517 / 6517
 
-Name: Kairo Tenjin  
+Name: Kairo Tenrai
 
-Image Prompt: Pixel art portrait of a youthful martial artist with spiky silver hair and bright teal eyes, dressed in a flowing crimson gi trimmed with golden lightning‑bolt embroidery, wearing gauntlets that glow with sapphire light. He stands on a shattered rooftop at dusk, one leg raised and arms extended in a dynamic fighting pose, electric arcs crackling around his fists. The backdrop shows a neon‑lit city skyline with towering skyscrapers, vibrant pink and purple hues reflecting off wet streets. Dramatic side lighting casts strong shadows, highlighting his determined expression, with a high‑contrast, 16‑bit style, vibrant colors, detailed shading, and a slightly low angle that emphasizes motion.  
+Concept art Image Prompt:
+Pixel art illustration of a youthful warrior with spiky teal hair and a glowing crimson scar across the left eye, wearing sleek jade armor adorned with faint circuit patterns and glowing cyan trim, equipped with a long celestial blade that hums with energy; dynamic pose mid‑strike with the blade extended, background a stylized manga panel filled with vibrant ink splashes and exaggerated speed lines, dramatic rim lighting and high‑contrast shadows, vivid saturated colors, comic‑book shading and exaggerated perspective, pixel art style
 
-Background Story:  
-Kairo Tenjin was raised in the storm‑ravaged outskirts of a sprawling megacity, where he learned to harness the raw energy of lightning to protect his village from marauding warlords. After his mentor—a legendary fighter who vanished during a cataclysmic battle—left behind a cryptic scroll, Kairo vowed to uncover the truth behind the ancient power that once sealed the city’s darkness. His journey leads him to the famed arena where the eight legendary arcs of the world’s saga converge, each champion bearing the legacy of their own era. While he fights to master the forgotten techniques, Kairo battles inner doubts, fearing the same fate that claimed his mentor may one day befall him. The stakes rise as a shadowy syndicate seeks to corrupt the very essence of the arena’s energy for their own conquest. Determined to protect both past and future, Kairo enters the tournament, believing that mastering the ultimate strike will restore balance and reveal his mentor’s destiny.  
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kairo Tenrai: frame 1 standing tall with celestial blade sheathed, frame 2 crouching low ready to spring, frame 3 mid‑step walking with armor glowing, frame 4 jumping with blade raised, each frame cleanly outlined, consistent color palette from concept, transparent background, crisp pixel resolution, pixel art style
 
-Skill Tree:  
-- Tier 1:  
-  - Flash Strike: A fast, forward thrust that deals moderate damage and briefly staggers the opponent.  
-  - Thunder Guard: Activates a shield of static electricity that reduces incoming damage for 3 seconds.  
-  - Spark Dash: Short burst of speed that leaves a trail of electric sparks, evading attacks.  
+Background Story:
+Kairo Tenrai hails from the floating citadel of Luminara, a city of scholars who fused ancient mysticism with cutting‑edge nanotech. Trained as the heir to the Guardian Blade, he swore to protect the balance between the arcane and the mechanical. When a rogue faction shattered the Nexus Crystal, dark energy began corrupting the world’s storylines, pulling heroes and villains from every era into chaotic battles. Kairo now travels across the shattered arcs, seeking the scattered crystal fragments to restore order. He is haunted by visions of a future where his own power becomes the very source of the corruption he fights. Driven by duty and a personal promise to his late mentor, he must master both his blade and the latent energy within his scar before the manga’s pages tear completely apart.
 
-- Tier 2:  
-  - Tempest Uppercut: A upward punch enveloped in lightning, launching the opponent into the air.  
-  - Arcane Resonance: Charges a meter; when full, the next normal attack releases a burst of chain lightning to nearby foes.  
-  - Storm Parry: Times a perfect block to counter with a shockwave that pushes the attacker back.  
-
-- Tier 3:  
-  - Lightning Nova: Unleashes a radial explosion of electricity, hitting all enemies within range and stunning them briefly.  
-  - Thunderclap Fury: A combo of rapid strikes that culminates in a massive lightning bolt striking the ground, dealing heavy damage.  
-  - Eternal Surge (Ultimate): Kairo channels the full storm within, entering a heightened state where all attacks gain increased speed and damage, and his aura damages opponents who make contact for the duration.
+Skill Tree:
+- Tier 1:
+  - Blade Spark: A quick slash that releases a burst of cyan energy, dealing low damage and briefly stunning the opponent.
+  - Circuit Dash: A short forward dash that leaves a trail of electric particles, evading attacks and closing distance.
+  - Neon Guard: Passive aura that slightly reduces damage taken from special moves.
+- Tier 2:
+  - Celestial Arc: A mid‑range projectile that arcs upward before descending, hitting multiple times.
+  - Resonant Counter: When timed with an incoming hit, counterattacks with a burst of energy, dealing moderate damage.
+  - Photon Pulse: Emits a pulse that slows enemy movement speed for a short duration.
+- Tier 3:
+  - Skyward Ascension: A powerful upward leaping attack that launches Kairo into the air and slams down with a shockwave.
+  - Eternity Slash: Charged heavy strike that penetrates defenses, dealing high damage and briefly disabling the opponent’s special abilities.
+  - Sovereign Resolve: Ultimate buff that for a few seconds doubles attack damage and grants immunity to stun while a luminous aura surrounds Kairo.

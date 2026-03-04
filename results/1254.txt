@@ -1,23 +1,26 @@
 Entry: 1254 / 1254
 
-Name: Kade Storm
+Name: Kade Stormrider  
 
-Image Prompt:
-Pixel art, isometric view of a lean, rugged protagonist with short dark hair and a scar across one eye, wearing a weathered leather duster, fingerless gloves, and steel-reinforced boots; wielding twin short blades that glow faintly blue; standing on a cracked desert plateau under a blood‑orange sunset, wind whipping a tattered bandana; dynamic combat pose mid‑leap with blades raised, dust particles swirling; dramatic rim lighting highlighting silhouette; crisp 32‑bit style, vibrant colors, heavy pixel shading.  
+Concept art Image Prompt:  
+Pixel art illustration of Kade Stormrider, a lithe fighter with short, dark ash hair and a scar crossing one eye, wearing a weathered leather duster, reinforced gauntlets, and low-slung utility belt loaded with small blades. They stand confidently on a cracked desert plateau under a blazing orange sunset, a gust of wind ruffling their coat. Their stance is wide, fists clenched, ready to strike, with a faint dust swirl at their boots. Dark shadows contrast the warm light, highlighting muscular definition. Style: high‑resolution 16‑bit pixel art, vibrant colors, dramatic lighting, western‑meets‑fantasy aesthetic.  
 
-Background Story:
-Kade Storm grew up in the lawless frontier city of Ashfall, a place where steel and sand clash in endless conflict. After his family fell victim to a corrupt syndicate, Kade swore vengeance and trained under the city's forgotten blade masters. The syndicate’s new leader, a charismatic tyrant known only as the Overseer, has seized control of the ancient monoliths that power the land. Haunted by the memory of his sister’s dying words, Kade wrestles between his thirst for retribution and the fear of becoming the very monster he despises. He now roams the cracked wastelands, seeking the lost fragments of the monoliths to shatter the Overseer’s grip. The fate of Ashfall—and the fragile hope of its people—rests on his blade and his ability to reconcile his rage with his dwindling humanity.
+Sprite sheet Image Prompt:  
+64x64 pixel art sprite sheet showing Kade Stormrider in four frames: 1) standing upright with fists at sides, neutral expression; 2) crouching low with a ready-to‑pounce posture; 3) walking forward with a smooth left‑right stride, coat flapping; 4) jumping upward, arms raised for a combat leap. Each frame uses consistent color palette—dark leather, muted earth tones, and bright highlights—and retains the same pixel‑perfect style.  
 
-Skill Tree:
-- Tier 1:
-  - Razor Dash: Quickly lunge forward, dealing a straight‑line slash that pierces enemies.
-  - Whirlwind Slash: Spin in place, delivering a 360° sweep that hits all nearby foes.
-  - Echo Strike: Perform a rapid double‑hit combo that briefly stuns the target.
-- Tier 2:
-  - Gritten Guard: Activate a temporary shield that reduces incoming damage for a short time.
-  - Bloodhound Reflex: Gain a burst of speed after a successful dodge, resetting the cooldown of Razor Dash.
-  - Starlit Overdrive: Enter a heightened state for a few seconds, increasing attack speed and combo length.
-- Tier 3:
-  - Tempest Finale: Unleash a powerful, charged blade barrage that erupts on impact, damaging all enemies in a wide radius.
-  - Phantom Reprisal: After taking lethal damage, automatically revive with half health and execute a retaliatory strike.
-  - Sunset Reckoning: Deliver a devastating finishing move that deals massive damage based on the number of successful combos performed during the fight.
+Background Story:  
+Kade Stormrider grew up on the rim of the glittering frontier, learning to survive by hunting rogue mechanized beasts that roamed the wastelands. A mysterious rift opened one night, dragging Kade into an alternate universe where an ancient empire battles a rebellion of sky‑bound clans. Stripped of their former reputation, Kade must adapt to the empire’s brutal politics while searching for a way back home. Haunted by the loss of their younger sibling, who vanished in the rift, Kade fights both external foes and the lingering guilt of abandonment. Their quick, relentless combat style earns them the moniker “The Storm” among the rebels, yet the empire labels them a rogue outlaw. As the war escalates, Kade must decide whether to forge a new destiny in this world or sacrifice everything to close the rift for good.  
+
+Skill Tree:  
+- Tier 1:  
+  - **Sudden Cut**: A rapid forward slash that deals moderate damage and briefly slows the target.  
+  - **Dust Veil**: A quick roll that creates a puff of sand, granting temporary evasion.  
+  - **Echo Strike**: A light attack that rebounds once to hit a nearby enemy.  
+- Tier 2:  
+  - **Raging Gale**: Unleashes a flurry of three fast punches, each increasing attack speed for the next hit.  
+  - **Shrapnel Toss**: Throws a handful of blade fragments in an arc, hitting all enemies in range.  
+  - **Western Resolve**: Boosts damage resistance for 5 seconds after landing a combo of five hits.  
+- Tier 3:  
+  - **Tempest Fury**: Channels momentum into a spiraling dash that slices through foes, dealing heavy damage.  
+  - **Silent Predator**: Grants invisibility for 2 seconds after a successful crouch attack.  
+  - **Final Reckoning**: Executes a powerful finishing move that deals massive damage and restores a small portion of health when the target’s HP falls below 20%.

@@ -1,23 +1,28 @@
 Entry: 2449 / 2449
 
-Name: Kael Riftwalker
+Name: Kairo Vanir  
 
-Image Prompt:
-8-bit pixel art, top‑down view of a lone warrior standing on a cracked stone plaza, wearing tattered luminous armor with flowing silvered cloaks, dual ethereal blades humming with blue light, glowing runic tattoos across the arms, poised in a ready stance, distant crumbling cityscape under a bruised twilight sky with a towering clock counting down 13 days, rim lighting from the blades creates sharp highlights, muted neon accents, detailed pixel shading, dramatic low‑angle lighting, retro RPG style
+Concept art Image Prompt:  
+A lone, gender‑ambiguous warrior stands on a crumbling cliff edge overlooking a storm‑lit void, twilight sky swirling with faint nebulae. Kairo wears a sleek, reinforced exosuit of midnight‑blue alloy plates with glowing teal runes, a tattered cape of ethereal fabric that flickers like lost souls, and a visor that reflects a cascade of spectral light. In one hand, a futuristic pole‑spear composed of interlocking blades emits a soft pulse; the other hand clenches a compact energy gauntlet. The pose is dynamic, shoulders turned slightly forward, as if ready to leap into battle. Soft ambient light from distant horizons casts dramatic shadows, highlighting the intricate circuitry on the armor. Pixel art style, highly detailed, 32‑bit resolution, vibrant color palette, cinematic lighting, atmospheric background.  
 
-Background Story:
-Kael was once a humble archivist in the Grand Library of Aetheria, tasked with recording the lives of the living. When a cataclysmic rift opened, souls began to spill into a void, threatening to erase the world’s memory. Chosen by the ancient Sentinel Forge, Kael received a pair of Soul‑forged Blades that can bind wandering spirits. With only thirteen days until the rift seals permanently, he must gather and guide the lost souls to the Sanctuary of Dawn. Haunted by the faces of those he failed to save before, Kael wrestles with guilt and the weight of destiny. Each rescued soul strengthens his weapons, but the ticking clock forces him into brutal, time‑rushed confrontations.
+Sprite sheet Image Prompt:  
+Pixel art sprite sheet, 64x64 canvas, four sequential frames of Kairo Vanir: 1) standing tall with pole‑spear planted forward, calm expression, 2) crouching low, gauntlet raised, ready to strike, 3) walking stride with exosuit panels shifting, pole‑spear balanced on shoulder, 4) jumping upward, energy gauntlet glowing, eyes blazing. Each frame crisp, limited 16‑pixel wide character, consistent color palette, subtle shading, retro‑futuristic aesthetic, clear outlines, no background.  
 
-Skill Tree:
-- Tier 1:
-  - Soul Snare: Fires a short‑range pulse that captures a nearby wandering soul, converting it into a temporary power boost.
-  - Ember Dash: Quick dash forward that leaves a trail of ignited spirit ash, damaging enemies it passes through.
-  - Aegis Pulse: Emits a brief shield of radiant energy that absorbs a single hit and reflects a fraction of damage.
-- Tier 2:
-  - Rift Blade: Unleashes a sweeping slash that tears the fabric of reality, staggering all enemies in a wide arc.
-  - Echoing Resonance: Channels captured souls to emit a wave that heals Kael and allies for a small amount.
-  - Temporal Shift: Slows time for three seconds in a small radius, allowing precise attacks and evasive maneuvers.
-- Tier 3:
-  - Ascendant Confluence: Merges all bound souls into a massive beam that deals massive damage and purges enemy buffs.
-  - Eternal Ward: Creates a persistent aura that continuously regenerates health for Kael and nearby allies while reducing soul corruption.
-  - Final Reckoning: Sacrifices a portion of captured souls to unleash a cataclysmic explosion that ends the battle, resetting cooldowns afterward.
+Background Story:  
+Kairo Vanir was once a scholar of the Astral Archives, devoted to cataloguing the essences of the departed. When a cataclysmic rift tore open the Veil of Echoes, the souls of countless worlds began to drift toward oblivion, and the Council sentenced them to a thirteen‑day purge. Guided by a fragment of a forgotten prophecy, Kairo forged an experimental exosuit and a spear capable of binding wandering spirits. Haunted by the memory of a sister lost to the void, Kairo now races against the relentless clock, hoping to harvest enough souls to seal the rift before the deadline. Each rescued essence fuels the suit’s power, but the process siphons Kairo’s own life force, threatening to become the very loss they seek to prevent. The mission is both redemption and sacrifice, as Kairo confronts the truth that saving the multiverse may require surrendering one’s own humanity.  
+
+Skill Tree:  
+- Tier 1:  
+  - Soul Capture: Fires a short‑range pulse that draws a nearby spirit into the gauntlet, granting a temporary shield.  
+  - Echo Dash: Quick forward burst that leaves a lingering trail of spectral energy damaging foes it passes.  
+  - Gear Sync: Minor auto‑repair of exosuit armor, restoring a small amount of health each second.  
+
+- Tier 2:  
+  - Spectral Strike: Charged melee attack that releases captured souls as a wave, dealing area damage.  
+  - Time Rift Beacon: Places a beacon that slows the flow of time for enemies within its radius by 30%.  
+  - Adaptive Mantle: Passive reduction of incoming damage that scales with the number of souls currently held.  
+
+- Tier 3:  
+  - Oblivion Surge: Unleashes all stored souls in a massive explosion, clearing the screen and resetting the thirteen‑day timer by one hour.  
+  - Voidwalk: Grants temporary phase‑through ability, allowing Kairo to traverse obstacles and enemies unharmed for a short duration.  
+  - Ascendant Resolve: Ultimate passive that converts excess soul energy into permanent health increase, capping at full health when the final soul is captured.

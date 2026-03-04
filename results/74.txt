@@ -1,24 +1,26 @@
 Entry: 74 / 74
 
-Name: Commander Aster Veyra  
+Name: Aria Voss
 
-Image Prompt: pixel art, front‑facing portrait of a charismatic space commander with short silver‑blue hair, sharp amber eyes behind a semi‑transparent HUD visor, wearing a fitted dark‑teal tactical suit with glowing teal circuitry accents and a lightweight armored chest plate, left hand resting on a compact plasma sidearm, right hand outstretched as if issuing orders, background of a cramped star‑ship bridge with holographic star maps and distant nebula visible through a round porthole, soft rim lighting from the ship’s consoles, vibrant neon highlights, 32‑bit retro sci‑fi style, high detail, dynamic pose  
+Concept art Image Prompt:
+pixel art illustration of Commander Aria Voss, a determined human female in early thirties, wearing sleek modular combat armor with brushed steel plates, electric‑blue and violet accent lighting, a glowing visor over her left eye, a high‑tech energy rifle slung over her shoulder, standing on the observation deck of a massive star‑cruiser overlooking a swirling nebula with distant starlight, soft rim light highlighting her silhouette, expressive pose with one hand gripping the rail, other hand resting on the rifle stock, detailed background consoles faintly glowing, cinematic low‑angle perspective, vibrant yet restrained color palette, highly detailed pixel art style.
 
-Background Story:  
-Aster Veyra grew up on the mining colony of Kiros IV, where they learned to survive amid corporate exploitation and relentless radiation storms. After a brutal raid by the predatory Orion Syndicate, Aster swore never to let a single world fall under the shadow of oppressive forces. Rising through the ranks of the Free Coalition, they earned a reputation for daring raids, diplomatic finesse, and an uncanny ability to rally disparate factions. Now, as the galaxy faces an unprecedented invasion from the mechanized Void Covenant, Aster is tasked with uniting the galaxy’s fiercest allies while navigating treacherous internal politics. Haunted by the loss of their sister during the Syndicate raid, Aster struggles between the weight of command and the desire for personal vengeance. Every choice they make could either forge a lasting peace or plunge the stars into endless war.  
+Sprite sheet Image Prompt:
+pixel art 64x64 sprite sheet of Commander Aria Voss in four frames: 1) standing pose, feet shoulder‑width apart, rifle held vertically by her side, visor glowing; 2) crouching pose, knees bent, rifle angled forward, ready to fire; 3) walking pose, left leg forward, right arm swinging, armor plates shifting; 4) jumping pose, mid‑air with legs tucked, rifle raised upward, visor shimmering, all frames sharing the same sleek steel‑blue armor, electric accent lines, and consistent lighting, rendered in crisp pixel art style.
 
-Skill Tree:  
-- Tier 1:  
-  - **Starlight Reflex**: Grants a brief window of increased movement speed and evasion after taking damage.  
-  - **Tactical Scan**: Reveals enemy weak points for a short duration, increasing damage dealt to them.  
-  - **Nano‑Heal Injector**: Activates rapid health regeneration for a few seconds, consuming a small amount of energy.  
+Background Story:
+Aria Voss grew up on a mining colony on the fringe of known space, watching her family perish when a corporate militia seized control of their world. She escaped the devastation by stealing a derelict scout ship and vowed to never let another system fall to ruthless conquest. After years fighting as a mercenary, she was recruited by the remnants of the Freedom Accord, an underground network battling the oppressive Dominion Syndicate. Haunted by the loss of her home, Aria now leads a rag‑tag fleet of rebels, balancing brutal combat with fragile diplomatic negotiations to unite disparate planetary factions. Every decision she makes could either ignite a galaxy‑wide uprising or plunge the stars into deeper tyranny. The weight of countless lives rests on her shoulders, and she must learn to trust new allies while confronting the shadows of her past.
 
-- Tier 2:  
-  - **Command Beacon**: Boosts nearby allies’ attack speed and shield regeneration for a limited time.  
-  - **Diplomat’s Edge**: Reduces hostility of neutral factions during conversations, unlocking additional dialogue options.  
-  - **Adaptive Arsenal**: Allows instant swapping of equipped weapons without pause, each swap grants a minor damage bonus.  
-
-- Tier 3:  
-  - **Galaxy’s Resolve**: Once per mission, prevents all allied deaths for a short interval, sacrificing a portion of the commander’s health.  
-  - **Voidbreaker Protocol**: Unleashes a powerful area‑of‑effect blast that disables enemy shields and staggered robots.  
-  - **Eternal Covenant**: Grants a permanent passive increase to maximum health and a slow health regeneration boost after combat.
+Skill Tree:
+- Tier 1:
+  - Pulse Shield: activates a short‑duration energy barrier that reduces incoming damage by 20%.
+  - Rapid Reload: cuts weapon reload time in half, allowing quicker follow‑up shots.
+  - Medic Drone: deploys a small drone that slowly restores health to Aria and nearby allies.
+- Tier 2:
+  - Diplomatic Override: grants a temporary boost to crew morale, increasing dialogue success rates.
+  - Adaptive Camouflage: renders Aria semi‑invisible for a few seconds when standing still.
+  - Shockwave Blast: fires a concussive burst from her rifle, staggering enemies within a small radius.
+- Tier 3:
+  - Galactic Command: issues a rally command that boosts all allies' attack speed for a limited time.
+  - Chrono‑Shift: briefly rewinds time to restore Aria’s health and position to the previous frame.
+  - Starfall Barrage: summons a rain of energy missiles that target multiple foes across the battlefield.

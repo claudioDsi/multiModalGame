@@ -1,23 +1,26 @@
 Entry: 41 / 41
 
-Name: Rin Calix
+Name: Kade Arlen
 
-Image Prompt:
-pixel art portrait of a slender, gender‑fluid agent with short silver hair streaked with neon teal, half‑face cybernetic implants glowing faintly blue, dark matte combat jacket marked with the insignia of a stylized phoenix, visor displaying scrolling data, standing in a rain‑slick alley of a crumbling megacity at night, neon signs flickering, wet pavement reflecting soft ambient lights, dramatic low‑key lighting, 32‑bit style, detailed shading, cinematic composition
+Concept art Image Prompt:
+Pixel art illustration of Kade Arlen, a mid‑30s cyber‑augmented operative, standing on a rain‑slick rooftop overlooking a sprawling neon‑lit megacity at night. He wears a matte black tactical coat with faint teal nanocircuit patterns that pulse softly, a carbon‑fiber chest rig, chrome forearm implants with visible micro‑actuators, and a semi‑transparent heads‑up visor glowing with faint data readouts. His pose is relaxed yet alert, one hand resting on the grip of a compact rail‑gun, the other lightly touching the neck implant. Ambient street light from distant holo‑ads casts a cool bluish glow, while the rain creates reflective highlights. Style tags: pixel art, 16‑bit, detailed shading, isometric perspective, cinematic lighting, cyberpunk atmosphere.
+
+Sprite sheet Image Prompt:
+Four‑frame 64x64 pixel art sprite sheet of Kade Arlen in a side‑view orientation. Frame 1: standing pose, arms at sides, visor reflecting city lights. Frame 2: crouching pose, knees bent, forearm implants emitting a faint teal pulse. Frame 3: walking pose, left leg forward, coat billowing, subtle motion blur on the nanocircuit seams. Frame 4: jumping pose, knees tucked, visor angled upward, a small trail of nanite particles behind the forearm. Consistent color palette: matte black, deep teal, chrome, and neon highlights. Style tags: pixel art, 16‑bit, sprite sheet, transparent background.
 
 Background Story:
-Rin grew up in the overcrowded lower tiers of New Avalon, where scavenged nanotech was the only hope for survival. After a tragic raid claimed their sibling, they enlisted in the Federal Counter‑Insurgency Corps, undergoing experimental nano‑augmentation to become a field operative. Though celebrated for surgical precision and uncanny reflexes, Rin secretly questions whether the corps’ methods truly protect the innocent. When a radical faction, the Iron Covenant, launches a coordinated assault on the orbital hub of Chronos Gate, Rin is ordered to halt the invasion at any cost. As the battle unfolds, encrypted memories hidden within Rin’s nanites surface, revealing ties to the Covenant’s ideological roots. Faced with the revelation that both sides manipulate truth, Rin must decide if loyalty lies with the institution that saved them or with a fledgling vision of a freer humanity.
+Kade Arlen was born in the industrial slums of New Osaka, where the line between flesh and machine was blurred by necessity. After a fatal accident that claimed his family, he volunteered for the Global Counter‑Terror Directorate (GCTD), receiving nanite‑enhanced augmentations that saved his life but tethered his mind to a constant digital hum. Assigned to the anti‑terrorist unit “Aegis Vector,” he is tasked with repelling a coordinated assault on the orbital megastructure Aurora Hub by the radical group “The Crimson Veil.” As Kade infiltrates the besieged site, fragmented data streams reveal that both the Veil and a hidden faction within GCTD are manipulating the conflict for a far‑reaching agenda. Haunted by the memories of his loss and the growing evidence that his own augmentations may be a conduit for control, he grapples with questions of free will, loyalty, and the morality of sacrificing lives for a perceived greater good. The fate of Aurora Hub—and perhaps the fragile peace of the entire world—rests on whether Kade can reconcile his engineered obedience with his emerging conscience. His decisions will shape the balance between surveillance‑driven order and the chaotic yearning for true autonomy.
 
 Skill Tree:
 - Tier 1:
-  - Neural Reflexes: Boosts dodge and reaction speed by 15% for a short duration.
-  - Nano‑Seal: Deploys a temporary nanite field that reduces incoming damage by 10%.
-  - Data Whisper: Allows passive interception of nearby communications, granting situational awareness.
+  - Neural Quickdraw: Reduces weapon draw and aim time by 20%.
+  - Nano Shield: Generates a temporary barrier that absorbs 15% of incoming damage for 6 seconds.
+  - Moral Lens: Unlocks dialogue options that question orders, influencing faction reputation.
 - Tier 2:
-  - Echo Veil: Projects a holographic distortion that confuses enemies, lowering their accuracy.
-  - Cortical Overclock: Increases skill cooldown reduction by 20% at the cost of stamina drain.
-  - Adaptive Camouflage: Grants temporary invisibility when standing still in low light.
+  - Echo Pulse: Emits a nanite pulse that reveals hidden enemies and traps within a 10‑meter radius.
+  - Adaptive Camouflage: Grants short‑term invisibility while standing still, lasting up to 4 seconds.
+  - Philosopher's Resolve: Reduces sanity loss from horror events by 30%.
 - Tier 3:
-  - Paradox Protocol: Rewinds personal health to a previous state once per mission.
-  - Sovereign Override: Forces a hostile AI unit to obey a single command before self‑destructing.
-  - Moral Reckoning: Triggers a powerful area effect that damages enemies proportionally to their hostile intent, also healing allies who share Rin’s values.
+  - Quantum Overdrive: Doubles movement speed and weapon damage for 5 seconds, with a cooldown of 45 seconds.
+  - Conscience Override: Hacks enemy AI to temporarily turn a target hostile to its allies.
+  - Worldweight Insight: Unlocks a unique narrative branch that can sway multiple factions simultaneously.

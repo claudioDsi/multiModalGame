@@ -1,23 +1,26 @@
 Entry: 20 / 20
 
-Name: Riven Aetherfall
+Name: Vesper Caine
 
-Image Prompt:
-pixel art, close‑up of a gaunt, androgynous figure standing knee‑deep in murky, bioluminescent water inside a rusted, brass‑clad submarine wreck, wearing a patched leather coat over a fitted steam‑powered exosuit with pistons and glowing algae veins, a cracked crystal artifact fused into the left temple, one hand gripping a riveted bolt‑action rifle that morphs into a harpoon, the other hand extended with a gloved cybernetic claw emitting faint electric arcs, cold blue‑green lighting from surrounding sea lanterns reflecting off corroded metal, background filled with dripping pipes, pressure gauges, and distant silhouettes of hostile leviathans, art style: detailed isometric pixel art, high contrast, atmospheric fog effect.
+Concept art Image Prompt:
+A gritty, steampunk‑styled deep‑sea diver in a rusted brass exosuit fused with organic coral growth, helmet visor glowing amber, cybernetic arm grafted with a jagged, pulsating artifact shard; Vesper stands on a cracked, algae‑covered metal platform overlooking an abyssal city lit by bioluminescent lanterns, shafts of cold blue light filter through murky water, oil‑slick reflections on the floor; pose is dynamic, one foot forward, arm raised holding a makeshift harpoon that doubles as a tool; atmosphere heavy with fog and drifting debris; art style: detailed pixel art, 32‑bit palette, high contrast, cinematic lighting, moody, atmospheric, steampunk horror vibe.
+
+Sprite sheet Image Prompt:
+Four sequential 64x64 pixel art frames of Vesper Caine in a steampunk underwater setting, each frame showing a different pose: (1) standing upright with cybernetic arm relaxed, visor reflecting faint light; (2) crouching low, knees bent, weapon ready, coral‑infused armor plates shifting; (3) walking stride, left leg forward, exosuit pistons whirring, water bubbles trailing; (4) jumping upward, body angled, jet thrust from back thrusters, water spray; consistent color scheme of brass, rust, muted teal, glowing amber artifact, pixel art style, limited resolution, clear silhouette, subtle lighting effects.
 
 Background Story:
-Riven Aetherfall grew up in the smog‑choked districts of the surface city, dreaming of the ocean’s mysteries before a catastrophic flood forced the populace beneath the waves. As a former salvage pilot, Riven learned to scavenge abandoned steam‑driven vessels and repurpose their wreckage into weaponry, developing a reputation for turning any scrap into lethal tools. When a dormant alien artifact fused to Riven’s skull during a deep‑sea dig, it granted the ability to manipulate organic matter, but at the cost of a growing, sentient infection within their veins. Determined to uncover the artifact’s origin and stop the spreading corruption, Riven now roams the drowned megacities, hacking rogue automata and mutating their own body to survive. Haunted by visions of the surface world slipping away, Riven wrestles with the temptation to surrender to the infection’s promise of limitless power. The stakes rise as the underwater regime’s tyrannical Council seeks the artifact for their own apocalyptic designs, and only Riven’s hybrid of steel and flesh can halt their descent into madness.
+Vesper Caine was once a naval engineer on the surface, recruited by a shadowy corporation to prototype the “Abyssal Conduit,” a device meant to harvest the deep sea’s energy. During a test dive, a colossal pressure breach forced Vesper to bond with a salvaged alien artifact, melding metal and flesh into a grotesque yet powerful hybrid. Now marked by the artifact’s ever‑pulsing crystal, Vesper roams the drowned megacity, seeking fragments of the Conduit to reverse‑engineer a means back to the surface. Haunted by flickering memories of a lost family, Vesper wrestles with the growing sentience of the artifact, which whispers promises of control over the ocean’s monsters. Every weapon Vesper fashions becomes an extension of this alien symbiosis, blurring the line between tool and host. The stakes rise as hostile hordes close in, and the only hope is to uncover the hidden core that could either free Vesper or drown the world in perpetual abyss.
 
 Skill Tree:
 - Tier 1:
-  - Pressure‑Forge Shot: Fires a single high‑velocity projectile that pierces through weak hulls, dealing extra damage to armored foes.
-  - Bio‑Patch Healing: Consumes a small amount of stored biolume to restore a modest portion of health over 5 seconds.
-  - Steam‑Latch Grapple: Launches a magnetic tether that pulls Riven toward metal surfaces, allowing rapid repositioning.
+  - Corroded Grasp: Melee attacks deal extra damage and apply a corrosive debuff that degrades enemy armor over time.
+  - Pressure Pump: Activate a short‑range burst that pushes back nearby foes and creates a temporary air pocket.
+  - Bio‑Latch: Attach a grappling hook made of living kelp to surfaces, allowing rapid vertical movement.
 - Tier 2:
-  - Cipher‑Burst Hack: Sends a burst of electromagnetic pulses that temporarily disables enemy drones and overloads nearby turrets.
-  - Morphic Ammo: Converts standard rounds into corrosive or incendiary variants on the fly, adding elemental damage.
-  - Adaptive Carapace: Engages a temporary nanite layer that reduces incoming damage by 20% for 10 seconds.
+  - Resonant Harpoon: Charged shots emit a harmonic wave that penetrates multiple enemies and stuns them briefly.
+  - Adaptive Shell: Temporarily harden armor, reducing incoming damage and reflecting a portion back as acid.
+  - Synth‑Ammo Forge: Convert collected debris into instant ammo types, switching between incendiary, electric, or corrosive rounds on the fly.
 - Tier 3:
-  - Abyssal Resonance: Channels the crystal artifact to unleash a wave of pressure that stuns all enemies within a radius and shatters fragile structures.
-  - Lethal Symbiote Surge: Overwrites the infection, granting a massive damage boost and rapid regeneration for 8 seconds, but risks loss of control if not ended in time.
-  - Overclocked Exosuit: Maximizes steam‑piston output, granting a burst of speed and allowing double‑jump for a short window, while increasing weapon fire rate.
+  - Artifact Overload: Unleash the artifact’s power for a limited time, granting hyper‑speed movement and amplified weapon damage.
+  - Abyssal Echo: Emit a sonar pulse that reveals hidden enemies and weak points through walls for several seconds.
+  - Self‑Regen Infusion: Gradually regenerate health and repair exosuit integrity while stationary, consuming stored energy.

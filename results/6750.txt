@@ -2,22 +2,25 @@ Entry: 6750 / 6750
 
 Name: Kairo Vex
 
-Image Prompt:
-16-bit pixel art of a lithe, neon-green-haired martial artist wearing a sleek black tech-vest with glowing cyan circuit patterns, fingerless gloves, and high-top sneakers; standing mid-leap on a rain‑slick rooftop of a cyberpunk city, neon signs flickering behind, dynamic pose with one arm extended forward emitting a visible energy wave; dramatic cyberpunk lighting with wet reflections, vibrant magenta and teal ambient glow; detailed sprite shading, bold outlines, retro arcade style.
+Concept art Image Prompt:
+A pixel art illustration of Kairo Vex, a lithe fighter with half‑metal cybernetic arm and flowing crimson scarf, standing on a cracked neon‑lit rooftop overlooking a futuristic city skyline at night; his right eye glows electric blue, and he holds a sleek plasma katana in a ready stance, wind blowing the scarf, cyber‑punk ambience, high contrast shadows, vibrant neon colors, detailed pixel shading, 32‑bit style, dynamic perspective, dramatic backlighting, art style: retro‑futuristic pixel art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, four 64x64 frames of Kairo Vex: 1) standing neutral pose with katana sheathed, slight weight shift, 2) crouching low, knees bent, arm ready to strike, 3) walking forward, left leg forward, cape fluttering, 4) jumping upward with katana raised, cybernetic arm emitting a brief spark, consistent color palette, crisp pixel edges, retro arcade style, transparent background.
 
 Background Story:
-Kairo Vex grew up in the underbelly of a sprawling megacity, trained as a parkour courier delivering illegal data through towering skyscrapers. After a corporate gang ambushed his crew, Kairo discovered a hidden module in his neural implant that unlocked latent combat protocols. Determined to avenge his fallen friends, he entered the underground fighting circuit to gather allies and information. Yet the same implant begins to overwrite his memories, threatening his sense of self. He fights not only for revenge but to retain his humanity against the machine's pull. Each duel brings him closer to the organization that created his implant, forcing him to choose between power and redemption.
+Kairo Vex was once a prodigy of the Skyforge Guild, trained in the art of the plasma blade from childhood. During a raid on the floating citadel, a rogue magitech experiment fused his left arm with living circuitry, granting him great power but a relentless pulse that threatens to consume his humanity. Driven by a promise to his vanished sister, he now enters the Grand Circuit Tournament to secure the rare "Heart of Aether" that can reverse his transformation. Each battle offers a clue to the hidden laboratory where the experiment originated, and he fears the longer he fights, the more the metal will dominate his will. Yet his resolve sharpens; he fights not only for a cure but to protect the innocent cities threatened by the same technology. In the arena, Kairo balances his inner conflict between man and machine, hoping victory will grant him mastery over his own fate.
 
 Skill Tree:
 - Tier 1:
-  - Neon Dash: Quickly dashes forward, evading attacks and closing distance.
-  - Circuit Strike: A quick jab that briefly stuns the opponent with a flash of electricity.
-  - Data Shield: Generates a momentary barrier that reduces incoming damage by 15%.
+  - Plasma Slash: A quick horizontal slash that deals light damage and briefly flashes the opponent.
+  - Ember Dodge: A swift sidestep that leaves a trail of sparks, granting temporary invulnerability frames.
+  - Circuit Shock: A low‑kick that electrocutes the ground, causing minor stun to nearby foes.
 - Tier 2:
-  - Glitch Counter: When timed on an opponent’s attack, counters with a powerful overhead blast.
-  - Hologram Mirage: Creates a short‑lived duplicate that confuses the enemy’s targeting.
-  - Pulse Wave: Emits a radial pulse that knocks back nearby foes and deals light damage.
+  - Neon Burst: Unleashes a short-range pulse from the cyber‑arm, dealing moderate damage and pushing the opponent back.
+  - Razor Wind: A spinning forward attack that hits multiple times and can counter projectiles.
+  - Alloy Guard: Activates a temporary shield from the arm’s circuitry, reducing incoming damage for a few seconds.
 - Tier 3:
-  - Overclock Fury: Temporarily boosts attack speed and damage for a few seconds.
-  - Cybernetic Collapse: Releases an explosive burst from the implant, dealing massive damage in a wide arc.
-  - Reboot Resolve: Restores a portion of health and clears negative status effects when health drops low.
+  - Aetheric Strike: A charged overhead slash that releases a wave of energy, causing heavy damage and armor pierce.
+  - Temporal Step: A teleport‑like dash that phases Kairo behind the opponent, resetting his meter.
+  - Overload Finale: Releases the full power of the cyber‑arm in a massive area explosion, dealing massive damage but leaving Kairo vulnerable for a short time.

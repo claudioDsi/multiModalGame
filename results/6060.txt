@@ -1,23 +1,26 @@
 Entry: 6060 / 6060
 
-Name: Kade “Ashen” Morrell
+Name: Riven Kael
 
-Image Prompt:
-pixel art, close‑up of a lean, gritty survivor with ash‑gray short hair and a scar across the left cheek, wearing a scavenged modular combat suit patched with rusted metal plates, neon‑blue visor glowing faintly, gripping a repurposed rotary gauss pistol, standing in a dimly lit, smog‑filled penal settlement alley with broken concrete walls, distant flickering lanterns, rain dripping off his shoulders, dramatic low‑key lighting, 16‑bit style, high contrast, retro‑futuristic atmosphere
+Concept art Image Prompt:
+Pixel art illustration of a lean, scar‑marked woman in her late twenties, short cropped dark hair with a thin neon green streak, wearing a patched respirator mask and a modular combat suit made of reclaimed metal plates and polymer shrapnel. She holds a dual‑mode energy gauntlet in a confident stance, one hand gripping a battered prison badge. Behind her is a dimly lit, smog‑filled penal compound courtyard with rusted barbed wire, flickering holo‑signs, and distant silhouettes of crumbling towers. Low, cold lighting with a faint violet ambient glow, high contrast shadows. Art style: gritty cyber‑punk, detailed pixel art, 32×32 tiles, vibrant yet desaturated palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64×64 canvas size, four frames of Riven Kael in a modular combat suit with a respirator mask and dual‑mode gauntlet: 1) standing pose, feet shoulder‑width apart, gauntlet raised, determined expression; 2) crouching pose, knees bent, gauntlet low, ready to strike; 3) walking pose, left leg forward, gauntlet swinging slightly, coat flapping; 4) jumping pose, mid‑air with arms thrust upward, gauntlet glowing. Consistent colors, crisp outlines, cyber‑punk gritty aesthetic, pixel resolution 64×64.
 
 Background Story:
-Kade grew up in the soot‑choked outskirts of the former megacity before the Collapse, where his family perished in a resource raid. Drafted into the central penitentiary at sixteen, he learned to survive by trading information and weapon parts on the black market. A secret resistance cell recruited him after he rescued a captive engineer who knew the location of a hidden clean‑water reservoir. Haunted by the memory of his parents’ death, Kade fights each mission hoping to secure enough intel to bargain for his release. He constantly wrestles with the temptation to betray teammates for a shortcut to freedom. The looming threat of the rival enforcement faction forces him to balance personal vengeance with the greater good of the civilians he saves. Every successful extraction chips away at his sentence, but the looming possibility of eternal confinement keeps his resolve razor‑sharp.
+Riven Kael grew up in the soot‑choked outskirts of the original mining colonies, where she learned to scavenge and repair broken machinery to survive. Arrested for sabotaging a corporate extraction rig, she was sentenced to the harsh penal settlements that now dominate the wasteland. Inside the compound, Riven discovered a hidden cache of experimental gauntlet tech, bonding it to her own makeshift armor. Driven by a promise to her younger sibling awaiting rescue, she joins the resistance faction known as the Ironhold to strike at rival syndicates hoarding scarce resources. Each mission brings her closer to freeing herself and exposing the truth behind the organization’s cruel resource monopoly. Yet she wrestles with the fear that her own thirst for vengeance may eclipse her hope for redemption.
 
 Skill Tree:
 - Tier 1:
-  - Scavenger’s Insight: Reveals hidden caches and weak points in enemy structures within a short radius.
-  - Rapid Reload: Reduces weapon reload time by 20% and grants a brief movement speed boost after reloading.
-  - Ember Strike: Fires a low‑damage incendiary shot that ignites enemies for 3 seconds, dealing damage over time.
+  - Pulse Strike: Unleashes a short‑range electric burst from the gauntlet, staggering nearby enemies.
+  - Scavenger's Quickstep: Increases movement speed and reduces stamina cost while crouched.
+  - Respirator Filter: Grants temporary immunity to toxic clouds for 5 seconds.
 - Tier 2:
-  - Adaptive Armor: Temporarily increases damage resistance by 15% when taking consecutive hits.
-  - Tactical Coordination: Grants a passive aura that slightly reduces cooldowns of nearby allies’ abilities.
-  - Circuit Breach: Hacks a target enemy’s cybernetic augment, disabling its special ability for 5 seconds.
+  - Magnetized Grapple: Fires a magnetic tether that pulls Riven toward walls or pulls enemies closer.
+  - Overload Blast: Charges the gauntlet for a powerful area‑of‑effect shock, damaging all foes within radius.
+  - Resource Insight: Highlights interactable objects containing valuable salvage in the environment.
 - Tier 3:
-  - Overcharge Blast: Unleashes a powerful charged shot that pierces multiple enemies and leaves a lingering EMP field.
-  - Redemption Protocol: Once per mission, instantly restores half of Kade’s health and resets all cooldowns when a civilian is rescued.
-  - Shadow Fade: Activates a short‑duration cloaking effect, allowing silent movement and evasion of detection.
+  - Adaptive Shield: Generates a reactive energy shield that absorbs a set amount of damage before breaking.
+  - Freedom Rally: Boosts all nearby allies' attack speed and reduces cooldowns for a short duration.
+  - Final Reckoning: Executes a devastating charged strike that pierces enemy armor and reduces their sentence penalty timer when successful.

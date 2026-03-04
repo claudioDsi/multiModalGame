@@ -1,22 +1,26 @@
 Entry: 4130 / 4130
 
-Name: Vex Tempest  
+Name: Kade Chronos
 
-Image Prompt: pixel art, vibrant neon-lit city rooftop at night, Vex Tempest – lean, rugged with short spiky teal hair, cyber‑enhanced eyes glinting, wearing a modular leather‑camo jacket with chrono‑core gauntlets, dual plasma pistols holstered at hips, one hand gripping a wrist‑mounted time‑pulse device, crouched in a dynamic pose as a swirling temporal vortex opens behind, rain reflecting colorful lights, dramatic rim lighting, 16‑color palette, detailed shading, top‑down perspective, heavy pixel outline, retro‑futuristic art style.  
+Concept art Image Prompt:
+Pixel art illustration of Kade Chronos, a gritty future mercenary with a cyber‑enhanced arm and a sleek, worn leather coat streaked with neon teal circuitry patterns. He wears a reinforced visor that glows faintly, a utility belt loaded with modular ammo canisters, and combat boots with magnetic soles. Pose: standing on a cracked concrete platform overlooking a ruined cityscape with floating time‑rifts swirling in the sky, one hand gripping a high‑tech pulse rifle, the other clenched in a defiant fist. Dynamic dramatic lighting with harsh backlight from the rifts, atmospheric dust, and subtle neon glow. Style tags: pixel art, 16‑bit, isometric view, high contrast, cyber‑punk, gritty, vibrant colors.
 
-Background Story:  
-Vex Tempest grew up in the fractured megacity of Chronopolis, where rival syndicates battled for control of the ancient Temporal Nexus. As a prodigious hack‑tactician, Vex infiltrated the Nexus and unintentionally triggered a fragment of the timestream, granting a volatile chronal ability. Branded a rogue by the city’s ruling council, Vex now roams the eras, hunting the rogue scientists who seek to weaponize the Nexus’s power. Beneath the hardened exterior lies a lingering guilt over the lives lost when the first temporal rupture shattered Vex’s hometown. Vex’s mission is to close the fissures in time while uncovering the truth about a mysterious order that erased their own past. Every jump between ages forces Vex to confront past mistakes and decide whether vengeance or redemption will define the future.  
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Kade Chronos: (1) standing pose, arms relaxed holding pulse rifle at side, visor illuminated; (2) crouching pose, knees bent, rifle angled forward ready to fire; (3) walking pose, left leg forward, right arm swinging, rifle slung across back; (4) jumping pose, body mid‑air with legs tucked, rifle raised, visor flare. Consistent palette of dark leather, neon teal accents, and muted city grime. Style tags: pixel art, 16‑bit, side view, transparent background.  
 
-Skill Tree:  
-- Tier 1:  
-  - Time‑Snap Shot: Fires a single bullet that briefly freezes targets in place.  
-  - Chrono Dash: Short burst of speed that rewinds a fraction of distance to avoid damage.  
-  - Reactive Shield: Activates a momentary energy barrier when health drops below 30%.  
-- Tier 2:  
-  - Pulse‑Piercer Rifle: Charged shotgun blast that pierces through walls for a limited range.  
-  - Echo Decoy: Deploys a holographic copy that draws enemy fire for 5 seconds.  
-  - Temporal Reload: Reduces weapon reload time by 25% after a successful kill.  
-- Tier 3:  
-  - Rift Blaster: Fires a high‑velocity projectile that creates a small temporary rift, pulling nearby enemies toward its center.  
-  - Chrono‑Overdrive: Grants unlimited sprint and rapid fire for 8 seconds, then incurs a brief cooldown.  
-  - Time‑Lock Finale: Ultimate ability that freezes all enemies in a large radius for 4 seconds while Vex delivers a barrage of explosive shots.
+Background Story:
+Kade Chronos was once a specialist in the Temporal Enforcement Agency, tasked with policing illegal chronal disturbances. After a rogue experiment fractured his own timeline, he became unstuck, gaining the ability to slip through brief fissures in time. Now branded a traitor, he roams the shattered worlds seeking the source of the temporal rift that shattered his past. His motivation is two‑fold: to avenge the loss of his comrades and to prevent the cataclysmic collapse of the time stream. Internally, he battles the whispering echoes of alternate selves, fearing he may become the very villain he hunts. The stakes rise as the rifts grow, threatening to erase entire eras unless he can locate the Chrono Core and seal it. His rugged attitude and relentless firepower make him the perfect anti‑hero for a chaotic, time‑bending shooter.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Shift: Short‑range teleport that instantly relocates Kade a few meters, evading enemy fire.
+  - Pulse Blaster: Fires a rapid‑fire burst dealing moderate damage with a slight stun effect.
+  - Adaptive Armor: Reduces incoming damage by 10% and gains a brief shield after each kill.
+- Tier 2:
+  - Chrono Mine: Deploys a time‑locked explosive that detonates after 2 seconds or on proximity, slowing nearby foes.
+  - Phase Strike: Melee attack that briefly freezes the target’s movement for 1 second.
+  - Echo Vision: Highlights enemy positions through walls for a short duration.
+- Tier 3:
+  - Rift Cannon: Charges a powerful shot that creates a temporary rift, pulling enemies toward its center.
+  - Time Dilation Field: Generates a 5‑meter radius field that slows enemy projectiles and speeds up Kade’s reload rate.
+  - Paradox Overdrive: Enter a berserk mode for 8 seconds, doubling fire rate and granting immunity to stun effects.

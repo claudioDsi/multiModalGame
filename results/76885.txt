@@ -1,23 +1,28 @@
 Entry: 76885 / 76885
 
-Name: Kael Varrick  
+Name: Kaelis Thornblade  
 
-Image Prompt: 16-bit pixel art, a lithe 16th‑century swordsman standing on a cobblestone bridge at dusk, wearing dark crimson lamellar armor with gold trim, a tattered cloak fluttering, long black hair tied in a topknot, gripping a curved steel katana that glows faintly, lanterns casting warm amber light and long shadows, background of distant castle silhouettes and mist, dynamic pose mid‑strike, pixel‑perfect detail, high contrast, dramatic lighting, pixel art style.  
+Concept art Image Prompt:  
+A 16th‑century war‑lord standing on a misty cliffside at sunrise, wearing a weathered dark leather coat overlapped with a crimson silk vest, brass gauntlets etched with runes, and a wide-brimmed hat with a single feather. In his right hand he grips a long, curved edge sword with a jeweled hilt, the blade reflecting the early light; his left hand holds a lightweight matchlock pistol tucked to his belt. His face is scarred, eyes narrowed, expression fierce yet contemplative. The background shows distant war banners flapping, a hint of an ancient stone arch bearing glyphs that hint at the legendary artifact. Soft golden backlight, subtle volumetric fog, high contrast shadows. Rendered in detailed pixel art style, 32‑bit color palette, with a semi‑realistic yet stylized aesthetic.  
 
-Background Story: Kael Varrick was born to a clan of blacksmiths in a bustling port city, where he learned the art of forging and blade discipline from his mother. As a youth, he witnessed his village razed by a rival warlord seeking the fabled Sunfire Relic, a legendary artifact said to grant mastery over fire. Swearing vengeance, Kael traveled across war‑torn lands, honing his swordplay in underground duels to become the ultimate weapon. He now enters the grand tournament, believing the relic’s location can be uncovered by defeating the strongest warriors. Beneath his stoic exterior, Kael wrestles with the fear that his pursuit of power will corrupt the very honor his ancestors cherished. The fate of his homeland and the balance of the relic’s fire rest on his blade in the final showdown.  
+Sprite sheet Image Prompt:  
+Four 64x64 pixel art frames of Kaelis Thornblade in a fighting stance: 1) standing tall with sword drawn across his chest and pistol side‑holstered, neutral expression; 2) crouching low, blade tip touching the ground, eyes focused, ready to strike; 3) mid‑step walking forward, cape fluttering, sword arm slightly back; 4) jumping upward with a burst of energy, sword raised overhead, matchlock firing a flash of gunpowder. Pixel art style, limited but vibrant palette, clear silhouette, crisp outlines, consistent shading across frames.  
+
+Background Story:  
+Kaelis Thornblade hails from the war‑torn duchy of Ardent Vale, a land ravaged by rival lords seeking control of the fabled Ember Shard, an artifact said to grant its bearer command over fire itself. Orphaned during a raid that razed his village, Kaelis swore vengeance and vowed to retrieve the Ember Shard to prevent it from falling into tyrannical hands. Trained by a hermit master of both blade and early gunpowder, he blends elegant swordplay with swift pistol bursts, embodying the transition between old martial traditions and emerging firearms. Yet his quest is haunted by doubts: the Ember Shard’s power could corrupt even the purest heart, and Kaelis fears becoming the very monster he despises. As the greatest fighters clash across the continent, Kaelis must decide whether to claim the artifact, destroy it, or hide it forever, knowing his choice will shape the fate of an entire era.  
 
 Skill Tree:  
 - Tier 1:  
-  - Ember Slash: A quick horizontal strike that ignites the opponent’s armor for 2 seconds.  
-  - Veil Parry: Grants a brief invulnerability window after successfully blocking an attack.  
-  - Flash Step: Short teleport forward, closing distance and resetting aggression meter.  
+  - Flash Thrust: A quick forward lunge with the sword that deals modest damage and unbalances the opponent.  
+  - Gunflare Jab: A short-range pistol blast that momentarily stuns the target.  
+  - Iron Guard: A passive block that reduces incoming damage by a small percentage when timed correctly.  
 
 - Tier 2:  
-  - Flaming Crescent: A sweeping upward slash that creates a lingering fire arc lasting 3 seconds.  
-  - Iron Will: Increases resistance to stagger and reduces damage taken by 15% for 5 seconds.  
-  - Echoing Blade: The next normal attack repeats twice, dealing reduced damage each hit.  
+  - Ember Sweep: A sweeping sword attack igniting the blade briefly, adding fire damage to each hit.  
+  - Ricochet Shot: Fires a pistol round that bounces off the ground once, hitting a second opponent behind the first.  
+  - Momentum Dash: A rapid dash forward that can pass through low attacks and ends with a slash.  
 
 - Tier 3:  
-  - Sunfire Resonance: Unleashes a burst of searing flame in a cone, dealing massive damage and knocking back foes.  
-  - Eternal Guard: Grants a shield of fire that absorbs a set amount of damage and reflects 20% back to the attacker for 4 seconds.  
-  - Dragon’s Descent: A powerful leaping overhead strike that deals high damage and briefly stuns the target.
+  - Inferno Ascend: A powerful aerial strike where Kaelis leaps, summons a burst of flame around his sword, dealing high damage to all enemies in range.  
+  - Shard’s Resolve: Grants temporary immunity to stun effects and increases attack speed after landing a successful counter.  
+  - Ember Finale: A charged combo ending with a detonating explosion centered on the Ember Shard’s aura, dealing massive area damage but leaving Kaelis vulnerable for a moment.

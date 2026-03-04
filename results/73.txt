@@ -1,23 +1,26 @@
 Entry: 73 / 73
 
-Name: Kaela Vorn
+Name: Rhea Voss
 
-Image Prompt:
-8-bit pixel art, close‑up of a determined female officer in her early 30s, short asymmetrical silver hair with neon teal streaks, sharp amber eyes, wearing a sleek dark‑gray tactical coat with illuminated circuit patterns, a lightweight exo‑frame chest rig, fingerless gloves, and a holo‑wrist commander’s device; standing on the bridge of a massive starship, star‑field window behind her, faint blue ambient lighting, pose with one hand resting on the railing, the other holding a glowing energy gauntlet, slight dynamic motion blur to suggest readiness, style reminiscent of classic RPG pixel sprites with modern lighting effects.  
+Concept art Image Prompt:
+Pixel art illustration of Rhea Voss, a stern-eyed human female in sleek, modular exo‑armor with brushed steel plates and organic, leaf‑patterned accents, wearing a dark hooded visor that glows faintly blue, standing on a windswept agrarian outpost plateau overlooking a distant, neon‑lit megacity under a pink‑orange sunrise; her pose is confident with one hand on a high‑tech pulse rifle slung over her shoulder, the other hand gripping a glowing holo‑tablet, detailed background showing rusted barns, solar arrays, and distant starships, dramatic rim lighting and soft ambient glow, ultra‑detailed, vibrant colors, 32‑bit style pixel art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 4 frames of Rhea Voss in 64x64 canvas each, showing (1) standing idle with slight breathing motion, weapon holstered, visor reflecting light; (2) crouching ready stance, pulse rifle lowered, eyes narrowed; (3) walking stride with dynamic leg movement and scrolling cape effect; (4) jumping ascent with arms raised, armor thrusters flaring, all frames rendered in crisp 32‑bit style, consistent color palette, clear outlines, minimal background.
 
 Background Story:
-Kaela Vorn was born on a remote agrarian outpost that survived the Great Drought by cultivating bio‑engineered wheat. After the outpost was liberated from a rogue militia, she was recruited into the planetary defense academy, where she excelled in tactical theory and biotic warfare. The sudden death of the fleet commander thrust her into the role of Executive Officer aboard the galaxy’s most advanced star cruiser, a position no one expected her to fill. Haunted by the loss of her homeworld’s harvest fields to corporate exploitation, Kaela fights to prevent any other settlement from suffering the same fate. She carries a personal grudge against the iron‑clad syndicate that now controls many frontier worlds, seeing their mechanized legions as a direct threat to organic life. Each decision she makes not only steers the war’s outcome but also determines whether the galaxy’s fragile ecosystems can be saved.  
+Rhea Voss grew up on the remote farming colony of Verdant Reach, learning to tend crops under harsh radiation storms and to pilot the old supply rigs that kept the settlement alive. When the outpost was threatened by a marauding fleet of the Dominion Cartel, she volunteered for the newly formed Expeditionary Guard and quickly rose to become the Executive Officer of the flagship Solaris Rift. Haunted by the memory of her sister lost in the first raid, Rhea balances a fierce drive to protect civilians with a growing suspicion of the political machinations behind the war. Her tactical brilliance earned her the nickname “The Thorn,” as she can both nurture her squad and prune enemy formations with equal precision. Now she must unite disparate alien allies, uncover ancient relics hidden in radioactive wastelands, and decide whether to obey the chain of command or follow a covert beacon left by her late sister. The fate of the galaxy hinges on the choices she makes while steering an elite squad through relentless biotic assaults and heavily armored Citadel forces.
 
 Skill Tree:
 - Tier 1:
-  - Pulse Strike: Unleash a short‑range biotic blast that deals moderate damage and momentarily stuns enemies.
-  - Field Medic: Deploy a nanite injector that heals a single ally for a small amount over 5 seconds.
-  - Tactical Insight: Reveal enemy positions within a limited radius for the next turn.
+  - Pulse Disruptor: Fires a short‑range burst that temporarily disables enemy shields.
+  - Tactical Scan: Reveals enemy positions and weak points in a 10‑meter radius for 5 seconds.
+  - Field Medkit: Instantly restores a small amount of health to a nearby ally.
 - Tier 2:
-  - Resonant Shield: Project a protective barrier around a squad member that absorbs a set amount of damage.
-  - Adaptive Ammo: Modify weapon fire to bypass armored foes, increasing damage against heavy targets by 20%.
-  - Command Rally: Grant nearby allies a temporary boost to movement speed and attack rate.
+  - Biotic Suppression Field: Generates a stationary field that reduces biotic damage taken by allies within it by 25%.
+  - Adaptive Reload: Decreases weapon reload time by 15% after each successful kill.
+  - Hardened Resolve: Grants a temporary boost to Rhea’s armor when health drops below 30%.
 - Tier 3:
-  - Nova Overload: Charge an area‑wide biotic wave that deals massive damage and disables enemy abilities for 2 seconds.
-  - Chrono‑Slip: Briefly phase Kaela out of time, allowing her to reposition without triggering enemy attacks.
-  - Galactic Beacon: Activate a rally point that slowly restores health to all allies within range while increasing their resistance to damage.
+  - Nova Strike: Unleashes a charged radial explosion dealing massive damage to all enemies in close proximity.
+  - Command Aura: Increases all squad members’ attack speed and movement speed by 20% while Rhea is in leadership mode.
+  - Echo of the Fallen: Calls forth a holographic echo of her sister that distracts enemies and provides a shield to allies for a short duration.

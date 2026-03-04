@@ -1,24 +1,26 @@
 Entry: 3025 / 3025
 
-Name: Kael Duskbane  
+Name: Kael Varyn
 
-Image Prompt: pixel art, 32‑bit style, dark cobblestone street of a mist‑shrouded city at night, lone figure standing on a rain‑slick slab, pale gauntlet‑clad hands gripping twin curved blades that emit faint violet glows, torn dark cloak billowing, glowing amber eyes, lanterns flickering in the background, moody chiaroscuro lighting, cinematic angle, highly detailed sprite, atmospheric, dynamic shadows  
+Concept art Image Prompt:
+A lone figure standing on a cracked stone balcony overlooking a moon‑lit, fog‑filled city of twisted spires in the Land of Shadows. Kael Varyn is a gaunt man in his early thirties with sharp cheekbones, short unkempt dark hair, and a scar crossing his left eye. He wears a weathered dark leather coat trimmed with silver runes, a torn shirt beneath, and rugged trousers bound with iron buckles. In his right hand he grips a translucent, rune‑etched greatsword that glows faintly blue; his left hand clutches a small, spinning talisman that emits a soft ember light. The scene is illuminated by the cold moonlight and distant lanterns, casting long shadows. Rendered in detailed pixel art style, 32‑bit palette, high contrast, with subtle particle effects around the sword and talisman, and a gritty, atmospheric background.
 
-Background Story:  
-Kael was once a humble blacksmith living in the bustling district of Ashen Port, content with his forge and his family. One night a secretive cult shattered his world, burning his home and murdering his loved ones in a ritual that ripped his soul from his mortal coil. Resurrected as a revenant bound to the Land of Shadows, Kael awoke with a burning need for vengeance and a curse that denies him true death. He discovers that the cult’s leaders are now powerful members of the city’s hidden hierarchy, each controlling a fragment of the darkness that keeps him bound. Haunted by the memories of his past life, Kael struggles between the desire to crush his enemies and the fear of losing the last remnants of his humanity. As he delves deeper into the shadow‑laden streets, he uncovers a conspiracy that threatens to plunge the entire realm into perpetual night, forcing him to choose between personal revenge and the salvation of the world that once was his home.  
+Sprite sheet Image Prompt:
+Four 64x64 pixel art frames of Kael Varyn in a dark, misty alley of the Land of Shadows: (1) standing pose with a slight forward lean, holding his glowing greatsword ready; (2) crouching pose, knees bent, sword lowered, eyes focused; (3) walking pose, left foot forward, cloak billowing, sword swung slightly behind; (4) jumping pose, mid‑air, sword raised overhead, talisman glowing, with motion blur pixels; each frame uses a muted dark palette with bright blue highlights on the weapon, rendered in crisp pixel art style, consistent character proportions and shading across all frames.
 
-Skill Tree:  
-- Tier 1:  
-  - Shadow Slash: A swift melee attack that deals additional damage when striking from behind.  
-  - Echo Parry: Blocks an incoming attack and instantly counters with a low‑damage strike that restores a small amount of stamina.  
-  - Veiled Step: A short dash that briefly renders Kael semi‑transparent, evading enemy detection.  
+Background Story:
+Kael Varyn was once a humble blacksmith in the bustling market district of the capital, known for his skill and honest demeanor. When a mysterious plague swept the city, his family perished, and a shadowy militia burned his workshop to the ground, leaving him for dead. Miraculously, Kael survived, but the experience shattered his mortal coil, binding his spirit to a lingering blade forged from the ashes of his forge. Now a revenant of vengeance, he roams the Land of Shadows seeking the architects of the plague and the militia that betrayed him. Haunted by flickering memories of his lost life, Kael wrestles with the temptation to become the very darkness he despises. The stakes grow as each enemy he spares remembers him, altering their tactics, forcing Kael to decide whether to break the cycle of blood or be consumed by it. His quest intertwines personal redemption with uncovering the true cause of the plague that still threatens the world.
 
-- Tier 2:  
-  - Rhythm Blade: Successful combos increase a damage multiplier that lasts for a few seconds.  
-  - Memory Strike: Targets an enemy who previously encountered Kael, dealing bonus damage based on their hostility level.  
-  - Phantom Bind: Throws a spectral tether that roots a single foe for a short duration.  
-
-- Tier 3:  
-  - Abyssal Rift: Unleashes a burst of darkness around Kael, damaging all nearby enemies and reducing their attack speed.  
-  - Revenant’s Resolve: Grants temporary invulnerability while his health falls below a threshold, and heals a portion of health on each successful counter‑attack.  
-  - Shadow Dominion: Summons a shadow clone that mirrors Kael’s attacks, effectively doubling his combo potential for a limited time.
+Skill Tree:
+- Tier 1:
+  - Ember Strike: Unleash a quick melee attack that adds a burst of fire damage and briefly ignites the enemy.
+  - Shadow Dodge: Perform a swift roll that grants temporary invulnerability frames and leaves a faint shadow trail.
+  - Spirit Pulse: Release a short‑range pulse that reveals hidden enemy memory markers and slightly regains stamina.
+- Tier 2:
+  - Rift Blade: Charge the greatsword to create a cleaving wave that penetrates multiple foes and reduces their combat memory.
+  - Echoing Counter: Time a counter‑attack perfectly to stun the attacker and increase combo multiplier for a short period.
+  - Veil of Ash: Activate a defensive aura that absorbs a portion of incoming damage and cloaks Kael in ash, reducing enemy detection.
+- Tier 3:
+  - Revenant's Fury: Enter a berserk state where attacks chain automatically, dramatically raising damage and combo multiplier.
+  - Memory Sever: Strike an enemy to erase their recollection of Kael, resetting their tactics and removing hostility bonuses.
+  - Dark Ascendance: Summon spectral wings for a brief flight, allowing a devastating aerial plunge that deals massive area damage.

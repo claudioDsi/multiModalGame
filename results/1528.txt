@@ -1,24 +1,26 @@
 Entry: 1528 / 1528
 
-Name: Jasper Wavecrest  
+Name: Kade Riverwind
 
-Image Prompt: 8‑bit pixel art of a teenage protagonist with shaggy teal hair and bright amber eyes, wearing a sleeveless navy jacket over a striped orange‑green hoodie, cargo shorts, and sturdy canvas sneakers; a sleek, silver‑accented wrist device glows on his left wrist; he stands on a rocky riverbank at dusk, one hand extended toward a small, mischievous otter‑weasel hybrid companion perched on a mossy stone; warm lantern light reflects off the water, fireflies drift nearby; background shows distant misty cliffs and glowing fungi; style: vibrant retro pixel art, high contrast, dynamic pose, slight animation frame.  
+Concept art Image Prompt:
+A teenage protagonist with tousled dark teal hair, bright amber eyes, and a light scar on his left cheek, wearing a rugged short-sleeved jacket patched with river motifs, cargo shorts, and sturdy ankle boots; he holds a handheld lantern that emits a soft blue glow. He stands confidently on a mossy riverbank beside a misty waterfall, with floating lanterns and oversized lilypads in the background. Warm sunrise lighting filters through the trees, casting gentle highlights and soft shadows. Rendered in vibrant 16‑bit pixel art style, emphasis on detailed textures, dynamic pose, and atmospheric depth, no brand or franchise references.
 
-Background Story:  
-Jasper Wavecrest grew up in the mist‑shrouded town of Ripplegate, a community perched along the winding Serpent River where legends of water‑spirit creatures are whispered at night. As a curious teen, he spent his days exploring the river’s hidden caves, documenting strange fauna with his trusty handheld scanner. One evening, his best friend, a playful otter‑weasel hybrid named Nix, was inadvertently transformed into a luminous "ottsel" by a rogue alchemical experiment gone awry. Determined to restore Nix, Jasper sets out on a journey across diverse biomes, uncovering ancient mechanisms and gathering scattered relics. Along the way he confronts a secretive guild that seeks to harness the ottsel’s unique energy for their own gain. Jasper’s internal conflict revolves around his fear of losing his friend forever versus the growing responsibility of becoming a guardian of the river’s mysteries. The fate of Ripplegate and the balance of the river’s magic hinge on his success.  
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of teenage adventurer Kade Riverwind: 1) standing pose with hands at sides, slight smile; 2) crouching low ready to dash, knees bent, eyes focused; 3) walking animation (two-leg cycle) with lantern bobbing, determined expression; 4) jumping pose with arms raised, lantern trailing light particles. Colors vivid, retro 8‑bit aesthetic, clear silhouette, consistent outfit and accessories across frames, no text or logos.
 
-Skill Tree:  
-- Tier 1:  
-  - River Dash: Grants a short burst of speed along water surfaces, ignoring shallow obstacles.  
-  - Echo Scan: Reveals hidden collectibles and secret passages within a limited radius.  
-  - Ottsel Bond: Temporarily summons Nix as a helper to retrieve distant items.  
+Background Story:
+Kade Riverwind grew up in the riverine town of Brookhaven, where he spent his days exploring wetlands and listening to the legends of the ancient Water Spirits. His best friend, the inventive tinkerer Milo, vanished after an accident in the town’s alchemical lab, reappearing as an "ottsel"—a curious blend of otter agility and weasel cunning. Determined to restore Milo’s true form, Kade embarks on a quest across enchanted waterways, forgotten ruins, and sky‑piercing cliffs. He wrestles with self‑doubt, fearing he isn’t strong enough to face the mysterious guardians of the hidden spring that holds the cure. The balance of the river’s magic hangs in the balance; if Kade fails, the wetlands will wither and the ottsel mutation could spread. Guided by the lantern of his ancestors, he braves each challenge, hoping his resolve and bond with Milo will prevail.
 
-- Tier 2:  
-  - Ripple Glide: Allows sustained gliding over gaps by riding currents of air and water.  
-  - Alchemy Burst: Uses collected alchemical fragments to unleash a small area‑of‑effect blast.  
-  - Aqua Shield: Generates a protective bubble that repels enemies for a few seconds.  
-
-- Tier 3:  
-  - Tide Convergence: Charges a powerful wave that clears multiple obstacles and damages foes.  
-  - Spirit Link: Permanently links Jasper’s abilities with Nix, granting enhanced mobility and a double‑jump.  
-  - River’s Fury: Unlocks an ultimate mode where Jasper gains increased attack speed and regenerates health while in water.
+Skill Tree:
+- Tier 1:
+  - River Dash: Quickly burst forward, slipping through narrow gaps.
+  - Lantern Glow: Emits a soft light that reveals hidden platforms and collectibles.
+  - Weasel Reflex: Grants brief invincibility frames after a dodge.
+- Tier 2:
+  - Otter Roll: Roll along water surfaces to glide over hazards.
+  - Claw Grapple: Use sharp claws to latch onto distant vines or ledges.
+  - Current Surge: Ride a surge of water to reach higher platforms.
+- Tier 3:
+  - Hybrid Fusion: Temporarily merge otter agility and weasel stealth for increased speed and stealth movement.
+  - Temporal Ripple: Slow time briefly to solve fast‑reaction puzzles.
+  - Guardian Wave: Summon a protective wave that shields Kade and nearby allies from damage.

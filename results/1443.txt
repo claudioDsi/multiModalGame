@@ -1,23 +1,26 @@
 Entry: 1443 / 1443
 
-Name: **Eryndor Vahl**
+Name: Varyn Kestrel
 
-Image Prompt:
-pixel art, 32‑bit style, front‑facing portrait of a determined young commander with short silver hair and a scar across the left eye, wearing a battered steel breastplate engraved with a phoenix motif, a deep blue cloak billowing behind, holding a gleaming longsword in a ready stance; background shows a burning battlefield with smoldering ruins and distant silhouettes of knights and mages, twilight sky with orange and purple hues, soft dynamic lighting highlighting the character’s armor, emphasis on crisp pixel detail and vibrant color palette, no text or logos.
+Concept art Image Prompt:
+Pixel art illustration of Varyn Kestrel, a battle-hardened commander in a war-torn fantasy realm. He has a rugged, scarred face, short ash‑brown hair, and a fierce amber eye. He wears a weathered steel breastplate over a dark leather coat trimmed with ember‑red furs, a high‑collared cloak fluttering in a smoky battlefield backdrop. In one hand he grips a polished longsword with runic etchings; the other hand holds a brass warhorn. He stands on a cracked, ash‑caked ground with burning ruins behind him, torchlight casting dramatic shadows. Lighting is high contrast, warm orange from flames mixed with cold blue moonlight. Art style: detailed 32‑bit pixel art, cinematic composition, vibrant yet gritty palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four frames of Varyn Kestrel: (1) standing pose – Varyn holds his sword at his side, shield slung on back, determined expression; (2) crouching pose – Varyn lowers into a tactical crouch, sword ready, eyes narrowed; (3) walking pose – Varyn strides forward with a steady gait, cloak swaying, sword tip slightly raised; (4) jumping pose – Varyn leaps upward, sword raised overhead, hair and cloak trailing, dynamic motion lines. Color palette matches concept art, high‑contrast lighting, 32‑bit style.
 
 Background Story:
-Eryndor Vahl was born in the once‑prosperous kingdom of Ashenfell, which fell to a cataclysmic conflagration when the dead armies rose from the shattered earth. Orphaned at twelve, he survived by scavenging the ruins and learning to wield whatever weapons he could find. The loss of his family ignited a fierce resolve to unite the scattered survivors and reclaim their world from the relentless war‑lords and undead hordes. As whispers of an impending apocalyptic war echo across the continents, Eryndor feels the weight of prophecy that names him the “Flame‑Bound General.” He battles not only external foes but also his lingering doubt that the fire within him might consume everything he strives to protect. Driven by a promise to his sister’s memory, he now leads a diverse coalition of knights, mages, archers, and outcasts, hoping to turn the tide before the world is forever consumed.
+Varyn Kestrel was born in the ember‑shrouded citadel of Ashenhold, a frontier outpost that fell to a horde of necrotic marauders when he was a child. Rescued by a wandering order of knight‑mages, he was trained in both blade and arcane discipline, vowing to prevent any other village from sharing his loss. As the looming war between rival kingdoms and the rising dead intensifies, Varyn now leads a coalition of knights, mages, and archers, using his tactical mind and charismatic leadership to unite fractured forces. He carries the weight of his fallen comrades, haunted by the oath he swore to protect the living, yet struggles with the temptation to wield forbidden necromantic rites that could turn the tide. The fate of the burning world hinges on his ability to balance honor with desperate necessity, forging alliances while confronting the darkness within himself.
 
 Skill Tree:
 - Tier 1:
-  - **Firebrand Strike**: Deals moderate melee damage and ignites the target, dealing additional burn damage over 3 seconds.
-  - **Rallying Cry**: Grants nearby allied units a short burst of increased movement speed and morale.
-  - **Stonewall Stance**: Reduces incoming damage for Eryndor by 15% while he remains stationary for 5 seconds.
+  - Blade Initiate: Basic melee attack deals moderate damage and briefly stuns enemies.
+  - Rally Cry: Emits a short-range shout that grants nearby allies a small speed boost.
+  - Ember Guard: Raises a temporary shield that absorbs a fixed amount of damage.
 - Tier 2:
-  - **Phoenix Guard**: Creates a temporary shield around an allied unit that absorbs damage equal to 20% of their max health.
-  - **Flame‑Twin Assault**: Pairs with the nearest ally to execute a coordinated attack that hits both enemies for combined damage.
-  - **Echoing Aria**: Enhances the skills of allied mages within range, reducing cooldowns by 10% for 8 seconds.
+  - Twin Strike: Performs a rapid double‑slash, increasing damage against armored foes.
+  - Bonded Pair: Links with a nearby ally, sharing a portion of incoming damage.
+  - Arcane Ward: Infuses the shield with magic, reflecting a percentage of magical attacks.
 - Tier 3:
-  - **Infernal Surge**: Unleashes a wave of fiery energy that damages all enemies in a line and boosts allied attack power for a short duration.
-  - **Dual Vanguard**: Locks Eryndor and a chosen ally into a synchronized defense, sharing damage taken and granting both a damage boost when counter‑attacking.
-  - **Legacy of Ashes**: Passively increases the growth rate of relationships between paired units, granting them a permanent 5% bonus to combined skill effectiveness.
+  - Warhorn Resonance: Activates a global aura that enhances all allies' attack power for a short duration.
+  - Deathbound Synergy: Combines with a necromancer ally to momentarily turn defeated enemies into temporary allies.
+  - Unyielding Stand: Grants immunity to crowd‑control effects and massive damage reduction for a few seconds.

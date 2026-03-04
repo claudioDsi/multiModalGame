@@ -1,22 +1,26 @@
 Entry: 115304 / 115304
 
-Name: Lumen Quinn  
+Name: Kira Pulse
 
-Image Prompt: pixel art, 32‑pixel character portrait, young adult with short electric‑blue hair styled in a spiky bob, bright amber eyes, wearing a teal jumpsuit with neon orange circuit patterns and a utility belt loaded with retro arcade tokens, holding a glowing joystick‑shaped shield in one hand and a compact handheld console in the other, standing in a dimly lit arcade hallway lined with flickering neon signs and broken vending machines, light shafts from overhead flickering bulbs create dramatic shadows, style: vibrant retro‑futuristic pixel art, high contrast, 8‑bit shading, no brand logos.  
+Concept art Image Prompt:
+Pixel art, 16-bit style full-body portrait of a determined teenage girl with teal hair tied in a messy ponytail, wearing a neon orange bomber jacket adorned with a stylized gear emblem, black cargo pants, and sturdy sneakers; she grips a handheld arcade controller that glows soft blue, standing confidently in front of a dimly lit arcade hall filled with flickering neon signs and distant silhouettes of menacing animatronic figures, dramatic rim lighting outlines her form, vibrant retro colors contrast with deep shadows, crisp pixel detailing, atmospheric arcade ambience.
 
-Background Story:  
-Lumen Quinn grew up in the bustling neon district of Gearhaven, where arcades were the heart of community life. After a mysterious power surge caused several animatronic entertainers to become hostile, the city’s authorities sealed the arcade complex and recruited Lumen for a secret night‑shift program. Trained as a former stunt performer, Lumen blends acrobatic agility with deep knowledge of arcade circuitry, hoping to uncover the source of the animatronics’ corruption. Haunted by memories of their sibling lost during the first malfunction, Lumen feels a personal duty to protect any who wander inside. Each night, Lumen must navigate a gauntlet of classic mini‑games while fending off the rogue machines that stalk the corridors. Success could restore the arcade to its former glory, but failure would let the malevolent code spread beyond Gearhaven’s borders.  
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, four sequential frames of the same teenage girl: frame 1 standing neutral, frame 2 crouching ready, frame 3 walking with one foot forward, frame 4 jumping with arms raised, outfit identical to concept (neon orange bomber jacket, black cargo pants, sneakers, teal ponytail, blue‑glowing controller strapped to her forearm), transparent background, consistent shading and palette, 16-bit retro style.
 
-Skill Tree:  
-- Tier 1:  
-  - Circuit Burst: Emits a short ranged shock wave that briefly stuns nearby animatronics.  
-  - Token Toss: Throws a glowing token that distracts a single enemy for 3 seconds.  
-  - Quick Slide: Performs a rapid slide maneuver, evading attacks and moving through tight spaces.  
-- Tier 2:  
-  - Glitch Dash: Dashes forward, phasing through obstacles and leaving a trail that confuses enemies for 5 seconds.  
-  - Power Surge: Charges the joystick shield, granting temporary invulnerability while reflecting projectiles.  
-  - Arcade Insight: Highlights interactive objects in the environment, revealing hidden bonuses in mini‑games.  
-- Tier 3:  
-  - Overclocked Core: Overclocks Lumen’s internal cybernetic implants, increasing movement speed and attack rate for 10 seconds.  
-  - Synthwave Shield: Projects a pulsating energy barrier that absorbs a set amount of damage and restores health to allies.  
-  - Final Reset: Triggers a system-wide reboot, temporarily disabling all animatronic AI in the current room and resetting mini‑game timers.
+Background Story:
+Kira Pulse grew up on the outskirts of Neonvale Arcade, a sprawling entertainment complex famous for its eclectic mix of classic mini‑games and cutting‑edge attractions. When the venue’s newest night‑mode opened, a glitch awakened the dormant animatronic performers, turning them into relentless hunters. Vowing to protect her friends who got trapped inside, Kira armed herself with the legacy “Arcade Core” controller she salvaged from her late grandfather’s collection. She now darts between glowing cabinets, using quick reflexes and improvisational tactics to outwit the mechanical menace. Beneath her bravado, Kira battles guilt over a past mistake that caused a previous night‑shift disaster. The stakes rise each round as the animatronics grow smarter, and she must uncover the hidden code that can restore the arcade to its original, harmless wonder.
+
+Skill Tree:
+- Tier 1:
+  - Quick Reflex: Increases dodge speed by 15% for a short burst after each jump.
+  - Button Bash: Grants a rapid melee attack that deals moderate damage to nearby animatronics.
+  - Light Burst: Releases a flash from the controller that momentarily blinds enemies within a small radius.
+- Tier 2:
+  - Circuit Override: Hacking a terminal disables one animatronic for 5 seconds.
+  - Momentum Shift: Reduces stamina loss while walking, allowing longer sprints.
+  - Reactive Shield: Generates a brief protective shield when taking damage, absorbing a small amount of hit points.
+- Tier 3:
+  - Master Sync: Syncs with all active arcade machines, granting a damage boost when near any cabinet.
+  - Echo Pulse: Emits a wave that reveals hidden traps and enemy weak points for 3 seconds.
+  - Final Reset: After a successful combo chain, triggers a system reboot that resets all animatronic aggression for a limited time.

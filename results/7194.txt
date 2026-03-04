@@ -1,23 +1,26 @@
 Entry: 7194 / 7194
 
-Name: Aiko Hoshino
+Name: Kaito Aizawa
 
-Image Prompt:
-Pixel art, 32-bit style, close‑up portrait of a young woman with shoulder‑length navy hair, soft bangs, and round glasses reflecting a faint neon glow. She wears a crisp white lab coat over a dark teal school uniform, a silver pocket watch dangling from a chain in her left hand, and holds a small handheld device in her right palm. The background shows a dimly lit university hallway with steel lockers and a flickering fluorescent light, casting cool bluish shadows. Pose: slight forward lean, eyes focused upward, as if listening to a distant echo. Lighting: soft rim light accentuating hair edges, subtle ambient glow from the device. Art style tags: pixel art, 32-bit, anime‑inspired, sci‑fi, moody, detailed shading.
+Concept art Image Prompt:
+portrait of a teenage male with messy dark hair and sharp amber eyes, wearing a slightly oversized white lab coat over a black hoodie, a thin digital chrono‑watch on his left wrist, and worn sneakers; he stands on a rooftop overlooking a neon‑lit cityscape at night, distant skyscrapers reflected in a rain‑slick surface; soft backlight from a flickering billboard casts a cyan glow on his coat, while subtle wind lifts his hair and coat’s sleeves; his pose is confident yet inquisitive, one hand holding a compact handheld device displaying a swirling time vortex; pixel art, 32‑bit style, vibrant colors, detailed lighting and shading, atmospheric background, high resolution, no text.
+
+Sprite sheet Image Prompt:
+four 64x64 pixel art frames of Kaito Aizawa in a 32‑bit style: 1) standing pose, feet shoulder‑width apart, holding the chrono‑watch up, slight smile; 2) crouching pose, knees bent, one hand touching the ground, eyes focused forward; 3) walking pose, left foot forward, coat fluttering, right arm swinging, determined expression; 4) jumping pose, mid‑air with both knees drawn up, chrono‑watch glowing, a faint temporal distortion ripple behind him; vibrant colors, consistent shading, clear silhouette, no background details.
 
 Background Story:
-Aiko Hoshino grew up in the bustling district of Shinagawa, where her mother worked as a chronometer repairer, instilling in her a fascination with the flow of time. Enrolling at the prestigious Kairo University’s Department of Temporal Mechanics in 2009, she quickly distinguished herself with her analytical mind and relentless curiosity. While researching a theoretical model for minor temporal loops, she accidentally triggered a brief, uncontrolled time slip that revealed a hidden laboratory beneath the campus. The experience left her with lingering fragments of future memories, urging her to uncover the truth behind the institution’s secret projects. Torn between her duty to academia and the moral implications of manipulating time, Aiko must decide whether to expose the clandestine experiments or protect the fragile timeline she barely understands. The stakes rise as rival factions vie for control of the temporal device she now carries, each seeking to rewrite history for their own ends.
+Kaito Aizawa was once a gifted physics prodigy at a prestigious Tokyo university, whose curiosity about temporal mechanics led him to join the clandestine research group known as Chrono Nexus. During a failed experiment in 2010, a sudden temporal backlash stranded him in a looped version of his hometown, where past and future bleed into each other. Determined to untangle the fractured timeline, Kaito now seeks the elusive “Anchor Point” that can anchor reality and free the city from perpetual time distortion. His greatest internal conflict is the fear that altering events may erase his own memories and the people he loves. As the city’s strange anomalies grow—people experiencing déjà vu, objects aging backward—Kaito’s decisions will either stabilize the flow of time or plunge the world into irreversible chaos. He wields his chrono‑watch and a prototype device, hoping to rewrite destiny without losing himself.
 
 Skill Tree:
 - Tier 1:
-  - Chrono Insight: Reveals hidden dialogue options that pertain to past events.
-  - Temporal Recall: Allows revisiting a previously visited scene to alter a single choice.
-  - Data Synthesis: Automatically gathers information from collected documents, boosting trust with characters.
+  - Time Pulse: Sends a short burst that momentarily slows enemy actions.
+  - Echo Scan: Reveals hidden choices and branching paths in the current scene.
+  - Temporal Guard: Increases defense for a brief period by briefly shifting out of sync with attacks.
 - Tier 2:
-  - Loop Stabilizer: Reduces the penalty of changing past decisions, preserving relationships.
-  - Echo Vision: Highlights objects or persons that have been affected by time distortions.
-  - Cohort Coordination: Grants the ability to persuade allies to act in sync during critical moments.
+  - Chrono Leap: Allows Kaito to dash forward a short distance while briefly freezing time around him.
+  - Memory Recall: Restores a small amount of health by recalling a personal memory of strength.
+  - Phase Shift: Grants temporary intangibility, letting him pass through obstacles.
 - Tier 3:
-  - Paradox Barrier: Prevents irreversible timeline breaks when confronting major plot twists.
-  - Quantum Resolve: Grants a one‑time chance to reset a bad ending to an alternate outcome.
-  - Legacy Archive: Unlocks a hidden ending that reveals the ultimate consequence of Aiko’s interventions.
+  - Anchor Surge: Creates a stabilizing field that stops all time anomalies in a radius for several seconds.
+  - Paradox Resolve: Rewrites a recent decision, reverting the storyline to an earlier branch.
+  - Infinite Loop: Traps an enemy in a time loop, rendering them immobile for an extended duration.

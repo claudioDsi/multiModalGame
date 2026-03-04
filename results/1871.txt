@@ -1,23 +1,28 @@
 Entry: 1871 / 1871
 
-Name: Eira Vale
+Name: Selene Varrick  
 
-Image Prompt:
-pixel art, close‑up of a determined young woman with short ash‑gray hair, sharp green eyes, and a faint scar across her left cheek, wearing a sleeveless dark leather trench coat over a fitted tactical shirt, fingerless gloves, and sturdy boots; she holds a glowing holo‑notebook in one hand, the other hand poised to press a hidden button on her wrist gauntlet; standing in a rain‑slick alley of a neo‑noir metropolis at night, neon signs reflected on puddles, a faint mist swirling, soft backlighting from street lamps, cinematic mood, 32‑bit style, high contrast shadows, vibrant color palette. 
+Concept art Image Prompt:  
+Pixel art illustration of a cyber‑noir detective standing on a rain‑slicked alleyway at night, neon signs flickering in the background, mist swirling around her. She has short, asymmetrical platinum hair with a single violet streak, sharp angular facial features, and a cybernetic left eye glowing teal. She wears a long, weathered leather coat with reinforced shoulders, a high‑collared shirt underneath, fingerless gloves, and combat boots. Her pose is confident, one hand gripping a holo‑notebook, the other resting on a sleek collapsible energy pistol strapped to her thigh. Soft rim lighting highlights the wet surfaces, atmospheric fog, and the subtle glow of circuitry tattoos on her neck. Art style: detailed pixel art, 4‑bit color palette, isometric perspective, cinematic lighting.  
 
-Background Story:
-Eira Vale grew up in the industrial quarter of the sprawling city of Vorthex, where factories choked the sky and secrets festered in the shadows. After her older sibling vanished while investigating a rumored cult, Eira swore to uncover the truth behind the city's hidden machinations. She became a freelance investigator, using a blend of street‑wise tactics and experimental tech salvaged from abandoned labs. Haunted by the guilt of not being able to save her sibling, she wrestles with doubt each time she uncovers another layer of conspiracy. The recent resurgence of arcane symbols in the city’s underworld suggests a connection to her sibling’s disappearance. Determined to stop a looming catastrophe that could plunge Vorthex into eternal darkness, Eira navigates a web of corrupt officials, mystic factions, and her own fragmented memories. Her journey will force her to choose between personal vengeance and the greater good of the city she calls home.
+Sprite sheet Image Prompt:  
+Pixel art sprite sheet, 64x64 canvas, four frames of Selene Varrick in a cyber‑noir detective outfit: 1) standing pose, feet shoulder‑width apart, holo‑notebook in hand, neutral expression; 2) crouching pose, one knee bent, visor flashing, ready to dive; 3) walking pose, left foot forward, coat swaying, cyber‑eye pulsing; 4) jumping pose, knees tucked, energy pistol raised, neon trail behind. Consistent color scheme, crisp pixel edges, dynamic lighting, transparent background.  
 
-Skill Tree:
-- Tier 1:
-  - Insightful Interrogation: Reveals hidden motives in NPC dialogue, granting additional clue options.
-  - Lockpick: Opens basic locked doors and containers without triggering alarms.
-  - Street Smarts: Increases chance to evade ambushes and find shortcut routes in urban environments.
-- Tier 2:
-  - Echoing Whisper: Sends a brief psychic pulse that highlights nearby interactive objects for a short time.
-  - Temporal Glimpse: Briefly rewinds a recent decision, allowing one alternate choice to be selected.
-  - Shadow Step: Enables a short dash through dark areas, evading detection and crossing small gaps.
-- Tier 3:
-  - Narrative Resolve: Forces a pivotal story branch to resolve in the protagonist’s favor once per episode.
-  - Paradox Rift: Creates a temporary rift that freezes enemies and suspends time for critical puzzles.
-  - Eternal Echo: Grants a permanent passive boost to investigative skill checks and reduces narrative penalty on failed choices.
+Background Story:  
+Selene Varrick grew up in the sprawling megacity of Noxhaven, a place where corporations rule the streets and secrets lurk behind every billboard. After her younger sister vanished during a corporate raid, Selene swore to uncover the truth hidden in the city's dark underbelly. She became a freelance investigator, blending her street‑wise instincts with cutting‑edge augmentations salvaged from black‑market tech. Haunted by the guilt of having ignored the warning signs before her sister's disappearance, Selene wrestles with doubt and a relentless drive for justice. Each episode forces her to choose between exposing powerful syndicates or protecting the fragile lives of the oppressed citizens who rely on her. Her journey reveals that the conspiracy she chases is tied to the very augmentations that give her an edge, threatening to turn her into the enemy she seeks to defeat.  
+
+Skill Tree:  
+- Tier 1:  
+  - Quick Hack: Allows brief intrusion of nearby electronic devices to unlock doors or disable cameras.  
+  - Reflex Shot: Fires a single, high‑precision projectile with reduced recoil.  
+  - Insight Scan: Highlights interactive objects and hidden clues in the environment for a short duration.  
+
+- Tier 2:  
+  - Echo Cloak: Grants temporary invisibility while moving slowly, leaving a faint after‑image.  
+  - Neural Boost: Reduces cooldown of all active abilities for a limited time after a successful hack.  
+  - Interrogator's Edge: Increases dialogue persuasion success and unlocks extra questioning options.  
+
+- Tier 3:  
+  - Phase Leap: Performs a short, teleport‑like jump that can cross gaps and avoid attacks.  
+  - Core Overload: Unleashes a burst of energy from the cybernetic eye, stunning nearby foes and revealing hidden passages.  
+  - Memory Echo: Replays a recorded fragment of a past conversation, providing crucial information to solve puzzles.

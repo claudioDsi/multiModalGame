@@ -1,23 +1,26 @@
 Entry: 1164 / 1164
 
-Name: Kara Voss
+Name: Selene Kade
 
-Image Prompt:
-pixel art, 16-bit style, close‑up portrait of a hardened young woman with cropped dark hair, a jagged scar crossing one eye, grime‑streaked face, wearing a weathered leather duster and fingerless gloves, fists clenched, standing in dimly lit underground corridors of a crumbling industrial complex, flickering neon tubes casting harsh shadows, rain dripping from a broken ceiling, gritty texture, low‑contrast lighting, dramatic pose, background filled with rusted machinery and ominous symbols, cinematic, retro video game aesthetic
+Concept art Image Prompt:
+pixel art, 8‑bit style, front‑facing portrait of a gritty female survivor, ash‑streaked short hair, a jagged scar across left cheek, lean muscular build, wearing a battered leather duster patched with metal scraps, torn cargo pants, heavy boots, a makeshift spear strapped to her back, utility belt with pouches, standing amid the skeletal remains of an abandoned mining facility under a thundercloud sky, rain slicking the concrete, harsh directional lighting casting deep shadows, muted desaturated palette with occasional splashes of rust orange, atmospheric, gritty horror vibe
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, canvas 64x64, four sequential frames of Selene Kade: 1) standing neutral pose, shoulders squared, spear rested on ground, 2) crouching low, both knees bent, spear thrust forward, ready to strike, 3) walking animation, left foot forward, right arm swinging, ragged coat fluttering, 4) jumping upward, arms raised, spear lifted overhead, each frame detailed with battered leather gear, bandaged forearms, transparent background, crisp pixel resolution, consistent colour palette
 
 Background Story:
-Kara grew up in the shadow of the abandoned steel district of Ironhaven, where scarcity forced her to scavenge for food and shelter. When she was fifteen, a sudden blackout trapped the entire sector, and the flood of unseen horrors drove many to madness. Surviving that night left her with a scar across her eye and an unyielding resolve to never be powerless again. She discovered an ancient journal hinting at a buried truth about Ironhaven’s founding—an experiment that bound the city’s very walls with a sentient malice. Determined to free herself and the lingering souls, Kara trains her body to the brink of human limits, using raw instinct as her only weapon. Each step deeper into the labyrinthine tunnels uncovers fragments of a dark history that threatens to consume anyone who dares to remember. Now, with only her wits, endurance, and a burning need for redemption, she battles the relentless grip of the place that birthed her nightmare.
+Selene grew up in the crumbling outskirts of the Ironreach mines, where scarcity forced her to rely on instinct and brute will to survive. When a mysterious calamity sealed the mines in an endless night, a darkness seeped through the tunnels, trapping the workers in a maddening loop of terror. Determined to free herself and the souls still wandering the depths, Selene honed her body into a weapon, mastering the art of moving silently and enduring pain. She discovered an ancient relic that amplifies human endurance, but it also draws the attention of the unseen entity that governs the darkness. As the entity tightens its grip, Selene must confront her own haunting memories of loss while uncovering the hidden history of the mines. Every step deeper into the abyss brings her closer to either breaking the curse or being consumed by it forever.
 
 Skill Tree:
 - Tier 1:
-  - Adrenaline Surge: Temporarily boosts movement speed and attack strength for a few seconds after taking damage.
-  - Street Scrapper: Increases melee damage against unarmored enemies and reduces stamina cost of basic attacks.
-  - Endurance: Raises maximum health and slowly regenerates a small portion of health when standing still.
+  - Instinctive Reflex: Perform a quick dash that grants brief invulnerability frames.
+  - Endurance Surge: Temporarily increase stamina regeneration and reduce fatigue penalties.
+  - Scavenger's Eye: Highlight hidden resources and weak points in the environment for a short duration.
 - Tier 2:
-  - Night Vision: Grants heightened visibility in low‑light areas, revealing hidden pathways and traps.
-  - Shadow Step: Allows a short, silent dash through enemies, evading damage and briefly cloaking Kara.
-  - Will of the Broken: Reduces the duration of status effects such as fear or stun.
+  - Piercing Strike: Deliver a charged melee attack that pierces enemy armor, dealing bonus damage.
+  - Adrenaline Overdrive: Activate a burst of speed and attack power for a limited time after taking damage.
+  - Hazardous Terrain Mastery: Reduce movement penalties and receive no damage from environmental hazards.
 - Tier 3:
-  - Ruin’s Echo: Unleashes a shockwave that damages all nearby foes and shatters fragile walls.
-  - Heart of the Abyss: Grants a persistent damage‑over‑time aura that weakens enemies the longer they stay close.
-  - Final Ascent: Once per run, fully restores health and grants temporary invulnerability for a brief window.
+  - Rage of the Fallen: Enter a furious state that triples damage output while lowering defense.
+  - Ghost Walk: Become semi‑transparent, allowing passage through certain spectral barriers.
+  - Echo of the Past: Reveal the true history of a location, unlocking hidden exits and weakening the controlling entity.

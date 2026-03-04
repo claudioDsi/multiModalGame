@@ -1,23 +1,26 @@
 Entry: 1000 / 1000
 
-Name: Riven Thorne
+Name: Jaxy Moors  
 
-Image Prompt:
-pixel art, 16‑bit style, foreground shows a grizzled yet spry explorer with a scruffy beard, wearing a weathered leather coat patched with glowing sigils, a brass‑rimmed gas mask perched on his head, and a utility belt loaded with bone‑shaped vials; his left hand lifts a pulsing crystal while his right hand releases a cartoonish puff of green gas that glows faintly; background depicts the ruined arches of a buried mud‑like city, skeletal stone columns covered in bioluminescent moss, shafts of twilight seeping through cracks; soft ambient lighting with neon‑green highlights from the crystal and gas, dynamic shadows, vibrant yet muted color palette; art style tags: pixel art, 16‑bit, vibrant, atmospheric, comedic tone.
+Concept art Image Prompt:
+A detailed pixel art portrait of Jaxy Moors, a wiry middle‑aged explorer with a scruffy beard, wild copper hair tied back, wearing a patched leather coat over a glowing teal exosuit and a half‑covered amber visor. He holds a pulsating bone‑infused crystal in one hand and a rusted pipe‑wrench in the other, standing in the dimly lit, cavernous ruins of the ancient Mudokite burial city, surrounded by bioluminescent skeletal remains and swirling spectral mist. Soft rim lighting highlights his determined expression, with a faintly glowing aura of invisibility flickering around him. Rendered in vibrant 16‑bit style pixel art, dramatic low‑key lighting, with atmospheric haze and subtle reflections on the wet stone floor.  
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet featuring four sequential frames of Jaxy Moors: (1) standing neutral pose with hands at sides, (2) crouching low ready to spring, (3) walking stride with one foot forward and coat fluttering, (4) jumping pose with knees bent, a burst of orange‑yellow gas emanating from his rear, all using a consistent muted‑earthy palette and glowing teal accents, rendered in crisp 16‑bit style.  
 
 Background Story:
-Riven Thorne spent his twilight years enjoying quiet days as a lighthouse keeper on the desolate coast of the Whispering Cliffs. One night a flickering vision delivered by the enigmatic Order of the Veiled Eye warned him that the Order was mining the sacred Necro‑Mud city of the dead to harvest its bone relics for the mind‑crushing brew known as the Ember‑Grail. Driven by guilt and curiosity, Riven abandoned his tranquil post and ventured into the catacombs, freeing imprisoned Mud‑spirit ancestors trapped within the Bone‑Vault and the Echoing Sepulcher. The Order, impressed by his resilience, granted him uncanny powers: the ability to cleanse his Mud‑kin companions of Ember‑Grail addiction and to melt into shadows at will. Armed with explosive “wind‑burst” farts as a makeshift propulsion, he infiltrated the rail hub of Gloomspire and survived perilous trials in the Scented Caverns and the Acidic Geysers. After uncovering the true secret ingredient of the Ember‑Grail—a corrupted spirit core—he shattered the Order’s citadel with the combined might of the liberated Mud‑spirit legion, then joined his brew‑addled comrades at the Dawn‑brew Tavern to finally sip the cure, launching a journey that may span a single step or a dozen lifetimes.
+Jaxy Moors spent his twilight years in a quiet mountain cabin, harvesting herbs and sipping fermented mushroom brew, until a cryptic vision from the enigmatic Order of the Veiled Cog shattered his peace. The Order revealed that the Order of the Veiled Cog itself was mining the sacred Mudokite City of the Dead, extracting brittle bone fragments to forge the mind‑bending narcotic known as the Greyroot Elixir. Driven by guilt and curiosity, Jaxy descended into the catacombs, freeing trapped Mudokite spirits from the Echoing Sepulcher and the Whispering Shaft, which granted him uncanny powers including spectral healing and the ability to slip between shadows. Armed with his exosuit and a trusty pipe‑wrench, he infiltrated the airborne transit hub of the Sky‑Rail Dock, surviving hazardous tunnels with explosive farts that shattered crystal barriers. In the heart of the Boneforge Citadel, Jaxy uncovered the true secret ingredient of the Elixir—a harvested fragment of a forgotten soul. He detonated the citadel using the combined power of the healed Mudokite allies, turning the once‑dead city to ash. Finally, he reunited with his brew‑addled companions at the Ember Tavern, sharing the cure and setting off on a new quest—one step, or perhaps twelve, into the unknown.  
 
-Skill Tree:
-- Tier 1:
-  - Fart Burst: releases a short, high‑velocity gas blast that propels Riven forward and damages nearby foes.
-  - Spectral Sight: reveals hidden spirits and invisible objects within a modest radius.
-  - Bonecraft: allows collection of bone fragments that can be used to craft temporary buffs.
-- Tier 2:
-  - Healing Breeze: emits a cleansing wind that removes Ember‑Grail addiction debuffs from allies.
-  - Shadow Step: grants temporary invisibility and silent movement for a few seconds.
-  - Echo Pulse: sends out a resonant pulse that stuns enemies caught in its range.
-- Tier 3:
-  - Cavern Collapse: detonates a large area, turning the ground into a cloud of crushing debris.
-  - Spirit Fusion: merges with a freed Mud‑spirit, massively increasing attack power for a limited time.
-  - Final Brew: drinks a distilled Ember‑Grail cure, granting brief invincibility and rapid health regeneration.
+Skill Tree:  
+- Tier 1:  
+  - Gasburst Blast: Releases a short‑range explosive fart that damages and staggers enemies.  
+  - Spectral Mend: Heals a nearby Mudokite ally of Greyroot addiction, removing all status effects.  
+  - Veil Shift: Grants temporary invisibility for a few seconds, breaking when the player attacks.  
+- Tier 2:  
+  - Bone Harvest: Collects bone fragments from defeated enemies, granting a temporary damage boost.  
+  - Echo Step: Performs a short teleport dash that passes through enemies without collision.  
+  - Spirit Resonance: Empowers nearby allies, increasing their attack speed for a limited time.  
+- Tier 3:  
+  - Cataclysmic Detonation: Unleashes a massive blast centered on Jaxy, obliterating terrain and enemies in range.  
+  - Soulfire Purge: Fires a beam of purifying energy that cures all allies of addiction and damages foes.  
+  - Chrono Leap: Jumps forward through time, landing at a distant point while briefly freezing surrounding enemies.

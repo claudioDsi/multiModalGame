@@ -1,23 +1,26 @@
 Entry: 1050 / 1050
 
-Name: Riven Kade
+Name: Eira Vale
 
-Image Prompt:
-pixel art, night‑time rooftop of a neon‑lit megacity, Riven crouched on the edge with a sleek matte black trench coat, high‑collar, cyber‑optic visor glowing faint teal, armed with a compact rail‑gun and a set of modular gadget gauntlets, smoke curling from a distant alley, rain slick streets reflecting light, color palette of deep blues and purples, dynamic pose emphasizing stealth and focus, top‑down isometric view, detailed pixel‑perfect shading, 32‑bit style, dramatic low‑key lighting, cyber‑punk atmosphere, no branding
+Concept art Image Prompt:
+Eira Vale, a lithe 28‑year‑old forensic artist‑assassin, stands in a rain‑slick back‑alley of a neon‑drenched megacity. She wears a matte black tactical trench coat with subtle hexagonal armor plating, a high‑collar and long sleeves, dark leather gloves with miniature tool compartments, and sleek combat boots. Her face is partially concealed by a half‑mask of reflective polymer, revealing sharp green eyes and a faint scar across her left cheek. In her left hand she holds a compact forensic scanner emitting a soft blue glow; her right hand rests on a collapsible silenced pistol. Neon signs flicker in the background, casting colorful reflections on puddles. Soft rim lighting highlights the edges of her coat, while a low‑key underglow gives a cinematic cyber‑noir atmosphere. Pixel art style, isometric perspective, vibrant yet gritty color palette, high detail, dynamic pose.
+
+Sprite sheet Image Prompt:
+Four 64x64 pixel art frames of Eira Vale in a cyber‑noir setting: 1) standing upright, holding her silenced pistol at waist, head slightly tilted, neon glow from a sign behind; 2) crouching low, one knee on the ground, scanner extended in left hand, ready to strike; 3) walking stride, coat swaying, right foot forward, combat boots in motion blur; 4) jumping, arms raised, pistol cocked, rain droplets around, background blurred for motion. Pixel art style, limited palette with neon blues and purples, clear silhouette, consistent character design across frames.
 
 Background Story:
-Riven Kade grew up in the underbelly of a megacity, rescued from a clandestine lab that used genetic splicing to create elite operatives. After escaping, they forged a reputation as a forensic assassin, piecing together crime scenes to eliminate targets with surgical precision. Haunted by fragmented memories of the experiments that made them, Riven seeks redemption by exposing the corporation behind the program. Their work is funded by anonymous clients who value discretion over fame, forcing Riven to balance lethal efficiency with moral ambiguity. Each contract uncovers another layer of the conspiracy, pulling them deeper into a web of betrayal. With every successful extraction, Riven inches closer to the truth that could shatter the city's power structure—or cement their own demise.
+Eira Vale was born in the underbelly of the city’s genetic labs, the product of a covert experiment stitching together elite forensic talent with enhanced reflexes. After escaping the facility, she adopted the moniker “The Illustrator” and sold her skills to the highest bidder, blending artful crime scene reconstruction with lethal precision. Haunted by fragmented memories of the scientists who shaped her, she seeks to uncover the truth behind the program that made her both genius and weapon. Each contract offers a clue, but also drags her deeper into a conspiracy that could rewrite humanity’s DNA. Driven by a promise to the sister she never met—left behind in the lab—Eira balances her mercenary work with a personal quest for redemption. The city’s elite fear her, while the shadows whisper that she may one day dismantle the very system that birthed her.
 
 Skill Tree:
 - Tier 1:
-  - Shadow Blend: briefly become semi‑invisible when standing still in low light, reducing enemy detection radius.
-  - Quickdraw Rail‑Gun: fire a single high‑velocity shot with reduced cooldown after moving.
-  - Forensic Scan: analyze a corpse or body part to reveal enemy weaknesses and hidden objectives.
+  - Spectral Trace: Reveals hidden enemy positions and trap locations for a short duration.
+  - Silent Glide: Reduces movement noise by 60%, allowing undetected traversal.
+  - Quick‑Seal: Instantly applies a temporary adhesive gel to silence doors or disable alarms.
 - Tier 2:
-  - Adaptive Disguise: swap outfits on the fly to mimic nearby civilian or security uniforms, granting temporary access to restricted areas.
-  - Toxic Injector: attach a micro‑needle to weapons that delivers a silent poison, dealing damage over time.
-  - Neural Overload: emit a short EMP pulse from the visor, temporarily stunning electronic enemies and cameras.
+  - Forensic Insight: Marks a target, exposing their weaknesses and increasing damage taken.
+  - Adaptive Camouflage: Deploys a brief cloaking field that adapts to surrounding light.
+  - Toxic Needle: Fires a single‑use poison dart that slows enemy actions for 5 seconds.
 - Tier 3:
-  - Echo Trace: leave a decoy hologram that draws enemy fire for a limited duration, allowing safe escape routes.
-  - Gene‑Lock Override: temporarily disable a target's genetic augmentations, rendering them vulnerable to all attacks.
-  - Apex Extraction: perform a high‑risk, high‑reward dash through enemies, killing those in the path and instantly reloading primary weapon.
+  - Masterstroke Finale: Unleashes a high‑damage, multi‑target finishing move that consumes remaining stamina for massive impact.
+  - Genetic Echo: Temporarily inherits a short burst of enhanced speed and reflexes, doubling attack speed.
+  - Phantom Recall: Instantly returns to the last safe spot used for a stealth reset, leaving a decoy behind.
