@@ -1,0 +1,26 @@
+Entry: 4130 / 4130
+
+Name: Kael
+
+Concept art Image Prompt:
+pixel art character concept, a rebellious time-jumper named Kael, wearing a tattered leather jacket over a tactical chestplate, with glowing chrono-gauntlets on both arms, spiked hair with a fade tattoo on the side of his head, holding a futuristic plasma rifle, standing aggressively on a fractured platform floating in a swirling time vortex, dynamic low-angle shot, cinematic lighting with neon blue and orange hues from temporal rifts, detailed pixel art style, 16-bit aesthetic, retro video game art.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, character Kael in four key animation frames: Frame 1 - standing idle with a confident smirk, holding a plasma rifle at his side; Frame 2 - crouching low with weapon aimed forward; Frame 3 - walking mid-stride with a determined expression; Frame 4 - jumping upward with legs kicked back and arms extended, showing momentum; consistent with leather jacket, tactical gear, and glowing gauntlets; clean 16-bit pixel art style, limited color palette.
+
+Background Story:
+Kael was a chrono-engineer working for the Temporal Regulatory Commission, tasked with maintaining the integrity of the timeline. During a routine calibration of a century portal, he discovered his superiors were systematically erasing entire eras they deemed "unproductive" to history. When Kael attempted to expose this genocide, he was framed for temporal crimes and cast adrift in the time streams. Now he operates as a rogue agent, using his technical expertise to jump between eras while being hunted by his former colleagues. Kael's motivation is twofold: survive the constant pursuit through time, and gather evidence to expose the Commission's atrocities. His internal conflict stems from his loyalty to the original mission of time preservation versus the need to break every rule to stop the greater evil. The stakes are the preservation of history itself, with entire civilizations hanging in the balance. Kael operates from hidden temporal pockets, emerging briefly to disrupt the Commission's operations before vanishing again into the time streams.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Accelerator: Increases movement speed and weapon swap speed by 20%.
+  - Chrono-Shield: Grants a temporary energy barrier that absorbs incoming damage.
+  - Paradox Blast: Firing your weapon has a chance to create a small temporal explosion on hit.
+- Tier 2:
+  - Time Skip: Allows a short-range teleportation dash that leaves behind a temporal decoy.
+  - Entropy Rounds: Bullets temporarily weaken enemies, making them take increased damage.
+  - Temporal Precision: Critical hit damage is significantly increased against slowed or stunned targets.
+- Tier 3:
+  - Chronos Fracture: Creates a large area-of-effect time dilation field that slows all enemies and projectiles.
+  - Reality Anchor: Become immune to all crowd control effects and gain damage resistance for a short duration.
+  - Final Paradox: Defeating an enemy has a chance to reset cooldowns on all other abilities.

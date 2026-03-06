@@ -1,0 +1,26 @@
+Entry: 73 / 73
+
+Name: Commander Jace Valker
+
+Concept art Image Prompt:
+Pixel art style, Commander Jace Valker, rugged male protagonist with a cybernetic eye implant and scarred cheek, wearing sleek tactical charcoal-grey hardsuit with orange accent lights on the chest and gauntlets, standing confidently on the metal grating of a spaceship bridge, background features holographic star charts and advanced console displays, dramatic rim lighting from a nearby nebula, 16-bit sci-fi aesthetic, detailed sprite work.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, Commander Jace Valker, 4 frames arranged horizontally on a transparent background, canvas size 64x64, character wears grey tactical armor with orange details; Frame 1: Standing idle holding a futuristic rifle; Frame 2: Crouching on one knee aiming; Frame 3: Walking stride with weapon lowered; Frame 4: Jumping mid-air with legs tucked; clean pixel outlines, distinct animation keyframes.
+
+Background Story:
+Raised on a harsh radioactive mining world, Jace Valker learned survival tactics before he learned to read. He enlisted in the Galactic Defense Force to escape the poverty of the outer colonies and quickly rose through the ranks due to his unorthodox command style. His first assignment as Executive Officer aboard the prototype vessel *The Horizon* was meant to be a simple shakedown cruise. However, a sudden betrayal by a synthetic enemy faction plunged the galaxy into war during a routine diplomatic stop. Now, Jace must navigate complex alien politics and ancient mysteries to unite a fractured galaxy against a returning threat. He struggles with the weight of sending his hand-picked squad into danger while hunting for a lost technology that could end the war.
+
+Skill Tree:
+- Tier 1:
+  - Kinetic Barrier: Deploys a temporary energy shield to absorb incoming projectile damage.
+  - Overcharge: Temporarily increases weapon fire rate and accuracy for the user.
+  - Combat Drone: Deploys a small hovering drone to harass enemies and draw fire.
+- Tier 2:
+  - Biotic Push: Unleashes a wave of kinetic energy to knock back enemies and destroy cover.
+  - Neural Hack: temporarily turns robotic enemies against their allies during combat.
+  - Tactical Cloak: Renders the user invisible for a short duration to reposition or ambush.
+- Tier 3:
+  - Nova Strike: Releases stored biotic energy in a massive explosion centered on the user.
+  - Orbital Bombardment: Calls down a precise strike from the ship's main gun on a target area.
+  - Squad Resurgence: Instantly revives all downed squad members and restores their shield integrity.

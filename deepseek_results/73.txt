@@ -1,0 +1,26 @@
+Entry: 73 / 73
+
+Name: Kaelen Valerius
+
+Concept art Image Prompt:
+pixel art, character portrait, a determined sci-fi military officer with a cybernetic left arm and a scar over the right eye, wearing a customized grey and blue officer's uniform with high-tech pauldrons and a holographic tactical display on the forearm, standing on the observation deck of a massive starship overlooking a vibrant nebula, dramatic cinematic lighting, detailed pixel art style, 16-bit era aesthetic
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames: 1) standing with a plasma pistol held ready, 2) crouching in a tactical stance aiming down sights, 3) walking with a determined stride, 4) jumping with a jetpack boost, sci-fi soldier in grey and blue armor, detailed pixel art, isometric view
+
+Background Story:
+Kaelen Valerius was a promising tactical analyst stationed at a remote agrarian outpost, the sole survivor of a devastating surprise attack that marked the beginning of a new galactic war. Haunted by the ghosts of his former crew, he was unexpectedly promoted to Executive Officer of a key strategic station due to his firsthand experience with the new enemy threat. His motivation is fueled by a burning need for answers about who orchestrated the attack and why, driving him to prevent such tragedies from befalling others. An internal conflict arises from his survivor's guilt, causing him to second-guess his command decisions and struggle with the weight of sending new crewmembers into harm's way. The stakes are immense, as the technology discovered on the outpost suggests the involvement of a previously unknown, highly advanced alien species. Kaelen's unique connection to the initial attack makes him both a valuable asset and a target, as he pieces together clues about a galaxy-wide conspiracy that threatens every settled world.
+
+Skill Tree:
+- Tier 1:
+  - Tactical Analysis: Highlights enemy weak points, increasing critical hit chance for the entire squad.
+  - Field Medic: Allows the use of medigel to revive downed squadmates during combat.
+  - Combat Drills: Improves squad reaction time, granting a bonus to initiative rolls.
+- Tier 2:
+  - Inspiring Leader: Temporarily boosts squad damage and accuracy after achieving a squad kill.
+  - Cybernetic Augmentation: Enhances personal shield capacity and recharge rate using the character's artificial arm.
+  - Guerrilla Tactics: Increases damage dealt from cover and reduces the chance of being flanked.
+- Tier 3:
+  - Victory or Death: When health drops critically low, temporarily grants unlimited ability usage and dramatically increases weapon damage.
+  - Master Strategist: Allows the pre-planning of an opening salvo for the entire squad at the start of combat.
+  - Unbreakable Will: Makes the character immune to biotic and psychological attacks for a short duration.

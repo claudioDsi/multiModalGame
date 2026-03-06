@@ -1,0 +1,26 @@
+Entry: 3025 / 3025
+
+Name: Kaelen the Unforgotten
+
+Concept art Image Prompt:
+pixel art, character concept art, a grim man named Kaelen, gaunt face with a scar over one eye, short cropped dark hair, weary expression, wearing a worn leather tunic over a simple tunic, a single vambrace on his left arm, holding a notched hand-and-a-half sword resting on his shoulder, standing on a windswept hill in the Land of Shadows under a blood-red sky, gothic dark fantasy, muted colors, desolate landscape, dramatic lighting from a hidden moon
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, 4 frames, character sprite of a grim man in worn leather armor with a notched sword, frame 1: neutral standing pose, frame 2: low crouch with sword held defensively, frame 3: mid-stride walking animation, frame 4: legs bent in a dynamic jump, muted color palette, dark fantasy aesthetic
+
+Background Story:
+Kaelen was once a simple cartographer for the royal archives, a man who found solace in mapping the forgotten corners of the world. His life was shattered when the shadowy usurpers purged the old order, murdering his family and burning his life's work. Left for dead in the smoldering ruins of his home, Kaelen did not die but awoke changed, his mortal life severed and replaced by a cold, unending purpose. He now wanders the blighted landscapes, a silent specter haunted by fragmented memories of a past forever lost. His quest for vengeance is as much about reclaiming the history erased by his enemies as it is about spilling their blood. Kaelen fears that in his pursuit of retribution, he may become as monstrous as those he hunts. The Land of Shadows itself seems to react to his presence, as if the very earth remembers the violence done to it. His struggle is not just to kill, but to remember who he was before the slaughter, and to decide if that man can ever truly return.
+
+Skill Tree:
+- Tier 1:
+  - Lingering Wound: Successful counter-attacks cause enemies to bleed, dealing damage over time.
+  - Cartographer's Eye: Reveals points of interest and hidden paths on the minimap for a short duration.
+  - Unbreakable Grip: Reduces the stamina cost of blocking and parrying enemy attacks.
+- Tier 2:
+  - Memory of Pain: Enemies who have encountered Kaelen before take increased damage from his attacks.
+  - Ghost-Step: Allows for a quick, silent dash that can be used to evade attacks or close distance.
+  - Focused Rage: Landing consecutive hits without taking damage significantly increases attack speed.
+- Tier 3:
+  - Echo of the Fallen: Upon defeating a named enemy, Kaelen gains a temporary boost to all stats based on the enemy's rank.
+  - Final Measure: When health is critically low, Kaelen's damage output is massively increased for a brief period.
+  - Land's Rejection: Creates a small area-of-effect shockwave upon performing a perfect dodge, staggering nearby enemies.

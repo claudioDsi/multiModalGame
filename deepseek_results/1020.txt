@@ -1,0 +1,26 @@
+Entry: 1020 / 1020
+
+Name: Vespera
+
+Concept art Image Prompt:
+pixel art, full body character portrait, Vespera, a woman with sharp, tired eyes and a worn face, short-cropped dark hair with a single neon-blue streak. She wears a patched-up utility vest over a faded t-shirt, cargo pants with gear loops, and sturdy, scuffed boots. She is leaning against a flickering holographic billboard in a sun-baked, rain-slicked alleyway, looking warily over her shoulder. The lighting is cinematic, with harsh overhead sunlight contrasting deep shadows and the sickly glow of neon signs advertising cheap brands. Art style: detailed pixel art with a gritty, cyberpunk aesthetic.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, Vespera. Frame 1: standing neutral, hands resting on her utility belt. Frame 2: crouching low, one hand bracing on the ground, looking alert. Frame 3: walking animation cycle, two frames of her mid-stride with a determined expression. Frame 4: jumping, body coiled, arms reaching upwards. Style: clean, readable 16-bit era pixel art, isometric perspective.
+
+Background Story:
+Vespera is a "Signal Hunter," a freelance information broker who survives by tracking down and salvaging valuable data-streams in the city's decaying communication grid. She grew up in the city's industrial underbelly, watching her parents' small repair shop be consumed by a subsidized corporate chain. Her motivation is to amass enough capital to buy her family's legacy back, but she is trapped in a cycle of high-risk, low-reward data grabs. Her internal conflict stems from her methods; she must often trade in the very same corporate secrets that ruined her family, justifying it as a necessary evil. The stakes are the soul of the city itself, as the data she unearths could either expose the corruption keeping the populace docile or be sold to further entrench the powerful. She navigates the metropolis via roof-top free-running and abandoned subway tunnels, knowing every flickering screen and dead zone intimately. Her connections are a network of other disillusioned tech-rats and a deep-seated resentment for the reality TV stars who glorify the city's decline.
+
+Skill Tree:
+- Tier 1:
+  - Grid Sense: Highlights nearby active data streams and security nodes on the mini-map.
+  - Silent Step: Reduces noise generated from movement, making stealth easier.
+  - Quick Fingers: Slightly increases hacking speed on basic access points.
+- Tier 2:
+  - Signal Ghost: Allows temporary invisibility to low-level security cameras.
+  - Data Burrow: Unlocks the ability to hack environmental objects to create distractions.
+  - Kinetic Battery: Successfully evading enemies grants a temporary boost to movement speed.
+- Tier 3:
+  - Echo Locator: Reveals the location of high-value data caches within a large radius.
+  - Hard-Link Override: Enables hacking of advanced security systems and corporate networks.
+  - Vanishing Act: Using a data-distraction fully refills the stealth meter and creates a decoy.

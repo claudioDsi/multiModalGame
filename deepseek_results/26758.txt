@@ -1,0 +1,26 @@
+Entry: 26758 / 26758
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art concept art of a young adventurer, Kaelen, with a determined expression. He has tan skin, messy brown hair, and wears rugged explorer's clothing: a patched leather jerkin, sturdy trousers tucked into worn boots, and a satchel slung across his chest. He stands in a vibrant, fantastical jungle clearing, one hand raised as if concentrating, with a faint blue aura around it suggesting a capture ability. The scene is lit by dappled sunlight filtering through giant, alien-looking leaves. Art style: detailed pixel art, isometric view, rich color palette, retro video game aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of the character Kaelen, 64x64 canvas divided into four 16x64 frames. Frame 1: standing idle with a hand on his satchel. Frame 2: crouching low to the ground, one hand braced on the floor. Frame 3: walking animation cycle, mid-stride with a sense of motion. Frame 4: jumping straight up, arms raised and legs bent. Simple, clear shapes, limited color palette consistent with concept art.
+
+Background Story:
+Kaelen was an apprentice archivist in a quiet, isolated village, fascinated by the tales of ancient artifacts and forgotten places. His life was upended when his closest friend, Elara, was suddenly betrothed to a mysterious and powerful figure from a distant land as part of a political arrangement that reeks of coercion. Knowing Elara would be miserable, Kaelen vows to stop the wedding. He discovers an old legend about ancient artifacts that can power a legendary airship, the only thing fast enough to reach the remote ceremonial grounds in time. He is joined by an unexpected ally, a rogue sky-pirate who also has a vested interest in thwarting the wedding plans. Kaelen's motivation is torn between his personal desire to save his friend and the growing realization that the artifacts he seeks hold a much greater power that could destabilize the entire world. The stakes are immense: failure means his friend loses her freedom, but success might unleash forces he cannot control.
+
+Skill Tree:
+- Tier 1:
+  - Basic Capture: Allows Kaelen to capture small, non-threatening creatures like forest sprites or rock mites.
+  - Sturdy Boots: Increases movement speed and reduces environmental damage from rough terrain.
+  - Keen Eye: Reveals hidden interactive objects and weak points in the environment.
+- Tier 2:
+  - Dominant Capture: Enables the capture of larger, hostile enemies, temporarily turning them into allies.
+  - Echo Location: Releases a sonar pulse that highlights collectibles and secrets on the mini-map.
+  - Glide Cloak: Allows a slow, controlled descent after a jump, improving traversal.
+- Tier 3:
+  - Alpha Capture: Allows the capture of massive boss-level creatures, granting their ultimate ability for a short time.
+  - Chrono-Shift: Briefly slows down time, making platforming and combat easier.
+  - Aether Weave: Creates temporary solid platforms out of captured energy, solving complex environmental puzzles.

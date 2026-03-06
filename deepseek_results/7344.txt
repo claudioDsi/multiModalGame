@@ -1,0 +1,26 @@
+Entry: 7344 / 7344
+
+Name: Elian
+
+Concept art Image Prompt:
+A young male orphan character with a determined expression, standing on a windswept cliff edge overlooking a storm-ravaged valley. He has short, scruffy brown hair and wears a simple, tattered tunic and trousers, with a small satchel and a carved wooden charm hanging from his belt. The sky is filled with dramatic, dark clouds breaking to reveal streaks of golden light. Art style: highly detailed pixel art, hand-painted aesthetic, atmospheric lighting, melancholic yet hopeful tone, character in a dynamic pose looking towards the horizon.
+
+Sprite sheet Image Prompt:
+A sprite sheet for a pixel art character, canvas size 64x64 pixels, divided into four 16x64 frames. Frame 1: Idle pose, standing upright with one hand resting on his satchel. Frame 2: Crouching pose, knees bent low to the ground, arms out for balance. Frame 3: Walking animation pose, mid-stride with arms swinging. Frame 4: Jumping pose, legs tucked beneath him with arms reaching upward. Character has a simple tunic and trousers, consistent color palette of earthy tones.
+
+Background Story:
+Elian was left at the steps of the valley's elder tree as an infant, with only a small wooden charm as a connection to his past. Raised collectively by the villagers, he always felt a deep connection to the whispering woods and the gentle streams of his home. The great storm shattered this peace, unleashing a creeping darkness that drains life from the land, causing the flora to wither and the very earth to crack. Elian discovers that the tempest was not natural but a violent awakening of an ancient entity that now seeks to consume the valley's heart. His motivation is twofold: a desperate love for the only home he has ever known, and a growing sense that his mysterious origin is intrinsically tied to the land's fate. He grapples with a profound fear that he is not the hero the villagers need him to be, that an orphan with no lineage is powerless against such a primordial force. The stakes are absolute; if he fails, every memory of his upbringing and every person who showed him kindness will be erased by the encroaching shadow.
+
+Skill Tree:
+- Tier 1:
+  - Valley's Resilience: Increases maximum health and reduces damage taken from environmental hazards.
+  - Whispering Steps: Allows for quieter movement, making it harder for enemies to detect the character.
+  - Sturdy Stance: Reduces knockback from enemy attacks, allowing for more stable platforming.
+- Tier 2:
+  - Gale Leap: Grants an additional mid-air jump, increasing traversal options.
+  - Spirit Lantern: Creates a temporary orb of light that reveals hidden platforms and weakens shadow enemies.
+  - Sap Strike: Basic attacks have a chance to briefly slow enemies, making them easier to avoid.
+- Tier 3:
+  - Heartwood Aegis: Surrounds the character with a protective barrier that absorbs a portion of incoming damage.
+  - Tempest Dash: Perform a quick, invulnerable dash forward, phasing through projectiles and enemies.
+  - Lifewell: Defeated enemies have a chance to drop healing orbs that restore a small amount of health.

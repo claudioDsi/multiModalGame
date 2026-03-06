@@ -1,0 +1,862 @@
+game_id,precision,recall,f1,original_background_story,generated_background_story,generated_skill_tree,generated_txt_path,error
+1020,0.8170521259307861,0.8204991817474365,0.81877201795578,"Angio is an amateur singer who resembles a young Jezz Torrent (as he appeared in GTA Vice City) and even sings one of his solos. The Judges initially insult William after his performance with two of the judges voting it ""Shame"" but after Lazlow begs everyone to do something controversial to get ratings, Hugh Harrison votes William ""fame"" and the other judges follow suit despite already making their votes. Hugh then asks William to punch Lazlow, which he does twice.","Julian ""Jax"" Roster was once a celebrated stuntman and minor reality television personality in the city's prime era, known for his charisma and reckless abandon. When the networks shifted to cheaper, more exploitative programming, Jax was discarded after an on-set injury, leaving him with medical bills and a bitter grudge against the media conglomerate. He now operates in the gray areas of the metropolis, using his driving skills and underworld connections to orchestrate high-risk heists. While he pretends to be cynical about the city’s obsession with fame, he secretly yearns for the validation of the spotlight. He is deeply in debt to dangerous loan sharks who threaten the few honest friends he has left, forcing him to take increasingly risky jobs. Jax struggles with his ego, often complicating plans just to look good, but his loyalty to his crew is unwavering. Ultimately, he seeks a score big enough to buy his freedom and dismantle the corrupt studio that ruined him.","- Tier 1:
+  - Wheelman: Increases vehicle acceleration and handling, allowing for tighter turns and smoother landings.
+  - Street Smarts: Highlights interactive objects and hidden entry points in the game world.
+  - Bravado: Temporarily reduces incoming damage when health drops below a critical threshold.
+- Tier 2:
+  - Stunt Driver: Allows the character to perform vehicle jumps and sharp drifts without losing control.
+  - Improvised Arms: Increases damage output and durability for melee weapons scavenged from the environment.
+  - Slippery Target: Increases the speed of vaulting and climbing over urban obstacles.
+- Tier 3:
+  - Spotlight: Blinds enemies with a camera flash or flare, stunning them and interrupting attacks.
+  - High Stakes: Increases the monetary reward for missions but raises the alert level of law enforcement.
+  - Director's Cut: Allows the player to rewind a few seconds of gameplay to correct a fatal mistake.",glm_results\1020.txt,
+6517,0.8041635751724243,0.7782983779907227,0.7910196185112,"Johnny Joestar is the protagonist of Steel Ball Run and a minor character in JoJolion. He is the seventh JoJo of the JoJo's Bizarre Adventure series. 
+ 
+Johnny is a young man of below-average height and slim to medium build. He has light eyes, and light, shoulder-length hair curling upwards at its ends. 
+ 
+Johnny always wears a knit capW, printed with many small five-pointed stars. His hair sticks out of holes on either side of the top, taking a shape like short horns. A horseshoe hangs from the front; framing an image of the dark silhouette of the profile of a horse's reared head. 
+ 
+Johnny wears similarly star-patterned pants; of a piece with footwear bearing spursW. He commonly wears a light-colored, hooded, short-sleeved top; printed with thick lines in the approximate formation of a harness (later, with patches in the shape of hearts adorning both shoulders). A long feather (bordered by black with one black spot at its tip) emerges from under the back of his collar; and he wears wrist cuffs patterned with stars and stripes. 
+ 
+Johnny Joestar is a depressive ex-jockey, who clings to his hope of regaining the use of his legs through the Spin and then the Corpse Part throughout Steel Ball Run. 
+ 
+Johnny is introduced as a distant paraplegic man whose career was ruined when he was shot in the spine after conceitedly antagonizing a passerby. After Johnny witnesses Gyro's Steel Balls and Spin, and how they enabled him to stand up on his feet for a moment, he becomes determined to follow him and make him teach the Spin, then after discovering the Corpse Part making his legs twitch, to acquire them.","Solara Veyne was born into a legendary bloodline of martial artists tasked with guarding the Celestial Ember, an ancient artifact said to grant its wielder control over flame and light. When a rival faction invaded her village seeking the artifact's power, Solara's mother sealed the Ember within Solara's own soul to keep it from falling into evil hands. Now burdened with its volatile energy, Solara wanders the world seeking masters who can teach her to control the growing inferno inside her. Her journey has led her to the grand tournament, where the strongest fighters across all realms gather to prove their worth. Solara fights not for glory but for the chance to test herself against the world's greatest warriors and finally master the gift her mother died to protect. The stakes are deeply personal—if she loses control, the Ember could consume her entirely, destroying everyone she cares about. Her internal conflict rages between the desire for vengeance against those who destroyed her home and the discipline required to harness her power for protection rather than destruction.","- Tier 1:
+  - Ember Strike: A quick flaming punch that extends Solara's reach and ignites enemies briefly.
+  - Flash Step: A short-range instant dash that leaves behind a blinding afterimage to disorient foes.
+  - Heat Wave: A defensive circular burst that repels incoming projectiles and close-range attackers.
+- Tier 2:
+  - Phoenix Rising: An anti-air uppercut that launches Solara upward trailing flames, carrying enemies skyward.
+  - Scorched Earth: Solara slams the ground, creating spreading flames that limit enemy movement options.
+  - Blazing Parry: A counter-stance that absorbs one attack and retaliates with amplified flame damage.
+- Tier 3:
+  - Supernova Burst: Solara releases her full power in a devastating expanding sphere of light that deals massive damage.
+  - Celestial Inferno: A sustained barrage of flame projectiles that track enemies and pin them down.
+  - Final Dawn: Solara channels the Celestial Ember's true power, entering an enhanced state with increased speed and damage for a limited time.",glm_results\6517.txt,
+25076,0.8030630350112915,0.8184438347816467,0.8106804490089417,"Arthur Morgan is a central character and the main protagonist of Red Dead Redemption 2. Arthur Morgan was born circa 1863 to Beatrice and Lyle Morgan, somewhere in the northern United States. Around 1877, Arthur was found and picked up of the streets by Dutch van der Linde and Hosea Matthews.","Silas Vane was once a loyal enforcer for the Hollowpeak Brotherhood, a brotherhood of outlaws that once ruled the untamed canyons of Brimstone Territory. Born to a saloon singer and a father he never knew, he learned early that survival meant loyalty to those with power. The Brotherhood raised him, taught him to shoot, and gave him purpose—until the railroads came. As the Iron Wardens, a powerful industrial consortium, laid tracks through the canyons, the Brotherhood's influence crumbled. Silas was ordered to burn a settlement that refused to sell its land, a line he refused to cross. He turned his back on the only family he ever knew, saving the town but earning a death mark from his former brothers. Now he rides east toward the coast, fleeing both the Brotherhood's assassins and the Wardens' hired guns. Every town he passes through is another step toward a freedom he's never truly known. Silas fights not for redemption—that word died with his innocence—but for a chance to disappear into a world that's leaving men like him behind.","- Tier 1:
+  - Quick Draw: Silas fires his revolver with increased speed, stunning nearby enemies for a brief moment.
+  - Dust Cloak: Silas blends into his environment, reducing enemy detection range for a short duration.
+  - Canyon Stride: Silas moves silently across rough terrain, leaving no footprints or noise.
+- Tier 2:
+  - Fan the Hammer: Silas rapid-fires all remaining rounds in his cylinder, dealing area damage in a cone.
+  - Coat Tail: Silas deflects a single incoming projectile using his reinforced coat lining.
+  - Snake Oil Tonic: Silas consumes a hidden flask, restoring a moderate amount of health over time.
+- Tier 3:
+  - Brothers Betrayed: Silas calls upon old contacts to create a temporary safe zone where enemies cannot enter.
+  - Iron Wardens Bane: Silas plants an explosive charge that destroys environmental obstacles and damages all enemies in a wide radius.
+  - The Long Ride: Silas enters a focused state where time slows, allowing precise shots with guaranteed critical hits for several seconds.",glm_results\25076.txt,
+2289,0.8077832460403442,0.8051701784133911,0.8064745664596558,"The mascot species of the Pokémon franchise, Pikachu is an Electric-type rodent that evolves from Pichu and can later evolve into Raichu. Pikachu has been extensively featured in nearly every piece of Pokémon media, and its popularity extends outside of its home series - it has been playable in every Super Smash Bros. game, painted on commercial airliners, and has its own balloon in the Macy's Thanksgiving Day Parade.","Ryker grew up in the Outer Ring villages, far from the high-tech stadiums where elite trainers competed for glory. While urban trainers relied on data algorithms and rental beasts, Ryker learned the old ways of bonding with creatures in the wild, earning their trust through patience rather than programs. He enters the Grand Circuit to prove that a genuine connection outperforms the cold predictability of rented combatants. His ultimate goal is to dethrone the construct warrior known only as The Guardian, a legendary artificial defender rumored to hold the secret to true creature evolution. Ryker struggles with the pressure of being an underdog in a league dominated by wealthy sponsors and standardized battle strategies. He fights to save his local sanctuary from being demolished by the tournament's governing corporation. Every victory brings him closer to the secret mode, where only the strongest bonds survive.","- Tier 1:
+  - Bond Resonance: Increases the accuracy of allied creatures by calming their nerves during battle.
+  - Salvage Patch: Restores a small amount of health to an active creature using scavenged materials.
+  - Scout’s Gaze: Reveals the hidden techniques of an enemy creature for a short duration.
+- Tier 2:
+  - Synergy Link: Allows the trainer to take a portion of damage intended for their creature.
+  - Rally Cry: Boosts the attack power of all active creatures for three turns.
+  - Adaptive Plan: Switches the active creature instantly without losing a turn.
+- Tier 3:
+  - Evolutionary Spark: Triggers a temporary mutation in a creature, granting them a random high-tier ability.
+  - Perfect Harmony: Grants a creature immunity to status effects and critical hits for one round.
+  - Master's Command: Executes a devastating finishing move that combines the power of the trainer and creature.",glm_results\2289.txt,
+41,0.8144664764404297,0.8377136588096619,0.8259265422821045,"His past is not known but he is known to the public as an important government official and the Director of FEMA. He was appointed to FEMA through Page's manipulation of an unnamed senator infected with the Gray Death, and went to work immediately. A cloak-and-dagger man, Simons was the first higher-up on the scene after JC Denton's capture of NSF operatives in Battery Park; his interrogation ended with Simons personally executing both prisoners.","Born in the decaying industrial sprawl of Old Berlin, Zara Kessler survived her youth as a data courier for underground networks before being recruited by the Global Defense Coalition at nineteen. Her aptitude for infiltration earned her selection for the Nano-Integration Protocol, fusing microscopic machines with her nervous system to enhance reaction speed, sensory perception, and computational interfacing. Now twenty-seven, she serves as a field operative for the Coalition's Special Operations Division, tasked with preventing the radical Prometheus Collective from seizing control of an orbital defense station above New Shanghai. During the mission, encrypted files reveal that the Collective's leader was once a Coalition founder who uncovered evidence of a shadowy cabal manufacturing global terrorism to maintain control. Zara must confront that her augmentations may contain kill-switch protocols and surveillance implants, making her an unwitting asset to those she trusts. Her journey forces her to question whether loyalty to the organization that rescued her from poverty outweighs the moral cost of serving hidden masters. The stakes extend beyond survival to the fundamental question of whether free will can exist when thoughts are monitored, memories edited, and allegiances programmed from birth.","- Tier 1:
+  - Neural Acceleration: Slows subjective perception of time during combat, allowing more precise aiming and reaction windows.
+  - Optical Overlay: Activates enhanced vision modes to detect enemy positions through thin walls and low-visibility environments.
+  - Interface Tap: Enables remote hacking of electronic locks and security terminals within short range without physical contact.
+- Tier 2:
+  - Reflex Override: Temporarily suppresses pain response and motor limitations, increasing melee damage and movement speed.
+  - Signal Dampener: Scrambles bio-metric signature, reducing detection by automated turrets and security sensors for a limited duration.
+  - Neural Firewall: Creates a defensive barrier against enemy hacking attempts and reduces duration of confusion or fear effects.
+- Tier 3:
+  - Ghost Protocol: Fully disengages bio-signature from all detection systems, rendering the agent invisible to cameras and thermal imaging.
+  - Cascade Overload: Unleashes an electromagnetic pulse that disables all electronics within range at the cost of temporary system recharge.
+  - Puppet Node: Establishes a temporary neural link to control a single enemy combatant or security drone before the connection burns out.",glm_results\41.txt,
+26758,0.8031402826309204,0.8219648599624634,0.8124435544013977,"Peach (or Princess Peach) is a main protagonist in the Mario series. She's usually the damsel-in-distress of the games, who the players have to rescue, but she also has some important roles as the hero herself. She's the adorable and cute princess of the Mushroom Kingdom.","Zara Vane grew up listening to the roar of engines in her father's dusty mechanic shop, dreaming of the floating continents described in old travel logs. When the tyrannical Baroness Ironwood kidnapped her brother to force a political marriage and seized their family's prototype airship, Zara vowed to get him back. She stole the ""Animus Lasso,"" an ancient relic capable of capturing the essence of objects and creatures, effectively allowing her to control them. Now, she travels across the skies with a mismatched crew, hunting for the four Aether Crystals needed to power the airship for the rescue mission. Zara struggles with the moral weight of bending others to her will, fearing she might become a tyrant like the Baroness. The clock is ticking, as the wedding is set to occur during the next solar eclipse. Her journey takes her from the rusted gears of the Clockwork Archipelago to the verdant overgrowth of the Sky Jungle. Ultimately, she must decide if power is something to be wielded or set free.","- Tier 1:
+  - Spirit Lasso: Zara throws her lasso to capture small objects and harmless animals, allowing her to move them or use them as platforms.
+  - Wind Dash: A quick burst of speed that allows Zara to cross small gaps or dodge incoming projectiles.
+  - Lift: Zara uses the lasso's power to levitate captured objects, holding them in place for a few seconds.
+- Tier 2:
+  - Beast Bind: Allows Zara to capture and control hostile enemies, using their unique attacks to solve puzzles or defeat other foes.
+  - Echo Throw: Zara throws a captured entity with increased force, breaking fragile barriers or stunning larger enemies.
+  - Anchor: While controlling an enemy, Zara can anchor them to the ground, making them immovable and usable as a shield.
+- Tier 3:
+  - Possession Chain: Zara can instantly chain from one captured entity to another without returning to her body, allowing for rapid traversal.
+  - Titan's Grip: Enables the capture of massive objects or mini-bosses, allowing Zara to temporarily control the battlefield terrain.
+  - Soul Burst: Zara releases all currently captured entities in a devastating explosive attack that clears the screen of enemies.",glm_results\26758.txt,
+7292,0.822804868221283,0.8320314288139343,0.8273924589157104,"Mileena is a character in the Mortal Kombat series. A genetic experiment created by the sorcerer Shang Tsung, she is one of the adopted daughters of the Outworld Emperor Shao Kahn and one of his personal enforcers. She has served as an antagonist throughout the series.","Varin was once a loyal sentinel guarding the ancient interdimensional gates, until a catastrophic breach trapped him in the Void for decades. Exposure to this raw energy altered his physiology, granting him the ability to manipulate gravity and space at the cost of his sanity. He fights his way back to the material realm, driven by a fragmented memory of his duty and a burning desire to punish those who abandoned him. His internal conflict rages between his remaining humanity and the hollow, destructive whispers of the Void that now sustain him. He seeks to challenge the current champions of the tournament to prove his dominance and reclaim his post. The stakes are high, as his presence threatens to tear the fabric of reality if he remains unchecked.","- Tier 1:
+  - Void Step: Instantly teleports behind the opponent to initiate a combo.
+  - Kinetic Palm: Strikes the ground to create a shockwave that hits low.
+  - Rift Shield: Absorbs a single projectile hit and stores the energy.
+- Tier 2:
+  - Gravity Crush: An EX move that increases the opponent's gravity, preventing them from jumping for 5 seconds.
+  - Spectral Blade: Summons a temporary weapon extension for increased reach on standard punches.
+  - Phase Dash: Passes through enemies and projectiles, leaving a damaging afterimage.
+- Tier 3:
+  - Event Horizon: An X-Ray move where Varin creates a micro-black hole that crushes the opponent's ribcage before exploding.
+  - Singularity Strike: A powerful uppercut that knocks the opponent into a portal, dropping them back down for a ground slam.
+  - Spatial Rend: A Fatality move where Varin rips a hole in space, slicing the opponent in half vertically.",glm_results\7292.txt,
+73,0.82462477684021,0.8091381788253784,0.8168080449104309,"Commander Shepard is the player character in BioWare's Mass Effect game trilogy: Mass Effect, Mass Effect 2, and Mass Effect 3. A veteran soldier of the Systems Alliance Navy military and N7-graduate of the Interplanetary Combatives Training (ICT) program, and the first human Citadel Council Spectre, Shepard works to stop ""the Reapers"", a sentient synthetic-machine race dedicated to wiping out all organic life.
+
+Shepard's gender, class, first name and general appearance are chosen and customized by the player. Since the player can choose the gender of Shepard, much of the dialogue revolving around the character is gender neutral with only a few exceptions.","Raised on a harsh radioactive mining world, Jace Valker learned survival tactics before he learned to read. He enlisted in the Galactic Defense Force to escape the poverty of the outer colonies and quickly rose through the ranks due to his unorthodox command style. His first assignment as Executive Officer aboard the prototype vessel *The Horizon* was meant to be a simple shakedown cruise. However, a sudden betrayal by a synthetic enemy faction plunged the galaxy into war during a routine diplomatic stop. Now, Jace must navigate complex alien politics and ancient mysteries to unite a fractured galaxy against a returning threat. He struggles with the weight of sending his hand-picked squad into danger while hunting for a lost technology that could end the war.","- Tier 1:
+  - Kinetic Barrier: Deploys a temporary energy shield to absorb incoming projectile damage.
+  - Overcharge: Temporarily increases weapon fire rate and accuracy for the user.
+  - Combat Drone: Deploys a small hovering drone to harass enemies and draw fire.
+- Tier 2:
+  - Biotic Push: Unleashes a wave of kinetic energy to knock back enemies and destroy cover.
+  - Neural Hack: temporarily turns robotic enemies against their allies during combat.
+  - Tactical Cloak: Renders the user invisible for a short duration to reposition or ambush.
+- Tier 3:
+  - Nova Strike: Releases stored biotic energy in a massive explosion centered on the user.
+  - Orbital Bombardment: Calls down a precise strike from the ship's main gun on a target area.
+  - Squad Resurgence: Instantly revives all downed squad members and restores their shield integrity.",glm_results\73.txt,
+116419,0.8031488060951233,0.8382964730262756,0.8203462958335876,"Link is the main protagonist in The Legend of Zelda series. He's usually the hero of the game, and the player's avatar.","Lyra was born in the Silent Quarter, a region of the kingdom where the ancient melodies have faded into dissonance. Once a humble court musician, she discovered the Tuning Fork blade, an artifact capable of restoring rhythm to a chaotic world. When the Discordant Lord stole the Kingdom's Master Tempo, the land began to freeze, trapping its people in a stasis of silence. Lyra volunteered to venture into the shifting dungeons that pulse with erratic beats. She fights to reconnect the severed ley lines of music that hold the realm together. Her internal conflict lies in balancing the destructive power of her weapon with the healing harmony she wishes to restore. If she fails, the Kingdom will fall into permanent, soundless entropy. Every step she takes must be precise, for she is the new metronome of her world.","- Tier 1:
+  - Beat Strike: Lyra deals double damage if her attack lands perfectly on the rhythm beat.
+  - Rhythm Step: A dash ability that grants brief invincibility when timed to the background track.
+  - Echo Vision: Reveals hidden traps and secrets in the dungeon tiles for a short duration.
+- Tier 2:
+  - Crescendo Slash: A charged attack that hits enemies in a wide arc three tiles ahead.
+  - Harmony Shield: Creates a temporary barrier that deflects projectile attacks on a perfect beat.
+  - Rest Note: Lyra enters a meditative state to regenerate a small amount of health between tracks.
+- Tier 3:
+  - Symphony of Pain: A screen-wide attack that damages all enemies currently on the tile grid.
+  - Tempo Shift: Briefly slows down the action speed of all enemies for eight beats.
+  - Encore Revival: Automatically revives Lyra with full health once per dungeon run if she clears a room without taking damage.",glm_results\116419.txt,
+1443,0.7826417088508606,0.7915421724319458,0.7870667576789856,Prince of Ylisse,"Kaelen Vane was once a scholar of military history at the Ivory Spire, more accustomed to reading about wars than fighting them. When the Necrotic Legions rose from the southern wastes, the ruling council was decimated, leaving Kaelen as the highest-ranking official remaining due to an obscure bloodline. He struggles with the crushing guilt of sending soldiers to their deaths, often treating his troops like chess pieces to maintain emotional distance. He wields his family’s ancestral rapier, ""Whisper,"" though he prefers resolving conflicts through diplomacy when possible. The ""Dual"" combat arts he implements allow his forces to cover each other's weaknesses, mirroring his belief that unity is the only way to survive the coming apocalypse. His internal conflict centers on whether he can remain human while becoming the ruthless general the world demands. As the kingdoms bicker and the dead march, Kaelen must rally knights and mages alike to hold the line against the darkness.","- Tier 1:
+  - Tactical Insight: Grants a slight increase in accuracy for the character and adjacent allies during combat.
+  - Swift Strike: Allows the character to attack first when engaging an enemy with lower speed.
+  - Rallying Cry: Boosts the defense of all allies within a two-tile range for one turn.
+- Tier 2:
+  - Dual Guard: When standing next to a support partner, grants a chance to completely negate an incoming attack.
+  - Tandem Assault: If the character attacks while adjacent to an ally, the ally follows up with a secondary strike.
+  - Strategic Pivot: Allows the character to swap positions with an adjacent ally to reposition defenses.
+- Tier 3:
+  - Supreme Tactician: Reveals the movement range of all enemy units for three turns.
+  - Phantom Edge: The character's attacks ignore a portion of the enemy's defense rating.
+  - Last Stand: Automatically activates a protective barrier when the character's health drops below critical levels.",glm_results\1443.txt,
+6750,0.8239853382110596,0.8124427199363708,0.8181732892990112,"Ragna the Bloodedge is the main protagonist of the BlazBlue series from Calamity Trigger to Central Fiction. He harbors a deep hatred of the Novus Orbis Librarium and aims to annihilate the organization. In turn, the NOL places the highest-ever bounty in history on his head. Ragna possesses a powerful form of ars magus (magic weapon) called the Azure Grimoire or BlazBlue which is central to the main conflict of the series.","Kaelen grew up in the secluded mountain peaks of the Iron Range, where the winds howl with enough force to strip the flesh from bone. Trained by the silent monks of the Altitude Temple, he learned to harness air currents to augment his striking speed. Unlike his predecessors who sought inner peace, Kaelen sought combat perfection to prove that speed triumphs over brute strength. He left the monastery to test his technique in the global tournament, seeking the champion who defeated his master years ago. Kaelen struggles with the burden of expectation, as his master was disgraced in the previous tournament, and he must restore honor to his school. He fights not for glory, but to force the world to recognize the viability of the ""Gale Fist"" style. His internal conflict lies in his desire for mercy versus the ruthless efficiency required to win. The stakes are high, as a loss would mean the dissolution of his fighting style by the ruling martial council.","- Tier 1:
+  - Gale Palm: A quick palm strike that pushes the opponent back slightly.
+  - Wind Step: A short dash forward that passes through projectiles.
+  - Rising Current: An upward striking move used for anti-air defense.
+- Tier 2:
+  - Cyclone Kick: A spinning kick that hits multiple times while moving forward.
+  - Air Pressure: A projectile move consisting of a fast-moving ball of compressed air.
+  - Counter Gust: A parry move that opens the opponent for a counterattack.
+- Tier 3:
+  - Tempest Rush: A devastating combo of rapid strikes ending in a heavy knockback.
+  - Vacuum Trap: A move that pulls the opponent closer to set up a combo.
+  - Eye of the Storm: A temporary buff that increases movement speed and jump height.",glm_results\6750.txt,
+26845,0.8081827163696289,0.8399274349212646,0.8237493634223938,"Edelgard is a playable character and one of the main protagonists in Fire Emblem: Three Houses. She is the princess and the future emperor of the Adrestian Empire. In the Officers Academy, she is the leader of the Black Eagles.","Valerius Thorne spent a decade as a cold-blooded mercenary, selling his tactical genius to the highest bidder until a tragic loss made him question the cost of his contracts. Wandering aimlessly, he was intercepted by envoys from the Iron Concord, an ancient order dedicated to preserving the fragile peace of the continent. Impressed by his unique combat prowess and ability to inspire loyalty in chaotic situations, the Grand Archon invites him to serve as a professor at the Spire of Aethelgard. There, he must choose to mentor one of three distinct student houses, each representing a different regional philosophy of war. Though he initially refuses to take responsibility for young lives, he realizes that the growing darkness in the East requires a new generation of heroes to combat it. Valerius struggles to transition from a soldier who follows orders to a teacher who must give them, fearing his own checkered past will lead his students astray. As mysterious forces assault the borders of the land, he must guide his chosen students through rigorous academic trials and brutal tactical battles. Ultimately, the house he chooses to lead will determine the political landscape of the kingdom and the fate of the world.","- Tier 1:
+  - Rallying Cry: Grants a small attack boost to all allies within a two-tile radius.
+  - Defender's Stance: Allows Valerius to reduce incoming damage by 30% when not acting.
+  - Field Lesson: Teaches a selected student a temporary passive skill for the duration of the battle.
+- Tier 2:
+  - Tactical Shift: Allows a selected student unit to move again after acting, once per turn.
+  - Gambit Command: Deploys a unique battalion of soldiers to attack a specific grid area.
+  - Professor's Insight: Reveals hidden enemy placements and increases critical hit rate for the squad.
+- Tier 3:
+  - Winds of Change: Completely reverses the turn order, forcing enemies to act last for two cycles.
+  - Divine Retribution: Unleashes a massive AOE attack that ignores terrain cover and defense stats.
+  - Legacy Unlocked: Permanently unlocks a hidden potential in a chosen student unit during battle.",glm_results\26845.txt,
+3025,0.8216478824615479,0.8180655837059021,0.8198528289794922,"Talion is one of the two player-controlled protagonists in both Middle-earth: Shadow of Mordor and Middle-earth: Shadow of War, alongside Celebrimbor. However, they share the same body. 
+ 
+A descendant of the Northmen in Rhovanion, and raised in Minas Tirith, he is a loyal Ranger of Gondor, where he then rose the rank of Captain of the Black Gate. After the tragic demise of his family and himself, Talion was revived by Celebrimbor, an immensely powerful Wraith; where the two joined forces and began a quest for vengeance on those responsible for the death of his loved ones the Black Hand of Sauron.","Kael Ashbound was once an ordinary village watchman in a peaceful border settlement, living a quiet life with his wife and young daughter. When the Shadow Legions swept through the region on a campaign of slaughter, he watched helplessly as everything he loved burned to ash. He died with a rusted blade in his hand, cut down while trying to shield his family from the invaders. Yet death did not claim him fully—the ancient curse permeating the Land of Shadows bound his restless spirit to his charred remains, forcing him to rise again as something neither alive nor truly dead. Now Kael wanders the twilight realm driven by a singular purpose: to hunt down those who ordered the massacre and destroy them one by one. His existence is a torment, caught between worlds, remembering only fragments of his past life through the memories of those he slays. The enemies he faces are beginning to remember him, whispering tales of the Hollow Man who cannot be killed, and the shadows themselves seem to bend to his growing wrath.","- Tier 1:
+  - Ash Strike: Infuse your weapon with lingering rage to deal increased damage with each consecutive hit.
+  - Wraith Step: Briefly become intangible to pass through enemies and avoid incoming attacks.
+  - Grave Sense: Detect nearby enemies through walls and see their combat rank and name.
+- Tier 2:
+  - Ember's Echo: Leave behind a ghostly trail of burning footprints that damages pursuing enemies.
+  - Memory Drain: Extract combat knowledge from defeated foes, gaining a temporary boost to counter their specific weapon type.
+  - Phantom Chains: Bind a single enemy in spectral restraints, stunning them for several seconds.
+- Tier 3:
+  - From the Ashes: Automatically revive once per encounter with partial health when your mortal body is destroyed.
+  - Mark of Doom: Permanently brand a nemesis enemy, dealing double damage and tracking their location across the map.
+  - The Final Grave: Create a zone of darkness that pulls all nearby enemies inward and crushes them with shadow pressure.",glm_results\3025.txt,
+7330,0.818250298500061,0.8115935921669006,0.8149083256721497,"Felicia was first introduced in Darkstalkers: The Night Warriors as one of two female characters alongside Morrigan Aensland. She has appeared in every game in the series and in numerous cross overs including Marvel vs. Capcom 2: New Age of Heroes along with Morrigan, Baby Bonnie Hood and Anakaris. 
+ 
+Felicia is a Catwoman who was taken in and raised by a Sister named Rose who gave her the name Felicia from the word Felicity. Despite her identity as a Darkstalker being exposed, she was not turned away by her as Felicia had feared. When Rose passed away, Felicia left her town hoping to be a musical star. 
+ 
+She is an energetic and optimistic catgirl who enjoys singing, dancing and making friends with people. All she wishes for is peaceful coexistence with humans and doesn't resort to fighting unless she cannot avoid it. Because of this, she stands out among all the other Darkstalkers, many of whom are antihero at best. Her nice attitude has made some people tolerate Darkstalkers more and this gives her more motivation to persuade more humans to accept them since Felicia loves humans due to their personalities and open-mindedness, despite some not accepting Darkstalkers easily she doesn't give up her passion to make friends with the ones that care.","Kibo was never born in the traditional sense but sprang into existence from the collective dreams of a sleeping universe. As a newly manifested ""Weaver,"" his purpose is to maintain the delicate balance between structure and chaos in the Realm of Infinite Canvas. He wanders through diverse biomes, fixing glitches left behind by the chaotic entity known only as The Eraser. Though small and seemingly insignificant, Kibo carries the burden of a fading world on his shoulders, armed only with a magical stylus that can alter reality. He seeks to unite the scattered inhabitants, hoping their combined creativity can push back the encroaching void. His internal struggle lies in believing that his own creations are worthy enough to stand against the masterpiece of the universe. Every block placed and every path cleared is a small victory against the stagnation threatening to consume everything. With every new dawn, Kibo wakes up ready to shape his own destiny, one pixel at a time.","- Tier 1:
+  - Terrain Painter: Modifies ground tiles to create platforms or bridges over gaps.
+  - Stylus Strike: A basic melee attack that knocks back nearby enemies.
+  - Hop-Sketch: A short vertical leap that leaves a temporary chalk outline to distract foes.
+- Tier 2:
+  - Palette Swap: Changes the color of environmental objects to alter their physical properties.
+  - Blueprint Recall: Saves the current state of a small area to revert traps or hazards instantly.
+  - Golem Summon: Constructs a temporary ally from loose debris to push heavy objects.
+- Tier 3:
+  - World Weaver: Instantly generates complex structures like houses or towers for vertical traversal.
+  - Chromatic Burst: Releases a screen-clearing wave of pure creative energy that stuns all enemies.
+  - Architect's Insight: Reveals hidden paths and secret collectibles within a large radius.",glm_results\7330.txt,
+1050,0.8210770487785339,0.8257243633270264,0.8233941197395325,"Agent 47 is the main character from the Hitman series and a highly skilled assassin, both in ability and in his techniques. He's a relatively emotionless assassin, but can now and then show some signs of morality, like when confessing his sins to Father Vittorio. Agent 47 doesn't work to gain money, but to have a purpose in life.
+
+He is emotionally closed off to the suffering of others when appropriate on a contract, even if they remind him of himself at a younger age. His absolute highest priority is completing his contract. He will sacrifice innocents if he must, but he will kill the target. Vocally, he rarely raises his voice, choosing to speak in a calm and relaxed manner at all time. When speaking to another person, he can perfectly mask his true intentions and fool the other party with no effort. Agent 47 approaches his assassinations with professionalism but will, however, not show any hesitation or remorse when it comes to killing or silencing witnesses and other potential threats to his mission. 
+
+His genetically engineered mind and body make competition next to nothing, and for this reason, Agent 47 is considered to be the world's most greatest assassin.","Kira Vance emerged from the wreckage of a black-site facility buried in frozen mountains, the sole survivor of a genetic engineering program designed to create undetectable assassins. Raised in isolation and trained from childhood, Kira possesses heightened perception and an unnatural aptitude for reading human behavior—traits engineered into every cell. When corporate sponsors destroyed the facility to erase their tracks, Kira entered the underworld as a contract killer, leveraging unique abilities to become one of the most precise operatives in the field. Each mission is approached with forensic meticulousness: studying target patterns, environment, and psychology before executing the perfect strike. Wealth accumulates, but Kira's true motivation lies in tracing the architects of their existence, seeking answers about identity that no amount of conditioning could suppress. Nightmares of procedures and faces that cannot be named plague every moment of rest, blurring the line between implanted memory and reality. Five current contracts promise a trail leading directly to the organization that built Kira—but trusting any employer could mean walking into the very trap spent years escaping.","- Tier 1:
+  - Shadow Meld: Reduces enemy detection range significantly when stationary in darkness.
+  - Forensic Eye: Highlights usable objects, structural weak points, and entry routes in the environment.
+  - Quick Change: Allows equipping found disguises to bypass restricted areas and lower suspicion.
+- Tier 2:
+  - Compounded Toxin: Permits crafting of slow-acting poisons from collected environmental materials.
+  - Pulse Perception: Reveals enemy heartbeats through walls for a limited duration.
+  - Ghost Protocol: Neutralized targets are automatically hidden from patrol routes and alarms.
+- Tier 3:
+  - Identity Theft: Extended duration disguises withstand close scrutiny from guards and officers.
+  - Critical Anatomy: Grants a single perfect shot opportunity that guarantees instant neutralization.
+  - Smoke Escape: Deploys a disorienting smoke screen granting temporary invisibility for emergency exits.",glm_results\1050.txt,
+9630,0.8152492642402649,0.8426687717437744,0.8287323117256165,"Preston Garvey is a senior officer of the Commonwealth Minutemen, a volunteer defense militia operating in the Commonwealth in 2287. He is also available as a companion of the Sole Survivor.","Ellis Draven was born inside Haven-7, a subterranean bunker designed to preserve humanity through the nuclear winter. For twenty-three years, they trained as an engineer, maintaining the ancient systems that kept their community alive. When the bunker's life support catastrophically failed, Ellis was the only one to reach the emergency exit in time. They emerged into a sun-scorched wasteland where mutated creatures and desperate scavengers fight over the remnants of the old world. Ellis's goal is to construct a regional power grid, bringing electricity and hope back to the scattered settlements. Internally, they battle the guilt of being the sole survivor and the paralyzing fear that they are not strong enough for this world. Every person they meet tests their ability to trust again after years of isolation. The wasteland is unforgiving, but Ellis carries the technical knowledge and determination needed to rebuild civilization.","- Tier 1:
+  - Salvage Efficiency: Collect 25% more materials from scrap piles and ruined structures.
+  - Rad-Resistance: Reduce radiation damage from environmental hazards by 15%.
+  - Sharp Eyes: Highlight lootable objects and detect nearby threats through walls.
+- Tier 2:
+  - Jury-Rigging: Craft weapons and tools from improvised parts without a workbench.
+  - Negotiator: Unlock additional dialogue options and receive better prices with traders.
+  - Steady Aim: Increase accuracy with all ranged weapons while moving.
+- Tier 3:
+  - Settlement Architect: Build and upgrade community structures with reduced resource cost.
+  - Inspiration: Allied NPCs gain bonuses to damage and health when near you.
+  - Enduring Spirit: Once per day, survive a fatal blow with 1 health point remaining.",glm_results\9630.txt,
+9727,0.8203461170196533,0.8272451162338257,0.8237811923027039,"Ashley is a smart cookie. She's often found in the library, studying away with her nose in a book. 
+
+After spending a lot of time with her study-partner Chris, Ashley wonders if he's interested in her as more than just a friend, but she soon snaps out of it - Chris would never ask her out anyway. 
+
+Her overactive imagination means that she's jumpier than a paranoid kangaroo. She's not a fan of anything scary.","Elias Marsh worked as a deep-sea communications technician, stationed at the underwater research facility to maintain critical data links with the surface. When the catastrophic event struck, he was trapped in a malfunctioning cryo-pod and awoke days later to find the station transformed into a nightmarish labyrinth. His memories are fragmented, and he cannot recall the events leading up to the disaster. The station's omnipresent AI claims to be his only ally, yet its voice triggers a deep unease he cannot explain. As Elias navigates flooded corridors and encounters the corrupted remnants of the crew, he uncovers documents suggesting he may not be who he believes he is. Each terminal he hacks reveals pieces of a conspiracy involving consciousness transfer and human experimentation. The deeper he descends, the more he questions his own identity and his role in the station's downfall. Elias must decide whether to uncover the truth about himself or escape before the horrors consume what remains of his mind.","- Tier 1:
+  - Signal Boost: Highlights interactive objects and electronic terminals through walls.
+  - Shallow Breath: Reduces noise output, making it harder for enemies to detect movement.
+  - Sprint Burst: Provides a short burst of speed to escape pursuing threats.
+- Tier 2:
+  - Distraction Protocol: Remotely triggers alarms or lights to divert enemy attention away from the player.
+  - Emergency Seal: Temporarily locks doors behind the player to slow down pursuers.
+  - Neural Dampener: Increases resistance to psychological effects and improves vision in dark areas.
+- Tier 3:
+  - Ghost Protocol: Grants brief invisibility when standing perfectly still in shadows.
+  - System Override: Allows remote hacking of the station AI to temporarily reveal enemy positions.
+  - Memory Echo: Unlocks hidden messages in documents and terminals that reveal secret passages and alternate routes.",glm_results\9727.txt,
+2062,0.8283512592315674,0.8215616941452026,0.8249424695968628,"Kiryu Kazuma is the former main protagonist of the Yakuza series from the first Yakuza up until Yakuza 6.
+
+Kiryu is the honor-bound dreamer of the dark Yakuza world. He is not the type to judge others and is generally accepting of anyone who is friendly towards him. He lives by a strict code of honor and holds a very strong sense of justice. While he is extremely kind and goes out of his way to help civilians, he considers himself a Yakuza at heart, commonly using violence above words, so long as it is justified.
+
+He generally lets his actions and mannerisms speak for him when possible. He tends to be the listening ear to the world, giving advice in response to his environment rather than seeking out conversations. He is wise but certainly not all-knowing, and generally means well for those around him, which makes him surprisingly pragmatic and well-liked.
+
+Kiryu loves kids and shows himself to be a relatively competent caretaker to the children at Morning Glory Orphanage, with some help from Haruka Sawamura. He is genuine and understanding, bonding with the children through shared experiences. He tries to treat them all as fairly as possible and goes out of his way to keep them all safe and happy, whether that means putting on a wrestling match to cheer them up, or refusing to sell the land even in the face of a large sum of money.","Daichi Watanabe was once a decorated detective in the organized crime division, renowned for his unyielding sense of justice. His world shattered when he was framed for a crime he didn't commit by the very syndicate he swore to dismantle. Stripped of his badge and reputation, he now operates in the grey area of the city's red-light district as a private investigator. He is driven by a singular motivation: to clear his name and expose the corruption rooted deep within the police force. Internally, Daichi battles the ghosts of his past failures and the constant temptation to abandon his moral code for quicker results. The stakes rise when he uncovers a conspiracy that threatens to ignite a war between rival factions, endangering the innocent civilians he protects. As one of four protagonists, his unique perspective allows him to access information and areas others cannot. He fights not just with his fists, but with a sharp mind honed by years on the force.","- Tier 1:
+  - Cheap Shot: A quick strike that interrupts enemy attacks and lowers their defense.
+  - Streetwise: Highlights interactive objects and clues in the environment for investigation.
+  - Adrenaline Rush: Temporarily increases movement speed to dodge incoming attacks.
+- Tier 2:
+  - Grappling Takedown: Daichi grabs an enemy and slams them into the ground, stunning nearby foes.
+  - Hardboiled: Passive ability that reduces damage taken when Daichi's health is below 30%.
+  - Chain Combo: Links light attacks into a heavy finishing blow for increased damage.
+- Tier 3:
+  - Heat Action: Unleashes a cinematic, context-sensitive finishing move using environmental objects.
+  - The Long Arm: Daichi calls in a favor to summon a temporary police drone for crowd control.
+  - Unyielding Resolve: Automatically revives Daichi with 25% health once per battle upon being knocked out.",glm_results\2062.txt,
+1529,0.8176553249359131,0.8210882544517517,0.8193681240081787,"Jak is the main protagonist of the ""Jak and Daxter"" video game series developed by Naughty Dog. He is a brave, agile hero with spiky blond hair and green eyes. As the series progresses, Jak initially appears as a silent and curious youth but gains a voice and a more complex personality. Throughout the games, Jak undergoes significant transformations, gaining various eco powers that enhance his abilities, such as super speed, strength, and dark and light eco powers. His journey is often accompanied by his witty and talkative sidekick, Daxter, who provides comic relief. Jak's character development, his evolving abilities, and the richly designed world of the series make him a memorable and iconic figure in the realm of action-adventure gaming.","Jarek ""Strata"" Vane was once a renowned cartographer of the Cloud Sea, mapping the shifting gravity wells that connect the floating islands of his fractured world. Following the events of the first expedition where his mentor was lost to the Abyss, Jarek retired his badge to live in solitude among the scrap merchants of the lower decks. However, the recent activation of dormant ancient beacons has caused the islands to destabilize, threatening to collapse the entire archipelago into the void. Driven by guilt and a need for redemption, he dons his upgraded equipment to silence the beacons before the world falls apart. He struggles with the weight of leadership, knowing that every shot he fires has consequences for the fragile ecosystem below. Armed with his trusty variable-caliber rifle and experimental jump-pack, he sets out to traverse the open skies one last time. The journey forces him to confront the physical manifestation of his past failures while battling rogue automated sentinels.","- Tier 1:
+  - Kinetic Dash: Propels the character forward a short distance to dodge incoming projectiles or cross gaps.
+  - Impact Rounds: Basic shots deal increased damage and stagger unarmored enemies briefly.
+  - Anchor Tether: Creates a temporary zip line between two points for rapid traversal.
+- Tier 2:
+  - Sky Mine: Deploys a floating proximity explosive that detonates when enemies draw near.
+  - Vantage Point: Highlights interactable objects and enemy weak points through solid surfaces.
+  - Recoil Boost: Firing downwards while airborne grants an extra jump boost for added height.
+- Tier 3:
+  - Graviton Singularity: Fires a canister that creates a localized gravity well, pulling nearby enemies into a cluster.
+  - Phase Shift: Temporarily renders the character invulnerable and invisible for three seconds.
+  - Precision Overload: Greatly increases critical hit chance but generates significant weapon heat.",glm_results\1529.txt,
+4,0.8326398134231567,0.8292821645736694,0.8309575915336609,"The protagonist of the Thief games is called Garrett, a master thief with a cynical view who wishes nothing more than to be left alone. He unwittingly becomes involved in a series of dramatic events, even though he just want to steal in peace. Growing up without any parents, he spent his childhood on the streets, having to pickpocket from people with money in order to survive. Later on a secret organization called The Keepers (dedicated to observe and maintain stability in the city) decided to recruit him. Garrett was given training in the arts of stealth, but soon found that it was way more profitable to make use of these skills as a thief than to continue working as an agent.
+
+Garrett has a strong sense of professional pride as a thief, as well as self-interest. Being cynical and sarcastic, with a loyalty only to himself, he usually refuses to kill while on the job, stating that he's a thief and not a murderer.
+
+During an incident, Garrett's right eye was pulled out from his socket. That's why he has a scar around the eye, as well as an experimental mechanical prosthetic. Weapons he uses includes a sword and bow, mines and the Blackjack.","Born in the suffocating smog of the lower districts, Elias Vane learned early that survival required silence and a quick hand. The city’s plague did not discriminate, but the wealthy hoarded the medicine, leaving the poor to rot in the streets. Elias watched his family wither away while the aristocracy feasted behind high walls, fueling a cold, calculated hatred within him. He turned to theft not for greed, but to redistribute the resources needed to keep his neighborhood alive. Over the years, his reputation grew from a common pickpocket to a ghost story told in the mansions of the elite. He moves through the city's shadows like a phantom, bypassing clockwork locks and evading mechanical sentries with ease. His current objective is the ""Heart of the Spire,"" a gemstone rumored to power the city’s oppressive surveillance network. If he can steal it, he might finally break the grip of fear that holds his home in chains.","- Tier 1:
+  - Shadow Meld: The character becomes significantly harder to detect when standing in dimly lit or dark areas.
+  - Quick Fingers: Allows for faster looting of containers and pickpocketing from unaware guards.
+  - Urban Grip: Increases movement speed when climbing pipes, ledges, and vertical surfaces.
+- Tier 2:
+  - Smoke Veil: Deploys a blinding powder cloud that disorients nearby enemies and provides a quick escape route.
+  - Glass Cutter: Silently creates a passage through reinforced windows without triggering noise sensors.
+  - Whispers of the City: Reveals the patrol routes of enemies through walls for a short duration.
+- Tier 3:
+  - Ghost Walk: Grants temporary invisibility and silenced footsteps for a few seconds after leaving a hiding spot.
+  - Saboteur’s Instinct: Safely disables mechanical traps and locks them down permanently without needing tools.
+  - From the Abyss: An instantaneous takedown from above that produces no sound and leaves no body trace.",glm_results\4.txt,
+7609,0.8161921501159668,0.8176381587982178,0.8169145584106445,"A beautiful bottle-blonde with a mischievous nature, fun is Jessica's raison d'être. First on the guest list at any party, if there's one thing she's not, it's shy.
+
+Her fun-loving nature has certainly managed to turn Mike's head - he dumped Emily in order to get with her.
+
+A childhood ballerina, Jessica once wanted to be a cheerleader... until she realized that it was going be quite a lot of work.","Elena Marsh grew up in a quiet mining town shadowed by a dense mountain range, raised by her grandmother after her parents vanished during a hiking expedition. She returns to her childhood home after receiving a cryptic letter hinting that her parents might still be alive, drawing her into a nightmarish mystery. Driven by guilt over a childhood argument she never resolved with them, she seeks the truth at any cost. Her internal conflict stems from her paralyzing fear of the dark, a phobia she must confront while exploring abandoned mines and shadowed forests. Elena carries her father's old compass, a symbol of guidance she desperately clings to when panic sets in. As she uncovers disturbing secrets about the mountain and its history of disappearances, she must decide how much of herself she is willing to sacrifice. Her choices ripple through the lives of seven others who joined her on the mountain for different reasons. The butterfly effect of her decisions will determine who survives until dawn.","- Tier 1:
+  - Steady Nerves: Reduces the timing window penalty for failed quick-time events during calm moments.
+  - Keen Eye: Highlights interactable objects and clues within a small radius automatically.
+  - Quick Reflexes: Grants a second chance input window for single-button reaction prompts.
+- Tier 2:
+  - Survivor's Instinct: Reveals the general direction of the nearest safe room or hiding spot.
+  - Cold Read: Allows Elena to deduce character traits and potential betrayals through dialogue hints.
+  - Improviser: Enables use of environmental objects as temporary distraction tools.
+- Tier 3:
+  - Iron Will: Removes one ""wrong choice"" consequence per playthrough, altering a butterfly effect branch.
+  - Bond of Trust: Unlocks a unique cooperative action with one allied character during scripted chase sequences.
+  - Final Resolve: If Elena is the last survivor, she gains increased movement speed and stealth for the final chapter.",glm_results\7609.txt,
+76885,0.7983648180961609,0.8290812969207764,0.8134331703186035,"Isabella ""Ivy"" Valentine is a character in the Soul series of fighting games. She appears in every game since Soulcalibur.","Aldric Thorne was once a celebrated captain of the Royal Vanguard, entrusted with protecting the kingdom's most sacred relics during the turbulent wars of the 16th century. During a fateful mission to transport a mysterious artifact, his unit was betrayed from within and slaughtered by masked assailants. Aldric alone survived, but was framed for the theft and massacre by the very conspirators who orchestrated the attack. Stripped of his rank and branded a traitor, he has wandered for three years as a mercenary, sharpening both his blade and his resolve. Now whispers of the artifact's reappearance have drawn him to a gathering of warriors, each seeking the relic for their own purposes. Aldric enters the fray not for power or glory, but to reclaim his honor and expose the hidden truth behind the betrayal. The tournament arena becomes his proving ground, and every opponent defeated brings him closer to vengeance. His sword arm remains steady, but his heart carries the weight of comrades lost and justice denied.","- Tier 1:
+  - Cleaving Strike: Aldric delivers a powerful overhead slash that breaks through enemy guard and deals moderate damage.
+  - Iron Resolve: Temporarily reduces incoming damage by reinforcing his defensive stance with focused breathing.
+  - Swift Advance: A quick forward dash that closes distance rapidly while maintaining defensive readiness.
+
+- Tier 2:
+  - Crimson Fury: A rapid chain of three sword strikes enhanced by burning determination, each hit stronger than the last.
+  - Shield Breaker: A heavy thrust designed to shatter protective barriers and leave opponents vulnerable.
+  - Counter Stance: Aldric enters a parry-ready posture that automatically counters the next incoming melee attack.
+
+- Tier 3:
+  - Vanguard's Wrath: Aldric channels his fallen comrades' strength into a devastating sweeping attack that hits all nearby enemies.
+  - Relic-Bound Strike: A legendary finishing move that channels ancient power into an unblockable critical strike.
+  - Indomitable Spirit: Aldric gains temporary invincibility as sheer willpower pushes his body beyond normal human limits.",glm_results\76885.txt,
+9141,0.8259799480438232,0.801946759223938,0.813785970211029,"Faust is a recurring character in the Guilty Gear series. He is a medical genius gone insane and sane once more, and is probably one of the most unorthodox characters in the series. Having discarded his old identity, Faust is an itinerant healer dedicated to saving everyone he can to atone for his sins. 
+ 
+Faust's extreme height and light weight give him a bizarre, tall, lanky physical appearance, and allows him to tower over every other character in the series—although he rarely does, due to his extremely low fighting stance. He wears a paper bag as a mask with one eyehole, which in one of his Taunts he takes off to reveal a glowing bald head and obscured face, and wields a giant scalpel as a weapon. 
+ 
+His usual outfit consists of a collared, light-blue shirt with a black or yellow tie, green pants, and a stylized white coat with several sizable grey bolts on his shoulders and black belts. In -STRIVE-, Faust receives a major redesign: He wears simple light-blue scrubs, white gloves, a stethoscope around the neck, and mostly-white sneakers. It exposes an extremely skinny build and a stitched patch on the right side of his chest area. 
+ 
+Going mad shattered whatever Faust's personality might have been, and even though he regained his sanity, a good deal of that wreckage is now permanent. And yet, contrary to his eccentric style and transportation methods, it is only in the battlefield that he can easily be described as ""wacky"".","Rylin grew up in the secluded Cloud Sanctuary, a monastery hidden among the peaks where monks practiced the ""Way of the Current,"" a martial art focused on fluidity and wind manipulation. He was the youngest prodigy in the temple's history, mastering techniques that took others decades to learn. However, his brash attitude and desire for excitement often clashed with the elders' teachings of patience and defense. When a rival faction challenged the sanctity of the Sanctuary, Rylin saw an opportunity to prove his worth beyond the monastery walls. He fights to restore the honor of his home and to test the limits of his speed against the world's strongest warriors. Internally, Rylin struggles with the fear that his speed is fleeting and that he lacks the raw power to protect those he cares about. He hides this insecurity behind a confident smirk and a blur of motion.","- Tier 1:
+  - Gale Palm: Rylin thrusts his palm forward, releasing a short-range burst of pressurized air that stuns the opponent.
+  - Drift Step: A quick dash ability that allows Rylin to phase through incoming projectiles for a split second.
+  - Updraft: A defensive maneuver where Rylin creates a wind barrier, deflecting high attacks and pushing the opponent back.
+- Tier 2:
+  - Cyclone Kick: Rylin spins horizontally in the air, delivering a multi-hit combo that covers distance quickly.
+  - Wind Shear: Rylin slashes his hand downward, creating a blade of wind that hits overhead, catching crouching opponents.
+  - Zephyr Sprint: A passive buff that increases Rylin's movement speed and jump height for a short duration.
+- Tier 3:
+  - Typhoon Rush: Rylin dashes through the opponent multiple times from different angles, creating a vortex of wind that ends with a powerful knockback strike.
+  - Eye of the Storm: Rylin enters a state of hyper-focus, slowing down time for everyone else, allowing him to chain multiple combos together effortlessly.
+  - Heavenly Ascent: A devastating anti-air ultimate where Rylin launches the opponent into the sky and slams them back down with a concentrated blast of wind energy.",glm_results\9141.txt,
+7344,0.8149116635322571,0.8162493705749512,0.8155800104141235,"Ori is a small white creature with a similar stance to a human or a bunny and has a cat-like tail and large black eyes with white pupils. They have two short horn-like antennae on top of their head, and underneath them there are larger ears, which droop when Ori is unhappy or weak. Ori's feet have small white hooves, as seen in their 3D model sheet. Their name is of Hebrew origin, literally meaning ""my light""[1].
+
+Ori's nature is largely up to the player, but they do have some distinct personality traits. Throughout the prologue sequence, it is seen that Ori's personality is akin to that of a young child, being very innocent and dependent on their caregiver. But as the story goes on, Ori's character shows a massive amount of determination; even in the face of death itself, Ori never once gives up hope. Ori is also very forgiving and kind-hearted, willing to help those who have entered the darkness. In general, Ori is incredibly altruistic and chooses to focus on the well being of the world around them before their own needs.","Kiri was left at the doorstep of the village elder as an infant, wrapped in an azure cloak with no explanation or trace of origin. Raised in the secluded settlement of Thornhollow, Kiri always felt an unusual connection to the ancient lantern discovered in the village shrine—a relic said to hold the last ember of the world's heart. When the great storm shattered the protective barrier surrounding Thornhollow, the lantern awoke and chose Kiri as its bearer. Now the land itself begins to wither, rivers turn to ash, and the elders speak of a darkness rising in the forgotten depths beneath the mountains. Kiri must venture beyond the only home ever known to reignite the beacons that sustain their world, all while confronting the fear of being unworthy of such a burden. The journey forces Kiri to choose between saving the village that provided shelter or pursuing the truth of a forgotten lineage that might hold the key to restoring everything. Every step deeper into the dying world reveals that the true enemy may not be the spreading darkness, but the sacrifices required to push it back.","- Tier 1:
+  - Lantern's Embrace: Kiri surrounds themself with a protective light aura that reduces incoming damage by fifteen percent for a short duration.
+  - Vine Tether: A spectral vine extends from Kiri's lantern to grapple onto distant ledges or pull small enemies closer.
+  - Wind Wisp: Summons a small guiding wisp that reveals hidden collectibles and secret paths in the immediate area.
+- Tier 2:
+  - Ember Burst: Kiri releases a burst of golden flame from the lantern that damages nearby enemies and illuminates dark areas.
+  - Root Ward: Creates a temporary barrier of intertwined roots that blocks projectiles and provides a moment of safety.
+  - Spirit Dash: Kiri phases forward in a blur of light, passing through enemies and thin obstacles without taking damage.
+- Tier 3:
+  - Heartfire Resonance: The lantern unleashes its full power, creating a massive area of healing light that restores health and revives fallen allies over time.
+  - Stormbreak Strike: Kiri channels the lantern's energy into a powerful overhead slam that creates shockwaves stunning all enemies on screen.
+  - Sacrifice of Dawn: A desperate move where Kiri gives up half their remaining health to deal massive damage to all enemies within range and fully recharge the lantern's abilities.",glm_results\7344.txt,
+8479,0.8301091194152832,0.8250747919082642,0.8275843262672424,"Naruto Uzumaki is a shinobi of Konohagakure's Uzumaki clan. He became the jinchūriki of the Nine-Tails on the day of his birth, a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, leading him to achieve his dream and become the village's Seventh Hokage.","Kaelen was born into a clan of silent guardians who protected the dimensional rifts between worlds. Rejecting the clan's code of absolute passivity, he trained in forbidden martial arts that channel chaotic energy from the rifts themselves. This defiance led to his exile, forcing him to wander the fractured lands as a mercenary. He seeks the ""Chrono Shards,"" fragments of a broken timeline, hoping to rewrite the moment of his banishment. Kaelen struggles with the corruption of the void energy he wields, fearing that the very power he needs to save the world will eventually erase his existence. His arrival in the central kingdom disrupts the balance of power, drawing attention from rival factions who wish to exploit his unique connection to the rifts.","- Tier 1:
+  - Rift Step: Dashes forward instantly, passing through solid objects and enemies.
+  - Void Kunai: Throws a dark energy dagger that seeks the nearest enemy target.
+  - Shadow Counter: Enters a defensive stance; if hit, automatically teleports behind the attacker.
+- Tier 2:
+  - Gravity Pulse: Slams the ground, creating a shockwave that pulls enemies inward.
+  - Phantom Blade: Summons an ethereal duplicate of his weapon to attack alongside him for a few seconds.
+  - Wind Cloak: Creates a barrier of swirling air that reduces incoming damage and reflects projectiles.
+- Tier 3:
+  - Event Horizon: Creates a large spherical zone where time is slowed for all enemies inside.
+  - Nullification Strike: A powerful charged attack that removes enemy buffs and deals massive true damage.
+  - Celestial Wrath: Transforms into pure energy, increasing speed drastically and unleashing a barrage of attacks on all nearby foes.",glm_results\8479.txt,
+152354,0.8134806156158447,0.8202495574951172,0.8168510794639587,"Rosalina first showed up in Super Mario Galaxy, in the Comet Observatory. She watches over  the cosmos like a guardian, and is also the adoptive mother to the Lumas, the star-like little creatures that resides in the universe. Bowser was the one who attacked the observatory and sent it drifting into space without any power. When Mario and Rosalina met, they decided to help each other out. Rosalina promised to help Mario save Princess Peach if Mario in return could gather Power Stars in order to get the power back. 
+
+At first, people thought that Rosalina and Princess Peach were related, and they did take that into consideration at first, but finally took another route in the end, making her another princess-like character in the Mario world.
+
+Many gamers started to like Rosalina and her wise, kind and thoughtful personality. That's why the creators decided to include her as a playable character in future games. You can play as her in the Mario Kart series, Super Smash Bros, as well as in Super Mario 3D World.","Brio was born from the collective excitement of countless game nights, a living manifestation of competitive joy. As a spirited competitor in the world of board game revelry, Brio exists to ensure every match is filled with laughter, suspense, and friendly rivalry. Though small in stature, Brio's determination to collect the most stars drives them across whimsical game boards ranging from frosting-covered flower gardens to treacherous tidal shores. The star crown Brio wears was earned through countless victories, yet it also serves as a reminder that every game is a fresh opportunity to prove oneself. Brio constantly struggles with balancing friendly competition against the burning desire to claim victory, especially when facing opponents who favor sabotage over sportsmanship. The tides of fortune can shift in an instant, teaching Brio to remain adaptable and vigilant no matter the circumstances. Whether dodging chaos unleashed by ancient artifacts or racing across familiar landscapes, Brio's cheerful spirit never wavers. Victory is sweet, but the true prize lies in the memories forged with fellow partygoers.","- Tier 1:
+  - Star Magnet: Attracts nearby stars on the board within a short radius for one turn.
+  - Quick Step: Grants Brio one additional movement space on the next dice roll.
+  - Lucky Roll: Increases the probability of rolling a seven or higher on the next turn.
+- Tier 2:
+  - Coin Charm: Doubles the coins received from bonus spaces for three turns.
+  - Sabotage Shield: Blocks one incoming trap or negative effect from an opponent.
+  - Board Warp: Instantly teleport to any previously visited space on the current board.
+- Tier 3:
+  - Star Surge: Instantly collect one star without needing to reach the star space.
+  - Chaos Reversal: Reflect the last negative effect an opponent used back at them.
+  - Victory Dance: All opponents lose five coins while Brio gains the total amount lost.",glm_results\152354.txt,
+375,0.8281521797180176,0.8069244027137756,0.8174005746841431,"Solid Snake, real name David, also known as Old Snake, and briefly known as Iroquois Pliskin, or simply Snake, was a former spy, special operations soldier, and mercenary. Possessing an IQ of 180 and fluent in six languages,[1][5] he was known as ""the Man Who Makes the Impossible Possible"" and his exploits made him into a living legend among the military black ops. 
+ 
+A product of Les Enfants Terribles project, Snake was a clone of world-renowned soldier Big Boss, along with his brothers Liquid Snake and Solidus Snake. Initially a Green Beret, Snake was later inducted into the High-Tech Special Forces Unit FOXHOUND in the mid-1990s while it was commanded by Big Boss. Repeatedly tasked with disarming and destroying the latest incarnation of Metal Gear, a bipedal nuclear weapon-armed tank, Snake would thrice avert potential nuclear catastrophe, becoming a famed war hero. 
+ 
+Following the Shadow Moses Incident and subsequent smear campaign by the Patriots, the secret organization behind American politics, Snake was labeled a terrorist. He faked his own death in the Manhattan Tanker Incident, though he re-emerged years later to assist Raiden in the Big Shell Incident. During this time, his body entered a state of accelerated aging, due to intentional genetic changes made during the cloning process, causing his health to decline. 
+ 
+In 2014, Snake performed his final mission, during which he defeated Liquid Ocelot and destroyed the Patriots. After one last encounter with Big Boss, Snake chose to live his remaining days in peace.","Viktor Dray was once an elite operative for a covert military unit before his entire squad was eliminated during a botched extraction mission. Left for dead and framed for the catastrophic failure, he spent three years in a remote prison facility before escaping with help from an anonymous informant. Now operating as a freelance infiltration specialist, Viktor takes on high-risk missions that pit him against the same shadowy organization that betrayed him. His primary objective is to uncover the truth behind the ambush and clear his name, but each mission reveals deeper conspiracies that extend beyond his personal vendetta. Viktor struggles with the weight of his past decisions, knowing that many of his former orders led to civilian casualties he was never told about. The informant who freed him communicates only through encrypted channels, and Viktor is uncertain whether this contact is truly an ally or simply using him for their own agenda. With each infiltration, he inches closer to the truth while questioning whether redemption is even possible for someone with his history. The stakes rise when Viktor discovers that the organization is developing a weapon system that could shift global power permanently.","- Tier 1:
+  - Whisper Step: Reduces movement noise by 40% when walking or running.
+  - Shadow Meld: Increases concealment effectiveness in dark areas by 30%.
+  - Quick Assessment: Reveals enemy patrol routes and vision cones for 3 seconds.
+- Tier 2:
+  - Ghost Protocol: Temporarily renders Viktor invisible to electronic surveillance devices.
+  - Tactical Takedown: Allows silent neutralization of enemies from behind without triggering alarms.
+  - Interceptor: Enables short-range scrambling of enemy radio communications.
+- Tier 3:
+  - Phantom: Grants 5 seconds of near-invisibility during critical alert phases.
+  - Chain Infiltration: Automatically resets alarm timers when reaching secure checkpoints.
+  - Endgame: Unlocks a hidden escape route in the final mission area.",glm_results\375.txt,
+1000,0.8423450589179993,0.8149382472038269,0.828415036201477,"Abe is the central character in the Oddworld video game series, created by Oddworld Inhabitants. He first appeared in the 1997 game ""Oddworld: Abe's Oddysee."" Abe is a Mudokon, a species native to the planet Oddworld. He starts as a lowly floor waxer at RuptureFarms, the largest meat-processing plant on Oddworld, run by the ruthless Glukkons. The Mudokons are enslaved by the Glukkons and forced to work in dangerous and oppressive conditions.
+
+Abe’s journey begins when he accidentally discovers that RuptureFarms plans to turn Mudokon slaves into a new line of meat products to save the failing company. Shocked and horrified by this revelation, Abe decides to escape from the factory and rescue as many of his fellow Mudokons as possible. His adventure involves solving intricate puzzles, sneaking past guards, and utilizing his unique ability to possess Sligs, the factory's enforcers.
+
+Throughout the series, Abe evolves from an unsuspecting worker to a determined hero and liberator. He becomes a symbol of hope and resistance for the oppressed Mudokons. In ""Oddworld: Abe’s Exoddus"" (1998), he continues his mission, tackling new challenges and enemies as he aims to free his people from exploitation and enslavement.
+
+Abe is characterised by humility, resourcefulness, and a strong sense of justice. His distinctive appearance, with blue-green skin, a topknot, and a stitched mouth, combined with his compassionate personality, has made him an iconic character in the world of video games. The Oddworld series has continued to evolve, with remakes and new entries keeping Abe's story alive and engaging for new generations of players.","Fenth was once a quiet laborer in the bone-dust mines of the Spire, unaware that the ""Soul-Shards"" he harvested were grinding his ancestors into dust. His peaceful retirement ended when the Spirit of the Marsh invaded his dreams, revealing the grim truth behind the corporate overlords' operations. Fenth discovered he possessed a unique spiritual resonance, allowing him to chant a frequency that purges the toxic dependency afflicting his kin. Frightened but driven by guilt, he infiltrated the processing plants to free the captured souls of his people. Along the way, he mastered strange biological reactions, utilizing potent digestive gases to blast through obstacles and evade capture. His journey is one of redemption, seeking to topple the executives who profit from addiction while trying to cure his friends.","- Tier 1:
+  - Spirit Chant: Fenth hums a resonant frequency that cures nearby allies of their addictive sickness.
+  - Marsh Camouflage: Fenth stands perfectly still to blend into shadows, becoming invisible to mechanical sensors.
+  - Bone Toss: Fenth throws a discarded rib bone to distract guards or trigger distant pressure plates.
+- Tier 2:
+  - Gastric Detonation: Fenth consumes a fermented herb to unleash an explosive cloud of gas, blasting open weak walls.
+  - Spectral Dash: Fenth momentarily transforms into pure spirit energy to pass through hazardous grates.
+  - Soul Gather: Fenth guides freed spirits into a protective barrier that absorbs one hit of damage.
+- Tier 3:
+  - Possession: Fenth projects his consciousness into enemy guards, allowing him to control their actions temporarily.
+  - Ancestor's Wrath: Fenth summons a massive spectral hand from the ground to crush heavy machinery.
+  - Mass Awakening: Fenth performs a sustained chant that cures all allies in the area and turns them into a rioting mob.",glm_results\1000.txt,
+6326,0.8159615993499756,0.8166943192481995,0.8163278102874756,"Hel is a Goddess and the keeper of the dead, lying judgement on souls to decide to is reborn. Beautiful and terrible she has both sides of two extremes. She's the daughter of the trickster God, Loki which means that her destiny was pretty much doomed to darkness from the very start. All-Father Odin had a prophecy that Hel and her siblings would end up creating Ragnarök, the battle that would end everything.  Wanting to prevent this, he cast them all into different realms and Hel got to rule over the realm of dead. 
+
+When she was born, her face was cast half in light, half in shadow, meaning that she was both dead and alive at the same time. As the spirits of the kind-hearted, the sick, the elderly were brought to her, she cared for them, gave them comfort, yet those she deemed evil she mercilessly hurled into the frozen depths of Niflheim. 
+
+One day, Hel will fulfill her prophecy, though it's still unknown if she will be a shadow of darkness or a force of light.","Sol Vane grew up in the shadow of the Obsidian Citadel, a land where the sun was blotted out by the rule of the Eternal Night. Raised by a guild of scavengers who hunted relics from a forgotten age of light, Sol discovered the Daybreaker, an ancient firearm sealed within a solar temple. Unlike normal weapons, the Daybreaker is inert in darkness, requiring Sol to venture into the blinding surface world above the clouds to charge its capacitor with UV rays. Driven by the petrification of his younger sister by a high-ranking vampire lord, Sol descends into the dark depths below. He fights a dual war: against the monsters that lurk in the shadows, and against his own tactical need to find sunlight before his ammunition depletes. The cartridge on his wrist acts as a solar gauge, forcing him to time his raids for when the sun is at its zenith. If he fails, he is left defenseless in the lair of beasts.","- Tier 1:
+  - Solar Intake: Increases the rate at which sunlight charges the weapon's energy meter.
+  - Photo-Optics: Allows the user to see invisible spirit platforms in dark dungeons.
+  - Quick Step: A short dash ability used to dodge enemy projectiles or cross small gaps.
+- Tier 2:
+  - Lens Flare: Fires a scattered burst of light pellets effective against swarms of bats.
+  - Heat Haze: Creates a temporary distortion field that reduces enemy accuracy for a few seconds.
+  - Sun Shard: Charges a single shot to pierce through armored undead enemies.
+- Tier 3:
+  - Solar Prominence: Unleashes a spiraling beam of concentrated sunlight that deals massive damage.
+  - Celestial Resurrection: Uses stored solar energy to instantly revive with half health upon death.
+  - Midnight Sun: Generates a localized sphere of light that mimics natural sunlight for a limited time, allowing weapon use in total darkness.",glm_results\6326.txt,
+2993,0.8178200125694275,0.8106698989868164,0.8142291903495789,"The Big Bad Wolf, or Bigby Wolf as he calls himself in The Wolf Among Us, is the main protagonist and playable character in the game. Long time ago in the Homelands, Bigby was born with a group of seven cubs to Winter Wolf after being courted by the powerful North Wind. He was often teased by his brothers, but loved greatly by his mother until the day she died. When the others went out looking for their father, Bigby stayed to protect the corpse from bounty hunters. At that time, he was too weak to defend anything.
+
+Angered by the loss, he swore vengeance, promising to eat something bigger as each day passed until he became large enough to confront his father. Seven times he tried, and seven times he failed, eventually burying his hatred and grief deep inside his heart. Around that time he became known as ""The Big Bad Wolf"" of legend. He often terrorized Little Red Riding Hood, attempting to devour her as he was stopped by the Woodsman who cut him open and filled him up with stones. That's also when the two of them became enemies.
+
+After a series of events, Snow White tracks Bigby down and asks him to come to Fabletown. There, he becomes the sheriff with a duty to protect the Fables from mundies (humans) as well as themselves. Many people are still scared of the Wolf because of his past, and has a hard time trusting him. 
+
+As a bit of a loner, however, he tries to prove to everyone day after day that he's not the same person anymore, and that he's capable of being the sheriff that everyone needs.","Corvin Graves was once a raven messenger spirit in the service of the ancient courts, ferrying secrets between the realm of mortals and the hidden world of mythical beings. His punishment for delivering a forbidden truth to a mortal lover was exile into permanent human form, stripped of his wings but retaining his preternatural perception and shadowy abilities. For decades, he has walked the rain-soaked streets of the city as a private investigator, using his knowledge of the hidden world to solve cases that blur the line between mundane crime and something far more sinister. When an ancient relic—the last remnant of the old laws that kept mythical and mortal worlds separate—is brutally destroyed along with its keeper, Corvin finds himself drawn into a conspiracy threatening to unravel the fragile peace. His internal struggle between ancient predatory instincts and his hard-won human conscience becomes a constant battle as he hunts for answers. Every decision he makes threatens to expose secrets that could destroy both worlds. The killer's trail leads through a web of mythical politics, old grudges, and betrayals that hit dangerously close to his own cursed past.","- Tier 1:
+  - Shadow Sight: Corvin perceives hidden mythical auras and sees through supernatural disguises in the environment.
+  - Raven's Whisper: Gathers rumors and secrets from the city's shadow network of informants and hidden sources.
+  - Trench Coat Concealment: Stores improvised weapons, evidence, and tools without detection during searches.
+- Tier 2:
+  - Feathered Step: Silent movement allows Corvin to sneak past enemies and access restricted areas undetected.
+  - Memory of Flight: Briefly levitates to reach high ledges, escape danger, or dodge incoming attacks.
+  - Harbinger's Intuition: Predicts enemy movements in combat and identifies lies during interrogations.
+- Tier 3:
+  - Murder of Shadows: Summons a flock of shadow ravens to disorient, distract, and damage multiple enemies at once.
+  - Ancient Oath: Once per episode, call upon old favors owed by powerful mythical beings for assistance or information.
+  - True Form Awakening: Partially transforms into his raven spirit form, gaining enhanced speed, perception, and intimidation for a limited duration.",glm_results\2993.txt,
+1871,0.8318670988082886,0.8263168931007385,0.829082727432251,"Carley is one of the many main characters that appears in Telltale Games' The Walking Dead: Season One. She is a regional news reporter from Atlanta and a very skilled shooter. Carley's role is more active and she's never afraid to speak her mind. Having spent her time in war-zones as a correspondent, she presumably acquired basic knowledge of firearms and survival tactics that allows her to hold out during the outbreak.
+
+Meeting Lee &amp; Clementine in Macon, they later develop some kind of love relationship. Like the rest of the group, she cares about the members' welfare. Carley wants to save every survivor and give everyone a chance. Being very respectful and thoughtful, she reassures Lee that she will keep the secret to herself when he chooses to admit his past to her.
+
+Not much is known about Carley's personal life, other than that she was raised Lutheran. The production crew drove to Macon to cover the Cherry Blossom Festival and that's when they were attacked by walkers. She was forced to watch her producer being eaten alive just a few feet away from her. Carley was saved by a guy called Doug.
+
+Sadly, her life takes a turn for the worse as you get deeper into the story.","Silas Wren was a high school history teacher in a quiet rural town before the collapse, known for his storytelling and stubborn optimism. When the crisis erupted, he lost his wife and daughter while attempting to evacuate, a burden of guilt he carries in every decision he makes. He spent the first year wandering aimlessly until he encountered a group of survivors who reminded him that protecting others was the only way to honor his family's memory. Silas now serves as a reluctant leader and mediator, using his knowledge of history to find parallels between past conflicts and their current struggles. His internal conflict centers on whether he truly believes in hope or simply performs it for others' sake, and the weight of every life lost under his watch. The episodic journey forces him to confront moral compromises he never imagined making, from choosing who receives limited supplies to deciding whether to trust strangers bearing gifts. Each episode peels back another layer of his composed exterior, revealing a man desperate for redemption but unsure if he deserves it.","- Tier 1:
+  - Steady Hands: Reduces the tremor minigame difficulty when performing delicate tasks under pressure.
+  - Teacher's Voice: Unlocks additional persuasive dialogue options when reasoning with hostile survivors.
+  - Scavenger's Eye: Highlights interactive objects in the environment that would otherwise be missed.
+- Tier 2:
+  - Field Medicine: Allows Silas to stabilize injured characters, preventing certain story deaths.
+  - History Repeats: Grants insight into faction motivations, revealing hidden agenda clues in conversations.
+  - Quiet Steps: Reduces noise radius during stealth segments, making evasion sequences more forgiving.
+- Tier 3:
+  - Shepherd's Resolve: Once per episode, Silas can undo one major decision that resulted in a character's death.
+  - Burden Bearer: Silas can carry additional inventory slots, allowing more flexible puzzle solutions.
+  - Final Lesson: Unlocks a unique ending monologue reflecting on every major choice made throughout the story.",glm_results\1871.txt,
+74,0.8292309641838074,0.8347406983375549,0.8319767117500305,"Miranda Lawson is a human Cerberus Officer. As Jacob Taylor's informant, she gives him guidance and advice during missions, often via hologram. Miranda is very well traveled and has many contacts, extending from Citadel space and the Terminus Systems, to as far as the hostile Nemean Abyss. Her vast network of contacts may be explained by the fact Miranda is a known Cerberus operative, one who still has friends — or at least friends of friends — in the Alliance military. 
+ 
+Miranda is a potential romantic interest for a male Commander Shepard.","Jaxon Vane was once a celebrated tactical officer for the Interstellar Coalition until a catastrophic defeat cost him his battalion and his left eye, leaving him disgraced in the eyes of the public. Recalled from exile by a shadowy director, he is now the only hope to stop the ""Harvesters,"" a synthetic hive-mind erasing organic life across the galaxy. Jaxon carries the weight of every soldier he has ever lost, driving him to make the ruthless decisions necessary for survival. He must navigate a web of political intrigue and recruit a team of assassins, biologists, and mercenaries who distrust both him and each other. His mission takes him to the galaxy's edge, a suicide run where he must sacrifice his own humanity to ensure the return of his crew. Failure means the total annihilation of all advanced civilizations.","- Tier 1:
+  - Adrenaline Surge: Instantly regenerates health points when damage is taken.
+  - Heavy Munitions: Increases inventory capacity for high-caliber ammunition.
+  - Command Presence: Unlocks basic dialogue options to intimidate enemies into fleeing.
+- Tier 2:
+  - Interrupt Protocol: Allows the user to instantly attack or trigger traps during enemy dialogue.
+  - Tactical Cloak: Grants temporary invisibility to flank enemies or avoid detection.
+  - Unified Front: Squadmates receive a defense bonus based on the Commander's reputation.
+- Tier 3:
+  - Last Rites: Massive damage boost when health is critical, allowing for a final stand.
+  - Galactic Diplomat: Guarantees success in high-stakes negotiation encounters.
+  - Omega Bombardment: Calls in an orbital strike that devastates a large area of the battlefield.",glm_results\74.txt,
+127,0.808103621006012,0.8004018068313599,0.8042342662811279,"Mario Auditore (1434 – 1500) was the leader of the Italian Brotherhood of Assassins from at least 1476 to his death, a condottiero, and the ruler of Monteriggioni from 1454 until his death.","Born into a prestigious lineage of merchant lords in the canal city of Vespera, Alessio Vane enjoyed a life of luxury until a ruthless political coup left his family decimated and his name ruined. Orphaned and hunted by the ruling Council, he found refuge in the forgotten underground tunnels of the city, where a secretive guild of freedom fighters trained him in the arts of shadows and silent death. Driven by a burning desire for retribution, Alessio now uses his high-status knowledge and lethal skills to dismantle the conspiracy that betrayed him. His fight takes him across the rooftops and through the canals, turning the city's architecture into a weapon of justice. Though he fights for the people, his soul is tormented by the violence he must inflict to achieve peace. The lines between heroic liberation and personal vengeance blur as he climbs the ranks of the conspiracy, targeting corrupt nobles one by one. Ultimately, he must decide if he is fighting to save the city or just to satisfy his own grief.","- Tier 1:
+  - Swift Movement: Increases sprint speed and enables basic climbing grips for faster traversal.
+  - Hidden Dagger: Allows for silent takedowns when approaching enemies from behind undetected.
+  - Coin Toss: Throws a coin to distract nearby guards, creating openings for escape or assassination.
+- Tier 2:
+  - Smoke Veil: Deploys a smoke bomb to blind enemies, allowing for quick escapes or counter-attacks.
+  - Counter Strike: Parry an enemy's attack during combat to instantly break their defense.
+  - Rooftop Acrobat: Reduces fall damage and allows for extended ledge hanging for better positioning.
+- Tier 3:
+  - Phantom Bolt: Fires a silent projectile from a hidden wrist mechanism to eliminate distant targets.
+  - Shadow Blend: Becomes nearly invisible while standing still in dark corners or crowds.
+  - Chain Assassination: Allows chaining instant kills between multiple adjacent enemies in rapid succession.",glm_results\127.txt,
+2449,0.8240410685539246,0.8162879347801208,0.8201462030410767,"Noel Kreiss is a playable character of Final Fantasy XIII-2, and a supporting character in Lightning Returns: Final Fantasy XIII.
+
+When Noel was born in the Farseer tribe (that lived a nomadic life), he was the second to last child. After the Cocoon came crashing down, it's crystal shattering, the event left the world in ruins and warfare broke out that killed the majority of mankind.
+
+When Noel travels back in time, he's the last remaining human being from 700 AF. He goes back to the past in order to try and change the outcome of his existence. He meets Lightning in Valhalla, who tells Noel about her sister and how she wants him to help them reunite while changing the future. Doing as he was told, he then goes to meet with Serah and quickly becomes her friend.
+
+At first, Noel is cocky and confident, yet cheerful and soft-spoken. He's a self-sufficient fighter and a hunter that sadly suffers from amnesia thanks to the time paradox. Coming from a future where humanity is almost extinct, he has some trouble with his speech, so he tends to speak in a straightforward manner. The boy loves meeting new people and explore new places. Being very protective of others, he quickly starts caring for Serah and tries his best to protect her. Noel stands by his beliefs and morals, and as a remnant from his upbringing, values life and is reluctant to hurt or kill others unless necessary. This is the reason why he doesn't like Serah's boyfriend Snow, who has a very brash personality with the heads in the clouds.","Elara Vane awoke in the desolate streets of the Hollow District with no memory of her past, her wrist branded with a glowing countdown of thirteen days. She is a Harvester, a rare individual capable of extracting spiritual essence from the dying world to power the Ark, a massive vessel destined for a new world. Armed with her customized Aether Gauntlets, she fights through hordes of corrupted specters that feed on the remaining life force of the city. Every soul she saves grants the Ark the energy needed to ascend, but the process physically drains her own vitality. With the clock ticking towards zero, she must make impossible choices about who is worthy of boarding the Ark before the final darkness consumes everything. She is constantly haunted by visions of a life she cannot remember, driving her forward to understand why she was chosen for this burden. As the days pass, Elara realizes that saving the world might require the ultimate sacrifice of her own existence.","- Tier 1:
+  - Soul Siphon: Elara drains health from enemies to replenish her own reserves during combat.
+  - Flash Step: A quick dash ability that allows her to phase through solid objects and enemy attacks.
+  - Spirit Sense: Highlights hidden collectibles and enemy weak points within a short radius.
+- Tier 2:
+  - Kinetic Burst: Releases a shockwave of energy from the gauntlets that knocks back surrounding enemies.
+  - Chrono Lock: Temporarily freezes a single target in time, leaving them vulnerable to attack.
+  - Spectral Shield: Creates a barrier of souls that absorbs a set amount of damage before breaking.
+- Tier 3:
+  - World Ender: Unleashes the full power of the gauntlets in a massive area-of-effect explosion of light.
+  - Ascension Protocol: Doubles the duration of the day cycle, granting more time to explore before the countdown advances.
+  - Final Rite: Revives Elara instantly with full health upon fatal damage, but resets the soul counter to zero.",glm_results\2449.txt,
+1291,0.8445415496826172,0.8478538990020752,0.8461944460868835,"Kratos was born in Sparta and became a fierce warrior. In a desperate moment during battle, he pledged his life to Ares in exchange for victory, becoming his servant. Ares, manipulating Kratos, caused him to slaughter his own wife and daughter, leading to Kratos’ deep hatred for the gods.
+
+Fueled by rage and guilt, Kratos renounced Ares and embarked on a quest to destroy him, ultimately becoming the new God of War. His journey didn't end there; seeking revenge against the entire pantheon, Kratos waged war against the gods of Olympus, resulting in the destruction of the Greek world.
+
+Years later, Kratos finds himself in the Norse realm, seeking a peaceful life with his son, Atreus. Despite his attempts to leave his past behind, he becomes entangled in the conflicts of the Norse gods. This new journey focuses on his relationship with Atreus and his struggle with his own violent nature as he faces gods and monsters of Norse mythology.","Valerius was once the supreme commander of the Obsidian Legion, a military order sworn to the ""Eternal Architects."" During a campaign to purge a corrupted region, he was manipulated by his masters via a magical geas to slaughter the inhabitants, only to discover they were his own family disguised by an illusion. Horrified by the deed and the betrayal, Valerius shattered the binding oath of loyalty with sheer will, causing the magical brand on his chest to scar over. He was subsequently imprisoned in the Abyssal Keep, a jail for those who defy the Architects. Now, Valerius must fight his way out, severing the lingering psychic bonds that allow the Architects to track him. His motivation is not just freedom, but the complete annihilation of the organization that stole his life.","- Tier 1:
+  - Oathbreaker's Rage: Valerius enters a frenzy where attacks automatically chain together until the player ceases input or takes damage.
+  - Hydro-Lung: A magical discipline that allows Valerius to breathe underwater and move through deep currents without obstruction.
+  - Chain Bind: Valerius uses his broken shackles to pull distant enemies closer or latch onto high ledges for traversal.
+- Tier 2:
+  - Chronos Amulet: Valerius manipulates time to decay ancient barriers or slow down fast-moving mechanical traps within the environment.
+  - Shadow Resonance: Creates a shadow duplicate that mimics Valerius's attacks, effectively doubling his damage output for a short duration.
+  - Illusion Dispel: Reveals hidden passageways and dispels magical constructs created by the Architects to confuse the player.
+- Tier 3:
+  - Elemental Infusion: Imbues Valerius's axe with fire, ice, or lightning, allowing him to exploit enemy weaknesses and unlock specific doors.
+  - Divine Allegiance: Valerius aligns with a forgotten deity, gaining a unique ultimate ability based on the chosen god's domain.
+  - Arsenal Mastery: Allows Valerius to equip and swap between two distinct main weapons during combat without opening the menu.",glm_results\1291.txt,
+113345,0.8289839029312134,0.8092275857925415,0.8189865946769714,"Emil, also known as No. 7, is a companion and deuteragonist in NieR, its remake, NieR Replicant ver.1.22474487139..., and a minor character in NieR:Automata.
+
+A young boy that joins Nier's party towards the end of Act I, cursed with the ability to turn anyone who sees his eyes to stone. He is the younger twin brother of Halua.
+
+In Act II, Emil reveals himself to be No.7, an ancient weapon created through human experimentation. He is ultimately transformed into a skeleton-like being after fusing with Halua, but retains his soul and gains new powers.
+
+In NieR:Automata, Emil is revealed to have survived the events of NieR. A disembodied copy of Emil is briefly encountered inside the head of a machine, and is later seen attached to a moving sales cart where he offers his wares for the roaming androids of YoRHa. He recovers his memories with the androids' help and reveals he and countless other Emils were created by the original Emil to fight against the aliens.","Unit K-07 was manufactured by the orbital Archive as a vanguard model designed specifically for surface reconnaissance and heavy machine elimination. Dropped into the decaying ruins of a once-thriving metropolis, her primary directive is to locate and destroy the Central Core that perpetuates the machine dominance. Unlike earlier models, K-07 possesses a heuristic emotional processor, causing her to question the necessity of the war she was built to fight. She fights alongside a hovering tactical drone that provides tactical analysis and ranged fire support. The machines she encounters are erratic, often mimicking human behaviors that confuse her logical subroutines. As she journeys through the dystopia, she discovers that the machines are evolving into something more than just cold metal. Her internal conflict deepens when she realizes that victory might require the sacrifice of her own evolving consciousness. The stakes rise as she must choose between fulfilling her coded destiny or preserving the strange new life growing within the machine network.","- Tier 1:
+  - Thermal Edge: Adds a burning effect to melee attacks, causing damage over time to machine enemies.
+  - Pulse Shot: The support drone fires a concussive energy blast that interrupts enemy attacks.
+  - Dash Module: A quick lateral movement ability that allows K-07 to phase through incoming projectiles.
+- Tier 2:
+  - EMP Burst: Releases a localized electromagnetic pulse that disables enemy shields and slows movement.
+  - Repair Protocol: Activates a nanobot cloud that regenerates structural integrity over a short duration.
+  - Counter-Reflect: A defensive stance that absorbs incoming damage and reflects it back as a shockwave.
+- Tier 3:
+  - Overclocked Reflexes: Temporarily slows down time perception, allowing for rapid consecutive strikes.
+  - Gravity Well: Deploys a singularity that pulls multiple enemies into a single cluster for area damage.
+  - Final Resonance: A high-damage area attack that consumes all energy reserves to unleash a devastating blade beam.",glm_results\113345.txt,
+233,0.8140794038772583,0.828667938709259,0.8213088512420654,"The G-Man is a mysterious and enigmatic character encountered several times in the Half-Life series. Referred to as a ""sinister interdimensional bureaucrat"",[3] he is known to display peculiar behavior and to wield powers far beyond those of a human. His identity and motives remain completely unexplained. His allegiance also remains unknown to this day. 
+He plays the role of an overseer and eventual employer, watching over Gordon Freeman and other characters as the series progresses, at times helping or hindering them.","Kira Vance was a promising theoretical physicist at the Apex Research Complex, specializing in dimensional field manipulation. When an unauthorized experiment triggered a cascade breach, reality itself began to unravel, warping the facility and transforming colleagues into hostile aberrations. Kira survived the initial collapse through quick thinking and an experimental displacement gauntlet that now fuses with her nervous system. The gauntlet allows her to perceive and briefly manipulate local spacetime, making her uniquely equipped to navigate the corrupted halls. She seeks to reach the Core Chamber and reverse the breach before it expands beyond containment. Internally, she battles guilt over her indirect role in enabling the experiment and the faces of friends she must now put down. The facility's deteriorating stability means every path she takes shifts and reconfigures. Her presence destabilizes dimensional weak points further, making stealth impossible and forcing constant adaptation. She is not a soldier, but survival has sharpened her into something formidable.","- Tier 1:
+  - Pulse Sidearm: Fires concentrated energy rounds that stagger enemies and can disable electronic locks.
+  - Field Sense: Highlights interactive objects and enemy positions through walls for a brief duration.
+  - Improvised Armor: Dismantles facility debris to craft temporary damage-absorbing plating.
+- Tier 2:
+  - Displacement Dash: Short-range teleport that leaves behind a disorienting distortion field.
+  - Kinetic Rebound: Absorbs incoming projectile energy and reflects it back as a concussive blast.
+  - Systems Hack: Overloads machinery and automated turrets to fight on her behalf temporarily.
+- Tier 3:
+  - Temporal Stasis: Freezes all entities and hazards within a localized sphere for several seconds.
+  - Cascade Nova: Unleashes stored dimensional energy in an expanding ring that disintegrates hostile matter.
+  - Reality Anchor: Creates a stabilized zone where health regenerates and dimensional anomalies cannot enter.",glm_results\233.txt,
+1254,0.8228371143341064,0.8194923400878906,0.8211613297462463,"Dante is the primary protagonist of the Devil May Cry series created and published by Capcom. In the first four games, Dante is a private investigator and a demon hunting vigilante. He want to track down and kill those who murdered his mother and corrupted his brother. He is the son of Sparda who is a demon of great power. That's why Dante possesses numerous powers beyond that of any human. He can use a combination with a variety of weapons to accomplish his goals.
+
+Named after the Italian poet Dante Alighieri, the character was designed to fit Devil May Cry game designer Hideki Kamiya's vision of a ""cool and stylish"" man, and his personality was based on the title character of the manga series Cobra. Dante's arsenal usually consists of firearms and melee weapons, including ""Ebony and Ivory"", twin handguns that never need reloading, as well as a variety of swords such as the ""Rebellion"" and ""Force Edge"", Devil Arms created by his father.
+
+Dante has also become one of the most popular characters in gaming, having been recognized for his role in the Devil May Cry series and various characteristics that have attracted gamers. However, Dante's redesign and characterization in the reboot was the subject of controversy amongst gamers.","Born in the smog-choked metropolis of Ironhive, Kaelen grew up on the streets, unaware of his lineage as a Riftborn—a hybrid of human and the ethereal entities known as Silhouettes. He lived a life of petty crime until a government purge revealed his true nature, forcing him to go on the run. Unlike the heroes of ancient legends, Kaelen is cynical and abrasive, fighting not for honor but to tear down the corrupt corporations that control the city. He wields the Fulcrum, a shape-shifting mechanical blade that channels his innate energy, allowing him to slaughter waves of robotic enforcers and corrupted spirits. His internal struggle centers on the creeping corruption of his own humanity; every time he taps into his Riftborn powers, he risks losing his mind to the Silhouette consciousness. The stakes are personal: if he falls, the entity within him will open a gate that will swallow his world whole. Driven by a desire for vengeance and the faint hope of a normal life, he cuts a bloody path through the city's elite.","- Tier 1:
+  - Rift Dash: Kaelen instantly teleports a short distance forward to evade attacks or close gaps.
+  - Iron Eruption: He slams the Fulcrum into the ground, creating a shockwave that knocks nearby enemies off their feet.
+  - Spirit Drain: Landing consecutive hits on enemies restores a small amount of health.
+- Tier 2:
+  - Aerial Cleave: Kaelen performs a powerful spinning attack in mid-air, allowing him to stay airborne while damaging foes.
+  - Chain Reaction: Successfully hitting an enemy causes a chance for lightning to arc to a nearby secondary target.
+  - Overdrive: Movement and attack speed are temporarily increased by twenty percent.
+- Tier 3:
+  - Shadow Doppelganger: Kaelen summons a spectral clone of himself that mimics his last attack for double damage.
+  - Reality Fracture: A massive area-of-effect attack that freezes all enemies in time for three seconds.
+  - Avatar Form: Kaelen transforms into his pure Silhouette state, drastically increasing damage output and immunity to stagger for a short duration.",glm_results\1254.txt,
+3097,0.8177211284637451,0.8267205357551575,0.8221961855888367,"Christa is a main character who first appears in Telltale Games's The Walking Dead: Season One, played by voice actress Mara Junot. She is much more serious than her boyfriend Omid, but loves him deeply and is concerned for the safety of the group. After Lee's death, Christa and Omid take up Lee's role as Clementine's guardians.
+
+Little is known about Christa's life before the outbreak. She lived in a San Francisco apartment, and she and her boyfriend, Omid, were taking the ""All-American Road Trip"" when the apocalypse began...","Elara Vance was a third-year medical student when the outbreak transformed civilization into a landscape of ruin and wandering threats. Separated from her younger sister during the chaotic evacuation of their home city, she has spent the last two years searching every settlement and safe zone for any trace of her family. Her medical training has made her a valuable asset to the scattered groups of survivors she encounters along the way. She carries a battered field journal filled with names and descriptions of people she has promised to help or find. The weight of impossible choices, including those that cost lives during close calls with the infected, haunts her dreams and tests her resolve. She struggles to balance her instinct to heal with the brutal pragmatism required to stay alive. Every conversation is a potential lifeline or a trap, and she has learned to read people the way she once read medical charts. Her journey is driven by love, but her internal conflict centers on whether she can remain human in a world that demands monstrous decisions.","- Tier 1:
+  - Triage: Elara can stabilize injured allies, preventing their condition from worsening during critical moments.
+  - Keen Eye: Highlights interactive objects and hidden clues in the environment for a short duration.
+  - Persuasion: Unlocks additional dialogue options when negotiating with hostile or distrustful survivors.
+- Tier 2:
+  - Improvised Medicine: Allows Elara to craft healing items from common scavenged materials.
+  - Distraction: Elara can throw objects to create noise and divert attention away from her position.
+  - Quick Reflexes: Grants a longer time window to complete quick time events during action sequences.
+- Tier 3:
+  - Leadership: Nearby allied non-player characters receive a bonus to their effectiveness in combat and dialogue.
+  - Silent Takedown: Elara can eliminate lone threats without alerting others in the vicinity.
+  - Second Chance: Once per chapter, Elara survives a failed quick time event that would otherwise result in a restart.",glm_results\3097.txt,
+5322,0.7870705127716064,0.798302412033081,0.7926466464996338,Knuckles the Echidna from the Sonic the Hedgehog franchise by Sega.,"Vira grew up in the cliffside settlement of Oakhaven, where storytellers spoke of the ancient World-Serpent that once swallowed the sun and doomed the world to shadow. A failed guardian ritual in her youth bound her soul to the Skyweave, a living energy cord passed down by her forgotten bloodline of temple wardens. Now she carries the weight of a fractured lineage, haunted by memories of her older sibling who vanished while attempting the same ritual years ago. When seismic tremors signal that the World-Serpent is stirring from its subterranean slumber, Vira must descend into the Overgrown Depths to reassemble the scattered keystones before the beast can rise. Her internal struggle pits personal vengeance against the greater good, as the same power she needs to defeat the Serpent may also be the key to saving—or erasing—what remains of her family.","- Tier 1:
+  - Skyweave Swing: Latch onto glowing anchors to swing across wide chasms and reach higher platforms.
+  - Tether Pull: Yank enemies out of formation or pull distant items into reach with a quick energy lash.
+  - Slipstream Dash: Slide a short distance to evade attacks or slip through tight environmental gaps.
+- Tier 2:
+  - Voltagrip: Electrify the Skyweave to stun enemies caught in its grasp for a brief duration.
+  - Anchor Launch: Create a temporary anchor point mid-air to swing again and extend aerial traversal.
+  - Coil Shield: Wrap the Skyweave around Vira to absorb one incoming hit before breaking.
+- Tier 3:
+  - Stormweaver: Charge the Skyweave with accumulated ambient energy for increased damage and area effect.
+  - Skyward Bind: Suspend multiple enemies in mid-air leaving them vulnerable to follow-up attacks.
+  - World-Tether Cataclysm: Unleash a sweeping energy wave that damages all nearby enemies and reshapes certain terrain obstacles.",glm_results\5322.txt,
+115304,0.8132112622261047,0.8073880672454834,0.810289204120636,"Circus Baby (commonly referred to as Baby) is the secondary antagonist of the Five Nights at Freddy’s series and the animatronic mascot of Circus Baby's Pizza World invented by Afton Robotics, LLC and made for Fazbear Entertainment, Inc.
+
+Baby is haunted by the soul of Elizabeth Afton, who was the daughter of the serial killer William Afton. However, during the completion ending, Elizabeth's soul was presumably set free.","Elliot Vance took the night shift at the newly reopened ""Fantasy Fun Center"" out of financial desperation, ignoring the rumors surrounding the previous owner's disappearance. During his first week, he discovered the attraction's vintage animatronics housed a dark, sentient energy that awakened after midnight. Tasked with surviving until 6 AM, Elliot must navigate the building's labyrinthine security office and corridors using only a flashlight and the facility's unreliable power grid. He quickly realizes these machines are not just malfunctioning, but are actively hunting him with predatory intelligence. As he uncovers maintenance logs hidden in the backrooms, his motivation shifts from earning a paycheck to uncovering the truth behind the ""accidents"" that plague the location. Elliot fights to maintain his sanity against hallucinations caused by sleep deprivation and the mascots' supernatural influence. If he fails, he risks becoming a permanent fixture in the attraction's twisted history.","- Tier 1:
+  - Flashlight Focus: Conserves battery life and increases the range of the light beam.
+  - Quick Lock: Instantly secures the security doors to block incoming threats for a short duration.
+  - Sprint: Grants a temporary burst of speed to escape close encounters with animatronics.
+- Tier 2:
+  - Audio Distraction: Hacks the intercom to play sounds in other rooms to lure enemies away.
+  - Signal Jammer: Temporarily disables electronic locks on animatronics to keep them frozen in place.
+  - Thick Skin: Reduces the panic effect when looking directly at the animatronics.
+- Tier 3:
+  - EMP Burst: Releases a powerful electromagnetic pulse that stuns all electronics in the vicinity.
+  - Reboot Protocol: Automatically restores power to critical systems after a blackout.
+  - Escape Artist: Provides a rare second chance to survive a jump scare encounter.",glm_results\115304.txt,
+478,0.8170772790908813,0.7896486520767212,0.8031288385391235,"Geralt of Rivia (or Geralt z Rivii in Polish) is a witcher and the main protagonist of The Witcher game series by CD Project RED. However, he originally comes from a series of books with the same name, written by Andrzej Sapkowski. As a witcher and a monster hunter, you can hire him for anything, as long as he gets paid for it. Geralt possesses nearly superhuman abilities and is an expert with swords. During The Witcher 3: Wild Hunt (in 1272), Geralt's mentor Vesemir says that he is ""nearly a century old"".
+
+Geralt's mother, Visenna, left him with the witchers in Kaer Morhen, where he grew up. During this time, to appear more trustworthy to future clients, young witchers were encouraged to make up surnames for themselves. Geralt wanted to pick ""Geralt Roger Eric du Haute-Bellegarde"", but Vesemir saw the names as silly and unprofessional, leaving him with Geralt, and Geralt only. Even though he didn't come from Rivia, ""Of Rivia"" was a practical alternative as a last name. Geralt adopted the name and even started to talk with a Rivian accent so that he would appear more authentic. Except from that name, the dryads gave him the nickname ""The White Wolf"".
+
+During the ""Trial of the Grasses"", Geralt survived numerous mutations, and he was one of the few who survived. That's why his hair is white (no pigment), and his senses better and stronger than others. When his witcher training was over, he embarked on his horse called Roach (giving the same name to every one of his horses), to become the slayer of monsters.
+
+For his services, as a reward, Geralt wanted the unborn child of princess Pavetta. However, when he found out that it was a girl, he decided not to take her. But fate caused Geralt and Pavetta's daughter Ciri to cross paths multiple times, and after the death of queen Calanthe (Ciri's grandmother), The White Wolf decided to take care of the girl. He soon came to love her as his own daughter.
+
+Geralt's love of his life is called Yennefer of Vengerberg, and he also has a really close friend that goes by the name Dandelion. He's a poet and a bard with a wild imagination and a love for girls.","Valerius Thorne was born into a caste of magically altered wardens, trained from childhood to hunt the beasts that stalk the borderlands between warring nations. While serving as a personal bodyguard for the Northern Monarch, he was knocked unconscious during a chaotic coup, awakening to find the King dead and the murder weapon in his hand. Framed for the assassination by a shadowy cabal seeking to destabilize the region, he is now hunted by both the crumbling Northern Alliance and the invading Obsidian Empire. Valerius must navigate a treacherous political landscape, using his unique sensory abilities to track the true killer. His journey is complicated by the slow erosion of his humanity caused by the very mutations that make him a formidable fighter. With the continent on the brink of total war, he seeks to uncover the truth not for glory, but to silence the whispers that brand him a kingslayer. Every step closer to the truth forces him to confront the moral ambiguity of the leaders he once blindly served.","- Tier 1:
+  - Runic Cleave: Valerius infuses his blade with energy to deliver a sweeping attack that hits multiple enemies in front of him.
+  - Hunter's Sense: Activates a heightened sensory mode allowing the player to see enemy weak points and hidden tracks in the environment.
+  - Defensive Stance: Valerius braces for impact, reducing incoming physical damage and restoring a small amount of stamina for each hit blocked.
+- Tier 2:
+  - Shadow Step: A quick teleportation ability that allows Valerius to dash behind an enemy instantly, granting a temporary damage bonus for backstabs.
+  - Arcane Trap: Deploys a magical snare on the ground that immobilizes the first enemy to walk over it and applies a damage-over-time effect.
+  - Alchemical Adaptation: Passive skill that grants resistance to status ailments like poison and bleed, converting a portion of damage taken into stamina.
+- Tier 3:
+  - Avatar of Vengeance: Temporarily transforms Valerius into a spectral wraith, drastically increasing attack speed and allowing his attacks to ignore enemy armor.
+  - Chrono-Stasis: Creates a localized field that slows down time for all enemies within a radius, allowing for strategic repositioning or uninterrupted combos.
+  - Executioner's Resolve: A passive mastery skill where every kill restores a significant portion of health and cooldowns, turning Valerius into a relentless force on the battlefield.",glm_results\478.txt,
+9730,0.8149331212043762,0.8305648565292358,0.8226746916770935,"Delilah is the deuteragonist of Firewatch and the supervisor of Henry, the game's protagonist. Henry remains in nearly constant contact with her via radio and can be reached at any time she or Henry starts a conversation or Henry finds something worth of reporting to her, except during sections taking place in the cave. As the game progresses, increasing doubt is shed on Delilah, her relationship with Henry, her affiliation and what she potentially knows. As such, the player has the choice when making discoveries to report to her or not. The player never meets Delilah in person, leaving her appearance a mystery.","Elias Thorne grew up in a quiet coastal town where days were measured by the rhythm of fishing boats and fog rolling in from the sea. After a series of personal losses and a relationship that ended in bitter silence, Elias made the impulsive decision to spend a summer as a fire lookout in the remote mountain wilderness, seeking solitude and a chance to think. The job seemed simple enough: watch for smoke, report anything unusual, and maintain the tower. But as the weeks stretched on, Elias began noticing odd patterns in the forest—unexplained lights at night, strange radio interference, and footprints that appeared where no one should have walked. The only lifeline to the outside world is a voice on the other end of a handheld radio, a supervisor stationed at another tower, whose casual observations gradually turn into concerned questions about what Elias might be seeing. Elias must navigate not only the physical dangers of the wilderness but also the creeping sense that something larger is at play, something that may be connected to the very reasons for fleeing to the mountains in the first place. The summer becomes a journey of confronting old wounds while questioning what is real and what is merely the echo of a troubled mind seeking patterns in chaos.","- Tier 1:
+  - Orienteering: Reveals hidden trails and paths on the map when surveying from high vantage points.
+  - Keen Sight: Highlights interactive objects and points of interest within a wider visual radius.
+  - Radio Protocol: Reduces static interference during transmissions, unlocking additional dialogue options with the supervisor.
+- Tier 2:
+  - Tracker's Instinct: Allows identification of footprints and disturbances, revealing how recently an area was visited.
+  - Cartographer: Automatically logs detailed terrain features and landmarks when exploring new locations.
+  - Steady Hand: Enables longer focus through binoculars without visual drift or stamina loss.
+- Tier 3:
+  - Sixth Sense: Creates a subtle visual cue when something significant is nearby but not yet visible.
+  - Signal Decrypter: Picks up faint mysterious radio transmissions that reveal hidden story fragments.
+  - Wilderness Endurance: Reduces stamina drain when traversing difficult terrain or during adverse weather conditions.",glm_results\9730.txt,
+8576,0.8153062462806702,0.8189498782157898,0.8171239495277405,"Good looking, smooth as silk, and silver-tongued, Mike is the resident ladykiller. He's had more girlfriends than he's had hot dinners, which can cause a few problems when a few of them are in his immediate circle of friends...
+
+Mike is a man of action. He's always the first to volunteer, the first to make a suggestion. With a narcissistic streak, there's no denying that he likes the attention that comes with being the man who stands up and can get things done.","Kaelen was once a stalwart guardian of the Sacred Spire, sworn to protect the six sisters whose songs maintained the world's equilibrium. When the eldest sister unleashed her treacherous rampage, Kaelen was the sole survivor of the initial onslaught, left for dead amidst the ruins of his order. He was discovered by Rhyx, a rogue dragon cast out by the same magical discord that now threatens the realm. Forming a pact of mutual survival and vengeance, Kaelen and Rhyx now roam the war-torn lands, hunting the fiends summoned by the corrupted song. Kaelen wields a heavy greatsword, relying on brute strength and aerial support from Rhyx to combat the magical horrors. He struggles with the guilt of failing his duty and the realization that the ""peace"" he protected was built on lies. His ultimate goal is to confront the eldest sister, not to restore the old order, but to forge a new world free from the manipulation of divine song. The bond between rider and dragon is his only anchor in a reality gone mad.","- Tier 1:
+  - Iron Cleave: A powerful overhead slash that crushes enemy armor and deals heavy damage.
+  - Shadow Dash: A quick evasion move that allows Kaelen to pass through enemies unharmed.
+  - Dragon's Breath: Rhyx provides a short-range burst of fire to knock back surrounding foes.
+- Tier 2:
+  - Cyclone Strike: Kaelen spins his greatsword rapidly, hitting all enemies in a wide radius.
+  - Sky Dive: Kaelen leaps into the air and slams down, creating a shockwave upon impact.
+  - War Cry: A roar that boosts attack power for a short duration while stunning nearby enemies.
+- Tier 3:
+  - Crimson Fury: A relentless chain of attacks that increases in speed with every hit landed.
+  - Rhyx's Wrath: Rhyx descends to carpet bomb the battlefield with powerful fireballs.
+  - Songbreaker: A finishing move that nullifies magic in the area and deals critical damage to bosses.",glm_results\8576.txt,
+19221,0.8078756332397461,0.7974439263343811,0.8026258945465088,"This character is from TES 5 Skyrim mod called Bruma. 
+ 
+A khadjit who lives in Bruma. Originally from Elsweyr Dar'taqto has lived most of his life in Cyrodil. He says that he moved from Elsweyr so long ago that does not rememder what the reason was. Maybe he just doens't want to tell the reason. 
+ 
+Dar'taqto seems to have warm feelings towards Elsweyr. He can even tell the protagonist ""You are to Dar'taqto as the sun is to Elsweyr... I mean - a good friend"". 
+He says that he would like to become emperor one day. It seems that he is dissapointed in current emperor. 
+ 
+Dar'taqto gets banned from Bruma but the protagonist can help him by taking him along as follower. 
+ 
+He fights enemies with two battle axes. Dar'taqto wears light armor. 
+ 
+WARNING: The outfit on the picture is not his original outfit. The picture is taken at Skaal Village, Soltheim.","Born in a border town that was constantly disputed by neighboring warlords, Kaelen Varr grew up resenting the artificial lines drawn on maps that divided families and cultures. He spent his youth learning the old paths and forgotten trails that circumvented the official, guarded borders. When the magical seals isolating the provinces began to weaken, Kaelen felt a resonant hum in the ancient stones of his homeland, calling him to explore the ""Roots of the World."" He now serves as a guide for those seeking passage into the ""Seat of Sundered Kings,"" hoping to unite the fractured lands through shared knowledge rather than bloodshed. Driven by the disappearance of his mentor in the ""Star-Wounded East,"" he risks life and limb to chart the dangerous routes to the ""Lure of the Wilds."" Kaelen struggles with the guilt of leading others into dangerous lands, questioning if he is a pathfinder or merely a magnet for trouble. His ultimate goal is to complete the Atlas of the Open Road, proving that no border is truly impassable.","- Tier 1:
+  - Border Stride: Allows the character to traverse difficult terrain like snow, sand, and swamp without movement penalties.
+  - Surveyor's Eye: Highlights hidden paths and secret entrances on the mini-map for a short duration.
+  - Wayfinder's Mark: Places a magical beacon allowing instant return to a specific safe location.
+- Tier 2:
+  - Provincial Insight: Grants temporary resistance to elemental damage based on the specific region currently being explored.
+  - Diplomatic Immunity: Reduces hostility of local wildlife and factions for a limited time after entering a new province.
+  - Path of the Wanderer: Increases stamina regeneration significantly while traveling on foot outside of combat.
+- Tier 3:
+  - Ley Line Transit: Teleports the character instantly between discovered landmarks within the same province.
+  - Cartographer's Gambit: Reveals the full layout of an unexplored dungeon or cave and highlights all treasure chests.
+  - Union of Lands: Summons a spirit ally from the nearest neighboring province to assist in combat for a short duration.",glm_results\19221.txt,
+538,0.8202024102210999,0.8219776153564453,0.8210890889167786,"Elizabeth is a character and A.I. companion in BioShock Infinite.
+With the game set in 1912 on a sky city (named Columbia) , Elizabeth is to take over the city once its current leader (or ""Prophet""), Father Comstock, dies. Elizabeth can make and exploit ""tears"", rips to other universes, allowing her to move between them and/or bring in items from them. To prevent her from leaving Columbia, a remote ""Siphon"" is made which limits her powers, and she is locked in a tower under study and guarded by a giant mechanical bird known as Songbird.","Vera Castellan was trained as a deep-range reconnaissance operative for a military unit that no longer officially exists. After her squad was ambushed during what should have been a routine extraction, she spent three years surviving alone in hostile territory with limited supplies and no radio contact. The experience hardened her into a pragmatic survivor who treats every environment as a potential battlefield and every weapon as a tool for a specific job. She eventually found her way to the frontier region where the game takes place, drawn by rumors that the corporation responsible for her unit's destruction has established operations in the area. Vera approaches each new environment with cold calculation, mentally cataloguing sight lines for sniping positions and choke points for close-quarters engagements. She struggles to connect with others after years of isolation, preferring to work alone even when allies would make survival easier. The open terrain and cramped industrial ruins of this new region offer both opportunities and dangers that test her full range of combat skills.","- Tier 1:
+  - Quick Swap: Reduces weapon switching time by 40% for rapid adaptation to changing combat situations.
+  - Steady Aim: Decreases weapon sway when aiming down sights, improving accuracy at medium range.
+  - Combat Roll: Allows a quick evasive roll in any direction to dodge incoming fire.
+- Tier 2:
+  - Precision Optics: Highlights enemy weak points through environmental obstacles for a brief duration.
+  - Close Quarters Mastery: Increases melee damage and grants faster execution animations in tight spaces.
+  - Extended Mags: Increases ammunition capacity for all carried weapons by 25%.
+- Tier 3:
+  - Ghost Protocol: Reduces footstep noise and suppresses muzzle flash, enabling stealthier approaches.
+  - Chain Reaction: Defeating an enemy causes nearby hostiles within range to become briefly disoriented.
+  - Hunter's Resolve: Regenerates a portion of health after achieving multiple consecutive kills without taking damage.",glm_results\538.txt,
+1062,0.846864640712738,0.8424798846244812,0.8446665406227112,"Alan Wake was born and raised in New York City. He developed a passion for writing at a young age, eventually leading to a successful novelist career. His most famous works are thriller novels, which have earned him a large and dedicated following. Despite his success, Alan struggles with writer's block and personal issues, including a strained relationship with his wife, Alice.
+
+In an attempt to overcome his writer's block, Alan and Alice take a vacation to the idyllic town of Bright Falls. However, their peaceful retreat quickly turns into a nightmare when Alice disappears under mysterious circumstances. Alan discovers pages of a manuscript he doesn't remember writing, detailing events that start to come true in real life.
+
+As he searches for Alice, Alan encounters dark supernatural forces known as the ""Taken,"" shadowy entities controlled by a malevolent presence called the ""Darkness."" He learns that the town and its surroundings are influenced by this dark power, which has trapped him in a nightmarish reality where his own writing becomes a weapon and a tool for survival.
+
+A crucial figure in Alan's journey is Thomas Zane, a poet who lived in Bright Falls decades earlier and had a similar encounter with the Darkness. Zane’s writings and his struggle against the Darkness provide Alan with clues and guidance on how to fight supernatural forces.
+
+In the end, Alan realizes that to save Alice and stop the Darkness, he must make a significant sacrifice. He writes a conclusion to the horror story he is trapped in, allowing Alice to escape while he remains in the dark, nightmarish world beneath Cauldron Lake. This act of self-sacrifice shows his character's deep love for his wife and his determination to end the cycle of terror.","Elias Vorne built his career crafting pulse-pounding thrillers that blurred the line between psychological unraveling and supernatural dread, earning him a reputation as a master of late-night page-turners. But three years of silence followed his last novel, a creative drought that strained his marriage and eroded his confidence. Hoping to reignite his spark, Elias agreed to retreat with his wife Clara to the remote mist-shrouded town of Hollowbrook, where the endless gray skies and towering pines promised solitude. Hours after their arrival, Clara vanished during a walk to the general store, leaving behind only her scarf tangled in a fence. Desperate and disbelieving, Elias began finding typewritten manuscript pages scattered through the forest—pages written in his own voice, describing events moments before they occurred. The words bled into reality, and shadow-slicked figures emerged from every dark corner, whispering fragments of stories he never finished writing. Armed with only a flashlight and the fragments of a narrative he cannot remember creating, Elias must uncover who—or what—is authoring his nightmare before the final chapter closes on him forever.","- Tier 1:
+  - Focused Beam: Concentrates your flashlight into a narrow high-intensity beam that stuns shadow enemies and reveals hidden manuscript pages.
+  - Flare Toss: Throws a handheld flare that creates a temporary circle of safety, repelling darkness and illuminating nearby collectibles.
+  - Author's Instinct: Highlights interactive objects and environmental clues within a short radius through a faint golden shimmer.
+- Tier 2:
+  - Battery Efficiency: Reduces flashlight drain by forty percent, allowing extended use of light-based attacks and exploration tools.
+  - Evasive Roll: Performs a quick combat roll in any direction, granting brief invulnerability frames and creating distance from enemies.
+  - Margin Notes: Automatically annotates discovered manuscript pages with clues, revealing weak points of specific enemy types.
+- Tier 3:
+  - Revision: Rewinds the last eight seconds of gameplay, restoring health and ammo while resetting enemy positions and environmental states.
+  - Blinding Cascade: Unleashes stored battery power in a 360-degree burst of light, stunning all nearby enemies and dissolving weaker shadows.
+  - Narrative Arc: Predicts incoming ambushes and environmental hazards five seconds in advance, displaying ghostly silhouettes of threats through walls.",glm_results\1062.txt,
+4130,0.8056641817092896,0.8185113072395325,0.8120368719100952,"Born in april 9 1967 
+lives in a Penthouse in Las Vegas, Nevada. 
+Saved the world from alien invasion multiple time, work with the EDF (Earth Defence Force)","Cade Vortex was a top operative for the Temporal Defense Coalition until a sabotaged mission left him stranded in a shattered timeline where humanity faces extinction across multiple eras. The explosion that displaced him also embedded chronal energy into his DNA, granting him enhanced reflexes and the ability to sense rifts between time periods. Driven by revenge against the traitor who set him up, Cade now works as a mercenary, selling his unique talents to the highest bidder while secretly hunting for clues to his betrayer's identity. His internal conflict stems from his growing attachment to the people he meets across timelines—knowing he can never stay, he struggles between emotional detachment and his innate desire to protect the innocent. The stakes rise when he discovers that the same conspiracy that destroyed his timeline is systematically collapsing others, and only someone who exists outside normal time can stop it. Cade's attitude and combat skills make him the perfect weapon for this temporal war, but his heart may be his ultimate weakness.","- Tier 1:
+  - Rift Dash: Instantly teleport a short distance forward, passing through solid objects and enemies.
+  - Overcharge: Temporarily double weapon fire rate for 5 seconds with reduced accuracy.
+  - Salvage: Recover ammunition from defeated enemies automatically.
+- Tier 2:
+  - Time Echo: Spawn a decoy that mimics your last action to confuse and distract enemies.
+  - Hardlight Shield: Project a frontal energy barrier that absorbs incoming damage.
+  - Chronal Grenade: Throw an explosive that creates a slow-motion zone, reducing enemy speed by 50%.
+- Tier 3:
+  - Temporal Storm: Activate slow-motion for the entire battlefield for 10 seconds while you move at normal speed.
+  - Rift Walker: Gain permanent double jump and immunity to fall damage.
+  - Last Stand: When health drops to critical, become invulnerable for 3 seconds and unleash a shockwave that damages all nearby enemies.",glm_results\4130.txt,
+1981,0.8159977793693542,0.8261215090751648,0.821028470993042,"Zinyak is an extraterrestrial warlord and the bad guy in Saint's Row IV. He's the leader of the alien race known as the Zin. Sounding very posh, he speaks with an upper class English accent and is a big fan of literature. It was actually the love for books that brought him to Earth. Zinyak often makes references from famous work, such as Macbeth and Edgar Allan Poe. 
+
+During the events of the game, he invades Earth and comes through the ceiling of the White House where he abducts Kinzie Kensington and Shaundi before disappearing. He also defeats the Boss, who is now the President of the United States, and puts him/her into a virtual simulation based on their worst fears. 
+
+Zinyak live streams everything to his planet where all the Zin can watch how he slowly but surely kills the humans and erases mankind. His goal is to take over, not really thinking that anyone on Earth can be strong enough to stop him.","Jace Verran grew up as a street-smart orphan in the industrial district of Neos Veridia, scraping by through underground fighting rings and small-time courier jobs. His reputation for getting impossible jobs done caught the attention of the Rising Dawn collective, a grassroots organization that fought against corrupt corporate control. Over a decade, Jace rose from a low-level runner to the face of the movement, uniting fractured neighborhoods under a banner of resistance and reform. When the movement transitioned from revolutionary to political, public support carried him into the presidential seat of the Veridian Territories. His presidency marked a rare era of transparency and social progress—until the Zyxari Imperium descended from the skies without warning.
+
+The alien invaders didn't just conquer; they digitized, trapping humanity's consciousness inside a massive simulation called the Shroud. Jace awoke inside this virtual prison to find his memories fragmented and his companions missing, scattered across corrupted sectors. The simulation is controlled by the Zyxari overlords, who study human behavior like specimens in a digital petri dish. Guided by a rogue program embedded in his psyche, Jace must navigate glitching cityscapes, exploit the simulation's vulnerabilities, and free his allies before their digital forms degrade. Every step closer to freedom reveals uncomfortable truths about what remains of the real world.","- Tier 1:
+  - Data Rip: Jace tears a fragment of code from enemies, dealing minor damage and briefly revealing their position.
+  - Glitch Dash: A short-range burst of speed that phases Jace through solid objects for half a second.
+  - Memory Cache: Accesses hidden data nodes to restore a small amount of health and digital integrity.
+- Tier 2:
+  - Firewall Breach: Disables enemy shields and automated turrets within a moderate radius for several seconds.
+  - Echo Decoy: Creates a static duplicate of Jace that draws enemy fire and explodes on destruction.
+  - Overclock Reflexes: Temporarily slows perceived time, allowing Jace to dodge incoming attacks with precision.
+- Tier 3:
+  - System Purge: Unleashes a cascade of corrupted data that deletes all hostile programs in a wide area.
+  - Admin Override: Grants temporary invulnerability and doubles all damage output for a short duration.
+  - Wake Protocol: Summons a rescue beacon that calls in allied fighters to provide support fire.",glm_results\1981.txt,
+20,0.8080164194107056,0.8417366743087769,0.8245319128036499,Peach Wilkins is a resident of Neptune's Bounty and seems to be one of the leaders of Frank Fontaine's smuggler group.,"Silas Drift was once a maintenance engineer responsible for keeping the underwater city's life-support systems functioning, until he discovered the ruling council was deliberately sabotaging oxygen supplies to cull the lower districts. Exposed to experimental biological mutagens during the facility's collapse, Silas developed unstable abilities that allow him to interface directly with ancient technology. Now he scours the flooded ruins for artifacts capable of reversing the city's systematic decay. His body slowly deteriorates from the mutagens coursing through his veins, giving him limited time to find a cure. The city's factions each offer him contradictory salvation, and he must decide whose technology is worth trusting. Every new modification pushes him further from humanity, yet he clings desperately to the few memories of the surface world that still haunt him. The deeper he descends, the more the whispers of the old machines promise him power—and threaten to erase what remains of his soul.","- Tier 1:
+  - Pressure Adaptation: Increases movement speed and reduces damage from deep-water pressure zones.
+  - Salvage Instinct: Allows crafting of basic ammo types from scattered debris and scrap metal.
+  - Neural Tap: Enables hacking of simple electronic locks and security cameras.
+- Tier 2:
+  - Bioluminescent Pulse: Emits a stunning flash of light that disorients nearby enemies and reveals hidden pathways.
+  - Vampiric Harpoon: Harpoon attacks drain small amounts of health from organic targets and restore the player.
+  - System Override: Temporarily turns enemy automated turrets and drones into allies for a short duration.
+- Tier 3:
+  - Apex Predator: Activates a berserker state with massively increased damage and speed at the cost of rapid health drain.
+  - Transcendence: Allows full integration with ancient artifacts, unlocking devastating area-of-effect attacks.
+  - Regenerative Symbiosis: Passively heals all injuries over time while standing in water or near leaking pipes.",glm_results\20.txt,
+1528,0.8371264934539795,0.8466506600379944,0.8418616652488708,"Daxter is a central character in the ""Jak and Daxter"" video game series. Originally a human, Daxter is transformed into an ottsel, a fictional hybrid of an otter and a weasel, after falling into a pool of Dark Eco. Known for his witty and outspoken personality, Daxter serves as Jak's loyal sidekick and best friend. Despite his small stature, he is resourceful, brave, and provides comic relief throughout their adventures. Daxter's unique transformation and humorous nature make him a memorable and indispensable part of the duo.","Zane was an ordinary teenager living in a secluded seaside hamlet until an expedition to a forbidden silo went wrong. His best friend, a reckless tinkerer, was exposed to a volatile energy source and transformed into a small, orange otter-weasel hybrid. Zane swears to find a way to reverse the transformation, carrying his friend on his shoulder as they traverse the continent. They must navigate ancient ruins, collect scattered power cores, and appease the local sages to unlock the path to the cure. Zane’s internal conflict lies in his stoic determination; while his friend babbles endlessly, Zane internalizes the guilt of the accident. The stakes grow as the dark energy begins to corrupt the land, forcing them to move quickly. Zane relies on his agility and fighting instincts to protect his transformed companion.","- Tier 1:
+  - Double Jump: Allows Zane to leap again in mid-air to reach higher ledges.
+  - Spin Kick: A rapid rotational attack that knocks back nearby enemies.
+  - Swim: Enables traversal through deep water bodies without taking damage.
+- Tier 2:
+  - Dash Punch: A quick forward lunge that breaks weak barriers and damages foes.
+  - Uppercut: Launches enemies into the air, allowing for follow-up combos.
+  - Dive Roll: A swift evasion move that grants momentary invincibility.
+- Tier 3:
+  - Super Launch: Uses charged energy to spring high into the air to reach secret areas.
+  - Ground Slam: A powerful downward strike that creates a shockwave affecting a wide area.
+  - Dark Shield: Creates a temporary energy barrier that absorbs all incoming damage.",glm_results\1528.txt,
+733,0.8284361958503723,0.8001594543457031,0.814052402973175,"Tommy, an Italian-American, is portrayed with a tall, swarthy, handsome appearance, combed dark brown, almost black hair, and a constant five o'clock shadow. He first appears wearing a light blue-green Hawaiian shirt with dark blue palm trees printed on it, a gold pearl necklace around his neck, a gold watch around his left wrist, and a pair of blue jeans and white sneakers. This outfit becomes known as Tommy’s ""street"" clothes. As the game progresses, Tommy is offered more wardrobe options: he obtains a blue-purple pastel suit with the sleeves rolled up over a black dress shirt and black loafers, as well as the option of a dark pinstripe suit labeled as ""Mr. Vercetti"" (which bears similarities to Tony Montana's uniform). A light green costume is available to perform a bank robbery, complete with a hockey mask, and is even able to wear the uniform for an allied gang, among many others.
+
+Tommy Vercetti, in several ways, exhibits characteristics of fictional drug lord Tony Montana from the 1983 film Scarface. This coincides with the heavy themes and appearance of the movie that has been implemented into Vice City. Among these characteristics, his exile from his old home (Liberty City), his rise to power (acquiring property and wealth in the city, and a mansion which also sports an interior similar to that of Montana’s mansion). Tommy is also a hired assassin, has killed his own collaborators (Lance Vance), taken over his temporary boss’s business (Ricardo Diaz) and rebelled against his former leader (Sonny Forelli), as Tony Montana had. The only notable difference is that the final gunfight in Montana's mansion sees Montana eventually killed, whereas the final gunfight in Tommy's mansion sees Tommy managing to single-handedly take down his captors and survive.","Rico Valez arrived in the sun-soaked metropolis of Bay City with nothing but a duffel bag and a shattered reputation. After a smuggling operation in the Caribbean went sideways, he found himself deeply indebted to a powerful crime syndicate known as The Trust. Instead of fleeing, Rico decided to carve out his own slice of paradise amidst the neon glow and art deco architecture. He navigates a treacherous landscape of rival gangs and corrupt officials, using stolen vehicles and black-market weaponry to stay alive. His ultimate goal is to dismantle The Trust's leadership and claim the city's underworld for himself. The sun-drenched streets and synth-wave nights provide the perfect backdrop for his violent ascent to power. Rico struggles with the moral weight of his actions, knowing that every step forward costs innocent lives. As he climbs the ladder, he realizes that in Bay City, the only way to survive is to become the very thing the city worships: power.","- Tier 1:
+  - Wheelman: Allows the character to enter vehicles significantly faster than average.
+  - Street Smarts: Reveals hidden collectibles and secret paths on the mini-map.
+  - Hot Start: Spawns the character with a basic sidearm and full health after a respawn.
+- Tier 2:
+  - Bulletproof Vest: Reduces incoming firearm damage by 25% while wearing armor.
+  - Lead Foot: Increases the top speed of all ground vehicles by 15%.
+  - Quick Draw: Doubles the firing rate of pistols and revolvers.
+- Tier 3:
+  - Kingpin: Unlocks the ability to recruit AI allies to assist in combat missions.
+  - Wrecking Ball: Causes vehicles to explode on impact with enemy targets.
+  - Time Out: Slows down time for precise aiming during intense firefights.",glm_results\733.txt,
+7194,0.826873779296875,0.8220281600952148,0.8244438767433167,"Rintarou Okabe (岡部 倫太郁) is a self-proclaimed mad scientist and the main protagonist of Steins;Gate. He is a student of Tokyo Electronics University and the founder of Future Gadget Laboratory, a small research laboratory devoted into creation of future gadgets for the betterment of mankind. He also likes to pose as an agent working against a certain ""Organization"" which he thinks is always after him, as he believes this kind of image gives him a cool and mysterious aura. He is one of the (accidental) inventors of the Future Gadget #8, Phone Microwave, which has the ability to send data back in time.","Sora Kitani is a brilliant but reclusive engineering student attending a prestigious technical institute in the heart of a bustling metropolis. Obsessed with the concept of retrocausality, Sora spends days modifying obsolete electronics to detect anomalies in the local time-space continuum. Her research leads her to discover a hidden frequency that allows her phone to receive text messages from the near future, dragging her into a shadowy conflict involving a clandestine research organization. Motivated by the accidental death of her older brother years prior, she seeks to rewrite the past and uncover the truth behind the city's strange temporal disturbances. Internally, Sora struggles with the ethical ramifications of altering timelines, fearing that saving her brother might erase the existence of her closest friends. She operates from a cramped apartment filled with CRT monitors and soldering equipment, serving as the reluctant operator for a group of friends investigating the phenomenon. The stakes rise when she realizes her own existence is becoming unstable, phasing in and out of reality with every major change she initiates. Sora must navigate complex branching scenarios, using her intellect to outmaneuver agents of the organization while managing the emotional toll of her choices.","- Tier 1:
+  - Temporal Ping: Reveals hidden objects or clues in the immediate environment by highlighting them for a short duration.
+  - Logic Divert: Allows Sora to solve environmental puzzles instantly by analyzing circuit patterns.
+  - Sprint Burst: Increases movement speed temporarily to evade pursuit or reach timed objectives.
+- Tier 2:
+  - Future Glance: Peeks at the outcome of a dialogue choice, showing if it leads to a negative or positive immediate result.
+  - Memory Overwrite: Changes a minor NPC's perception of an event, opening new dialogue paths.
+  - Signal Jam: Disables electronic surveillance cameras in a small radius for a limited time.
+- Tier 3:
+  - Causality Loop: Rewinds time by thirty seconds in a specific room to retry a failed action or puzzle.
+  - World Line Shift: Unlocks a hidden dialogue option that drastically alters the story branch.
+  - Quantum Stabilize: Prevents a ""Game Over"" scenario once per playthrough by stabilizing a fatal injury.",glm_results\7194.txt,
+3932,0.8222455382347107,0.8274043202400208,0.8248168230056763,"Ursula is a 32 year old female Newman and a supporting character in Phantasy Star II &amp; Phantasy Star Portable 2. Newmans are a race evolved from humans in the universe. They were created for research purposes, but eventually became a race of their own. She is a brilliant and sharp woman with many talents. She spent many years in the Alliance Military Force, where she met Kraz Muehler. They fell in love and decided to marry each other.
+
+After being an instructor of AMF, she became a leader of Little Wing and her beauty mixed with her talents sent out a message of respect and dignity. Ursula however, often hides her feelings, leaving her with many regrets about her past. She's often sad about a lot of choices and thinks about them a lot. 
+
+Ursula is also a fashion designer.","Dravos Ironhand was once the champion of the Grand Colosseum, undefeated for seven seasons until a corrupt noble paid his own stablemaster to ensure a losing match. Left for dead in the aftermath and sold into indentured servitude, Dravos spent years in the fighting pits of the outer provinces, honing his craft and biding his time. He eventually earned his freedom through a series of brutal exhibition matches, emerging with a reputation as a fighter who never surrenders and never breaks. Now returned to the capital city, Dravos seeks to build his own gladiator school from nothing, recruiting society's castoffs and forging them into champions. He is driven by a desire for vengeance against the noble who wronged him, but struggles with the morality of sending others into the arena to achieve his goals. The memory of every fighter he has lost haunts him, and he carries a small stone token from his first fallen recruit as a reminder of the cost of ambition. Dravos believes that glory earned through honor is the only glory worth having, even in a world that rewards treachery.","- Tier 1:
+  - Iron Guard: Reduces incoming damage by 15% for one turn when defending.
+  - Rallying Shout: Grants a small attack bonus to all allies for the next round.
+  - Shoulder Charge: Deals moderate damage and has a chance to stagger the enemy.
+- Tier 2:
+  - Counter Stance: Automatically retaliates against the next melee attack received.
+  - Veteran's Insight: Reveals enemy weakness and increases critical hit chance by 10%.
+  - Formation Tactics: Swaps positions with an ally to protect weakened party members.
+- Tier 3:
+  - Unbroken Will: Once per battle, survives a fatal blow with 1 health and gains a temporary strength boost.
+  - Colosseum Legend: Inspires all allies, granting them immunity to fear effects and a major defense boost for three turns.
+  - Final Verdict: Delivers a powerful finishing strike that deals massive damage to enemies below 25% health.",glm_results\3932.txt,
+1388,0.8279414176940918,0.8090821504592896,0.8184031844139099,"Ryu Hayabusa is the protagonist in the Ninja Gaiden series developed by Team Ninja and published by Tecmo. He also appears in almost every mainline games of the Dead or Alive series. 
+ 
+As a ninja, Ryu ruthlessly kills his enemies without mercy, executing them in a very cold, technical and calculative fashion. His rigorous upbringing in tandem with the many hardships and tragedies he has suffered, has forced Ryu to harden his emotions and disciplined his skills to perfection. He is undaunted by the lives he must take in order to protect the balance within the world, knowing that the balance of the world is more important. 
+ 
+Ryu knows life following the ninja path can be both cruel and short, especially for one of the Dragon Lineage. He has already felt first hand the brutality of this life; watching Kureha, his best friend murdered right in front of his own eyes, his clan massacred and he himself killed as he tries to save his village. Ryu endures these hardships with his unstoppable will, an indomitable spirit shown in his exploits as he overcomes every challenge and obstacle, surviving even the trauma of death to return and exact his vengeance. 
+ 
+Though Ryu cares little for his enemies' well being, he still respects them on a warrior basis, even having mutual respect with some adversaries such as Genshin. Outside of battle, Ryu is modest and refined, he is popular among the local residents in his village. Not only as a strong role model for ninja in training, but he is heralded for being kind and gentle, as he cares for the safety of every resident in his home. This is due to the fact that each Hayabusa clansman from Jonin to cadet is cherished as family.","Soren Vale was raised in a coastal village known for its ancient fighting traditions, where practitioners learned to adapt their techniques across varied terrains including frozen lakes and flooded arenas. His father, a legendary competitor, vanished during a mysterious tournament that took place across a series of interconnected island stages. Soren spent years honing his skills in the circular combat system, mastering the interplay between strikes, throws, and counter-holds that defines his family's martial art. Now he enters the tournament circuit seeking answers, driven by rumors that his father still competes in underground matches held in secret multi-tiered locations. His internal conflict centers on whether to embrace the brutal efficiency needed to win or maintain the honor his father taught him. The stakes rise when he discovers the tournament organizers are collecting fighters with exceptional counter abilities for an unknown purpose. Soren must decide how far he will go to uncover the truth.","- Tier 1:
+  - Flowing Guard: Increases the active window for hold attempts by a small fraction.
+  - Quick Shift: Allows faster transition between blocking and throwing.
+  - Surface Adaptation: Reduces slip duration on ice and water stages.
+- Tier 2:
+  - Stun Extension: Landing counter-holds inflicts longer stun duration on opponents.
+  - Wall Awareness: Grants brief damage reduction when cornered against stage walls.
+  - Recovery Stance: Reduces vulnerability frames after missed throw attempts.
+- Tier 3:
+  - Redirect Force: Successful holds position Soren behind the opponent for follow-up attacks.
+  - Arena Mastery: Falling between stage tiers deals less damage and grants brief speed boost upon landing.
+  - Final Determination: Once per round, surviving a potential knockout blow leaves Soren at minimal health with a temporary attack boost.",glm_results\1388.txt,
+6060,0.820507287979126,0.8193212151527405,0.8199138641357422,"Kasumi (means ""haze"" or ""mist"") Nakano (means ""in the field"") is a 19 year old human female that appears in the Fallout 4's add-on Far Harbor. You'll find her on the Island in 2287. She is curious, naive and gets easily bored. Kasumi and her grandfather had a large mechanical knowledge and started to restore pre-War appliances around her house together. After restoring a radio, she contacts DiMa, where she is led to believe that she is actually a synth. Odd dreams and her abilities also reinforces this belief. Later, Kasumi flees Acadia and it's her future is based on the player's choice.","Born in the suffocating depths of Sector 7, Vesper has never known a life outside the heavy industrial chains of the penal colony. They were conscripted into the Organization's retrieval teams at the age of sixteen, forced to scavenge technology from rival factions in exchange for reduced time on their life sentence. Vesper fights not out of loyalty, but out of a desperate need to earn a ""Clean-Air Passport"" and escape the toxic smog that claimed their parents. During a high-stakes rescue mission, Vesper discovered a civilian child hiding data that could dismantle the Organization's control over the remaining resources. Now, they face an internal conflict between following orders to secure the data for their masters or protecting the innocent to spite the system. Every mission inches them closer to freedom or a premature grave in the wasteland dust.","- Tier 1:
+  - Scavenger's Instinct: Highlights nearby resource caches and hidden passages on the minimap for a short duration.
+  - Hazmat Conditioning: Increases resistance to environmental poison damage and slows the rate at which oxygen depletes.
+  - Tactical Slide: Allows a quick sliding maneuver to dodge incoming projectiles or enter cover rapidly.
+- Tier 2:
+  - Concussion Grenade: Deploys a non-lethal explosive that disorients enemies and disables automated turrets in a radius.
+  - Rebreather Boost: Temporarily doubles stamina regeneration and removes existing toxic status effects.
+  - Kinetic Shield: Generates a temporary energy barrier that absorbs a set amount of ballistic damage before breaking.
+- Tier 3:
+  - Executioner's Focus: Activates a slow-motion effect when aiming down sights, allowing for precise headshots on critical targets.
+  - Smoke Screen: Deploys a thick cloud of industrial fog that blocks enemy vision and silences movement audio for the team.
+  - Freedom's Rally: Revives all downed teammates within a radius and grants a temporary damage boost for the squad.",glm_results\6060.txt,
+1164,0.8113542795181274,0.776091456413269,0.7933312058448792,"Lara Croft is a fictional character and the protagonist of the Square Enix (previously Eidos Interactive) video game franchise Tomb Raider. She is presented as a beautiful, intelligent, and athletic English archaeologist-adventurer who ventures into ancient, hazardous tombs and ruins around the world. Created by a team at UK developer Core Design that included Toby Gard, the character first appeared in the 1996 video game Tomb Raider. She has also appeared in video game sequels, printed adaptations, a series of animated short films, feature films (portrayed by Angelina Jolie), and merchandise related to the series. Official promotion of the character includes a brand of apparel and accessories, action figures, and model portrayals. Croft has also been licensed for third-party promotion, including television and print advertisements, music-related appearances, and as a spokesmodel.
+
+Core Design handled initial development of the character and the series. Inspired by Neneh Cherry and comic book character Tank Girl, Gard designed Lara Croft to counter stereotypical female characters. The company modified the character for subsequent titles, which included graphical improvements and gameplay additions. American developer Crystal Dynamics took over the series after the 2003 sequel Tomb Raider: The Angel of Darkness was received poorly. The new developer rebooted the character along with the video game series. The company altered her physical proportions, and gave her additional ways of interacting with game environments. Croft has been voiced by six actresses in the video game series: Shelley Blond (1996), Judith Gibbins (1997–98), Jonell Elliott (1999–2003), Keeley Hawes (2006–14), Camilla Luddington (2013–present) and Abigail Stahlschmidt (2015).
+
+Critics consider Lara Croft a significant game character in popular culture. She holds six Guinness World Records, has a strong fan following, and is among the first video game characters to be successfully adapted to film.[3] Lara Croft is also considered a sex symbol, one of the earliest in the industry to achieve widespread attention. The character's influence in the industry has been a point of contention among critics; viewpoints range from a positive agent of change in video games to a negative role model for young girls.","Elara Vance was a promising anthropology student who joined an expedition to the forgotten isle of Aethelgard, hoping to prove herself to her estranged father. When her crew's vessel capsized during a unnatural storm, she washed ashore alone, separated from her friends and stripped of modern equipment. Now, armed with nothing but a salvaged machete and her father's old journal, she must navigate the crumbling temples of a civilization that supposedly never existed. The island tests more than her physical endurance; it preys on her deepest fears, manifesting hallucinations that blur the line between reality and nightmare. As she uncovers the violent history of the Guardians who once ruled here, Elara realizes she isn't just fighting for escape, but to prevent an ancient darkness from spreading to the outside world. Every scar she earns transforms her from a naive academic into a hardened survivor, forcing her to decide how much of her humanity she is willing to sacrifice to see the sunrise again.","- Tier 1:
+  - Scavenger's Eye: Highlights lootable items and resource caches in the immediate environment.
+  - Swift Recovery: Increases the rate at which stamina regenerates after sprinting or climbing.
+  - Improvised Defense: Allows the character to block incoming physical attacks with reduced damage using equipped tools.
+- Tier 2:
+  - Brutal Takedown: Enables a silent, instant takedown of unaware enemies from close range.
+  - Iron Grip: Extends the duration the character can hang from ledges or climb surfaces without slipping.
+  - Resilience: Reduces the duration of bleeding and poison status effects acquired from traps or enemies.
+- Tier 3:
+  - Apex Instinct: Temporarily highlights enemy positions through walls when remaining stationary.
+  - Unbreakable: Grants a chance to survive a fatal blow with a small amount of health remaining once per encounter.
+  - Wrath of the Fallen: Temporarily increases melee damage output when the character's health drops below critical levels.",glm_results\1164.txt,
+431,0.8292661309242249,0.8378897905349731,0.8335556387901306,"Nathan Drake, born Nathan Morgan, had a tumultuous childhood. Orphaned at a young age, he and his older brother Sam were raised in a Catholic orphanage. The brothers shared a passion for history and treasure hunting, inspired by stories from their mother, a historian. Believing they are descended from the famous English explorer Sir Francis Drake, Nathan adopts the Drake surname.
+
+Nathan's adult life is marked by a series of high-stakes adventures around the world, searching for legendary artefacts and lost cities. His escapades are often accompanied by his mentor and friend Victor ""Sully"" Sullivan, journalist Elena Fisher, and his brother Sam. Nathan's adventures take him from the jungles of South America to the deserts of the Arabian Peninsula and the Himalayas' peaks.","Elias Voss grew up listening to his grandmother's tales of their ancestor, a navigator who vanished seeking a legendary artifact said to grant foresight. For years, Elias dismissed these as folklore while building a career as a salvage diver, recovering lost cargo from shipwrecks along the Atlantic coast. When his grandmother passed, he inherited her belongings and discovered a sealed envelope containing a 400-year-old navigator's log—the last recorded entries of his missing ancestor. The log's final coordinates pointed to an uncharted island chain rumored to be cursed. Driven by family duty and professional curiosity, Elias assembled a small team and embarked on the expedition, only for a violent storm to wreck their vessel on approach. Now stranded with limited supplies, he must protect his companions from a ruthless mercenary faction that arrived before them. Elias fights not just for survival, but to uncover whether his ancestor found the artifact or fell to the island's secrets.","- Tier 1:
+  - Salvage Instinct: Highlight interactable objects and hidden passages within a short range.
+  - Rope Mastery: Swing across gaps and climb faster using a grappling hook.
+  - Tactical Rolling: Quickly dodge incoming attacks with reduced stamina cost.
+- Tier 2:
+  - Ancient Insight: Decipher cryptic inscriptions to reveal secret cache locations.
+  - Improvised Trap: Craft environmental traps using gathered resources.
+  - Steady Aim: Increased accuracy and reduced recoil when firing from cover.
+- Tier 3:
+  - Navigator's Legacy: Temporarily highlight all enemies and objectives on the map.
+  - Desperate Resilience: Survive a fatal blow once per mission with minimal health remaining.
+  - Coordinated Assault: Issue commands to companions for synchronized attacks.",glm_results\431.txt,

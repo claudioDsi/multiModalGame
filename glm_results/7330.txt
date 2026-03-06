@@ -1,0 +1,26 @@
+Entry: 7330 / 7330
+
+Name: Kibo
+
+Concept art Image Prompt:
+Pixel art full body portrait of Kibo, a young imaginative adventurer with messy hair wearing a oversized blue beret and a colorful artist's smock over striped leggings, holding a glowing oversized stylus like a staff, standing on a floating geometric island made of vibrant blocks, bright whimsical atmosphere, soft volumetric lighting, highly detailed 16-bit style, vibrant color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet for character Kibo, 64x64 canvas, 4 distinct frames arranged horizontally: frame 1 standing idle holding the stylus upright, frame 2 crouching low while inspecting the ground, frame 3 walking cycle with scarf flowing back, frame 4 jumping pose with knees tucked and stylus raised, white background, sharp distinct outlines, 16-bit retro style.
+
+Background Story:
+Kibo was never born in the traditional sense but sprang into existence from the collective dreams of a sleeping universe. As a newly manifested "Weaver," his purpose is to maintain the delicate balance between structure and chaos in the Realm of Infinite Canvas. He wanders through diverse biomes, fixing glitches left behind by the chaotic entity known only as The Eraser. Though small and seemingly insignificant, Kibo carries the burden of a fading world on his shoulders, armed only with a magical stylus that can alter reality. He seeks to unite the scattered inhabitants, hoping their combined creativity can push back the encroaching void. His internal struggle lies in believing that his own creations are worthy enough to stand against the masterpiece of the universe. Every block placed and every path cleared is a small victory against the stagnation threatening to consume everything. With every new dawn, Kibo wakes up ready to shape his own destiny, one pixel at a time.
+
+Skill Tree:
+- Tier 1:
+  - Terrain Painter: Modifies ground tiles to create platforms or bridges over gaps.
+  - Stylus Strike: A basic melee attack that knocks back nearby enemies.
+  - Hop-Sketch: A short vertical leap that leaves a temporary chalk outline to distract foes.
+- Tier 2:
+  - Palette Swap: Changes the color of environmental objects to alter their physical properties.
+  - Blueprint Recall: Saves the current state of a small area to revert traps or hazards instantly.
+  - Golem Summon: Constructs a temporary ally from loose debris to push heavy objects.
+- Tier 3:
+  - World Weaver: Instantly generates complex structures like houses or towers for vertical traversal.
+  - Chromatic Burst: Releases a screen-clearing wave of pure creative energy that stuns all enemies.
+  - Architect's Insight: Reveals hidden paths and secret collectibles within a large radius.

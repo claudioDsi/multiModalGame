@@ -1,0 +1,26 @@
+Entry: 6750 / 6750
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art character concept, full body portrait of a young male fighter with spiky white hair and cybernetic augmentations on his left arm and eye. Wears a dark blue combat vest over a gray shirt, with tactical pants and reinforced boots. Holding glowing energy tonfas in a ready stance. Standing on a rain-slicked rooftop at night in a futuristic city, neon signs reflecting on wet surfaces. Dynamic lighting from below with cool blue and purple tones. Art style: detailed pixel art, high contrast, anime-inspired character design, 16-bit era aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas divided into 4 frames. Character: young male with white hair, cybernetic left arm, dark blue vest. Frame 1: standing idle pose, slight bounce. Frame 2: crouching low with tonfas crossed defensively. Frame 3: walking animation mid-stride. Frame 4: jumping pose with arms extended upward. Clean outlines, limited color palette, 16-bit fighting game style, no anti-aliasing.
+
+Background Story:
+Kaelen was once a promising cadet in the Urban Defense Corps, training to protect the megacity from internal threats. During a routine patrol, his unit was ambushed by a mysterious syndicate using advanced technology that left him as the sole survivor. Near death, he was rebuilt with experimental cybernetics by a shadowy resistance group opposed to the syndicate's growing influence. Now he fights with enhanced abilities he doesn't fully understand, haunted by the memories of his fallen comrades. His motivation is twofold: to uncover the truth behind the ambush that destroyed his unit, and to prevent the syndicate from achieving their unknown goals. The experimental tech in his body is unstable, creating an internal conflict between his human morality and the machine's cold efficiency. As he delves deeper into the fighting circuits, he discovers his augmentation is part of a larger conspiracy that could determine the future of the entire city.
+
+Skill Tree:
+- Tier 1:
+  - Kinetic Charge: Basic tonfa strikes generate small energy bursts that slightly increase damage.
+  - Augmented Reflexes: Reduces startup frames on defensive maneuvers and counters.
+  - Pulse Wave: Projects a small energy shockwave that pushes opponents back.
+- Tier 2:
+  - Overdrive Assault: Chains together rapid tonfa strikes with enhanced speed and power.
+  - Cybernetic Absorption: Temporarily converts blocked damage into super meter energy.
+  - Phase Dash: Creates a quick teleport-like dash that can phase through projectiles.
+- Tier 3:
+  - Resonance Cascade: Unleashes all stored energy in a massive area-of-effect explosion around the character.
+  - Synaptic Overclock: Temporarily drastically increases movement and attack speed at the cost of defense.
+  - System Reboot: When near defeat, automatically restores a portion of health and knocks back nearby opponents.

@@ -1,0 +1,26 @@
+Entry: 1529 / 1529
+
+Name: Jarek "Strata" Vane
+
+Concept art Image Prompt:
+Pixel art depiction of Jarek "Strata" Vane, a rugged explorer standing on a floating copper platform in a boundless sky world. He wears a distressed brown leather trench coat, heavy riveted gravity boots, and a cracked flight goggles resting on his forehead. In his right hand, he holds a customized, steam-powered sniper rifle with a glowing blue scope. His left hand is gloved and clenched. The background features drifting industrial ruins and volumetric white clouds. The lighting creates a golden-hour atmosphere with a warm sun flare. The art style mimics 16-bit retro graphics with detailed dithering and a rich, earth-toned color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet for Jarek "Strata" Vane on a 64x64 pixel canvas grid. The character design matches the concept art: brown trench coat, gravity boots, goggles, and holding a rifle. The sheet contains exactly four distinct animation frames arranged horizontally. Frame 1: Standing idle, breathing slightly, rifle resting on shoulder. Frame 2: Crouching low on one knee, aiming the rifle forward. Frame 3: Walking cycle, mid-stride with coat flowing behind. Frame 4: Jumping pose, legs tucked and arms spread for balance. Transparent background, clean black outlines, vibrant retro video game aesthetic.
+
+Background Story:
+Jarek "Strata" Vane was once a renowned cartographer of the Cloud Sea, mapping the shifting gravity wells that connect the floating islands of his fractured world. Following the events of the first expedition where his mentor was lost to the Abyss, Jarek retired his badge to live in solitude among the scrap merchants of the lower decks. However, the recent activation of dormant ancient beacons has caused the islands to destabilize, threatening to collapse the entire archipelago into the void. Driven by guilt and a need for redemption, he dons his upgraded equipment to silence the beacons before the world falls apart. He struggles with the weight of leadership, knowing that every shot he fires has consequences for the fragile ecosystem below. Armed with his trusty variable-caliber rifle and experimental jump-pack, he sets out to traverse the open skies one last time. The journey forces him to confront the physical manifestation of his past failures while battling rogue automated sentinels.
+
+Skill Tree:
+- Tier 1:
+  - Kinetic Dash: Propels the character forward a short distance to dodge incoming projectiles or cross gaps.
+  - Impact Rounds: Basic shots deal increased damage and stagger unarmored enemies briefly.
+  - Anchor Tether: Creates a temporary zip line between two points for rapid traversal.
+- Tier 2:
+  - Sky Mine: Deploys a floating proximity explosive that detonates when enemies draw near.
+  - Vantage Point: Highlights interactable objects and enemy weak points through solid surfaces.
+  - Recoil Boost: Firing downwards while airborne grants an extra jump boost for added height.
+- Tier 3:
+  - Graviton Singularity: Fires a canister that creates a localized gravity well, pulling nearby enemies into a cluster.
+  - Phase Shift: Temporarily renders the character invulnerable and invisible for three seconds.
+  - Precision Overload: Greatly increases critical hit chance but generates significant weapon heat.

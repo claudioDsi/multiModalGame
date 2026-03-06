@@ -1,0 +1,26 @@
+Entry: 3932 / 3932
+
+Name: Kaelen the Forgemark
+
+Concept art Image Prompt:
+Pixel art character concept, a rugged gladiator trainer with a blacksmith's build, wearing a worn leather apron over a simple tunic, heavy leather gloves, and sturdy boots; he has short-cropped dark hair, a scar across his brow, and a soot-smudged face from the forge; he stands confidently in a dusty, sun-drenched arena courtyard, inspecting a freshly forged gladius sword with a critical eye; dynamic morning lighting with long shadows, detailed pixel art style with a gritty, textured feel, 16-bit era aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on transparent background, 64x64 canvas divided into 4 frames; character is a muscular gladiator trainer in a leather apron; Frame 1: standing stance, arms crossed; Frame 2: crouching low, one hand on the ground; Frame 3: walking animation mid-stride; Frame 4: jumping with arms raised; consistent color palette with earthy tones, simple pixel art style.
+
+Background Story:
+Kaelen was once a respectable armorer for the Imperial Legion, forging weapons for celebrated champions until his forge was destroyed in a political purge that left him disgraced and destitute. Now marked with the "Forgemark" brand of a traitor, he is forbidden from practicing his trade within the empire's walls. Desperate to reclaim his honor and rebuild his life, Kaelen turned to the outlawed world of gladiatorial schools, seeing it as the only path to both survival and redemption. He intends to train champions with blades he forges himself, proving his worth not through noble patrons but through the blood and sand of the arena. His motivation is twofold: to clear his name and to create a sanctuary for other outcasts who fight for a second chance. However, Kaelen struggles with the morality of sending others to fight his battles while he remains safely behind the gates. If his school fails, he faces a return to utter ruin or worse, execution; if he succeeds, he risks drawing the attention of the very regime that destroyed him.
+
+Skill Tree:
+- Tier 1:
+  - Improvised Armory: Allows Kaelen to craft basic weapons and armor from scavenged materials between battles.
+  - Tactical Assessment: Grants a chance to reveal an opponent's primary weakness at the start of combat.
+  - Rallying Shout: Temporarily boosts the morale and damage of a single gladiator for one round.
+- Tier 2:
+  - Tempered Steel: Forged weapons now have a chance to ignore a portion of enemy armor.
+  - Field Medic: After a battle, Kaelen can patch up wounded gladiators, reducing their recovery time.
+  - Unbreakable Will: Renders the entire school immune to fear effects for a limited number of turns.
+- Tier 3:
+  - Masterwork Forging: Grants a permanent stat bonus to any gladiator equipped with a weapon Kaelen forged.
+  - Legacy of the Legion: Unlocks powerful, previously unknown combat techniques from his military past for the entire school.
+  - The Final Forge: A single-use ability to reforge a defeated gladiator's broken weapon, allowing them to return to the fight with a massive power boost.

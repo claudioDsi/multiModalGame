@@ -1,0 +1,26 @@
+Entry: 2993 / 2993
+
+Name: Kaelen Moss
+
+Concept art Image Prompt:
+pixel art, close-up portrait of a grim man in his late 30s, short dark hair stubble, weary angry eyes with faint silver pupils, wearing a worn brown leather trench coat over a simple dark shirt, collar is pulled up against the rain, he stands in a neon-lit alleyway reflecting on wet asphalt, dramatic chiaroscuro lighting, art style reminiscent of gritty noir graphic novels, highly detailed pixel art
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet 64x64 canvas divided into 4 frames, a man in a trench coat: Frame 1 neutral standing pose, Frame 2 low crouch with one hand braced, Frame 3 mid-stride walking animation, Frame 4 legs tucked in a dynamic jump; consistent character design with dark coat and short hair, minimalist pixel art style, clean lines
+
+Background Story:
+Kaelen Moss is a man cursed with an unwanted heritage, a living prison for a dormant Echo—a being of ancient, forgotten lore. He has spent a decade trying to live a normal life, keeping the volatile entity contained through sheer force of will. The ritualistic murder of a former mentor, another Echo-bearer, shatters his fragile peace, exposing a conspiracy to weaponize these primordial forces. Haunted by the fear of his own power unraveling, Kaelen is driven by vengeance and a desperate need to understand the truth before he too becomes a victim. He is forced to navigate a hidden world where mythical creatures operate in the shadows of the modern city, his every action scrutinized by enemies who see him as either a key or an obstacle. The internal conflict between his human morality and the predatory instincts of the Echo threatens to consume him, turning his quest for answers into a battle for his own soul. The stakes are absolute: uncover the conspiracy and control the power within, or become the very monster he hunts.
+
+Skill Tree:
+- Tier 1:
+  - Sharpened Instincts: Grants a brief period of heightened perception, revealing hidden objects and enemy weak points.
+  - Urban Tracking: Allows for faster movement across the city's rooftops and alleyways, opening up new traversal paths.
+  - Hardened Resolve: Reduces the negative effects of being wounded, allowing for quicker recovery during combat.
+- Tier 2:
+  - Echo Lash: Unleashes a whip-like tendril of raw energy that can strike enemies from a medium distance.
+  - Veil of Shadows: Renders you nearly invisible when standing still, perfect for ambushes or avoiding detection.
+  - Truth Seeker: Interrogations yield more information, revealing deeper clues and alternative paths through conversations.
+- Tier 3:
+  - Surging Phantom: Briefly transforms into a spectral form, allowing you to pass through certain barriers and enemies.
+  - Tyrant's Gaze: Unleashes the full power of the Echo, petrifying lesser foes and staggering powerful ones with a terrifying aura.
+  - Unbreakable Pact: Forges a final, permanent bond with the Echo, dramatically increasing all power stats at the cost of a permanent corruption meter.

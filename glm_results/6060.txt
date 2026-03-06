@@ -1,0 +1,26 @@
+Entry: 6060 / 6060
+
+Name: Vesper
+
+Concept art Image Prompt:
+Pixel art character design of Vesper, a tactical prisoner soldier in a dystopian toxic future. The character wears a weathered grey hazmat suit modified with makeshift armor plating and bright orange prisoner identifiers on the shoulders. They wear a bulky, scratched gas mask with glowing green lenses and carry a scavenged energy rifle. The pose is dynamic, crouching on a rusted metal beam. The background features a smog-choked industrial skyline with neon warning lights cutting through the haze. 16-bit SNES style, detailed pixel shading, cyberpunk industrial aesthetic, dark moody lighting.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Vesper on a plain background. The canvas is arranged horizontally with four distinct frames. Frame 1: Standing idle, holding the rifle low, breathing visibly through the mask. Frame 2: Crouching low on one knee, aiming the rifle forward. Frame 3: Walking, mid-stride with a tactical lean. Frame 4: Jumping, legs tucked up, aiming downward. Character has a bulky silhouette with grey armor and orange accents. High contrast, clear black outlines, retro arcade style. Canvas size 64x64.
+
+Background Story:
+Born in the suffocating depths of Sector 7, Vesper has never known a life outside the heavy industrial chains of the penal colony. They were conscripted into the Organization's retrieval teams at the age of sixteen, forced to scavenge technology from rival factions in exchange for reduced time on their life sentence. Vesper fights not out of loyalty, but out of a desperate need to earn a "Clean-Air Passport" and escape the toxic smog that claimed their parents. During a high-stakes rescue mission, Vesper discovered a civilian child hiding data that could dismantle the Organization's control over the remaining resources. Now, they face an internal conflict between following orders to secure the data for their masters or protecting the innocent to spite the system. Every mission inches them closer to freedom or a premature grave in the wasteland dust.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger's Instinct: Highlights nearby resource caches and hidden passages on the minimap for a short duration.
+  - Hazmat Conditioning: Increases resistance to environmental poison damage and slows the rate at which oxygen depletes.
+  - Tactical Slide: Allows a quick sliding maneuver to dodge incoming projectiles or enter cover rapidly.
+- Tier 2:
+  - Concussion Grenade: Deploys a non-lethal explosive that disorients enemies and disables automated turrets in a radius.
+  - Rebreather Boost: Temporarily doubles stamina regeneration and removes existing toxic status effects.
+  - Kinetic Shield: Generates a temporary energy barrier that absorbs a set amount of ballistic damage before breaking.
+- Tier 3:
+  - Executioner's Focus: Activates a slow-motion effect when aiming down sights, allowing for precise headshots on critical targets.
+  - Smoke Screen: Deploys a thick cloud of industrial fog that blocks enemy vision and silences movement audio for the team.
+  - Freedom's Rally: Revives all downed teammates within a radius and grants a temporary damage boost for the squad.

@@ -1,0 +1,26 @@
+Entry: 1443 / 1443
+
+Name: Kaelen Vane
+
+Concept art Image Prompt:
+Pixel art character portrait of Kaelen Vane, a young tactical commander with messy silver hair and determined green eyes. He wears a blue military tunic with gold embroidery, high leather boots, and a tattered red cape flowing to the right. He stands in a confident stance holding a slender rapier in his right hand while pointing forward with his left. The background features a burning medieval castle under a smoky gray sky. Detailed 16-bit SNES style, dramatic lighting, pixelated textures, vibrant colors against dark atmospheric backdrop.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Kaelen Vane on a white background. The layout consists of 4 distinct frames in a horizontal row. Frame 1: Standing pose with hand on hip. Frame 2: Crouching pose holding the rapier low. Frame 3: Walking animation with cape flowing behind. Frame 4: Jumping pose with legs tucked and sword raised. The character has silver hair and wears a blue tunic with red cape. Retro RPG aesthetic, clean outlines, limited color palette, canvas size 64x64 pixels.
+
+Background Story:
+Kaelen Vane was once a scholar of military history at the Ivory Spire, more accustomed to reading about wars than fighting them. When the Necrotic Legions rose from the southern wastes, the ruling council was decimated, leaving Kaelen as the highest-ranking official remaining due to an obscure bloodline. He struggles with the crushing guilt of sending soldiers to their deaths, often treating his troops like chess pieces to maintain emotional distance. He wields his family’s ancestral rapier, "Whisper," though he prefers resolving conflicts through diplomacy when possible. The "Dual" combat arts he implements allow his forces to cover each other's weaknesses, mirroring his belief that unity is the only way to survive the coming apocalypse. His internal conflict centers on whether he can remain human while becoming the ruthless general the world demands. As the kingdoms bicker and the dead march, Kaelen must rally knights and mages alike to hold the line against the darkness.
+
+Skill Tree:
+- Tier 1:
+  - Tactical Insight: Grants a slight increase in accuracy for the character and adjacent allies during combat.
+  - Swift Strike: Allows the character to attack first when engaging an enemy with lower speed.
+  - Rallying Cry: Boosts the defense of all allies within a two-tile range for one turn.
+- Tier 2:
+  - Dual Guard: When standing next to a support partner, grants a chance to completely negate an incoming attack.
+  - Tandem Assault: If the character attacks while adjacent to an ally, the ally follows up with a secondary strike.
+  - Strategic Pivot: Allows the character to swap positions with an adjacent ally to reposition defenses.
+- Tier 3:
+  - Supreme Tactician: Reveals the movement range of all enemy units for three turns.
+  - Phantom Edge: The character's attacks ignore a portion of the enemy's defense rating.
+  - Last Stand: Automatically activates a protective barrier when the character's health drops below critical levels.

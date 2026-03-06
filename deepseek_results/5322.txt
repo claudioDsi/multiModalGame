@@ -1,0 +1,26 @@
+Entry: 5322 / 5322
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art concept art of a lithe, agile hero with sun-bleached brown hair and energetic green eyes. He wears a durable, sleeveless tunic made of woven plant fibers and leather, with deep green and earthy brown color tones. His forearms are wrapped in protective bandages, and he carries an ornate, glowing stone gauntlet on his right arm. He is posed dynamically on a moss-covered branch in a vibrant, sun-dappled jungle canopy, using a bright blue energy cord to swing forward. The art style is detailed pixel art with a retro 16-bit aesthetic, cinematic lighting with sunbeams filtering through leaves.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, 4 frames: 1) Standing: character in a ready stance, energy gauntlet glowing softly. 2) Crouching: low to the ground, one hand on the floor, gauntlet pulse brighter. 3) Walking: two-frame walking animation, mid-stride with a determined expression. 4) Jumping: arms outstretched, energy cord trailing behind, pose suggesting upward momentum. All in a clean 16-bit pixel art style with a transparent background.
+
+Background Story:
+Kaelen is a Warden, a guardian trained from youth to maintain the balance within the sprawling, ancient world-tree known as the Veridian Heartwood. His people live in symbiosis with the massive tree, drawing energy from its life force to power their unique technologies. Recently, a blight has begun to corrupt the Heartwood, withering its branches and poisoning its sap. Kaelen discovered the source is a malevolent, ancient serpent named Okkar, who was imprisoned deep within the roots eons ago and is now breaking free. Kaelen's motivation is fiercely protective; the Heartwood is his home and the source of his power. His internal conflict stems from his reliance on the very energy Okkar is corrupting, forcing him to walk a fine line between using his abilities and succumbing to the blight's influence. If he fails, not only will his home be destroyed, but Okkar's corrupted army will spill out to consume the entire world, turning its lush landscapes into a desolate wasteland.
+
+Skill Tree:
+- Tier 1:
+  - Lash Hook: The energy cord can be shot out to grapple onto ledges and swing across gaps.
+  - Kinetic Yank: Yank light objects or small enemies towards you, interrupting their attacks.
+  - Pulse Shield: A quick burst from the gauntlet creates a temporary energy shield that blocks projectiles.
+- Tier 2:
+  - Zipline Mastery: Create temporary ziplines between two anchor points for swift traversal.
+  - Shield Breaker: The energy cord can now be whipped with force to shatter enemy shields and armor.
+  - Rebounding Swing: Gain the ability to kick off surfaces while swinging to change direction and gain height.
+- Tier 3:
+  - Voltaic Snare: The cord can ensnare multiple enemies at once, delivering a powerful electric shock.
+  - Propulsion Throw: Grab and throw enemies with immense force, causing them to damage others on impact.
+  - Blight Purge: Channel pure energy through the gauntlet to temporarily cleanse small areas of the corruption.

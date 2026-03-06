@@ -1,0 +1,26 @@
+Entry: 7609 / 7609
+
+Name: Elena Marsh
+
+Concept art Image Prompt:
+pixel art style, portrait of a young woman with short auburn hair and anxious expression, wearing a faded blue winter jacket with a torn sleeve, dark jeans and hiking boots, holding a flashlight in one hand, standing in a dimly lit wooden cabin interior with shadows casting long lines, warm candlelight glow from the left side, cold blue moonlight from a window on the right, horror atmosphere, detailed 16-bit aesthetic, muted earth tone color palette, subtle film grain effect
+
+Sprite sheet Image Prompt:
+pixel art style, sprite sheet of a young woman with short auburn hair wearing a blue winter jacket and dark jeans, 4 frames arranged horizontally on a 64x64 canvas, frame 1 standing with arms at sides looking forward, frame 2 crouching down examining the ground, frame 3 mid-walk with left leg forward, frame 4 jumping with knees tucked, each frame clearly separated, white background, 16-bit aesthetic, consistent proportions across all frames
+
+Background Story:
+Elena Marsh grew up in a quiet mining town shadowed by a dense mountain range, raised by her grandmother after her parents vanished during a hiking expedition. She returns to her childhood home after receiving a cryptic letter hinting that her parents might still be alive, drawing her into a nightmarish mystery. Driven by guilt over a childhood argument she never resolved with them, she seeks the truth at any cost. Her internal conflict stems from her paralyzing fear of the dark, a phobia she must confront while exploring abandoned mines and shadowed forests. Elena carries her father's old compass, a symbol of guidance she desperately clings to when panic sets in. As she uncovers disturbing secrets about the mountain and its history of disappearances, she must decide how much of herself she is willing to sacrifice. Her choices ripple through the lives of seven others who joined her on the mountain for different reasons. The butterfly effect of her decisions will determine who survives until dawn.
+
+Skill Tree:
+- Tier 1:
+  - Steady Nerves: Reduces the timing window penalty for failed quick-time events during calm moments.
+  - Keen Eye: Highlights interactable objects and clues within a small radius automatically.
+  - Quick Reflexes: Grants a second chance input window for single-button reaction prompts.
+- Tier 2:
+  - Survivor's Instinct: Reveals the general direction of the nearest safe room or hiding spot.
+  - Cold Read: Allows Elena to deduce character traits and potential betrayals through dialogue hints.
+  - Improviser: Enables use of environmental objects as temporary distraction tools.
+- Tier 3:
+  - Iron Will: Removes one "wrong choice" consequence per playthrough, altering a butterfly effect branch.
+  - Bond of Trust: Unlocks a unique cooperative action with one allied character during scripted chase sequences.
+  - Final Resolve: If Elena is the last survivor, she gains increased movement speed and stealth for the final chapter.

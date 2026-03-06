@@ -1,0 +1,26 @@
+Entry: 733 / 733
+
+Name: Vega
+
+Concept art Image Prompt:
+Pixel art concept art of a character, suspicious trench coat, slicked-back black hair, aviator sunglasses, leaning against a vintage sports car on a neon-lit city street at night. The character has a determined expression, holding a futuristic-looking pistol loosely at their side. The art style is gritty and detailed, with rain-slicked pavement reflecting pink and blue neon signs from 80s-style storefronts. Cinematic lighting, dark shadows contrasting with vibrant neon glows, 8-bit aesthetic with a limited color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, featuring a single character in four distinct animation frames. The character wears a dark trench coat and sunglasses. Frame 1: Standing idle with a confident stance, one hand in pocket. Frame 2: Crouching low, looking alert, coat pooling on the ground. Frame 3: Mid-walk cycle, coat flaring slightly, a determined stride. Frame 4: Jumping upwards, coat billowing, arms outstretched for balance. 8-bit style, clean lines, high contrast.
+
+Background Story:
+Vega clawed their way up from the gutters of the city's industrial district, earning a reputation as a reliable smuggler for the Synth-Syndicate. A high-stakes deal for a new synthetic compound went catastrophically wrong when a rival crew ambushed the exchange, leaving Vega with a destroyed shipment and a massive debt to the organization. Now, the Syndicate's collectors are circling, and the debt's interest is compounding violently. Vega's only way out is to seize control of the city's underground before the Syndicate decides to liquidate their assets permanently. This ambition is fueled by a deep-seated desire to no longer be anyone's pawn, to build something lasting from the city's chaotic energy. The internal conflict rages between a ruthless pragmatism necessary for survival and flickers of a moral code leftover from a simpler time. Every decision is a gamble, with Vega's freedom and very life hanging in the balance.
+
+Skill Tree:
+- Tier 1:
+  - Streetwise Haggling: Unlocks better prices at black market vendors and fences.
+  - Quick Draw: Increases draw speed and initial accuracy of all pistol-class weapons.
+  - Reinforced Treads: Reduces wear and tear on vehicles, lowering overall maintenance costs.
+- Tier 2:
+  - Silent Takedown: Enables stealthy melee eliminations from behind without raising alarms.
+  - Boosted Nitro: Enhances vehicle nitro boost duration and recharge rate for faster getaways.
+  - Ambidextrous: Allows dual-wielding certain one-handed weapons for increased firepower.
+- Tier 3:
+  - Kingpin's Reach: Temporarily summons Syndicate enforcers to aid in combat when health is critically low.
+  - Master Driver: Grants the ability to perform advanced vehicle maneuvers like J-turns and mid-air control.
+  - Untouchable: Provides a brief period of invulnerability and instantly repairs your vehicle upon achieving a multi-kill streak.

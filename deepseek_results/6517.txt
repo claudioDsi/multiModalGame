@@ -1,0 +1,26 @@
+Entry: 6517 / 6517
+
+Name: Kaelen, the Chroma Weaver
+
+Concept art Image Prompt:
+pixel art character concept, a young male fighter with spiky hair made of shifting spectral light, wearing a tattered hoodie over a kinetic energy suit that glows with prismatic colors. He stands confidently in a neon-drenched city street at night, one hand crackling with raw chroma energy, preparing to throw a punch. Dynamic angle, cinematic lighting with vibrant blues and pinks, bold outlines, anime-inspired style, detailed facial expression of determined focus.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames on a single row. Frame 1: Kaelen standing in a ready stance, hoodie details visible, subtle energy glow. Frame 2: Kaelen crouching low, one hand on the ground, energy flaring around his fist. Frame 3: Kaelen mid-walk cycle, legs apart, hoodie flowing back. Frame 4: Kaelen jumping with legs tucked, leaving a trail of chromatic energy behind him. clean lines, limited color palette.
+
+Background Story:
+Kaelen was a street artist who discovered he could manipulate light and color after an experimental graffiti incident gone wrong. He now battles to protect his city's vibrant underground culture from those who would impose monochromatic order upon it. His motivation stems from a deep belief that creativity and chaos are essential to human expression. He struggles with the fear that his powers might eventually drain the color from the world he loves if he uses them too recklessly. The stakes involve preserving the very soul of his metropolis, which is slowly being drained of its energy by a faceless corporation. He connects to the setting as a champion of the marginalized artists and freethinkers who give the city its unique character. His internal conflict pits his desire for peaceful creation against the necessity of violent confrontation to protect his way of life.
+
+Skill Tree:
+- Tier 1:
+  - Prismatic Jab: A quick, basic punch infused with shifting light that causes minor disorientation.
+  - Chroma Barrier: Projects a small, temporary shield of solid colored light that absorbs one incoming projectile.
+  - Spectral Slide: A quick dashing maneuver that leaves a fading afterimage, slightly altering his hitbox.
+- Tier 2:
+  - Hued Uppercut: A powerful rising punch that erupts in a burst of energy, launching opponents upward.
+  - Palette Swap: Briefly shifts his own color spectrum, making him temporarily intangible to attacks of a specific matching color.
+  - Mirage Assault: Dashes forward with a series of feints and afterimages, making the next strike difficult to block.
+- Tier 3:
+  - Final Spectrum: Unleashes a devastating beam of concentrated, pure white light that pierces through defenses.
+  - Rainbow Vortex: Creates a swirling field of chaotic color that damages and randomly applies status effects to anyone caught inside.
+  - True Color Form: Transforms momentarily into a being of pure light, dramatically increasing speed and power for a short duration.

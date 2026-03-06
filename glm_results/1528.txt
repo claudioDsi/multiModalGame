@@ -1,0 +1,26 @@
+Entry: 1528 / 1528
+
+Name: Zane
+
+Concept art Image Prompt:
+Pixel art illustration of Zane, a lean teenage boy with spiky orange hair and aviation goggles resting on his forehead. He wears a tattered green scarf, a sleeveless blue vest, and oversized hiking boots. He is standing on a floating ancient stone platform amidst lush, overgrown ruins, looking towards the horizon with a confident smirk. Beside him is a small, yellow, otter-like creature gesturing frantically. Vibrant sunset lighting, dense foliage background, distinct pixel art style, 32-bit color depth, high contrast, detailed shading, adventurous atmosphere.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Zane on a 64x64 pixel canvas. 4 frames arranged horizontally: 1) Standing idle pose with arms by side. 2) Crouching pose low to the ground. 3) Walking pose with one leg extended. 4) Jumping pose with knees tucked and arms raised. Orange spiky hair, green scarf, blue vest, big boots. Sharp pixel outlines, retro 3D platformer aesthetic, white background.
+
+Background Story:
+Zane was an ordinary teenager living in a secluded seaside hamlet until an expedition to a forbidden silo went wrong. His best friend, a reckless tinkerer, was exposed to a volatile energy source and transformed into a small, orange otter-weasel hybrid. Zane swears to find a way to reverse the transformation, carrying his friend on his shoulder as they traverse the continent. They must navigate ancient ruins, collect scattered power cores, and appease the local sages to unlock the path to the cure. Zane’s internal conflict lies in his stoic determination; while his friend babbles endlessly, Zane internalizes the guilt of the accident. The stakes grow as the dark energy begins to corrupt the land, forcing them to move quickly. Zane relies on his agility and fighting instincts to protect his transformed companion.
+
+Skill Tree:
+- Tier 1:
+  - Double Jump: Allows Zane to leap again in mid-air to reach higher ledges.
+  - Spin Kick: A rapid rotational attack that knocks back nearby enemies.
+  - Swim: Enables traversal through deep water bodies without taking damage.
+- Tier 2:
+  - Dash Punch: A quick forward lunge that breaks weak barriers and damages foes.
+  - Uppercut: Launches enemies into the air, allowing for follow-up combos.
+  - Dive Roll: A swift evasion move that grants momentary invincibility.
+- Tier 3:
+  - Super Launch: Uses charged energy to spring high into the air to reach secret areas.
+  - Ground Slam: A powerful downward strike that creates a shockwave affecting a wide area.
+  - Dark Shield: Creates a temporary energy barrier that absorbs all incoming damage.

@@ -1,0 +1,26 @@
+Entry: 478 / 478
+
+Name: Valerius Thorne
+
+Concept art Image Prompt:
+Pixel art concept art of Valerius Thorne, a rugged dark fantasy mercenary with a scarred face and silver-streaked dark hair tied back. He wears weathered leather armor with subtle arcane etchings, a heavy fur-collared cloak, and worn steel boots. He stands in a defensive pose holding a runic longsword. The background is a misty, desaturated swamp with twisted dead trees. Lighting is dim and moody with moonlight highlighting the edges of the character. Style: 16-bit pixel art, detailed, dark fantasy aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Valerius Thorne on a 64x64 canvas. The sheet contains 4 frames arranged horizontally. Frame 1: Standing pose, hand on sword hilt, idle breathing. Frame 2: Crouching pose, examining the ground. Frame 3: Walking pose, mid-stride with cloak flowing. Frame 4: Jumping pose, legs tucked, sword raised. The character wears weathered leather armor and a fur collar. Background is transparent. Style: 16-bit pixel art, dark fantasy color palette.
+
+Background Story:
+Valerius Thorne was born into a caste of magically altered wardens, trained from childhood to hunt the beasts that stalk the borderlands between warring nations. While serving as a personal bodyguard for the Northern Monarch, he was knocked unconscious during a chaotic coup, awakening to find the King dead and the murder weapon in his hand. Framed for the assassination by a shadowy cabal seeking to destabilize the region, he is now hunted by both the crumbling Northern Alliance and the invading Obsidian Empire. Valerius must navigate a treacherous political landscape, using his unique sensory abilities to track the true killer. His journey is complicated by the slow erosion of his humanity caused by the very mutations that make him a formidable fighter. With the continent on the brink of total war, he seeks to uncover the truth not for glory, but to silence the whispers that brand him a kingslayer. Every step closer to the truth forces him to confront the moral ambiguity of the leaders he once blindly served.
+
+Skill Tree:
+- Tier 1:
+  - Runic Cleave: Valerius infuses his blade with energy to deliver a sweeping attack that hits multiple enemies in front of him.
+  - Hunter's Sense: Activates a heightened sensory mode allowing the player to see enemy weak points and hidden tracks in the environment.
+  - Defensive Stance: Valerius braces for impact, reducing incoming physical damage and restoring a small amount of stamina for each hit blocked.
+- Tier 2:
+  - Shadow Step: A quick teleportation ability that allows Valerius to dash behind an enemy instantly, granting a temporary damage bonus for backstabs.
+  - Arcane Trap: Deploys a magical snare on the ground that immobilizes the first enemy to walk over it and applies a damage-over-time effect.
+  - Alchemical Adaptation: Passive skill that grants resistance to status ailments like poison and bleed, converting a portion of damage taken into stamina.
+- Tier 3:
+  - Avatar of Vengeance: Temporarily transforms Valerius into a spectral wraith, drastically increasing attack speed and allowing his attacks to ignore enemy armor.
+  - Chrono-Stasis: Creates a localized field that slows down time for all enemies within a radius, allowing for strategic repositioning or uninterrupted combos.
+  - Executioner's Resolve: A passive mastery skill where every kill restores a significant portion of health and cooldowns, turning Valerius into a relentless force on the battlefield.

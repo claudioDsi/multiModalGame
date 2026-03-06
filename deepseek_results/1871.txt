@@ -1,0 +1,26 @@
+Entry: 1871 / 1871
+
+Name: Elias Vance
+
+Concept art Image Prompt:
+pixel art, portrait of Elias Vance, a thoughtful man in his late 20s with disheveled brown hair and weary eyes, wearing a rumpled trench coat over a simple t-shirt and jeans, holding a flickering flashlight in a dimly lit, rainy urban alleyway, cinematic lighting with neon signs reflecting on wet pavement, detailed pixel art style, moody and atmospheric
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 4 frames on a 64x64 canvas, character: Elias Vance, a man in a trench coat, frame 1: standing neutral, frame 2: crouching low, frame 3: mid-walk cycle, frame 4: mid-air jump, simple pixel art style, clear poses
+
+Background Story:
+Elias Vance was a paramedic whose life was irrevocably changed during a city-wide blackout that triggered a series of unexplained, reality-bending events. He now possesses a fractured perception, allowing him to see glimpses of potential futures and the hidden emotional echoes people leave behind. His motivation is to uncover the truth behind the "Silence," the name he's given to the phenomenon that is subtly erasing and rewriting the world around him. He is driven by a deep-seated guilt over patients he couldn't save, fearing the Silence is a manifestation of a collective trauma he failed to prevent. His internal conflict arises from the toll his ability takes; each vision is a draining experience, blurring the line between his sanity and his power. The stakes are the very fabric of his city and the memories of its inhabitants, which are slowly being sanitized and lost forever. Elias must navigate a world where the past is unstable and the future is a shifting mosaic of possibilities. He connects to the setting as a reluctant anchor, a person tethered to the fading truth in a reality that is choosing to forget.
+
+Skill Tree:
+- Tier 1:
+  - Flashlight Focus: Concentrates the beam to temporarily solidify a fading environmental object.
+  - Emotional Echo: Perceive the residual emotional signature left on an object or location.
+  - Quick Reflexes: Slightly increases the speed of interaction with the environment.
+- Tier 2:
+  - Futures Glimpse: See a brief, hazy premonition of an immediate environmental outcome.
+  - Persuasive Aura: Makes characters more receptive to dialogue based on perceived emotional states.
+  - Steady Hand: Reduces the instability of visions, making them clearer and less disorienting.
+- Tier 3:
+  - Moment of Clarity: Creates a small, stable bubble of reality where the Silence's influence is nullified.
+  - Rewind Echo: Briefly reverse a recent change in a small area, restoring a previous state.
+  - Resonant Truth: Forces a character to confront a hidden memory, unlocking critical information.

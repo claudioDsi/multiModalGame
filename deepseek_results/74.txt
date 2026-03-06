@@ -1,0 +1,26 @@
+Entry: 74 / 74
+
+Name: Kaelen Valerius
+
+Concept art Image Prompt:
+pixel art, character concept, a heroic space commander in a sleek, form-fitting enviro-suit with glowing blue tactical highlights and a personalised shoulder pauldron, standing resolutely on the observation deck of a starship, viewing a nebula-filled galaxy through a large viewport. The commander has a determined expression, short-cropped hair, and holds a futuristic blaster rifle resting on their shoulder. The lighting is dramatic, with cool blue light from the viewport casting long shadows, cinematic lighting, detailed pixel art, 16-bit style.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames for a space commander character: 1) standing facing forward in a tactical stance, 2) crouching low with blaster pistol aimed, 3) walking mid-stride with determined expression, 4) jumping with a boost from leg jets, sleek blue-and-grey armored suit, simplified details for small scale, 16-bit era style, clear readable poses.
+
+Background Story:
+Kaelen Valerius was a promising tactical analyst for the Galactic Accord, until the day the Aegis Syndicate shattered their home world. Surviving the initial bombardment, Kaelen escaped with little more than a stolen Syndicate dataspike containing vital intelligence. Now branded a fugitive, they operate from a battered but nimble frigate, coordinating the scattered remnants of the resistance. Kaelen is driven by a profound guilt for those left behind, a burden that fuels their relentless campaign. Their internal conflict arises from the weight of command, knowing every alliance forged and every sacrifice demanded rests solely on their shoulders. The stakes are absolute; failure means the complete subjugation of the galaxy under the Syndicate's brutal tyranny. Kaelen's unique insight into Syndicate protocols, gleaned from the stolen data, makes them both a valuable leader and a prime target.
+
+Skill Tree:
+- Tier 1:
+  - Reflex Booster: Increases movement speed and evasion rate.
+  - Tactical Analysis: Highlights enemy weak points for a short duration.
+  - Rapid Recharge: Slightly accelerates shield and health regeneration.
+- Tier 2:
+  - Interrupting Volley: A prompt-based action that can stagger enemies during their attacks.
+  - Alliance Protocol: Temporarily boosts the combat effectiveness of nearby allied crew members.
+  - Shield Capacitor: Allows for a single, powerful shield overload that damages nearby foes.
+- Tier 3:
+  - Sacrificial Gambit: Briefly grants immense power at the cost of a permanent reduction to maximum health.
+  - Galactic Diplomacy: Opens up unique conversation paths, potentially avoiding combat with certain factions.
+  - Final Stand: When health is critically low, fire rate and damage are massively increased.

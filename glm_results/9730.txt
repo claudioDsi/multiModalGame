@@ -1,0 +1,26 @@
+Entry: 9730 / 9730
+
+Name: Elias Thorne
+
+Concept art Image Prompt:
+Pixel art style, medium shot, a contemplative person in early thirties with short tousled brown hair, wearing a worn olive-drab field jacket over a faded gray t-shirt, cargo pants, and hiking boots, holding a handheld radio, standing on a wooden fire lookout tower platform at golden hour, vast pine forest stretching into the distance below, warm sunset lighting casting long shadows, mountains on the horizon, slight wind affecting hair and clothing, introspective expression looking toward the horizon, muted earth tone color palette, detailed 16-bit pixel art aesthetic, atmospheric lighting, sense of isolation and quiet mystery.
+
+Sprite sheet Image Prompt:
+Pixel art style, sprite sheet on transparent background, total canvas size 64x64 pixels, character viewed from behind wearing olive-drab field jacket, cargo pants, and hiking boots with short brown hair, 4 animation frames arranged horizontally: standing still pose with arms at sides, crouching low pose examining the ground, walking mid-stride pose with one leg forward, jumping pose with body elevated and arms raised for balance, each frame showing the full character body, consistent character design throughout all frames, limited earth tone color palette with greens and browns, clean crisp pixel lines, retro game aesthetic.
+
+Background Story:
+Elias Thorne grew up in a quiet coastal town where days were measured by the rhythm of fishing boats and fog rolling in from the sea. After a series of personal losses and a relationship that ended in bitter silence, Elias made the impulsive decision to spend a summer as a fire lookout in the remote mountain wilderness, seeking solitude and a chance to think. The job seemed simple enough: watch for smoke, report anything unusual, and maintain the tower. But as the weeks stretched on, Elias began noticing odd patterns in the forest—unexplained lights at night, strange radio interference, and footprints that appeared where no one should have walked. The only lifeline to the outside world is a voice on the other end of a handheld radio, a supervisor stationed at another tower, whose casual observations gradually turn into concerned questions about what Elias might be seeing. Elias must navigate not only the physical dangers of the wilderness but also the creeping sense that something larger is at play, something that may be connected to the very reasons for fleeing to the mountains in the first place. The summer becomes a journey of confronting old wounds while questioning what is real and what is merely the echo of a troubled mind seeking patterns in chaos.
+
+Skill Tree:
+- Tier 1:
+  - Orienteering: Reveals hidden trails and paths on the map when surveying from high vantage points.
+  - Keen Sight: Highlights interactive objects and points of interest within a wider visual radius.
+  - Radio Protocol: Reduces static interference during transmissions, unlocking additional dialogue options with the supervisor.
+- Tier 2:
+  - Tracker's Instinct: Allows identification of footprints and disturbances, revealing how recently an area was visited.
+  - Cartographer: Automatically logs detailed terrain features and landmarks when exploring new locations.
+  - Steady Hand: Enables longer focus through binoculars without visual drift or stamina loss.
+- Tier 3:
+  - Sixth Sense: Creates a subtle visual cue when something significant is nearby but not yet visible.
+  - Signal Decrypter: Picks up faint mysterious radio transmissions that reveal hidden story fragments.
+  - Wilderness Endurance: Reduces stamina drain when traversing difficult terrain or during adverse weather conditions.

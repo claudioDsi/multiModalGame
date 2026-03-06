@@ -1,0 +1,26 @@
+Entry: 9630 / 9630
+
+Name: Ellis Draven
+
+Concept art Image Prompt:
+Pixel art character concept of Ellis Draven, a young survivor with short messy dark hair and a determined expression, wearing a weathered brown canvas jacket with patched sleeves, faded grey cargo pants, scuffed leather boots, and a vintage gas mask hanging around the neck. Standing in a confident cross-armed pose facing forward, surrounded by a post-nuclear wasteland environment with crumbling concrete structures, scattered debris, and a hazy amber sky. Warm sunset lighting casting long dramatic shadows. Art style tags: 16-bit pixel art, detailed sprite work, post-apocalyptic aesthetic, earth tone palette, atmospheric perspective, retro game art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Ellis Draven on a 64x64 pixel canvas, 4 distinct frames arranged horizontally: frame 1 standing pose with arms at sides and subtle idle breathing; frame 2 crouching pose with one knee down and hands near the ground; frame 3 walking pose mid-stride with slight forward lean; frame 4 jumping pose with legs tucked and arms extended for balance. Character has short dark hair, worn canvas jacket, and cargo pants in each frame. Clean white background for transparency. Art style tags: 16-bit pixel art, clean linework, game asset, retro gaming aesthetic, consistent character design across all poses.
+
+Background Story:
+Ellis Draven was born inside Haven-7, a subterranean bunker designed to preserve humanity through the nuclear winter. For twenty-three years, they trained as an engineer, maintaining the ancient systems that kept their community alive. When the bunker's life support catastrophically failed, Ellis was the only one to reach the emergency exit in time. They emerged into a sun-scorched wasteland where mutated creatures and desperate scavengers fight over the remnants of the old world. Ellis's goal is to construct a regional power grid, bringing electricity and hope back to the scattered settlements. Internally, they battle the guilt of being the sole survivor and the paralyzing fear that they are not strong enough for this world. Every person they meet tests their ability to trust again after years of isolation. The wasteland is unforgiving, but Ellis carries the technical knowledge and determination needed to rebuild civilization.
+
+Skill Tree:
+- Tier 1:
+  - Salvage Efficiency: Collect 25% more materials from scrap piles and ruined structures.
+  - Rad-Resistance: Reduce radiation damage from environmental hazards by 15%.
+  - Sharp Eyes: Highlight lootable objects and detect nearby threats through walls.
+- Tier 2:
+  - Jury-Rigging: Craft weapons and tools from improvised parts without a workbench.
+  - Negotiator: Unlock additional dialogue options and receive better prices with traders.
+  - Steady Aim: Increase accuracy with all ranged weapons while moving.
+- Tier 3:
+  - Settlement Architect: Build and upgrade community structures with reduced resource cost.
+  - Inspiration: Allied NPCs gain bonuses to damage and health when near you.
+  - Enduring Spirit: Once per day, survive a fatal blow with 1 health point remaining.

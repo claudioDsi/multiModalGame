@@ -1,0 +1,26 @@
+Entry: 26845 / 26845
+
+Name: Valerius Thorne
+
+Concept art Image Prompt:
+Pixel art style, vertical portrait, character Valerius Thorne, a tall male mercenary-turned-professor with short silver hair and a stern expression. He wears a dark blue high-collared academic tunic reinforced with light silver armor plates on the shoulders and leather gloves. A heavy iron sword is sheathed at his hip. He stands with arms crossed in a cobblestone courtyard of an ancient stone fortress-academy with tall spires in the background. Warm sunset lighting casting long shadows, detailed shading, 16-bit era style, intricate background details, muted color palette.
+
+Sprite sheet Image Prompt:
+Pixel art style, sprite sheet layout, 4 frames in a row, canvas size 64x64 pixels. Character Valerius Thorne, chibi proportion, short silver hair, blue tunic, silver shoulder plates. Frame 1: Standing idle pose with hand resting on sword hilt. Frame 2: Crouching low holding sword forward defensively. Frame 3: Walking mid-stride with cloak flowing behind. Frame 4: Jumping with legs tucked and sword raised overhead. White background, clean distinct outlines, limited color palette, sharp pixels.
+
+Background Story:
+Valerius Thorne spent a decade as a cold-blooded mercenary, selling his tactical genius to the highest bidder until a tragic loss made him question the cost of his contracts. Wandering aimlessly, he was intercepted by envoys from the Iron Concord, an ancient order dedicated to preserving the fragile peace of the continent. Impressed by his unique combat prowess and ability to inspire loyalty in chaotic situations, the Grand Archon invites him to serve as a professor at the Spire of Aethelgard. There, he must choose to mentor one of three distinct student houses, each representing a different regional philosophy of war. Though he initially refuses to take responsibility for young lives, he realizes that the growing darkness in the East requires a new generation of heroes to combat it. Valerius struggles to transition from a soldier who follows orders to a teacher who must give them, fearing his own checkered past will lead his students astray. As mysterious forces assault the borders of the land, he must guide his chosen students through rigorous academic trials and brutal tactical battles. Ultimately, the house he chooses to lead will determine the political landscape of the kingdom and the fate of the world.
+
+Skill Tree:
+- Tier 1:
+  - Rallying Cry: Grants a small attack boost to all allies within a two-tile radius.
+  - Defender's Stance: Allows Valerius to reduce incoming damage by 30% when not acting.
+  - Field Lesson: Teaches a selected student a temporary passive skill for the duration of the battle.
+- Tier 2:
+  - Tactical Shift: Allows a selected student unit to move again after acting, once per turn.
+  - Gambit Command: Deploys a unique battalion of soldiers to attack a specific grid area.
+  - Professor's Insight: Reveals hidden enemy placements and increases critical hit rate for the squad.
+- Tier 3:
+  - Winds of Change: Completely reverses the turn order, forcing enemies to act last for two cycles.
+  - Divine Retribution: Unleashes a massive AOE attack that ignores terrain cover and defense stats.
+  - Legacy Unlocked: Permanently unlocks a hidden potential in a chosen student unit during battle.

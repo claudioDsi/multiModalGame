@@ -1,0 +1,26 @@
+Entry: 2289 / 2289
+
+**Name:** Vespera
+
+**Concept art Image Prompt:**
+A young woman with short, silver hair and piercing blue eyes stands in a derelict, futuristic temple. She wears a form-fitting grey and black combat jumpsuit with glowing cyan accents. In her hands, she holds a sleek, high-tech bow made of polished metal and shimmering energy. Her pose is alert and ready, one foot slightly forward. The scene is lit by shafts of light breaking through a crumbling ceiling, casting long shadows and highlighting floating dust motes. The art style should be detailed pixel art, reminiscent of 1990s sci-fi anime.
+
+**Sprite Sheet Image Prompt:**
+A pixel art sprite sheet of a female archer in a grey and cyan jumpsuit. Create four distinct animation frames on a 64x64 canvas: a standing idle pose with a slight sway, a crouching pose aiming her bow, a two-frame walking cycle, and a jumping pose with legs tucked. The style should be clean, 16-bit era pixel art.
+
+**Background Story:**
+Vespera was engineered in a secret laboratory to be the ultimate competitive warrior, her life a series of simulated battles. She broke free from her creators, but now drifts through a fractured network of tournament circuits, a ghost with no past. Her motivation is not to win glory, but to discover if a creation like her can have a soul beyond programming. This internal conflict pits her cold, tactical upbringing against flickers of genuine emotion she feels in the heat of battle. The stakes are her very identity; each tournament victory feels hollow, yet a loss could mean being tracked and re-captured by the shadowy corporation that made her. She connects to the setting as a nameless legend, a glitch in the system that other competitors whisper about, a reminder that even in a world built for sport, something wild and real can emerge.
+
+**Skill Tree:**
+- Tier 1:
+  - **Synthetic Reflexes**: Increases attack speed for a short duration after a perfect dodge.
+  - **Phantom Volley**: Fires three arrows in a quick, spreading arc.
+  - **Energy Siphon**: Basic attacks against enemies restore a small amount of stamina.
+- Tier 2:
+  - **Kinetic Redirection**: Upon taking damage, a portion of it is converted into energy for your next special attack.
+  - **Holographic Decoy**: Deploys a short-lived decoy that draws enemy aggression.
+  - **Phase Arrow**: Your next arrow shot passes through obstacles and shields.
+- Tier 3:
+  - **Overclock**: Temporarily removes stamina costs and doubles all damage output, but causes a self-stun effect once it expires.
+  - **Cascade Failure**: Hitting an enemy with a charged shot causes a chain reaction of damage to nearby foes.
+  - **Zero Point Echo**: Firing the final arrow in your quiver creates a massive, screen-clearing shockwave.

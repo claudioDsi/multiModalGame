@@ -1,0 +1,26 @@
+Entry: 7292 / 7292
+
+Name: Varin
+
+Concept art Image Prompt:
+Pixel art style character concept of Varin, a tall male fighter wearing jagged obsidian armor with glowing violet runic etchings. He wears a half-mask covering his lower face, revealing glowing eyes. He stands in a fighting stance with one hand open, summoning a purple dimensional rift. Background is a dark, stone-walled dungeon with torchlight. Art style tags: detailed pixel art, 2D fighting game, dark fantasy, vibrant purple highlights against dark grey.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 canvas, white background. The character is Varin in dark armor with purple energy effects. Four distinct frames: 1) Standing idle in a menacing guard pose. 2) Crouching low with one hand on the ground. 3) Walking forward with a heavy stride. 4) Jumping in the air with knees tucked and fists raised. Consistent color palette, clear outlines, suitable for animation.
+
+Background Story:
+Varin was once a loyal sentinel guarding the ancient interdimensional gates, until a catastrophic breach trapped him in the Void for decades. Exposure to this raw energy altered his physiology, granting him the ability to manipulate gravity and space at the cost of his sanity. He fights his way back to the material realm, driven by a fragmented memory of his duty and a burning desire to punish those who abandoned him. His internal conflict rages between his remaining humanity and the hollow, destructive whispers of the Void that now sustain him. He seeks to challenge the current champions of the tournament to prove his dominance and reclaim his post. The stakes are high, as his presence threatens to tear the fabric of reality if he remains unchecked.
+
+Skill Tree:
+- Tier 1:
+  - Void Step: Instantly teleports behind the opponent to initiate a combo.
+  - Kinetic Palm: Strikes the ground to create a shockwave that hits low.
+  - Rift Shield: Absorbs a single projectile hit and stores the energy.
+- Tier 2:
+  - Gravity Crush: An EX move that increases the opponent's gravity, preventing them from jumping for 5 seconds.
+  - Spectral Blade: Summons a temporary weapon extension for increased reach on standard punches.
+  - Phase Dash: Passes through enemies and projectiles, leaving a damaging afterimage.
+- Tier 3:
+  - Event Horizon: An X-Ray move where Varin creates a micro-black hole that crushes the opponent's ribcage before exploding.
+  - Singularity Strike: A powerful uppercut that knocks the opponent into a portal, dropping them back down for a ground slam.
+  - Spatial Rend: A Fatality move where Varin rips a hole in space, slicing the opponent in half vertically.

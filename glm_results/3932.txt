@@ -1,0 +1,26 @@
+Entry: 3932 / 3932
+
+Name: Dravos Ironhand
+
+Concept art Image Prompt:
+Pixel art style, full body character portrait of a battle-hardened gladiator trainer, male, late 30s, muscular build with visible scars across chest and arms, short dark hair with streaks of grey, determined brown eyes, wearing leather gladiatorial armor with metal shoulder pauldrons, forearm bracers with embedded iron studs, worn combat sandals, arms crossed over chest, standing confidently in a torch-lit stone arena corridor, warm firelight casting deep shadows, earth tones and steel accents, 16-bit SNES RPG character art style, detailed sprite aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art style, sprite sheet of a gladiator trainer character, 4 distinct frames arranged horizontally on a transparent background, canvas size 64x64 pixels, frame 1: standing idle with arms crossed and weight shifted slightly, frame 2: crouching defensive stance with one knee down and fists raised, frame 3: walking stride mid-step with cape flowing, frame 4: leaping jump with legs tucked and arms raised overhead, consistent character design with leather armor and metal bracers, limited color palette with earth tones, clean pixel outlines, retro RPG aesthetic.
+
+Background Story:
+Dravos Ironhand was once the champion of the Grand Colosseum, undefeated for seven seasons until a corrupt noble paid his own stablemaster to ensure a losing match. Left for dead in the aftermath and sold into indentured servitude, Dravos spent years in the fighting pits of the outer provinces, honing his craft and biding his time. He eventually earned his freedom through a series of brutal exhibition matches, emerging with a reputation as a fighter who never surrenders and never breaks. Now returned to the capital city, Dravos seeks to build his own gladiator school from nothing, recruiting society's castoffs and forging them into champions. He is driven by a desire for vengeance against the noble who wronged him, but struggles with the morality of sending others into the arena to achieve his goals. The memory of every fighter he has lost haunts him, and he carries a small stone token from his first fallen recruit as a reminder of the cost of ambition. Dravos believes that glory earned through honor is the only glory worth having, even in a world that rewards treachery.
+
+Skill Tree:
+- Tier 1:
+  - Iron Guard: Reduces incoming damage by 15% for one turn when defending.
+  - Rallying Shout: Grants a small attack bonus to all allies for the next round.
+  - Shoulder Charge: Deals moderate damage and has a chance to stagger the enemy.
+- Tier 2:
+  - Counter Stance: Automatically retaliates against the next melee attack received.
+  - Veteran's Insight: Reveals enemy weakness and increases critical hit chance by 10%.
+  - Formation Tactics: Swaps positions with an ally to protect weakened party members.
+- Tier 3:
+  - Unbroken Will: Once per battle, survives a fatal blow with 1 health and gains a temporary strength boost.
+  - Colosseum Legend: Inspires all allies, granting them immunity to fear effects and a major defense boost for three turns.
+  - Final Verdict: Delivers a powerful finishing strike that deals massive damage to enemies below 25% health.

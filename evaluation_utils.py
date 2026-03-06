@@ -233,7 +233,7 @@ def export_bertscore_results_to_csv(
     output_csv_path: str,
 ) -> None:
     """
-    Export results to CSV including generated_skill_tree.
+    Export gpt_oss_results to CSV including generated_skill_tree.
     """
     fieldnames = [
         "game_id",
@@ -254,7 +254,7 @@ def export_bertscore_results_to_csv(
             row = {k: r.get(k, "") for k in fieldnames}
             writer.writerow(row)
 
-    print(f"BERTScore results exported to: {output_csv_path}")
+    print(f"BERTScore gpt_oss_results exported to: {output_csv_path}")
 
 
 def compute_bertscore_for_games_and_export(
@@ -598,8 +598,8 @@ if __name__ == "__main__":
 
     compute_bertscore_for_games_and_export(
         original_csv_path="characters.csv",
-        generated_txt_root="results",
-        output_csv_path="bertscore_report.csv",
+        generated_txt_root="glm_results",
+        output_csv_path="bertscore_report_glm.csv",
         games_column="games",
         original_story_column="description",
         max_games=58,
@@ -610,9 +610,9 @@ if __name__ == "__main__":
     )
 
     stats = compute_report_statistics(
-        report_csv_path="bertscore_report.csv",
+        report_csv_path="bertscore_report_glm.csv",
         length_unit="words",
-        output_csv_path="bertscore_report_stats.csv",
+        output_csv_path="bertscore_report_stats_glm.csv",
     )
 
     print(stats["avg_original_length"], stats["avg_generated_length"], stats.get("avg_f1"))

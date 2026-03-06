@@ -1,0 +1,26 @@
+Entry: 2993 / 2993
+
+Name: Corvin Graves
+
+Concept art Image Prompt:
+Pixel art of a tall, gaunt man with shoulder-length tousled black hair streaked with iridescent dark feathers. Sharp angular face with pale gray eyes and a faint scar across the left cheek. Wearing a worn charcoal trench coat over a dark vest, white shirt with frayed collar, loose tie, and black trousers. A silver raven-shaped charm hangs from his wrist. Standing in a rain-slicked noir alleyway at night, neon signs reflecting off puddles, dramatic shadows cast by flickering street lamps. Cigarette smoke drifting. Dark muted color palette with deep purple and midnight blue highlights. 16-bit pixel art style, cinematic composition, moody atmospheric lighting.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 pixel canvas. Four frames arranged horizontally. Frame 1: Standing pose with hands in trench coat pockets, slight brooding posture, facing right. Frame 2: Crouching position with one knee down, alert stance, facing right. Frame 3: Walking animation mid-stride, coat tails flowing backward, facing right. Frame 4: Jumping pose with arms raised and coat flaring dramatically, facing right. Tall thin silhouette, black hair, gray eyes, dark trench coat and vest. Consistent dark color palette with silver charm visible on wrist. Clean pixel outlines, no anti-aliasing, retro game aesthetic.
+
+Background Story:
+Corvin Graves was once a raven messenger spirit in the service of the ancient courts, ferrying secrets between the realm of mortals and the hidden world of mythical beings. His punishment for delivering a forbidden truth to a mortal lover was exile into permanent human form, stripped of his wings but retaining his preternatural perception and shadowy abilities. For decades, he has walked the rain-soaked streets of the city as a private investigator, using his knowledge of the hidden world to solve cases that blur the line between mundane crime and something far more sinister. When an ancient relic—the last remnant of the old laws that kept mythical and mortal worlds separate—is brutally destroyed along with its keeper, Corvin finds himself drawn into a conspiracy threatening to unravel the fragile peace. His internal struggle between ancient predatory instincts and his hard-won human conscience becomes a constant battle as he hunts for answers. Every decision he makes threatens to expose secrets that could destroy both worlds. The killer's trail leads through a web of mythical politics, old grudges, and betrayals that hit dangerously close to his own cursed past.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Sight: Corvin perceives hidden mythical auras and sees through supernatural disguises in the environment.
+  - Raven's Whisper: Gathers rumors and secrets from the city's shadow network of informants and hidden sources.
+  - Trench Coat Concealment: Stores improvised weapons, evidence, and tools without detection during searches.
+- Tier 2:
+  - Feathered Step: Silent movement allows Corvin to sneak past enemies and access restricted areas undetected.
+  - Memory of Flight: Briefly levitates to reach high ledges, escape danger, or dodge incoming attacks.
+  - Harbinger's Intuition: Predicts enemy movements in combat and identifies lies during interrogations.
+- Tier 3:
+  - Murder of Shadows: Summons a flock of shadow ravens to disorient, distract, and damage multiple enemies at once.
+  - Ancient Oath: Once per episode, call upon old favors owed by powerful mythical beings for assistance or information.
+  - True Form Awakening: Partially transforms into his raven spirit form, gaining enhanced speed, perception, and intimidation for a limited duration.

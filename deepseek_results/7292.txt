@@ -1,0 +1,26 @@
+Entry: 7292 / 7292
+
+Name: Kaelen, The Chronos Warden
+
+Concept art Image Prompt:
+pixel art concept art of a male fantasy time warrior in a desolate canyon at dawn. The character has white hair and glowing cyan tattoos across his torso and arms. He wears segmented bronze armor over a black undersuit, with a cracked hourglass symbol on his chest. He stands in a ready stance, one hand wreathed in shimmering temporal energy, the other holding a crystalline blade that flickers with stopped time. The environment features floating rocks and twisted, petrified trees under a dual-colored sky. dynamic lighting, detailed armor, high contrast, trending on artstation
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames depicting a male time warrior character with white hair and glowing cyan tattoos. Frame 1: standing neutral pose with crystalline blade at his side. Frame 2: crouching low with blade extended forward. Frame 3: mid-walk cycle with forward momentum. Frame 4: jumping with legs tucked, blade pointing downward. Character wears segmented bronze armor with glowing accents. clean lines, limited palette, fighting game sprite style
+
+Background Story:
+Kaelen was the last guardian trained in the Chronos Temple before it fell to the temporal rift. His order dedicated themselves to protecting the flow of time itself from outside interference. When the dimensional barriers fractured, Kaelen witnessed his entire brotherhood erased from existence in a single paradoxical event. Now he wanders the battle-scarred realms, seeking those responsible for tampering with time. He believes restoring temporal balance will bring back his fallen comrades, but each use of his time-bending powers further destabilizes reality. Kaelen fights with the desperation of someone who has nothing left to lose, yet every victory risks creating new catastrophes. The very fabric of time unravels with each conflict, forcing him to choose between honoring his past and securing any future at all.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Slash: Basic combo starter that briefly slows opponents on hit
+  - Chronal Step: Dash attack that leaves after-images confusing the enemy
+  - Stasis Field: Creates a small area that reduces incoming attack speed
+- Tier 2:
+  - Paradox Uppercut: Launches opponent into temporal instability, extending combo windows
+  - Echo Strike: Projects a delayed attack mirroring your last move
+  - Time Locket: Perfect block rewinds opponent slightly, creating punish opportunities
+- Tier 3:
+  - Chrono-Breaker: X-Ray move that freezes the opponent before delivering a timeline-shattering blow
+  - Reality Fracture: EX move that summons temporal shards from alternate timelines
+  - Final Moment: Fatality trigger that ages the opponent to dust within a accelerated time bubble

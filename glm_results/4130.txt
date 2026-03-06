@@ -1,0 +1,26 @@
+Entry: 4130 / 4130
+
+Name: Cade Vortex
+
+Concept art Image Prompt:
+Pixel art portrait of a rugged male mercenary with slicked-back silver hair and a jagged scar across his jaw, wearing weathered gray combat armor with glowing amber energy strips along the seams, holding a massive overclocked railgun rifle over his shoulder, standing atop floating debris in a collapsing time vortex dimension, swirling portals of blue and purple energy in background, confident stance with a cocky smirk, dynamic dramatic lighting with harsh shadows, 16-bit console aesthetic, detailed retro game protagonist art.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on 64x64 canvas, featuring a rugged male mercenary with silver slicked-back hair and amber-accented gray combat armor, 4 animation frames arranged in a row: frame 1 standing pose with rifle held at hip and relaxed stance, frame 2 crouching pose kneeling on one knee with rifle aimed forward, frame 3 walking pose in mid-stride with weapon ready, frame 4 jumping pose airborne with knees tucked and rifle raised overhead, each frame clearly separated with consistent proportions, clean dark outlines, 16-bit retro game style, transparent background.
+
+Background Story:
+Cade Vortex was a top operative for the Temporal Defense Coalition until a sabotaged mission left him stranded in a shattered timeline where humanity faces extinction across multiple eras. The explosion that displaced him also embedded chronal energy into his DNA, granting him enhanced reflexes and the ability to sense rifts between time periods. Driven by revenge against the traitor who set him up, Cade now works as a mercenary, selling his unique talents to the highest bidder while secretly hunting for clues to his betrayer's identity. His internal conflict stems from his growing attachment to the people he meets across timelines—knowing he can never stay, he struggles between emotional detachment and his innate desire to protect the innocent. The stakes rise when he discovers that the same conspiracy that destroyed his timeline is systematically collapsing others, and only someone who exists outside normal time can stop it. Cade's attitude and combat skills make him the perfect weapon for this temporal war, but his heart may be his ultimate weakness.
+
+Skill Tree:
+- Tier 1:
+  - Rift Dash: Instantly teleport a short distance forward, passing through solid objects and enemies.
+  - Overcharge: Temporarily double weapon fire rate for 5 seconds with reduced accuracy.
+  - Salvage: Recover ammunition from defeated enemies automatically.
+- Tier 2:
+  - Time Echo: Spawn a decoy that mimics your last action to confuse and distract enemies.
+  - Hardlight Shield: Project a frontal energy barrier that absorbs incoming damage.
+  - Chronal Grenade: Throw an explosive that creates a slow-motion zone, reducing enemy speed by 50%.
+- Tier 3:
+  - Temporal Storm: Activate slow-motion for the entire battlefield for 10 seconds while you move at normal speed.
+  - Rift Walker: Gain permanent double jump and immunity to fall damage.
+  - Last Stand: When health drops to critical, become invulnerable for 3 seconds and unleash a shockwave that damages all nearby enemies.

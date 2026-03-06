@@ -1,0 +1,26 @@
+Entry: 7609 / 7609
+
+Name: Elara Vance
+
+Concept art Image Prompt:
+pixel art concept art of a woman in her late 20s with tired eyes and practical short-cut dark hair, wearing a worn leather jacket over a simple shirt and durable cargo pants with multiple pockets, holding a flickering electric lantern in a defensive stance, standing in a rain-soaked alleyway with eerie graffiti and distant shadowy figures, cinematic lighting with dramatic shadows and highlights from the lantern, dark and moody color palette with splashes of neon reflection on wet pavement, detailed pixel art style reminiscent of horror adventure games
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet on 64x64 canvas showing a woman character in 4 poses: standing alert holding a lantern, crouching low while inspecting the ground, walking cautiously while glancing sideways, jumping over a small obstacle with dynamic motion, wearing practical survival gear with a leather jacket, dark and muted color scheme matching the horror theme, clean pixel art with clear silhouette for each animation frame
+
+Background Story:
+Elara Vance was an investigative journalist specializing in missing persons cases before the world fractured. Her sister vanished during a routine trip, leaving behind only cryptic notes about shadows that "moved wrong." Consumed by guilt over dismissing her sister's final warnings, Elara abandoned her career to pursue the truth alone. She now wanders the rain-slicked streets of a decaying city where reality bends and nightmares walk among men. Elara's motivation stems from both redemption and the desperate hope that her sister might still be alive somewhere in the shifting landscape. Her internal conflict revolves around her journalistic instincts to uncover truth conflicting with the survival need to avoid certain horrors. The stakes escalate as she discovers her investigations are altering the very fabric of the city's reality, with each clue pulling her deeper into a conspiracy that predates civilization itself.
+
+Skill Tree:
+- Tier 1:
+  - Keen Observer: Automatically highlights interactive environmental clues within a small radius
+  - Steady Hand: Reduces shaking during quick-time events, increasing success window
+  - Urban Explorer: Allows climbing over certain low obstacles that were previously inaccessible
+- Tier 2:
+  - Sixth Sense: Provides subtle audio/visual cues when hidden dangers are nearby
+  - Logical Deduction: Unlocks additional dialogue options and information from found clues
+  - Light Footsteps: Reduces noise made while moving, making it harder for enemies to detect
+- Tier 3:
+  - Reality Anchor: Temporarily stabilizes flickering environments, creating safe pathways
+  - Truth Seeker: Reveals hidden connections between previously unrelated clues and events
+  - Final Gambit: When health is critical, next successful quick-time event instantly defeats the enemy

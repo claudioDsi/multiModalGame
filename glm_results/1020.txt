@@ -1,0 +1,26 @@
+Entry: 1020 / 1020
+
+Name: Julian "Jax" Roster
+
+Concept art Image Prompt:
+Pixel art illustration of a rugged man in his early thirties with a scar on his chin, wearing a distressed brown leather jacket over a faded white tank top, blue jeans, and heavy boots. He is leaning against a graffitied concrete barrier on a rooftop, looking out over a sprawling, sun-soaked metropolis at golden hour. The lighting is warm and vibrant, casting long shadows. Art style tags: 16-bit pixel art, detailed, vibrant color palette, retro aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet layout on a 64x64 canvas, consisting of 4 distinct poses of the character in a brown leather jacket and blue jeans. Frame 1: Standing idle with arms crossed. Frame 2: Crouching low holding a crowbar. Frame 3: Walking animation mid-stride. Frame 4: Jumping mid-air with knees tucked. Art style tags: 16-bit pixel art, clear outlines, minimal dithering, game asset.
+
+Background Story:
+Julian "Jax" Roster was once a celebrated stuntman and minor reality television personality in the city's prime era, known for his charisma and reckless abandon. When the networks shifted to cheaper, more exploitative programming, Jax was discarded after an on-set injury, leaving him with medical bills and a bitter grudge against the media conglomerate. He now operates in the gray areas of the metropolis, using his driving skills and underworld connections to orchestrate high-risk heists. While he pretends to be cynical about the city’s obsession with fame, he secretly yearns for the validation of the spotlight. He is deeply in debt to dangerous loan sharks who threaten the few honest friends he has left, forcing him to take increasingly risky jobs. Jax struggles with his ego, often complicating plans just to look good, but his loyalty to his crew is unwavering. Ultimately, he seeks a score big enough to buy his freedom and dismantle the corrupt studio that ruined him.
+
+Skill Tree:
+- Tier 1:
+  - Wheelman: Increases vehicle acceleration and handling, allowing for tighter turns and smoother landings.
+  - Street Smarts: Highlights interactive objects and hidden entry points in the game world.
+  - Bravado: Temporarily reduces incoming damage when health drops below a critical threshold.
+- Tier 2:
+  - Stunt Driver: Allows the character to perform vehicle jumps and sharp drifts without losing control.
+  - Improvised Arms: Increases damage output and durability for melee weapons scavenged from the environment.
+  - Slippery Target: Increases the speed of vaulting and climbing over urban obstacles.
+- Tier 3:
+  - Spotlight: Blinds enemies with a camera flash or flare, stunning them and interrupting attacks.
+  - High Stakes: Increases the monetary reward for missions but raises the alert level of law enforcement.
+  - Director's Cut: Allows the player to rewind a few seconds of gameplay to correct a fatal mistake.

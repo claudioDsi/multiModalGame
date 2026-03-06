@@ -1,0 +1,26 @@
+Entry: 25076 / 25076
+
+Name: Silas Vane
+
+Concept art Image Prompt:
+Pixel art portrait of a weathered outlaw in his mid-30s, rugged face with a thin scar across his left cheek, stubble beard, tired brown eyes under a worn brown wide-brimmed hat, long dusty coat with tattered hem, dark vest over a faded cream shirt, leather gun belt with an old revolver, standing with one hand resting on his hip, background shows a foggy mountain pass at sunrise with distant railroad tracks cutting through the valley, warm amber and blue lighting, 16-bit SNES style pixel art, detailed shading, atmospheric depth.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 canvas, 4 frames arranged horizontally: frame 1 standing idle with arms crossed and coat swaying slightly, frame 2 crouching low with one knee down and hand on the ground, frame 3 walking mid-stride with coat trailing behind, frame 4 jumping with legs tucked and arms raised for balance, character is a rugged outlaw in brown coat and hat, limited color palette of earth tones, clear black outline, transparent background, NES-inspired pixel art style.
+
+Background Story:
+Silas Vane was once a loyal enforcer for the Hollowpeak Brotherhood, a brotherhood of outlaws that once ruled the untamed canyons of Brimstone Territory. Born to a saloon singer and a father he never knew, he learned early that survival meant loyalty to those with power. The Brotherhood raised him, taught him to shoot, and gave him purpose—until the railroads came. As the Iron Wardens, a powerful industrial consortium, laid tracks through the canyons, the Brotherhood's influence crumbled. Silas was ordered to burn a settlement that refused to sell its land, a line he refused to cross. He turned his back on the only family he ever knew, saving the town but earning a death mark from his former brothers. Now he rides east toward the coast, fleeing both the Brotherhood's assassins and the Wardens' hired guns. Every town he passes through is another step toward a freedom he's never truly known. Silas fights not for redemption—that word died with his innocence—but for a chance to disappear into a world that's leaving men like him behind.
+
+Skill Tree:
+- Tier 1:
+  - Quick Draw: Silas fires his revolver with increased speed, stunning nearby enemies for a brief moment.
+  - Dust Cloak: Silas blends into his environment, reducing enemy detection range for a short duration.
+  - Canyon Stride: Silas moves silently across rough terrain, leaving no footprints or noise.
+- Tier 2:
+  - Fan the Hammer: Silas rapid-fires all remaining rounds in his cylinder, dealing area damage in a cone.
+  - Coat Tail: Silas deflects a single incoming projectile using his reinforced coat lining.
+  - Snake Oil Tonic: Silas consumes a hidden flask, restoring a moderate amount of health over time.
+- Tier 3:
+  - Brothers Betrayed: Silas calls upon old contacts to create a temporary safe zone where enemies cannot enter.
+  - Iron Wardens Bane: Silas plants an explosive charge that destroys environmental obstacles and damages all enemies in a wide radius.
+  - The Long Ride: Silas enters a focused state where time slows, allowing precise shots with guaranteed critical hits for several seconds.

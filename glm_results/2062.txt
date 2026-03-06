@@ -1,0 +1,26 @@
+Entry: 2062 / 2062
+
+Name: Daichi Watanabe
+
+Concept art Image Prompt:
+Pixel art style, character concept art of Daichi Watanabe, a weary detective in his thirties, wearing a disheveled beige trench coat over a white button-down shirt with a loose tie, standing in a rainy neon-lit urban alleyway at night, brooding expression with a scar on his left cheek, arms crossed, cinematic lighting with cyan and magenta neon reflections, 16-bit aesthetic, detailed shadows, gritty atmosphere.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Daichi Watanabe, canvas size 64x64, 4 distinct frames arranged horizontally: frame 1 standing idle with hands in trench coat pockets, frame 2 crouching low investigating the ground, frame 3 walking forward with coat tails flowing, frame 4 jumping with a flying kick, consistent beige trench coat outfit, dark outline, transparent background, retro 16-bit console style.
+
+Background Story:
+Daichi Watanabe was once a decorated detective in the organized crime division, renowned for his unyielding sense of justice. His world shattered when he was framed for a crime he didn't commit by the very syndicate he swore to dismantle. Stripped of his badge and reputation, he now operates in the grey area of the city's red-light district as a private investigator. He is driven by a singular motivation: to clear his name and expose the corruption rooted deep within the police force. Internally, Daichi battles the ghosts of his past failures and the constant temptation to abandon his moral code for quicker results. The stakes rise when he uncovers a conspiracy that threatens to ignite a war between rival factions, endangering the innocent civilians he protects. As one of four protagonists, his unique perspective allows him to access information and areas others cannot. He fights not just with his fists, but with a sharp mind honed by years on the force.
+
+Skill Tree:
+- Tier 1:
+  - Cheap Shot: A quick strike that interrupts enemy attacks and lowers their defense.
+  - Streetwise: Highlights interactive objects and clues in the environment for investigation.
+  - Adrenaline Rush: Temporarily increases movement speed to dodge incoming attacks.
+- Tier 2:
+  - Grappling Takedown: Daichi grabs an enemy and slams them into the ground, stunning nearby foes.
+  - Hardboiled: Passive ability that reduces damage taken when Daichi's health is below 30%.
+  - Chain Combo: Links light attacks into a heavy finishing blow for increased damage.
+- Tier 3:
+  - Heat Action: Unleashes a cinematic, context-sensitive finishing move using environmental objects.
+  - The Long Arm: Daichi calls in a favor to summon a temporary police drone for crowd control.
+  - Unyielding Resolve: Automatically revives Daichi with 25% health once per battle upon being knocked out.

@@ -1,0 +1,26 @@
+Entry: 1254 / 1254
+
+Name: Kaelen Vane
+
+Concept art Image Prompt:
+Pixel art style full body character concept, Kaelen Vane, a young male protagonist with short messy black hair and a sharp jawline, wearing a weathered red leather trench coat over a dark tank top, faded black jeans, and heavy combat boots, glowing turquoise runic tattoos on his neck and arms, holding a massive segmented mechanical broadsword in a relaxed stance, background is a gritty urban alleyway with neon signs and rain-slicked pavement, dramatic lighting, high contrast, detailed 16-bit aesthetic.
+
+Sprite sheet Image Prompt:
+64x64 pixel art sprite sheet, character Kaelen Vane, four distinct frames arranged horizontally on a transparent background, frame 1 standing idle holding sword, frame 2 crouching low with sword ready, frame 3 walking forward mid-stride, frame 4 jumping with knees tucked, consistent red leather jacket and black hair, clean distinct outlines, limited color palette, arcade game style.
+
+Background Story:
+Born in the smog-choked metropolis of Ironhive, Kaelen grew up on the streets, unaware of his lineage as a Riftborn—a hybrid of human and the ethereal entities known as Silhouettes. He lived a life of petty crime until a government purge revealed his true nature, forcing him to go on the run. Unlike the heroes of ancient legends, Kaelen is cynical and abrasive, fighting not for honor but to tear down the corrupt corporations that control the city. He wields the Fulcrum, a shape-shifting mechanical blade that channels his innate energy, allowing him to slaughter waves of robotic enforcers and corrupted spirits. His internal struggle centers on the creeping corruption of his own humanity; every time he taps into his Riftborn powers, he risks losing his mind to the Silhouette consciousness. The stakes are personal: if he falls, the entity within him will open a gate that will swallow his world whole. Driven by a desire for vengeance and the faint hope of a normal life, he cuts a bloody path through the city's elite.
+
+Skill Tree:
+- Tier 1:
+  - Rift Dash: Kaelen instantly teleports a short distance forward to evade attacks or close gaps.
+  - Iron Eruption: He slams the Fulcrum into the ground, creating a shockwave that knocks nearby enemies off their feet.
+  - Spirit Drain: Landing consecutive hits on enemies restores a small amount of health.
+- Tier 2:
+  - Aerial Cleave: Kaelen performs a powerful spinning attack in mid-air, allowing him to stay airborne while damaging foes.
+  - Chain Reaction: Successfully hitting an enemy causes a chance for lightning to arc to a nearby secondary target.
+  - Overdrive: Movement and attack speed are temporarily increased by twenty percent.
+- Tier 3:
+  - Shadow Doppelganger: Kaelen summons a spectral clone of himself that mimics his last attack for double damage.
+  - Reality Fracture: A massive area-of-effect attack that freezes all enemies in time for three seconds.
+  - Avatar Form: Kaelen transforms into his pure Silhouette state, drastically increasing damage output and immunity to stagger for a short duration.

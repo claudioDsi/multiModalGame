@@ -1,0 +1,26 @@
+Entry: 19221 / 19221
+
+Name: Kaelen the Wayfarer
+
+Concept art Image Prompt:
+pixel art concept art of a rugged male explorer character, standing on a windswept mountain pass overlooking a vast, newly revealed landscape. Wearing a weather-beaten leather coat over practical travel clothes, a compass pendant around his neck, and carrying a worn pack. His expression is determined yet weary, with a map case slung over one shoulder. The atmosphere is dawn lighting with soft golden light breaking through mountainous clouds, background shows ancient ruins and diverse biomes stretching to the horizon, detailed pixel art style with limited color palette, fantasy adventure aesthetic
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, single character in 4 frames on 64x64 canvas: Frame 1: standing pose with hand resting on map case, Frame 2: crouching while examining tracks on ground, Frame 3: walking with determined stride and coat flowing, Frame 4: jumping over a small obstacle with pack bouncing, character wears practical explorer attire with leather coat and compass pendant, muted earth tones, clear readable silhouette for each frame, top-down perspective
+
+Background Story:
+Kaelen was born in a border town that existed in the shadow of the great impassable boundaries that defined his world. As a cartographer's apprentice, he grew up fascinated by the blank spaces on maps marked "unknown." When the borders finally opened, he was among the first to venture beyond, armed with his master's incomplete charts and an insatiable curiosity. His primary motivation is to map the true extent of his world and understand how these lands were separated for so long. He struggles with the knowledge that each discovery makes his homeland's old maps obsolete, erasing the work of his mentors. The stakes grew when he realized the border openings might be temporary, forcing a race against time to document everything. He now travels between the newly accessible provinces, serving as a bridge between cultures while secretly seeking the source of the magical barriers. His personal quest intertwines with the larger mystery of why the world was fractured, making him both observer and participant in the unfolding events.
+
+Skill Tree:
+- Tier 1:
+  - Trailblazer's Instinct: Increases movement speed and reveals hidden paths on the minimap
+  - Cartographer's Focus: Allows creation of temporary maps that highlight resources and dangers
+  - Borderland Survival: Provides resistance to environmental hazards in unexplored territories
+- Tier 2:
+  - Linguistic Adaptation: Enables understanding of regional dialects and negotiation with local factions
+  - Ruin Reader: Reveals hidden messages and secrets in ancient structures and monuments
+  - Portable Shelter: Creates a temporary safe camp that provides healing and crafting stations
+- Tier 3:
+  - World-Weaver's Step: Allows brief teleportation between previously discovered locations
+  - Mythic Cartography: Permanently charts an area, creating fast travel points and revealing all secrets
+  - Boundary Breaker: Temporarily stabilizes unstable border regions, preventing their closure

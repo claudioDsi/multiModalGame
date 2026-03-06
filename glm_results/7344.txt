@@ -1,0 +1,26 @@
+Entry: 7344 / 7344
+
+Name: Kiri
+
+Concept art Image Prompt:
+Pixel art illustration of a young orphan protagonist named Kiri, a small nimble child with messy silver-white hair and large luminous amber eyes, wearing a tattered azure cloak with vine patterns embroidered along the edges, a simple linen tunic, and worn leather boots. Kiri clutches a glowing lantern artifact that emits soft golden light particles. The background depicts a dying forest with withered trees, crumbling stone ruins covered in faded runes, and a stormy sky with rays of pale light breaking through dark clouds. The scene conveys melancholy and hope. Art style tags: pixel art, detailed sprite work, muted earth tones with magical accent colors, atmospheric lighting, 16-bit aesthetic, hand-painted pixel technique.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a transparent background, canvas size 64x64 pixels per frame, arranged in a horizontal row of 4 frames. Frame 1: Standing pose with Kiri idle, holding lantern at side, slight idle breathing animation feel. Frame 2: Crouching pose with Kiri low to the ground, cloak pooled around, lantern held close to chest. Frame 3: Walking pose with Kiri mid-stride, cloak flowing slightly behind, determined expression. Frame 4: Jumping pose with Kiri leaping upward, legs tucked, lantern raised high trailing light particles. Consistent character design across all frames, silver-white hair, azure cloak, amber eyes, glowing lantern. Art style tags: pixel art, clean linework, limited color palette, game-ready sprites.
+
+Background Story:
+Kiri was left at the doorstep of the village elder as an infant, wrapped in an azure cloak with no explanation or trace of origin. Raised in the secluded settlement of Thornhollow, Kiri always felt an unusual connection to the ancient lantern discovered in the village shrine—a relic said to hold the last ember of the world's heart. When the great storm shattered the protective barrier surrounding Thornhollow, the lantern awoke and chose Kiri as its bearer. Now the land itself begins to wither, rivers turn to ash, and the elders speak of a darkness rising in the forgotten depths beneath the mountains. Kiri must venture beyond the only home ever known to reignite the beacons that sustain their world, all while confronting the fear of being unworthy of such a burden. The journey forces Kiri to choose between saving the village that provided shelter or pursuing the truth of a forgotten lineage that might hold the key to restoring everything. Every step deeper into the dying world reveals that the true enemy may not be the spreading darkness, but the sacrifices required to push it back.
+
+Skill Tree:
+- Tier 1:
+  - Lantern's Embrace: Kiri surrounds themself with a protective light aura that reduces incoming damage by fifteen percent for a short duration.
+  - Vine Tether: A spectral vine extends from Kiri's lantern to grapple onto distant ledges or pull small enemies closer.
+  - Wind Wisp: Summons a small guiding wisp that reveals hidden collectibles and secret paths in the immediate area.
+- Tier 2:
+  - Ember Burst: Kiri releases a burst of golden flame from the lantern that damages nearby enemies and illuminates dark areas.
+  - Root Ward: Creates a temporary barrier of intertwined roots that blocks projectiles and provides a moment of safety.
+  - Spirit Dash: Kiri phases forward in a blur of light, passing through enemies and thin obstacles without taking damage.
+- Tier 3:
+  - Heartfire Resonance: The lantern unleashes its full power, creating a massive area of healing light that restores health and revives fallen allies over time.
+  - Stormbreak Strike: Kiri channels the lantern's energy into a powerful overhead slam that creates shockwaves stunning all enemies on screen.
+  - Sacrifice of Dawn: A desperate move where Kiri gives up half their remaining health to deal massive damage to all enemies within range and fully recharge the lantern's abilities.

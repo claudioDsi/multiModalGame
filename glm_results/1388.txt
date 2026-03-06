@@ -1,0 +1,26 @@
+Entry: 1388 / 1388
+
+Name: Soren Vale
+
+Concept art Image Prompt:
+Pixel art style, fighting game character design, athletic male fighter in his mid-20s with short dark hair and determined expression, wearing a fitted slate-blue martial arts gi with white trim, wrapped hands, loose dark pants tied at the ankles, standing in ready stance with fists raised, multi-tiered arena background with stone platforms and falling waterfalls, warm torch lighting casting dynamic shadows, 16-bit aesthetic, detailed sprite work, vibrant colors, game asset quality.
+
+Sprite sheet Image Prompt:
+Pixel art style, 4-frame sprite sheet on transparent background, same character Soren Vale in 64x64 canvas, frame 1: standing neutral pose with fists ready, frame 2: crouching defensive position, frame 3: walking animation mid-stride, frame 4: jumping pose with knees tucked, consistent character design across all frames, limited color palette, clean pixel outlines, fighting game sprite format, no background elements.
+
+Background Story:
+Soren Vale was raised in a coastal village known for its ancient fighting traditions, where practitioners learned to adapt their techniques across varied terrains including frozen lakes and flooded arenas. His father, a legendary competitor, vanished during a mysterious tournament that took place across a series of interconnected island stages. Soren spent years honing his skills in the circular combat system, mastering the interplay between strikes, throws, and counter-holds that defines his family's martial art. Now he enters the tournament circuit seeking answers, driven by rumors that his father still competes in underground matches held in secret multi-tiered locations. His internal conflict centers on whether to embrace the brutal efficiency needed to win or maintain the honor his father taught him. The stakes rise when he discovers the tournament organizers are collecting fighters with exceptional counter abilities for an unknown purpose. Soren must decide how far he will go to uncover the truth.
+
+Skill Tree:
+- Tier 1:
+  - Flowing Guard: Increases the active window for hold attempts by a small fraction.
+  - Quick Shift: Allows faster transition between blocking and throwing.
+  - Surface Adaptation: Reduces slip duration on ice and water stages.
+- Tier 2:
+  - Stun Extension: Landing counter-holds inflicts longer stun duration on opponents.
+  - Wall Awareness: Grants brief damage reduction when cornered against stage walls.
+  - Recovery Stance: Reduces vulnerability frames after missed throw attempts.
+- Tier 3:
+  - Redirect Force: Successful holds position Soren behind the opponent for follow-up attacks.
+  - Arena Mastery: Falling between stage tiers deals less damage and grants brief speed boost upon landing.
+  - Final Determination: Once per round, surviving a potential knockout blow leaves Soren at minimal health with a temporary attack boost.

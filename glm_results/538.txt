@@ -1,0 +1,26 @@
+Entry: 538 / 538
+
+Name: Vera Castellan
+
+Concept art Image Prompt:
+Pixel art full body portrait of Vera Castellan, a tall female soldier with short cropped silver hair and a scar across her left cheek, wearing tactical military armor in muted desert tan and slate gray colors with various pouches and equipment straps, standing in a rocky canyon environment with distant mesas under a pale orange sky, holding a modular assault rifle with a mounted scope, confident stance with weight shifted to one side, wind swept dust particles around her boots, 16-bit pixel art style, detailed shading, dramatic backlighting from setting sun.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Vera Castellan on a 64x64 pixel canvas, 4 distinct animation frames arranged horizontally: frame 1 standing idle with rifle held across chest looking alert, frame 2 crouching low on one knee with rifle aimed forward, frame 3 walking mid-stride with ponytail trailing behind, frame 4 jumping with knees tucked and rifle raised overhead, consistent character design with short silver hair and tan tactical armor, clear silhouette for each pose, white background, clean pixel outlines, limited 16-color palette.
+
+Background Story:
+Vera Castellan was trained as a deep-range reconnaissance operative for a military unit that no longer officially exists. After her squad was ambushed during what should have been a routine extraction, she spent three years surviving alone in hostile territory with limited supplies and no radio contact. The experience hardened her into a pragmatic survivor who treats every environment as a potential battlefield and every weapon as a tool for a specific job. She eventually found her way to the frontier region where the game takes place, drawn by rumors that the corporation responsible for her unit's destruction has established operations in the area. Vera approaches each new environment with cold calculation, mentally cataloguing sight lines for sniping positions and choke points for close-quarters engagements. She struggles to connect with others after years of isolation, preferring to work alone even when allies would make survival easier. The open terrain and cramped industrial ruins of this new region offer both opportunities and dangers that test her full range of combat skills.
+
+Skill Tree:
+- Tier 1:
+  - Quick Swap: Reduces weapon switching time by 40% for rapid adaptation to changing combat situations.
+  - Steady Aim: Decreases weapon sway when aiming down sights, improving accuracy at medium range.
+  - Combat Roll: Allows a quick evasive roll in any direction to dodge incoming fire.
+- Tier 2:
+  - Precision Optics: Highlights enemy weak points through environmental obstacles for a brief duration.
+  - Close Quarters Mastery: Increases melee damage and grants faster execution animations in tight spaces.
+  - Extended Mags: Increases ammunition capacity for all carried weapons by 25%.
+- Tier 3:
+  - Ghost Protocol: Reduces footstep noise and suppresses muzzle flash, enabling stealthier approaches.
+  - Chain Reaction: Defeating an enemy causes nearby hostiles within range to become briefly disoriented.
+  - Hunter's Resolve: Regenerates a portion of health after achieving multiple consecutive kills without taking damage.

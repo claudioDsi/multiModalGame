@@ -1,0 +1,26 @@
+Entry: 115304 / 115304
+
+Name: Elliot Vance
+
+Concept art Image Prompt:
+Pixel art portrait of Elliot Vance, a weary night security guard with messy brown hair and a five-o'clock shadow, wearing a slightly disheveled blue uniform with a gold badge and dark cargo pants. He is standing in a dimly lit, retro-styled family entertainment center hallway with checkered floor tiles and flickering neon signs. He holds a heavy, tactical flashlight in a trembling grip, casting a long beam of light forward. Dark, mechanical eyes peek out from the shadows behind him. The art style is detailed 16-bit pixel art with a spooky, horror-themed atmosphere and limited color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 pixel canvas featuring a night guard character in a blue uniform and cap. Frame 1: Standing pose, holding a flashlight, looking alert and nervous. Frame 2: Crouching pose, cowering low with hands over head as if hiding under a desk. Frame 3: Walking pose, mid-stride, moving cautiously to the side. Frame 4: Jumping pose, limbs flailing in a panic, dropping the flashlight. The background is transparent, and the style is clean retro pixel art with a consistent silhouette.
+
+Background Story:
+Elliot Vance took the night shift at the newly reopened "Fantasy Fun Center" out of financial desperation, ignoring the rumors surrounding the previous owner's disappearance. During his first week, he discovered the attraction's vintage animatronics housed a dark, sentient energy that awakened after midnight. Tasked with surviving until 6 AM, Elliot must navigate the building's labyrinthine security office and corridors using only a flashlight and the facility's unreliable power grid. He quickly realizes these machines are not just malfunctioning, but are actively hunting him with predatory intelligence. As he uncovers maintenance logs hidden in the backrooms, his motivation shifts from earning a paycheck to uncovering the truth behind the "accidents" that plague the location. Elliot fights to maintain his sanity against hallucinations caused by sleep deprivation and the mascots' supernatural influence. If he fails, he risks becoming a permanent fixture in the attraction's twisted history.
+
+Skill Tree:
+- Tier 1:
+  - Flashlight Focus: Conserves battery life and increases the range of the light beam.
+  - Quick Lock: Instantly secures the security doors to block incoming threats for a short duration.
+  - Sprint: Grants a temporary burst of speed to escape close encounters with animatronics.
+- Tier 2:
+  - Audio Distraction: Hacks the intercom to play sounds in other rooms to lure enemies away.
+  - Signal Jammer: Temporarily disables electronic locks on animatronics to keep them frozen in place.
+  - Thick Skin: Reduces the panic effect when looking directly at the animatronics.
+- Tier 3:
+  - EMP Burst: Releases a powerful electromagnetic pulse that stuns all electronics in the vicinity.
+  - Reboot Protocol: Automatically restores power to critical systems after a blackout.
+  - Escape Artist: Provides a rare second chance to survive a jump scare encounter.

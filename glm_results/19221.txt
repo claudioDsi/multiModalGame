@@ -1,0 +1,26 @@
+Entry: 19221 / 19221
+
+Name: Kaelen Varr
+
+Concept art Image Prompt:
+Pixel art scene featuring Kaelen Varr, a rugged human explorer with sun-tanned skin and short-cropped hair, standing at the foreground of a high mountain pass. He wears a heavy fur-lined leather trench coat, scale mail armor visible underneath, and a satchel filled with rolled maps. He holds a glowing jade walking staff that illuminates the rocky terrain. In the background, a massive iron gate stands open, revealing a transition from a snowy mountain peak to a dense, autumn-colored forest valley. The lighting is dramatic sunset with long shadows, rendered in a detailed 16-bit SNES RPG style with a rich, earthy color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 canvas background. The sheet contains 4 distinct frames arranged horizontally: 1) Standing pose holding a glowing staff vertically, looking alert; 2) Crouching pose with one knee down inspecting the ground; 3) Walking pose mid-stride with coat billowing slightly; 4) Jumping pose with knees tucked and staff raised overhead. The character has dark hair, wears a fur-lined brown leather coat and scale armor. Clean pixel outlines, limited color palette, retro JRPG aesthetic.
+
+Background Story:
+Born in a border town that was constantly disputed by neighboring warlords, Kaelen Varr grew up resenting the artificial lines drawn on maps that divided families and cultures. He spent his youth learning the old paths and forgotten trails that circumvented the official, guarded borders. When the magical seals isolating the provinces began to weaken, Kaelen felt a resonant hum in the ancient stones of his homeland, calling him to explore the "Roots of the World." He now serves as a guide for those seeking passage into the "Seat of Sundered Kings," hoping to unite the fractured lands through shared knowledge rather than bloodshed. Driven by the disappearance of his mentor in the "Star-Wounded East," he risks life and limb to chart the dangerous routes to the "Lure of the Wilds." Kaelen struggles with the guilt of leading others into dangerous lands, questioning if he is a pathfinder or merely a magnet for trouble. His ultimate goal is to complete the Atlas of the Open Road, proving that no border is truly impassable.
+
+Skill Tree:
+- Tier 1:
+  - Border Stride: Allows the character to traverse difficult terrain like snow, sand, and swamp without movement penalties.
+  - Surveyor's Eye: Highlights hidden paths and secret entrances on the mini-map for a short duration.
+  - Wayfinder's Mark: Places a magical beacon allowing instant return to a specific safe location.
+- Tier 2:
+  - Provincial Insight: Grants temporary resistance to elemental damage based on the specific region currently being explored.
+  - Diplomatic Immunity: Reduces hostility of local wildlife and factions for a limited time after entering a new province.
+  - Path of the Wanderer: Increases stamina regeneration significantly while traveling on foot outside of combat.
+- Tier 3:
+  - Ley Line Transit: Teleports the character instantly between discovered landmarks within the same province.
+  - Cartographer's Gambit: Reveals the full layout of an unexplored dungeon or cave and highlights all treasure chests.
+  - Union of Lands: Summons a spirit ally from the nearest neighboring province to assist in combat for a short duration.

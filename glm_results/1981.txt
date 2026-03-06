@@ -1,0 +1,28 @@
+Entry: 1981 / 1981
+
+Name: Jace Verran
+
+Concept art Image Prompt:
+Pixel art style, full body portrait of Jace Verran, a rugged male protagonist in his early 30s with a cyberpunk aesthetic. He wears a dark leather jacket with a neon circuit pattern on the collar, torn black jeans, and heavy boots. Short, messy dark brown hair with a subtle blue highlight. Sharp jawline with light stubble. He stands confidently with arms crossed, one eyebrow raised in defiance. Behind him is a fractured digital skyline showing a virtual city glitching between day and night, with alien structures looming in the background. Harsh magenta and cyan lighting from neon signs, dramatic shadows. Art style tags: pixel art, 16-bit, retro sci-fi, vibrant colors, high contrast.
+
+Sprite sheet Image Prompt:
+Pixel art style, 64x64 canvas, sprite sheet showing 4 frames of Jace Verran as a playable character. Frame 1: Standing pose, idle position with hands at sides, confident stance. Frame 2: Crouching pose, knees bent, one hand touching the ground, looking forward. Frame 3: Walking pose, mid-stride with left leg forward, arms swinging naturally. Frame 4: Jumping pose, legs tucked, arms raised for balance, hair flowing upward. Character has short dark hair, wears a dark jacket and pants, visible neon blue circuit lines on collar. Minimalist background, solid dark gray. Art style tags: pixel art, 16-bit, game sprite, clean lines, limited palette.
+
+Background Story:
+Jace Verran grew up as a street-smart orphan in the industrial district of Neos Veridia, scraping by through underground fighting rings and small-time courier jobs. His reputation for getting impossible jobs done caught the attention of the Rising Dawn collective, a grassroots organization that fought against corrupt corporate control. Over a decade, Jace rose from a low-level runner to the face of the movement, uniting fractured neighborhoods under a banner of resistance and reform. When the movement transitioned from revolutionary to political, public support carried him into the presidential seat of the Veridian Territories. His presidency marked a rare era of transparency and social progress—until the Zyxari Imperium descended from the skies without warning.
+
+The alien invaders didn't just conquer; they digitized, trapping humanity's consciousness inside a massive simulation called the Shroud. Jace awoke inside this virtual prison to find his memories fragmented and his companions missing, scattered across corrupted sectors. The simulation is controlled by the Zyxari overlords, who study human behavior like specimens in a digital petri dish. Guided by a rogue program embedded in his psyche, Jace must navigate glitching cityscapes, exploit the simulation's vulnerabilities, and free his allies before their digital forms degrade. Every step closer to freedom reveals uncomfortable truths about what remains of the real world.
+
+Skill Tree:
+- Tier 1:
+  - Data Rip: Jace tears a fragment of code from enemies, dealing minor damage and briefly revealing their position.
+  - Glitch Dash: A short-range burst of speed that phases Jace through solid objects for half a second.
+  - Memory Cache: Accesses hidden data nodes to restore a small amount of health and digital integrity.
+- Tier 2:
+  - Firewall Breach: Disables enemy shields and automated turrets within a moderate radius for several seconds.
+  - Echo Decoy: Creates a static duplicate of Jace that draws enemy fire and explodes on destruction.
+  - Overclock Reflexes: Temporarily slows perceived time, allowing Jace to dodge incoming attacks with precision.
+- Tier 3:
+  - System Purge: Unleashes a cascade of corrupted data that deletes all hostile programs in a wide area.
+  - Admin Override: Grants temporary invulnerability and doubles all damage output for a short duration.
+  - Wake Protocol: Summons a rescue beacon that calls in allied fighters to provide support fire.

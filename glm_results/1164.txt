@@ -1,0 +1,26 @@
+Entry: 1164 / 1164
+
+Name: Elara Vance
+
+Concept art Image Prompt:
+Pixel art concept art of Elara Vance, a young woman with a messy brunette ponytail and dirt-smudged skin, wearing a torn grey tank top and rugged cargo pants with knee pads, holding a makeshift climbing axe, standing defiantly amidst moss-covered ancient ruins, dark moody lighting with heavy shadows, determined facial expression, 16-bit aesthetic, high contrast.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Elara Vance, 4 distinct poses on a blank grid background, character size 64x64 pixels, Frame 1: Standing idle holding an axe, Frame 2: Crouching low to the ground, Frame 3: Walking animation cycle, Frame 4: Jumping mid-air pose, rugged adventurer outfit, limited retro color palette, clear outlines.
+
+Background Story:
+Elara Vance was a promising anthropology student who joined an expedition to the forgotten isle of Aethelgard, hoping to prove herself to her estranged father. When her crew's vessel capsized during a unnatural storm, she washed ashore alone, separated from her friends and stripped of modern equipment. Now, armed with nothing but a salvaged machete and her father's old journal, she must navigate the crumbling temples of a civilization that supposedly never existed. The island tests more than her physical endurance; it preys on her deepest fears, manifesting hallucinations that blur the line between reality and nightmare. As she uncovers the violent history of the Guardians who once ruled here, Elara realizes she isn't just fighting for escape, but to prevent an ancient darkness from spreading to the outside world. Every scar she earns transforms her from a naive academic into a hardened survivor, forcing her to decide how much of her humanity she is willing to sacrifice to see the sunrise again.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger's Eye: Highlights lootable items and resource caches in the immediate environment.
+  - Swift Recovery: Increases the rate at which stamina regenerates after sprinting or climbing.
+  - Improvised Defense: Allows the character to block incoming physical attacks with reduced damage using equipped tools.
+- Tier 2:
+  - Brutal Takedown: Enables a silent, instant takedown of unaware enemies from close range.
+  - Iron Grip: Extends the duration the character can hang from ledges or climb surfaces without slipping.
+  - Resilience: Reduces the duration of bleeding and poison status effects acquired from traps or enemies.
+- Tier 3:
+  - Apex Instinct: Temporarily highlights enemy positions through walls when remaining stationary.
+  - Unbreakable: Grants a chance to survive a fatal blow with a small amount of health remaining once per encounter.
+  - Wrath of the Fallen: Temporarily increases melee damage output when the character's health drops below critical levels.

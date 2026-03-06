@@ -1,0 +1,26 @@
+Entry: 25076 / 25076
+
+Name: Silas "Whisper" Harker
+
+Concept art Image Prompt:
+pixel art, character concept art, an outlaw gunslinger standing silhouetted against a dramatic sunset over a desert wasteland, wearing a tattered duster coat and wide-brimmed hat shadowing his face, one hand resting on the revolver at his hip, dust swirling around his worn leather boots, cinematic lighting with long shadows, detailed pixel art style, 16-bit era aesthetic
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, character sprite 64x64 pixels, four frames: 1) standing facing forward, hand near holster, 2) crouching low to the ground, 3) mid-stride walking animation, 4) jumping with coat flaring upward, wearing a cowboy hat and duster coat, muted earth tones, simple shading, clean lines
+
+Background Story:
+Silas was once a respected lawman in the frontier territories before the Iron Syndicate's corporate enforcers seized control. When he refused to enforce their brutal new laws, they murdered his family and framed him for the crime. Now branded an outlaw, Silas travels the desolate badlands under the alias "Whisper," a phantom who strikes against Syndicate operations. He's torn between his desire for vengeance and his fading belief in justice, haunted by memories of the peacekeeper he once was. The dawn of the industrial age brings with it the Syndicate's mechanized war machines and surveillance networks, making every shadow a potential threat. Silas knows he's hunting an organization that's rapidly making old-fashioned justice obsolete. His journey is not just about revenge, but about protecting what little freedom remains in the territories from total corporate domination. Each Syndicate outpost he destroys brings him closer to confronting the men who destroyed his life.
+
+Skill Tree:
+- Tier 1:
+  - Quick Draw: Allows for instant reaction shots when encountering enemies.
+  - Dust Devil: Creates small dust clouds that provide temporary cover.
+  - Hawk's Eye: Temporarily highlights enemy weak points.
+- Tier 2:
+  - Riotous Ricochet: Bullets can bounce off metallic surfaces to hit concealed targets.
+  - Phantom Step: Movement leaves temporary after-images that confuse automated turrets.
+  - Chain Reaction: Shooting explosive barrels causes them to detonate in sequence.
+- Tier 3:
+  - Justice's Price: Each successful kill temporarily increases damage and movement speed.
+  - Last Stand: When health is critical, time slows briefly allowing for precise shots.
+  - Reckoning: Unleashes a barrage of shots in all directions after building up a combo meter.

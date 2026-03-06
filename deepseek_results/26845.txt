@@ -1,0 +1,26 @@
+Entry: 26845 / 26845
+
+Name: Elara Vex
+
+Concept art Image Prompt:
+pixel art concept art of a female professor, Elara Vex, a sharp-eyed woman in her late twenties with long silver hair tied in a messy braid, wearing a tailored dark blue academic robe over practical leather armor, a unique enchanted quill tucked behind her ear. She stands confidently on the stone balcony of a grand clocktower, overlooking a sprawling academy campus at dusk, holding a glowing tactical map. The scene is lit by the warm light of the setting sun and the cool glow of magic, art style is detailed pixel art with a rich color palette, anime-inspired character design, fantasy academic aesthetic.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 pixels, 4 frames: 1) standing pose of Professor Elara Vex, holding a glowing quill, silver hair flowing. 2) crouching pose, looking at a tactical map on the ground, robe pooling around her. 3) walking animation frame, mid-stride with robes billowing slightly. 4) jumping pose, leaping over an obstacle, quill leaving a trail of light. Consistent detailed character design, fantasy academic clothing.
+
+Background Story:
+Elara Vex was not born into the prestigious world of the academy; she clawed her way in. A prodigy from a forgotten border town, she earned her position through a combination of raw tactical genius and unorthodox methods that impressed the organization's leadership. Her motivation is twofold: to prove that merit, not lineage, is the true measure of worth, and to protect her students from the same political machinations that once threatened her own future. An internal conflict rages within her between her desire to instill strict discipline and her own rebellious nature that chafes against the establishment's rigid rules. The stakes are high, as the success of her students is intrinsically tied to her own standing and her ability to reform the system from within. Her appointment is a controversial one, watched with skepticism by traditionalists and hope by reformers. She sees each battle not just as a test of strength, but as a chess match where every move is a lesson and every victory a statement.
+
+Skill Tree:
+- Tier 1:
+  - Tactical Insight: Elara analyzes an enemy's position, granting a bonus to hit against that target for her entire house.
+  - Unorthodox Drill: A training session that boosts the movement range of one student for the next battle.
+  - Sharp Rebuke: A cutting remark that lowers the morale and defense of a single foe.
+- Tier 2:
+  - Coordinated Assault: Elara signals her students to attack in unison, allowing an adjacent ally to make an immediate follow-up attack.
+  - Adaptive Curriculum: After an enemy action, Elara can reposition one student to a more advantageous tile.
+  - Bolstering Speech: A rousing pep talk that removes negative status effects from all allies in a small area.
+- Tier 3:
+  - Legacy of Merit: A powerful gambit that empowers all of Elara's students, granting them a significant stat boost if they land attacks on enemies of a higher social rank.
+  - Final Examination: Elara designates a large area on the battlefield, causing enemies within it to suffer damage at the start of their turn for a duration.
+  - Against All Odds: A desperate, all-in tactic that drastically increases the critical hit chance of Elara's entire house when their collective health is below half.

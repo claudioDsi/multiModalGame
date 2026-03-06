@@ -1,0 +1,26 @@
+Entry: 3097 / 3097
+
+Name: Elara Vance
+
+Concept art Image Prompt:
+Pixel art illustration of a young woman with shoulder-length messy astringent hair and olive skin. She wears a worn leather jacket over a faded red flannel shirt. Her eyes are hazel and determined. She stands in a defensive pose holding a makeshift crowbar. The background shows a post-apocalyptic urban alleyway with collapsed buildings and overgrown vegetation. The scene is lit by the golden light of a setting sun. Art style tags: 16-bit pixel art, detailed sprites, adventure game aesthetic, atmospheric, nostalgic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet showing a young woman with shoulder-length astringent hair wearing a worn leather jacket and faded red flannel shirt. Four distinct poses arranged horizontally: standing with arms crossed looking alert, crouching while inspecting the ground, walking mid-stride with purposeful movement, and jumping with arms raised. Consistent character design across all frames. Canvas size 64x64 pixels. Art style tags: 16-bit pixel art, clean outlines, limited color palette, retro game aesthetic.
+
+Background Story:
+Elara Vance was a third-year medical student when the outbreak transformed civilization into a landscape of ruin and wandering threats. Separated from her younger sister during the chaotic evacuation of their home city, she has spent the last two years searching every settlement and safe zone for any trace of her family. Her medical training has made her a valuable asset to the scattered groups of survivors she encounters along the way. She carries a battered field journal filled with names and descriptions of people she has promised to help or find. The weight of impossible choices, including those that cost lives during close calls with the infected, haunts her dreams and tests her resolve. She struggles to balance her instinct to heal with the brutal pragmatism required to stay alive. Every conversation is a potential lifeline or a trap, and she has learned to read people the way she once read medical charts. Her journey is driven by love, but her internal conflict centers on whether she can remain human in a world that demands monstrous decisions.
+
+Skill Tree:
+- Tier 1:
+  - Triage: Elara can stabilize injured allies, preventing their condition from worsening during critical moments.
+  - Keen Eye: Highlights interactive objects and hidden clues in the environment for a short duration.
+  - Persuasion: Unlocks additional dialogue options when negotiating with hostile or distrustful survivors.
+- Tier 2:
+  - Improvised Medicine: Allows Elara to craft healing items from common scavenged materials.
+  - Distraction: Elara can throw objects to create noise and divert attention away from her position.
+  - Quick Reflexes: Grants a longer time window to complete quick time events during action sequences.
+- Tier 3:
+  - Leadership: Nearby allied non-player characters receive a bonus to their effectiveness in combat and dialogue.
+  - Silent Takedown: Elara can eliminate lone threats without alerting others in the vicinity.
+  - Second Chance: Once per chapter, Elara survives a failed quick time event that would otherwise result in a restart.

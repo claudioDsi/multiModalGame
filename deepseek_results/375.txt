@@ -1,0 +1,26 @@
+Entry: 375 / 375
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, stealthy operative in a dark industrial corridor, wearing a form-fitting tactical suit with subtle fiber-optic camouflage patterns, a utility belt with various pouches, and a sleek rebreather mask obscuring the lower face. The character is in a dynamic crouching pose, one hand braced against a wet wall, the other holding a small datapad. Moody lighting from a single overhead flickering fluorescent light casts long shadows, highlighting the character's silhouette. Art style: detailed pixel art with a limited color palette of deep blues, greys, and neon accents.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet on a 64x64 canvas, showcasing a single character in a stealth suit. Four frames: 1) Standing idle, a neutral but alert stance. 2) Crouching low to the ground, one knee down, looking side to side. 3) Mid-stride walking motion, body leaned forward for silence. 4) A dynamic jump, legs coiled, arms out for balance. Simple color scheme of dark blue and grey.
+
+Background Story:
+Kaelen was a data archivist for the sprawling metropolis's central hub, until a corrupt corporate syndicate seized control and purged the digital history he had sworn to protect. Now branded a fugitive, he uses his intimate knowledge of the city's infrastructure and security systems to operate in the shadows. His motivation is twofold: to expose the syndicate's crimes and recover the lost archives, the last remnants of a free society. He is conflicted, as his methods of infiltration and sabotage make him a criminal in the eyes of the public he seeks to save. The stakes are the very soul of the city; if he fails, the syndicate's control will become absolute, and the truth will be erased forever. Kaelen moves through rain-slicked alleyways and sterile corporate zones, a ghost fighting a silent war. His only allies are a handful of scattered resistance members who communicate through encrypted channels, their faces never seen, their voices distorted.
+
+Skill Tree:
+- Tier 1:
+  - Silent Step: Reduces noise generated from movement, making detection less likely.
+  - Quick Hack: Allows for faster disabling of basic security cameras and door locks.
+  - Environmental Awareness: Highlights interactive objects and enemy sight cones slightly.
+- Tier 2:
+  - Shadow Dash: Perform a quick, silent dash between cover, leaving a brief afterimage.
+  - Advanced Decoy: Deploys a holographic decoy that distracts enemies for a short duration.
+  - Data Spike: Temporarily disables all electronic devices in a small radius upon a successful hack.
+- Tier 3:
+  - Ghost Walk: Become nearly invisible for a few seconds, able to pass through laser grids undetected.
+  - System Overload: Overcharge a security terminal to cause a localized blackout and stun nearby guards.
+  - Echo Location: Pulse a sonar wave that reveals the positions of all enemies and items through walls for a moment.

@@ -1,0 +1,26 @@
+Entry: 7330 / 7330
+
+Name: Cori
+
+Concept art Image Prompt:
+pixel art, character concept art, young female protagonist with curious expression and a brave stance, wearing a vibrant patchwork tunic made of stitched-together scraps of fabric that softly glow with different colors, equipped with a simple tool belt holding a glowing paintbrush and a jar of shimmering ink, standing at the edge of a lush, mysterious forest clearing dotted with floating crystalline structures and bioluminescent plants, soft sunlight filtering through the canopy creating dappled light patterns on the ground, fantasy art style, detailed character design, peaceful yet adventurous mood
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 4-frame animation on 64x64 canvas, character with patchwork tunic and tool belt, first frame: standing idle with slight bounce, second frame: crouching low to the ground inspecting something, third frame: mid-stride walking pose with arm swing, fourth frame: jumping upwards with arms reaching for a floating crystal, consistent character design across all frames, clean lines, fantasy adventure game style
+
+Background Story:
+Cori was once an apprentice archivist for the ancient Order of Makers, a group dedicated to preserving and creating wonders within the Crystal Spires. She discovered she had a unique ability to perceive the fundamental "code" of reality, seeing the world as interconnected patterns of light and energy. This talent made her an outcast among the more traditional Makers who feared her unconventional perspective. When the nefarious Gloom-Weaver began draining color and creativity from the Spires, Cori was the first to recognize the threat. She now travels through the ever-changing landscapes, motivated by her desire to protect the endless creative expressions the Makers have shared. Her internal conflict stems from balancing her reverence for established traditions with her need to innovate new solutions to save her home. If she fails, not only will the Spires fall into monochromatic silence, but the very concept of shared creativity could be lost forever.
+
+Skill Tree:
+- Tier 1:
+  - Chroma Touch: Temporarily enhances objects with colored energy to activate ancient mechanisms.
+  - Pattern Sense: Reveals hidden pathways and interactive elements in the environment.
+  - Maker's Leap: Increases jump height and allows brief mid-air hovering.
+- Tier 2:
+  - Resonance Cascade: Causes activated objects to chain-react with nearby crystals.
+  - Gloom Ward: Creates a protective aura that temporarily prevents the draining of color.
+  - Fabricate Platform: Instantly creates temporary solid platforms from ambient energy.
+- Tier 3:
+  - Prism Focus: Concentrates light into a beam that can purify heavily corrupted areas.
+  - Creative Surge: Temporarily allows Cori to alter small portions of the environment's layout.
+  - Makers' Legacy: Unleashes a burst of pure creative energy that restores color and life to a large area.

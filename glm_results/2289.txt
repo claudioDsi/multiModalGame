@@ -1,0 +1,26 @@
+Entry: 2289 / 2289
+
+Name: Ryker
+
+Concept art Image Prompt:
+Pixel art illustration of Ryker, a determined young monster tamer standing in a vibrant digital arena. He has spiky auburn hair, wearing a blue tactical vest with many pockets, fingerless gloves, and a communication headset. He holds a glowing summoning capsule in his right hand. The background features a cheering crowd and a large scoreboard displaying "VS". The art style is detailed 16-bit pixel art reminiscent of late 90s console RPGs, with dynamic lighting and bold outlines.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Ryker on a 64x64 canvas. The sheet displays 4 distinct frames: top left shows Ryker standing idle with arms crossed; top right shows Ryker crouching low inspecting the ground; bottom left shows Ryker walking with a confident stride; bottom right shows Ryker jumping mid-air with a fist raised. The character design is consistent: blue vest, brown hair, confident expression. Clean lines, limited color palette, retro gaming aesthetic.
+
+Background Story:
+Ryker grew up in the Outer Ring villages, far from the high-tech stadiums where elite trainers competed for glory. While urban trainers relied on data algorithms and rental beasts, Ryker learned the old ways of bonding with creatures in the wild, earning their trust through patience rather than programs. He enters the Grand Circuit to prove that a genuine connection outperforms the cold predictability of rented combatants. His ultimate goal is to dethrone the construct warrior known only as The Guardian, a legendary artificial defender rumored to hold the secret to true creature evolution. Ryker struggles with the pressure of being an underdog in a league dominated by wealthy sponsors and standardized battle strategies. He fights to save his local sanctuary from being demolished by the tournament's governing corporation. Every victory brings him closer to the secret mode, where only the strongest bonds survive.
+
+Skill Tree:
+- Tier 1:
+  - Bond Resonance: Increases the accuracy of allied creatures by calming their nerves during battle.
+  - Salvage Patch: Restores a small amount of health to an active creature using scavenged materials.
+  - Scout’s Gaze: Reveals the hidden techniques of an enemy creature for a short duration.
+- Tier 2:
+  - Synergy Link: Allows the trainer to take a portion of damage intended for their creature.
+  - Rally Cry: Boosts the attack power of all active creatures for three turns.
+  - Adaptive Plan: Switches the active creature instantly without losing a turn.
+- Tier 3:
+  - Evolutionary Spark: Triggers a temporary mutation in a creature, granting them a random high-tier ability.
+  - Perfect Harmony: Grants a creature immunity to status effects and critical hits for one round.
+  - Master's Command: Executes a devastating finishing move that combines the power of the trainer and creature.

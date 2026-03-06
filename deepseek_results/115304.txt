@@ -1,0 +1,26 @@
+Entry: 115304 / 115304
+
+Name: Leo the Late-Night Janitor
+
+Concept art Image Prompt:
+pixel art concept, a young night-shift janitor character, overalls and utility belt filled with cleaning supplies and a small flashlight, holding a mop defensively, standing in a dimly lit, eerie arcade hallway with vintage carpets and closed security shutters, dramatic low-key lighting casting long shadows, detailed character design showcasing a determined expression and worn-out clothes, 8-bit art style, retro horror game aesthetic, moody atmosphere
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas divided into 4 frames, a janitor character in blue overalls, frame 1: standing idle holding a mop, frame 2: crouching low with flashlight pointed forward, frame 3: mid-stride walking animation, frame 4: jumping pose with mop raised overhead, simple 8-bit character design, consistent color palette, clean animation frames
+
+Background Story:
+Leo took the night janitor position at the Mega-Plex Playhouse out of desperation, needing to pay his way through technical school. What he thought would be a quiet job cleaning up after hours quickly revealed itself to be a nightmare shift. The animatronic characters that entertain children by day become predatory creatures at night, hunting any human presence in the building. Leo's motivation is simple survival, but also a growing sense of responsibility to uncover what dark force has corrupted the once-cheerful establishment. He struggles with the internal conflict of fleeing for his life versus staying to rescue any trapped visitors and potentially fix the broken systems. The stakes escalate as he discovers the facility's deeper levels hold even more dangerous secrets. Each night survival becomes more difficult as the animatronics grow smarter and more aggressive. Leo must use his wits and limited resources to navigate the terrifying playground, knowing that sunrise brings temporary safety but never true escape from the cycle.
+
+Skill Tree:
+- Tier 1:
+  - Quick Mop: Swings cleaning mop faster to create temporary distance from approaching threats.
+  - Flashlight Focus: Increases battery life and brightness of the essential light source.
+  - Quiet Shoes: Reduces noise made while moving, making it harder for enemies to detect footsteps.
+- Tier 2:
+  - Slippery Spill: Creates temporary slippery surfaces that cause enemies to lose traction.
+  - Utility Belt Expansion: Allows carrying an additional item for solving environmental puzzles.
+  - Emergency Sprint: Grants a burst of speed when health drops critically low.
+- Tier 3:
+  - Animatronic Reset: Temporarily stuns nearby mechanical enemies with an electrical surge.
+  - Master Key: Unlocks all standard doors and security panels throughout the facility.
+  - Last Stand: When near death, delivers a powerful attack that can destroy weaker enemies.

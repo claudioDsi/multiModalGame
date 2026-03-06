@@ -1,0 +1,26 @@
+Entry: 1388 / 1388
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, character concept, a lithe martial artist in a worn grey gi with navy blue accents, tattered wrappings on hands and feet, standing in a defensive stance on a rocky cliffside overlooking a stormy sea, dynamic lighting from a sunset with long shadows, detailed facial expression showing grim determination, wind whipping through short black hair, art style reminiscent of high-quality 2D fighting games
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet canvas size 64x64, character shown in 4 distinct poses: in top left frame, standing in a balanced fighting stance; top right frame, crouching low with one hand on the ground; bottom left frame, mid-stride in a walking animation; bottom right frame, leaping upward with arms extended, simple background for clarity
+
+Background Story:
+Kaelen is the last disciple of a secluded martial arts monastery that was destroyed by an unknown assailant. He carries the weight of his fallen masters and brothers, driven by a need to uncover the truth behind the attack. His fighting style was considered outdated by the martial arts world, but he seeks to prove its relevance in the modern combat arenas. Kaelen struggles between his peaceful teachings and the violent reality of tournament fighting, fearing he may lose his spiritual center in pursuit of vengeance. He enters the world fighting circuit to track down clues about his monastery's destruction, knowing each opponent might hold a piece of the puzzle. The multi-tiered arenas remind him of the cliffside training grounds back home, giving him both an advantage and painful memories. His internal conflict revolves around whether to use his knowledge for healing or destruction as he gets closer to the truth.
+
+Skill Tree:
+- Tier 1:
+  - Flowing Current Strike: A quick palm strike that inflicts extended stun duration on hit
+  - Mountain Root Defense: Temporarily reduces stun duration when successfully holding an attack
+  - Tide Pull Technique: A grapple that deals extra damage when performed after a successful hold
+- Tier 2:
+  - Whirlpool Assault: A multi-hit combo that can re-stun opponents already in stun state
+  - Cliffside Reflexes: Increases movement speed on ice and water surfaces
+  - Avalanche Impact: Throw attacks against stunned opponents cause wall bounce
+- Tier 3:
+  - Tsunami Finale: A powerful finishing move that deals bonus damage based on stun duration
+  - Unbreakable Foundation: Grants temporary immunity to stun effects after being thrown
+  - Cascade Juggernaut: Launching attacks against wall-bounced opponents deal massive damage

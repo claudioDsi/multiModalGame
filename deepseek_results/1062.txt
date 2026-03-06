@@ -1,0 +1,26 @@
+Entry: 1062 / 1062
+
+Name: Dr. Elara Vance
+
+Concept art Image Prompt:
+A determined woman archaeologist illuminated by a flickering lantern in a dark library, pixel art style. She wears a tweed jacket with patched elbows over a simple blouse, khaki trousers, and sturdy boots, her hair pulled back in a messy bun. She holds an ancient, glowing artifact in one hand, casting long shadows. The style is detailed retro pixel art with a limited color palette, emphasizing dark blues and warm amber light, evoking a sense of mystery and lurking danger.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of a female archaeologist character, canvas size 64x64, 4 frames: Frame 1) standing holding a small glowing artifact, Frame 2) crouching down examining the ground, Frame 3) mid-stride walking with determined expression, Frame 4) jumping over a small obstacle. Simple color palette, clear readable poses.
+
+Background Story:
+Dr. Elara Vance is a disgraced archaeologist, once renowned for her work on ancient texts. Her career was shattered when she publicly defended a controversial theory about "scripted realities"—the idea that powerful words could warp the fabric of the world. Now, ostracized by the academic community, she works as a restorer in a cavernous city archive, haunted by both the dismissal of her life's work and the nagging feeling that she was right all along. Her motivation is reignited when the archive's oldest texts begin to rewrite themselves, describing events that are starting to happen outside their pages. She realizes a malevolent narrative is being imposed on reality, and her unique knowledge makes her one of the few people who can perceive the alterations. Her internal conflict stems from the choice between using this dangerous power to correct the narrative, potentially causing unforeseen consequences, or destroying the source and plunging the world into an unfinished, chaotic state. The stakes involve nothing less than the integrity of reality itself, which is being slowly unraveled by a story that should never have been written.
+
+Skill Tree:
+- Tier 1:
+  - Decipher Script: Allows translation of glitched text, revealing hidden paths or warnings.
+  - Steady Hand: Reduces negative effects from unstable narrative distortions.
+  - Lore Cache: Unlocks additional background information on found pages, providing context.
+- Tier 2:
+  - Ink Rebuke: Temporarily stuns nearby darkness entities by repurposing their written essence.
+  - Narrative Anchor: Creates a temporary safe zone where reality is stabilized.
+  - Preservationist's Eye: Highlights interactive objects and critical story elements more clearly.
+- Tier 3:
+  - Final Draft: Allows for a single, powerful rewriting of a local event, resetting enemies or hazards.
+  - Author's Resolve: Dramatically increases resistance to all forms of narrative corruption.
+  - Erasure: A last-resort ability that permanently removes a small piece of the hostile text, but at a great personal cost.

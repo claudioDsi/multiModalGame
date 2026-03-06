@@ -1,0 +1,26 @@
+Entry: 1000 / 1000
+
+Name: Fenth
+
+Concept art Image Prompt:
+Pixel art style, full body character portrait of Fenth, a gaunt, bipedal amphibious creature with sage-green mottled skin, wearing tattered industrial worker rags and a hand-stitched shawl. He has large, melancholic eyes with yellow sclera and a small stitched mouth. He stands in a hunched, timid posture within a foggy, bone-strewn necropolis ruin, illuminated by eerie bioluminescent swamp fungi. The background features decaying stone totems and rusted mining machinery. Detailed 16-bit aesthetic, dark atmospheric lighting, desaturated earth tones with faint glowing accents.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of character Fenth, a gaunt green amphibious creature in brown rags, 4 distinct frames on a plain background: 1) Standing idle with a slouch and looking nervous, 2) Crouching low to hide behind a rock, 3) Walking with a shuffling gait, 4) Jumping with legs tucked and arms flailing. Retro 16-bit style, limited color palette, clear outlines, canvas size 64x64.
+
+Background Story:
+Fenth was once a quiet laborer in the bone-dust mines of the Spire, unaware that the "Soul-Shards" he harvested were grinding his ancestors into dust. His peaceful retirement ended when the Spirit of the Marsh invaded his dreams, revealing the grim truth behind the corporate overlords' operations. Fenth discovered he possessed a unique spiritual resonance, allowing him to chant a frequency that purges the toxic dependency afflicting his kin. Frightened but driven by guilt, he infiltrated the processing plants to free the captured souls of his people. Along the way, he mastered strange biological reactions, utilizing potent digestive gases to blast through obstacles and evade capture. His journey is one of redemption, seeking to topple the executives who profit from addiction while trying to cure his friends.
+
+Skill Tree:
+- Tier 1:
+  - Spirit Chant: Fenth hums a resonant frequency that cures nearby allies of their addictive sickness.
+  - Marsh Camouflage: Fenth stands perfectly still to blend into shadows, becoming invisible to mechanical sensors.
+  - Bone Toss: Fenth throws a discarded rib bone to distract guards or trigger distant pressure plates.
+- Tier 2:
+  - Gastric Detonation: Fenth consumes a fermented herb to unleash an explosive cloud of gas, blasting open weak walls.
+  - Spectral Dash: Fenth momentarily transforms into pure spirit energy to pass through hazardous grates.
+  - Soul Gather: Fenth guides freed spirits into a protective barrier that absorbs one hit of damage.
+- Tier 3:
+  - Possession: Fenth projects his consciousness into enemy guards, allowing him to control their actions temporarily.
+  - Ancestor's Wrath: Fenth summons a massive spectral hand from the ground to crush heavy machinery.
+  - Mass Awakening: Fenth performs a sustained chant that cures all allies in the area and turns them into a rioting mob.

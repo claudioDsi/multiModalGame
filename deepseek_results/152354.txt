@@ -1,0 +1,26 @@
+Entry: 152354 / 152354
+
+Name: Piper Petal
+
+Concept art Image Prompt:
+Pixel art, side view of a cheerful character with a flower-petal shaped afro and bright, determined eyes, wearing a vibrant, puffy-sleeved tunic decorated with swirling frosting patterns and oversized bloomers. They are mid-stride on a checkered game board path that combines elements of a lush, overgrown garden with crystalline, icy terrain, holding a star-topped wand in one hand and a single, glowing gold coin in the other. Dynamic action pose, warm sunset lighting with pink and orange hues, clean lines, charming and whimsical video game character design.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, featuring a character with a flower-petal afro and a colorful, patterned tunic. Four distinct frames: 1) Standing idle with a cheerful smile, tapping their foot. 2) Crouching low to the ground, arms out for balance, with a mischievous grin. 3) Mid-walk cycle, one leg forward, arms swinging. 4) Jumping high, body extended, a trail of tiny sparkles behind them. Vibrant colors, clear readable silhouette for each pose.
+
+Background Story:
+Piper Petal was once a humble gardener tending the legendary Prism Meadows, a place where the magical Sweet-Frost eternally bloomed. When the Meadows were fractured and transformed into the chaotic game boards, Piper was caught in the magical surge. The energy merged with their spirit, granting them a fragment of the Meadows' core magic and a pressing mission. Now Piper journeys through these unstable boards not just to win, but to restore balance and find the lost seeds that could heal their home. Their motivation is a desperate hope to see the Meadows whole again, but they are internally conflicted by the competitive nature of the games; they must sabotage other contestants to gather the stars needed for their quest, an act that goes against their peaceful nature. The stakes are the very existence of the Prism Meadows. If Piper fails, the boards may collapse into permanent chaos, but if they succeed, they might not only save their home but also free the other players from the endless cycle of competition.
+
+Skill Tree:
+- Tier 1:
+  - Petal Burst: Launch a small cluster of magical petals that briefly stun an opponent.
+  - Sweet Step: Move slightly faster across "frosting" themed terrain tiles.
+  - Keen Harvest: Start the game with one extra gold coin.
+- Tier 2:
+  - Blooming Barrier: Create a temporary wall of flowers that blocks opponents' movement.
+  - Sugar Rush: Gain a short burst of speed after collecting a star.
+  - Nectar Sense: Reveal the location of the closest star on the mini-map for a few seconds.
+- Tier 3:
+  - Garden's Wrath: Unleash a wave of thorny vines that pushes all nearby opponents back and steals one of their coins.
+  - Primal Bloom: Transform a small area of the board into "Meadow" tiles that grant you a defensive bonus.
+  - Miracle Grow: If you have zero coins, automatically gain one coin after being hit by a trap or opponent's ability.

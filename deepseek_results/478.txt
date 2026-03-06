@@ -1,0 +1,26 @@
+Entry: 478 / 478
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, dark fantasy western RPG character concept, Kaelen, a rugged male wrangler with a weather-beaten face and a tired but determined expression, wearing a worn duster coat over a simple tunic, leather chaps, and a wide-brimmed hat shadowing his eyes, holding a gleaming hunting knife, standing on a rocky canyon overlook under a twilight sky with two moons, dramatic chiaroscuro lighting, muted earth tones with accents of tarnished silver and deep crimson, detailed pixel art style, 16-bit aesthetic, static pose looking out at a distant fortress.
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet on a transparent background, 64x64 canvas divided into 4 frames, Kaelen the wrangler: Frame 1 standing idle, hand resting on knife hilt, duster coat flowing slightly; Frame 2 crouching low, one knee on the ground, scanning the horizon; Frame 3 walking with a determined stride, coat billowing behind; Frame 4 jumping over a small obstacle, body coiled mid-air, dynamic motion blur on the coat, minimalistic color palette, 16-bit style.
+
+Background Story:
+Kaelen was a wrangler for the Frontier Caravan, guiding merchant trains through the treacherous canyons that separate the Imperial Cordon from the Free Settlements. His life was one of simple hardships until he was conscripted as a guide for the Imperium's diplomatic envoy. When the Cordon's Regent was found stabbed with Kaelen's ceremonial knife in his chest, the wrangler became the perfect scapegoat for a political assassination he didn't commit. Now branded a regicide, Kaelen must navigate the escalating tensions between the expansionist Imperial Cordon and the rebellious Free Settlements while hunted by both sides. His intimate knowledge of the borderlands gives him an edge, but his desire for redemption is constantly at odds with his growing disillusionment with both warring factions. The real killer remains at large, manipulating the conflict from the shadows, and Kaelen's quest for truth may be the only thing preventing all-out war. He is driven not by heroism, but by the need to clear the only name he's ever known.
+
+Skill Tree:
+- Tier 1:
+  - Canyon Stride: Increases movement speed and reduces stamina drain while traveling through wilderness.
+  - Wrangler's Eye: Highlights interactive objects and hidden paths within a small radius.
+  - Duster Guard: Parrying with the coat momentarily stuns enemies and deflects projectiles.
+- Tier 2:
+  - Dust Devil: Creates a small obscuring dust cloud when dodging, allowing for quick repositioning.
+  - Trail's Whisper: Gain temporary stealth when standing still against natural surfaces like rock faces or foliage.
+  - Serrated Edge: Successful knife attacks cause bleeding damage over time.
+- Tier 3:
+  - Heartstone Gambit: A high-risk parry that, if timed perfectly, instantly disarms human opponents.
+  - Ghost of the Canyons: Become nearly invisible while moving slowly and leave behind a faint decoy image.
+  - Truth of the Blade: Landing a killing blow on a marked target forces them to speak a fragment of truth before death.

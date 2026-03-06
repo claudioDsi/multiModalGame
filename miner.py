@@ -104,7 +104,7 @@ def get_games_by_id(*, output_csv: str = "games_with_character.csv") -> None:
     """
     Read game IDs from the `games` column of characters.csv.
     If multiple IDs exist per row, only the FIRST one is used.
-    Fetch game data and append results to a CSV file.
+    Fetch game data and append gpt_oss_results to a CSV file.
     """
 
     df_character = pd.read_csv("characters.csv")

@@ -1,0 +1,26 @@
+Entry: 8479 / 8479
+
+Name: Kage
+
+Concept art Image Prompt:
+pixel art, character design sheet, a young shinobi named Kage, sharp angular features, intense silver eyes, short spiky white hair, wearing a dark grey sleeveless shinobi gi with deep blue accents and a tattered crimson scarf, multiple kunai holsters on his thighs, dynamic pose leaping off a moss-covered stone lantern in a misty ancient forest, one hand forming a hand seal glowing with ethereal energy, moody lighting with dappled moonlight filtering through dense foliage, detailed pixel art, 16-bit era style, cinematic atmosphere.
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, character Kage, 64x64 canvas, 4 frames: Frame 1 neutral stance, standing ready with one hand on a kunai hilt; Frame 2 crouching low in a defensive posture, one hand touching the ground; Frame 3 mid-stride walking animation, scarf flowing behind; Frame 4 full jump, body extended upwards, arms spread for balance; simple background for clarity, detailed character sprite, 16-bit style.
+
+Background Story:
+Kage was born under a lunar eclipse, an event considered an omen of great disruption in the shinobi clans. Orphaned during a mysterious attack that obliterated his village, he was found and raised by the master of the Silent Blade clan, who trained him in their secret arts. He carries the last remaining scroll from his birthplace, which holds a forgotten technique that could either save the world or plunge it into darkness. His motivation is twofold: to uncover the truth behind his village's destruction and to prevent the same fate from befalling others. An internal conflict arises from his fear that the power he seeks to master is the same that caused the cataclysm, making him wary of his own potential. The current era of shinobi is one of fragile peace, threatened by a shadowy conspiracy that seeks to control the source of all chakra. Kage's unique connection to the eclipse grants him the ability to manipulate light and shadow in ways no other ninja can. The stakes are the balance of power itself, as factions maneuver to claim the ancient artifacts Kage is destined to find. He is a lone wolf by necessity, yet his journey will force him to trust allies and confront the legacy written in his blood.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Stitch: Throw a kunai that pins an enemy's shadow to the ground, temporarily immobilizing them.
+  - Lunar Veil: Create a brief shroud of dim light around yourself, reducing visibility to enemies.
+  - Echo Step: Leave a decoy image after dodging, which explodes after a short delay.
+- Tier 2:
+  - Umbral Slash: Dash through shadows to perform a swift sword attack on multiple enemies in a line.
+  - Crescent Weave: Manipulate shadows to form temporary platforms or walls in the air.
+  - Penumbra Sense: Reveal hidden enemies and traps within a large radius for a short duration.
+- Tier 3:
+  - Eclipse Flux: Create a large zone of absolute darkness that drains enemy health and empowers your shadow abilities.
+  - Phantom Ensemble: Summon multiple solid shadow clones that fight independently for a limited time.
+  - Celestial Severance: Unleash a concentrated beam of lunar energy that pierces through all obstacles.

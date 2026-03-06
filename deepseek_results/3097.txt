@@ -1,0 +1,26 @@
+Entry: 3097 / 3097
+
+Name: Corvus
+
+Concept art Image Prompt:
+pixel art, top-down view, Corvus, a scruffy survivor with a determined expression, wearing a worn leather jacket over a faded flannel shirt, dusty cargo pants tucked into scuffed boots, a satchel slung over one shoulder, short dark hair peeking out from under a beanie, holding a customized crowbar, standing on the rusted roof of a skeletal skyscraper overlooking a decaying cityscape bathed in the muted oranges and purples of dusk, cinematic lighting, detailed environment, post-apocalyptic atmosphere
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, Corvus, 4 frames: 1) standing idle with crowbar held loosely, 2) crouching low, one hand on the ground, alert, 3) mid-stride walking animation, dynamic pose, 4) jumping with both feet off the ground, arms out for balance, scruffy survivor in a leather jacket and cargo pants, post-apocalyptic style, clear animation keyframes
+
+Background Story:
+Corvus was a freelance archivist and courier before the world fell, specializing in retrieving data and artifacts from contested zones. This skillset became paramount for survival when society collapsed. He is driven by a deep-seated need to preserve the fragments of the old world, believing that understanding the past is the only way to build a stable future. This obsession often conflicts with his immediate survival instincts, forcing him to choose between securing a vital piece of history or a cache of life-saving supplies. His journey is fueled by whispers of a legendary archive, a rumored repository of human knowledge supposedly untouched by the cataclysm. Finding it would mean securing a future, but the path is riddled with desperate factions who see knowledge only as a tool for power. Corvus knows that if he fails, the last echoes of civilization could fade into myth, leaving humanity to endlessly repeat its darkest chapter.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger's Eye: Highlights interactive objects and points of interest in the environment.
+  - Quick Wit: Provides extended time to select dialogue options during conversations.
+  - Steady Hands: Reduces the difficulty of quick-time events requiring precise timing.
+- Tier 2:
+  - Pathfinder: Reveals hidden passages and alternate routes on the environment map.
+  - Silver Tongue: Unlocks additional, more persuasive dialogue choices with hostile characters.
+  - Pain Tolerance: Allows Corvus to survive a single failed quick-time event in action sequences per chapter.
+- Tier 3:
+  - Master Archivist: Allows Corvus to decipher ancient texts and reactivate old-world technology to solve puzzles.
+  - Inspiring Presence: Convinces allied NPCs to assist during critical action scenes, providing a buffer against failure.
+  - Unbreakable Will: Grants a final chance to retry a failed key decision with a dramatic time penalty.

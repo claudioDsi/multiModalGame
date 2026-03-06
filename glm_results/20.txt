@@ -1,0 +1,26 @@
+Entry: 20 / 20
+
+Name: Silas Drift
+
+Concept art Image Prompt:
+Pixel art portrait of a weathered male protagonist with sunken eyes and mechanical gill implants on his neck, wearing a distressed brass-diving suit with torn fabric sections revealing biomechanical limb enhancements, holding a modified harpoon rifle in his right hand while his left arm glows with unstable biological energy, standing in a flooded art deco corridor with leaking pipes and flickering electric lights, dark teal and rust color palette, dramatic side-lighting casting long shadows, horror atmosphere, 16-bit SNES RPG style, detailed sprite work.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of a male character in a battered brass steampunk diving suit with bioluminescent veins visible on exposed skin, 4 frames arranged horizontally: frame 1 standing idle with slight breathing animation, frame 2 crouching low with one knee down, frame 3 walking mid-stride with harpoon rifle held ready, frame 4 jumping upward with legs tucked, each frame 16x16 pixels on a 64x64 canvas, dark underwater atmosphere, teal and copper color scheme, 16-bit retro game style.
+
+Background Story:
+Silas Drift was once a maintenance engineer responsible for keeping the underwater city's life-support systems functioning, until he discovered the ruling council was deliberately sabotaging oxygen supplies to cull the lower districts. Exposed to experimental biological mutagens during the facility's collapse, Silas developed unstable abilities that allow him to interface directly with ancient technology. Now he scours the flooded ruins for artifacts capable of reversing the city's systematic decay. His body slowly deteriorates from the mutagens coursing through his veins, giving him limited time to find a cure. The city's factions each offer him contradictory salvation, and he must decide whose technology is worth trusting. Every new modification pushes him further from humanity, yet he clings desperately to the few memories of the surface world that still haunt him. The deeper he descends, the more the whispers of the old machines promise him power—and threaten to erase what remains of his soul.
+
+Skill Tree:
+- Tier 1:
+  - Pressure Adaptation: Increases movement speed and reduces damage from deep-water pressure zones.
+  - Salvage Instinct: Allows crafting of basic ammo types from scattered debris and scrap metal.
+  - Neural Tap: Enables hacking of simple electronic locks and security cameras.
+- Tier 2:
+  - Bioluminescent Pulse: Emits a stunning flash of light that disorients nearby enemies and reveals hidden pathways.
+  - Vampiric Harpoon: Harpoon attacks drain small amounts of health from organic targets and restore the player.
+  - System Override: Temporarily turns enemy automated turrets and drones into allies for a short duration.
+- Tier 3:
+  - Apex Predator: Activates a berserker state with massively increased damage and speed at the cost of rapid health drain.
+  - Transcendence: Allows full integration with ancient artifacts, unlocking devastating area-of-effect attacks.
+  - Regenerative Symbiosis: Passively heals all injuries over time while standing in water or near leaking pipes.

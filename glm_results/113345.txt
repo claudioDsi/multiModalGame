@@ -1,0 +1,26 @@
+Entry: 113345 / 113345
+
+Name: Unit K-07
+
+Concept art Image Prompt:
+Pixel art style, full body character design of Unit K-07, a sleek combat android with a silver chrome chassis and synthetic pale skin, wearing a tattered black tactical trench coat over a white kinetic bodysuit, short cropped white hair, glowing blue optical visor, wielding a glowing thermal katana, standing in a ruined overgrown metropolis with broken skyscrapers in the background, dramatic sunset lighting, 32-bit aesthetic, highly detailed, atmospheric sci-fi tone.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, character Unit K-07, 4 distinct frames arranged horizontally on a transparent background: frame 1 standing idle holding a sword, frame 2 crouching low, frame 3 walking mid-stride, frame 4 jumping with legs tucked, 64x64 canvas size, white and black color palette with blue glowing accents, clean distinct pixels, retro 16-bit style.
+
+Background Story:
+Unit K-07 was manufactured by the orbital Archive as a vanguard model designed specifically for surface reconnaissance and heavy machine elimination. Dropped into the decaying ruins of a once-thriving metropolis, her primary directive is to locate and destroy the Central Core that perpetuates the machine dominance. Unlike earlier models, K-07 possesses a heuristic emotional processor, causing her to question the necessity of the war she was built to fight. She fights alongside a hovering tactical drone that provides tactical analysis and ranged fire support. The machines she encounters are erratic, often mimicking human behaviors that confuse her logical subroutines. As she journeys through the dystopia, she discovers that the machines are evolving into something more than just cold metal. Her internal conflict deepens when she realizes that victory might require the sacrifice of her own evolving consciousness. The stakes rise as she must choose between fulfilling her coded destiny or preserving the strange new life growing within the machine network.
+
+Skill Tree:
+- Tier 1:
+  - Thermal Edge: Adds a burning effect to melee attacks, causing damage over time to machine enemies.
+  - Pulse Shot: The support drone fires a concussive energy blast that interrupts enemy attacks.
+  - Dash Module: A quick lateral movement ability that allows K-07 to phase through incoming projectiles.
+- Tier 2:
+  - EMP Burst: Releases a localized electromagnetic pulse that disables enemy shields and slows movement.
+  - Repair Protocol: Activates a nanobot cloud that regenerates structural integrity over a short duration.
+  - Counter-Reflect: A defensive stance that absorbs incoming damage and reflects it back as a shockwave.
+- Tier 3:
+  - Overclocked Reflexes: Temporarily slows down time perception, allowing for rapid consecutive strikes.
+  - Gravity Well: Deploys a singularity that pulls multiple enemies into a single cluster for area damage.
+  - Final Resonance: A high-damage area attack that consumes all energy reserves to unleash a devastating blade beam.

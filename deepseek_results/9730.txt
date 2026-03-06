@@ -1,0 +1,26 @@
+Entry: 9730 / 9730
+
+Name: Robin Moss
+
+Concept art Image Prompt:
+pixel art, character concept art, a person with an androgynous appearance, short wind-swept brown hair, thoughtful and tired eyes, wearing a dark green utility vest over a grey t-shirt, cargo pants tucked into worn hiking boots, holding a handheld radio, standing on a rocky outcrop overlooking a vast, misty wilderness of pine forests and distant mountains, early morning light with long shadows, muted natural color palette, detailed pixel art style, 16-bit era aesthetic.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames: 1) standing front view, holding a radio, casual stance, 2) crouching low to the ground, examining something, 3) mid-stride walking animation, one foot forward, 4) jumping with arms outstretched for balance, character design consistent with concept art -- androgynous person in a green vest and cargo pants, detailed sprite work, 16-bit era aesthetic.
+
+Background Story:
+Robin Moss took the fire lookout job as a desperate attempt to escape the suffocating pressure of city life and a recent, painful divorce. They hoped the solitude of the wilderness would provide clarity, a chance to rebuild a sense of self away from the noise. The initial peace was palpable, but it has been slowly eroded by a creeping unease. Strange, shimmering animal tracks that fade in sunlight and distant campfire smoke that appears where no camps are marked on the map have begun to unsettle them. Robin's only tether to reality is their supervisor's voice over the crackling radio, but even those conversations are starting to feel strangely scripted, as if testing them. They are starting to wonder if the isolation is playing tricks on their mind or if the forest itself is hiding a secret. The stakes are no longer just about personal peace but about uncovering a truth that might be far more dangerous than they imagined. Robin must decide whether to trust their fractured perception or risk delving deeper into the mysteries of the woods, knowing that the answers could shatter their fragile sanity completely.
+
+Skill Tree:
+- Tier 1:
+  - Keen Eyes: Spots distant environmental clues like smoke plumes or animal movement more easily.
+  - Steady Hand: Reduces the amount of static and interference on the handheld radio.
+  - Trail Wisdom: Moves more quietly through the forest, disturbing less wildlife.
+- Tier 2:
+  - Intuitive Mapping: Automatically marks areas of recent unusual activity on the mental map.
+  - Signal Booster: Increases the range of the radio, allowing communication from deeper in the wilderness.
+  - Night Vision: Improves visibility in low-light conditions, revealing details hidden in the dark.
+- Tier 3:
+  - Forest Whisperer: Allows temporary communication with the local wildlife for clues.
+  - Truth Seeker: Gains the ability to discern subtle lies or hesitations in the supervisor's radio transmissions.
+  - Unshakeable Resolve: Significantly reduces the mental strain caused by encountering the forest's strange phenomena.

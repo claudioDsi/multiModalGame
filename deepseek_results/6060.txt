@@ -1,0 +1,26 @@
+Entry: 6060 / 6060
+
+Name: Silas "Digger" Vale
+
+Concept art Image Prompt:
+pixel art concept art of a rugged male character with a scar across his left eye, wearing patched-up work overalls and a worn leather glove on one hand, holding a heavy mining tool; determined expression, grimy face; background of a dusty, industrial wasteland under a hazy orange sky; style of gritty post-apocalyptic survival game
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet for a rugged male character with a scar across his left eye, wearing patched-up work overalls; four frames: idle stance holding a heavy tool, crouching low to the ground, mid-stride walking, leaping upwards; canvas size 64x64; style of gritty post-apocalyptic survival game
+
+Background Story:
+Born and raised within the confines of a penal mining colony, Silas has never known a world beyond the dust-choked quarries. His entire life has been one of servitude, wielding a heavy pneumatic drill to carve out precious resources from the unforgiving earth. He bears a scar across his eye, a permanent reminder of a tunnel collapse that claimed the lives of his work crew, an event for which he was unjustly blamed. Silas is driven by a quiet, burning desire to dig his way to freedom, not just for himself, but to expose the truth about the colony's corrupt overseers. He grapples with the guilt of surviving the collapse and the fear that his quest for freedom might cause another catastrophe. His intimate knowledge of underground structures and weak points in the earth makes him both a valuable asset and a potential liability. The scarce resources he once mined now represent the very key to his escape, but using them risks drawing the attention of the harsh penal communities. Silas must navigate a treacherous path, where every tunnel he digs could lead to salvation or become his tomb.
+
+Skill Tree:
+- Tier1:
+  - Seismic Sense: Detecting unstable ground and potential cave-ins becomes second nature, allowing for safer navigation.
+  - Deep Pockets: Increase carrying capacity for scavenged resources and excavation charges.
+  - Tireless Driller: Swinging heavy tools consumes less stamina, allowing for longer periods of work or combat.
+- Tier2:
+  - Controlled Demolition: Planting explosive charges with greater precision, creating targeted collapses to trap enemies or clear paths.
+  - Tunnel Vision: Movement speed is increased when traveling through excavated tunnels or narrow industrial passages.
+  - Reinforced Frame: Personal grit increases overall damage resistance, a benefit of surviving countless rockfalls.
+- Tier3:
+  - Truth From Stone: A powerful drill charge that not only devastates a wide area but can also shatter false walls and reveal hidden secrets.
+  - Subterranean Refuge: Temporarily burrow into the earth to avoid danger, creating a small, safe pocket underground.
+  - Unearthing the Past: The final upgrade, representing Silas's resolve to expose the colony's lies; defeating major overseers provides a permanent damage boost and reveals additional narrative secrets.

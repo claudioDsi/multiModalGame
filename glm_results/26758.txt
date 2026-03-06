@@ -1,0 +1,26 @@
+Entry: 26758 / 26758
+
+Name: Zara Vane
+
+Concept art Image Prompt:
+Pixel art illustration of Zara Vane, a spirited young explorer with tousled teal hair wearing oversized brass aviator goggles. She is dressed in a rugged leather flight jacket with a vibrant orange scarf, sturdy cargo pants, and heavy explorer boots. She stands in a dynamic pose on a floating sky-island, winding up to throw a glowing, spectral blue lasso. The background features stylized pixel clouds and distant floating temples. Bright, warm lighting, high contrast. Art style tags: 16-bit pixel art, SNES RPG style, detailed sprites, vibrant colors, retro aesthetic.
+
+Sprite sheet Image Prompt:
+Sprite sheet of Zara Vane in 64x64 pixel resolution, pixel art style. The sheet contains 4 distinct frames arranged horizontally. Frame 1: Standing pose, hands on hips, scarf flowing slightly to the right. Frame 2: Crouching pose, knees bent, looking upwards. Frame 3: Walking pose, mid-stride with left leg forward, arms swinging. Frame 4: Jumping pose, leaping upward with knees tucked and arms raised. Character wears a brown flight jacket, teal hair, and orange scarf. White background.
+
+Background Story:
+Zara Vane grew up listening to the roar of engines in her father's dusty mechanic shop, dreaming of the floating continents described in old travel logs. When the tyrannical Baroness Ironwood kidnapped her brother to force a political marriage and seized their family's prototype airship, Zara vowed to get him back. She stole the "Animus Lasso," an ancient relic capable of capturing the essence of objects and creatures, effectively allowing her to control them. Now, she travels across the skies with a mismatched crew, hunting for the four Aether Crystals needed to power the airship for the rescue mission. Zara struggles with the moral weight of bending others to her will, fearing she might become a tyrant like the Baroness. The clock is ticking, as the wedding is set to occur during the next solar eclipse. Her journey takes her from the rusted gears of the Clockwork Archipelago to the verdant overgrowth of the Sky Jungle. Ultimately, she must decide if power is something to be wielded or set free.
+
+Skill Tree:
+- Tier 1:
+  - Spirit Lasso: Zara throws her lasso to capture small objects and harmless animals, allowing her to move them or use them as platforms.
+  - Wind Dash: A quick burst of speed that allows Zara to cross small gaps or dodge incoming projectiles.
+  - Lift: Zara uses the lasso's power to levitate captured objects, holding them in place for a few seconds.
+- Tier 2:
+  - Beast Bind: Allows Zara to capture and control hostile enemies, using their unique attacks to solve puzzles or defeat other foes.
+  - Echo Throw: Zara throws a captured entity with increased force, breaking fragile barriers or stunning larger enemies.
+  - Anchor: While controlling an enemy, Zara can anchor them to the ground, making them immovable and usable as a shield.
+- Tier 3:
+  - Possession Chain: Zara can instantly chain from one captured entity to another without returning to her body, allowing for rapid traversal.
+  - Titan's Grip: Enables the capture of massive objects or mini-bosses, allowing Zara to temporarily control the battlefield terrain.
+  - Soul Burst: Zara releases all currently captured entities in a devastating explosive attack that clears the screen of enemies.

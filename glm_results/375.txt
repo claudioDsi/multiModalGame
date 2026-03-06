@@ -1,0 +1,26 @@
+Entry: 375 / 375
+
+Name: Viktor Dray
+
+Concept art Image Prompt:
+Pixel art style, top-down view stealth operative, male character with short dark hair and five o'clock shadow, wearing dark grey tactical vest over black undershirt, cargo pants with knee pads, combat boots, radio headset, crouching pose against a concrete wall with shadows, dim industrial corridor with emergency lighting, subtle green glow from nearby terminal, 16-bit aesthetic, limited color palette with emphasis on dark blues and greys, small inventory pouches on belt, calm focused expression, slight sweat detail on face, 128x128 resolution, detailed shading.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, same male stealth operative character, top-down perspective, dark tactical outfit with grey vest and headset, 4 distinct poses arranged horizontally: 1) Standing alert with arms at sides, 2) Crouching low with hand on ground for sneaking, 3) Walking with one leg forward mid-stride, 4) Mid-jump with legs tucked, consistent character design across all frames, white or transparent background, each frame approximately 16x16 pixels within 64x64 canvas, clean pixel edges, limited color palette matching concept art.
+
+Background Story:
+Viktor Dray was once an elite operative for a covert military unit before his entire squad was eliminated during a botched extraction mission. Left for dead and framed for the catastrophic failure, he spent three years in a remote prison facility before escaping with help from an anonymous informant. Now operating as a freelance infiltration specialist, Viktor takes on high-risk missions that pit him against the same shadowy organization that betrayed him. His primary objective is to uncover the truth behind the ambush and clear his name, but each mission reveals deeper conspiracies that extend beyond his personal vendetta. Viktor struggles with the weight of his past decisions, knowing that many of his former orders led to civilian casualties he was never told about. The informant who freed him communicates only through encrypted channels, and Viktor is uncertain whether this contact is truly an ally or simply using him for their own agenda. With each infiltration, he inches closer to the truth while questioning whether redemption is even possible for someone with his history. The stakes rise when Viktor discovers that the organization is developing a weapon system that could shift global power permanently.
+
+Skill Tree:
+- Tier 1:
+  - Whisper Step: Reduces movement noise by 40% when walking or running.
+  - Shadow Meld: Increases concealment effectiveness in dark areas by 30%.
+  - Quick Assessment: Reveals enemy patrol routes and vision cones for 3 seconds.
+- Tier 2:
+  - Ghost Protocol: Temporarily renders Viktor invisible to electronic surveillance devices.
+  - Tactical Takedown: Allows silent neutralization of enemies from behind without triggering alarms.
+  - Interceptor: Enables short-range scrambling of enemy radio communications.
+- Tier 3:
+  - Phantom: Grants 5 seconds of near-invisibility during critical alert phases.
+  - Chain Infiltration: Automatically resets alarm timers when reaching secure checkpoints.
+  - Endgame: Unlocks a hidden escape route in the final mission area.

@@ -1,0 +1,26 @@
+Entry: 9141 / 9141
+
+Name: Rylin
+
+Concept art Image Prompt:
+Pixel art illustration of Rylin, a young agile martial artist with windswept white hair, wearing teal loose-fitting trousers and white bandages wrapping his torso and hands, standing in a dynamic fighting stance with one palm open facing forward, wind currents swirling around his feet, background features a cloudy mountain peak with soft sunlight breaking through, vibrant 90s arcade aesthetic, detailed 2D hand-drawn style, sharp outlines, energetic atmosphere.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Rylin on a 64x64 canvas, 4 distinct frames arranged horizontally: frame 1 shows standing idle pose with hair swaying, frame 2 shows a low crouching defensive stance, frame 3 shows a walking cycle with forward momentum, frame 4 shows a jumping pose with knees tucked, teal and white color palette, high contrast, clear black outlines, transparent background, retro fighting game style.
+
+Background Story:
+Rylin grew up in the secluded Cloud Sanctuary, a monastery hidden among the peaks where monks practiced the "Way of the Current," a martial art focused on fluidity and wind manipulation. He was the youngest prodigy in the temple's history, mastering techniques that took others decades to learn. However, his brash attitude and desire for excitement often clashed with the elders' teachings of patience and defense. When a rival faction challenged the sanctity of the Sanctuary, Rylin saw an opportunity to prove his worth beyond the monastery walls. He fights to restore the honor of his home and to test the limits of his speed against the world's strongest warriors. Internally, Rylin struggles with the fear that his speed is fleeting and that he lacks the raw power to protect those he cares about. He hides this insecurity behind a confident smirk and a blur of motion.
+
+Skill Tree:
+- Tier 1:
+  - Gale Palm: Rylin thrusts his palm forward, releasing a short-range burst of pressurized air that stuns the opponent.
+  - Drift Step: A quick dash ability that allows Rylin to phase through incoming projectiles for a split second.
+  - Updraft: A defensive maneuver where Rylin creates a wind barrier, deflecting high attacks and pushing the opponent back.
+- Tier 2:
+  - Cyclone Kick: Rylin spins horizontally in the air, delivering a multi-hit combo that covers distance quickly.
+  - Wind Shear: Rylin slashes his hand downward, creating a blade of wind that hits overhead, catching crouching opponents.
+  - Zephyr Sprint: A passive buff that increases Rylin's movement speed and jump height for a short duration.
+- Tier 3:
+  - Typhoon Rush: Rylin dashes through the opponent multiple times from different angles, creating a vortex of wind that ends with a powerful knockback strike.
+  - Eye of the Storm: Rylin enters a state of hyper-focus, slowing down time for everyone else, allowing him to chain multiple combos together effortlessly.
+  - Heavenly Ascent: A devastating anti-air ultimate where Rylin launches the opponent into the sky and slams them back down with a concentrated blast of wind energy.

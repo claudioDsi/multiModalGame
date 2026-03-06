@@ -1,0 +1,20 @@
+Entry: 41 / 41
+
+7. Counter-Terrorist Operative (Dystopian Setting)
+
+Name: W.R.A.I.T.H. (Weaponized Response AI Tactical Harrier)
+ Concept art Image Prompt:
+< Generic Correct>
+Sprite sheet Image Prompt:
+< Generic Correct>
+
+Background Story:
+< Generic Correct>
+
+Skill Tree:
+- Tier1:
+ < Generic Correct>
+- Tier2:
+ < Generic Correct>
+- Tier3:
+ < Generic Correct>

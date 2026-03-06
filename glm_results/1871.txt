@@ -1,0 +1,26 @@
+Entry: 1871 / 1871
+
+Name: Silas Wren
+
+Concept art Image Prompt:
+Pixel art, medium shot of a weathered man in his mid-40s with short salt-and-pepper hair and a thin scar across his left cheek, wearing a faded canvas jacket with multiple pockets over a dark henley shirt, cargo pants tucked into worn leather boots, a messenger bag slung across his chest, standing with one hand raised shielding his eyes, background shows the remnants of a small town street with boarded-up storefronts and overgrown pavement cracks, overcast afternoon lighting with soft diffused shadows, desaturated earth-tone palette, melancholic atmosphere, adventure game portrait style, detailed 16-bit aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a transparent background, same character Silas Wren, four distinct poses arranged horizontally: first pose standing idle with arms relaxed at sides and slight head tilt, second pose crouching low on one knee examining the ground, third pose walking mid-stride with opposite arm and leg forward, fourth pose jumping with knees tucked and arms raised for balance, each frame fits within a 64x64 pixel canvas, consistent character proportions and color palette across all frames, clean pixel outlines, retro adventure game aesthetic.
+
+Background Story:
+Silas Wren was a high school history teacher in a quiet rural town before the collapse, known for his storytelling and stubborn optimism. When the crisis erupted, he lost his wife and daughter while attempting to evacuate, a burden of guilt he carries in every decision he makes. He spent the first year wandering aimlessly until he encountered a group of survivors who reminded him that protecting others was the only way to honor his family's memory. Silas now serves as a reluctant leader and mediator, using his knowledge of history to find parallels between past conflicts and their current struggles. His internal conflict centers on whether he truly believes in hope or simply performs it for others' sake, and the weight of every life lost under his watch. The episodic journey forces him to confront moral compromises he never imagined making, from choosing who receives limited supplies to deciding whether to trust strangers bearing gifts. Each episode peels back another layer of his composed exterior, revealing a man desperate for redemption but unsure if he deserves it.
+
+Skill Tree:
+- Tier 1:
+  - Steady Hands: Reduces the tremor minigame difficulty when performing delicate tasks under pressure.
+  - Teacher's Voice: Unlocks additional persuasive dialogue options when reasoning with hostile survivors.
+  - Scavenger's Eye: Highlights interactive objects in the environment that would otherwise be missed.
+- Tier 2:
+  - Field Medicine: Allows Silas to stabilize injured characters, preventing certain story deaths.
+  - History Repeats: Grants insight into faction motivations, revealing hidden agenda clues in conversations.
+  - Quiet Steps: Reduces noise radius during stealth segments, making evasion sequences more forgiving.
+- Tier 3:
+  - Shepherd's Resolve: Once per episode, Silas can undo one major decision that resulted in a character's death.
+  - Burden Bearer: Silas can carry additional inventory slots, allowing more flexible puzzle solutions.
+  - Final Lesson: Unlocks a unique ending monologue reflecting on every major choice made throughout the story.

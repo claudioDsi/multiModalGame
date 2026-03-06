@@ -1,0 +1,26 @@
+Entry: 7194 / 7194
+
+Name: Kaito Sora
+
+Concept art Image Prompt:
+pixel art, character concept art, a young Japanese man in his early 20s with tousled dark hair and sharp, determined eyes, wearing a slightly worn grey varsity jacket over a black t-shirt and dark jeans, holding a metallic, futuristic-looking PDA device that glows with a soft blue light. He stands on a rain-slicked urban rooftop at night in 2010, neon signs from adjacent buildings casting a colorful reflections on the wet surfaces. The lighting is dramatic, with high contrast between the neon glow and the dark night sky, anime-inspired pixel art style, detailed environment, thoughtful and slightly melancholic expression.
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 4 frames for a character, canvas size 64x64. Frame 1: Standing pose, young man with dark hair in a grey jacket and dark jeans, holding a small glowing device. Frame 2: Crouching pose, bent knees, one hand on the ground for balance. Frame 3: Walking pose, mid-stride, arms slightly swinging. Frame 4: Jumping pose, legs bent and arms raised, as if leaping over an obstacle. Consistent character design with sharp, determined eyes and a slightly worn grey varsity jacket. Clean lines, limited color palette.
+
+Background Story:
+Kaito is a university physics student in 2010, haunted by the sudden disappearance of his younger sister a year prior during a city-wide blackout. He spends his days attending lectures and his nights obsessively researching unexplained phenomena, believing they are linked to her vanishing. His motivation is fueled by a mix of guilt over a past argument and a desperate hope that she might be found through unconventional means. Kaito's internal conflict arises from his rational scientific mind clashing with the increasingly bizarre and seemingly impossible clues he uncovers. His investigations lead him to a clandestine research group experimenting with temporal mechanics, forcing him to confront the stakes of meddling with time. Kaito's connection to the setting is personal; his sister's disappearance is intrinsically tied to the city's hidden technological underbelly. As he delves deeper, he must decide how far he is willing to go and what truths he can accept to potentially rewrite a painful past.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Analysis: Allows the character to identify and analyze minor temporal anomalies in the environment.
+  - Chrono-Recall: Grants the ability to perfectly recall short, recent conversations and events.
+  - Urban Navigation: Increases movement speed and reveals hidden pathways within the city streets.
+- Tier 2:
+  - Paradox Intuition: Provides a warning when the player's actions are about to create a significant temporal paradox.
+  - Echo Location: Enables the character to hear faint echoes of past events in specific locations.
+  - Device Optimization: Enhances the functionality of the PDA, allowing for more complex data decryption.
+- Tier 3:
+  - Causal Manipulation: Allows for a single, small alteration to a past event, changing its immediate outcome.
+  - Temporal Anchor: Creates a safe "save point" in the timeline to which the character can retreat if a paradox becomes unstable.
+  - Resonance Cascade: Unlocks the ability to see branching timelines and potential futures for a brief moment.

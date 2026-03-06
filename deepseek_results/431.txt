@@ -1,0 +1,26 @@
+Entry: 431 / 431
+
+Name: Kaelen Moss
+
+Concept art Image Prompt:
+pixel art concept art of a rugged treasure hunter protagonist, Kaelen Moss, wearing a worn leather jacket over a practical utility vest, cargo pants stuffed with gear, and sturdy combat boots. He has a determined expression, short scruffy hair, and a dirt-smudged face, holding a modified relic scanner in one hand and a pistol in the other. He is positioned cautiously on a rain-slicked ancient stone walkway, overgrown with bioluminescent fungi, with the foreboding silhouette of a massive, ruined cyclopean structure looming in the misty background. Moody lighting with deep shadows and eerie green glow, detailed pixel art style, 16-bit aesthetic, adventure game character design.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, divided into 4 frames for a treasure hunter character. Frame 1: Standing pose, holding a relic scanner, looking alert. Frame 2: Crouching, low to the ground, one hand bracing on the floor. Frame 3: Walking animation cycle, two frames of a confident stride. Frame 4: Jumping, legs tucked, arms outstretched for balance. Character has a leather jacket, cargo pants, and rugged boots. Simple background for clarity, clean lines, 16-bit video game sprite style.
+
+Background Story:
+Kaelen Moss is a disgraced former archaeologist turned freelance relic hunter, motivated by a desperate need to clear his family's name after his mentor framed them for a high-profile artifact theft. He operates on the fringes of the academic and criminal worlds, using his keen intellect and survival skills to track down legendary artifacts others believe are myths. The clue hidden in the 400-year-old coffin is his one chance at redemption, pointing towards a treasure that could rewrite history and exonerate his bloodline. Stranded on the mysterious island, his academic curiosity clashes with a primal instinct for survival as mercenaries hunt him. Kaelen must rely on a handful of unlikely allies he meets on the island, each with their own dark secrets tied to the location's past. The terrible truths he uncovers challenge everything he thought he knew about history and his own family's legacy, forcing him to confront the real cost of the knowledge he seeks.
+
+Skill Tree:
+- Tier 1:
+  - Relic Resonance: Enhances the scanner to detect hidden compartments and weak structural points in the environment.
+  - Scavenger's Cunning: Increases the amount of useful crafting materials found when searching containers and defeated enemies.
+  - Quick Draw: Significantly reduces the delay between aiming and firing your sidearm.
+- Tier 2:
+  - Ancient Glyph Decryption: Allows translation of ancient scripts found in the ruins, revealing lore and puzzle solutions.
+  - Silent Tread: Eliminates movement noise, making it harder for enemies to detect your approach.
+  - Adrenaline Surge: Temporarily increases movement speed and reload rate after taking significant damage.
+- Tier 3:
+  - Structural Insight: Reveals the entire layout of a ruin complex upon finding its main entrance map.
+  - Mercenary's Bane: Deals bonus damage to armored human enemies and increases the chance to disarm them.
+  - Fortune's Favor: Critical hits with firearms have a chance to instantly recharge your relic scanner's special ability.

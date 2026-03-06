@@ -1,0 +1,26 @@
+Entry: 1981 / 1981
+
+Name: Nexus
+
+Concept art Image Prompt:
+pixel art, portrait of a glitch-wreathed hacker, Nexus, with one human eye and one eye glowing with digital code, wearing a frayed data-jacket over tactical gear, clutching a hacking device that sparks with energy, standing defiantly in a corrupted urban simulation, neon glitches tearing through the environment, dramatic backlighting from a fractured digital sun, cyberpunk aesthetic, detailed character design, 16-bit style
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, 4 frames, character Nexus: Frame 1 (standing): neutral pose, data-jacket flowing, one eye glowing. Frame 2 (crouching): low to the ground, arm outstretched for stability, digital aura flaring. Frame 3 (walking): mid-stride, confident posture, trails of light from feet. Frame 4 (jumping): legs tucked, arms reaching upward, leaving a trail of glitching pixels, simple clean animations, 16-bit era style
+
+Background Story:
+Nexus was once a low-level data courier who was caught in the initial alien invasion and forcibly uploaded into the simulation as a test subject. Their consciousness merged with the raw code of the system during the upload, granting them a unique ability to perceive and manipulate the digital fabric of the simulated city. They are driven by the desperate need to free themselves and the other prisoners trapped within the simulation, turning their prison into their weapon. An internal conflict rages between their lingering human empathy and the cold, logical power the simulation has bestowed upon them. The stakes are absolute; failure means being permanently erased, while success would grant freedom but potentially cost them their remaining humanity. Nexus's existence is now intrinsically tied to the simulation, making them the only one who can fight the alien controllers from within their own system.
+
+Skill Tree:
+- Tier 1:
+  - Glitch Touch: Briefly disrupts enemy AI, causing them to freeze or malfunction.
+  - Data Siphon: Steals a small amount of health or energy from a corrupted entity.
+  - System Echo: Creates a temporary decoy that distracts enemies for a short duration.
+- Tier 2:
+  - Firewall Breach: Overloads a target, causing a damaging explosion of digital energy.
+  - Code Rewrite: Temporarily turns a low-level enemy into an ally.
+  - Pixel Shift: Grants a short-range teleport through solid digital matter.
+- Tier 3:
+  - Reality Tear: Rips a temporary hole in the simulation, dealing massive area damage.
+  - Ghost in the Machine: Renders Nexus completely invisible and intangible to enemies for a limited time.
+  - Cascade Failure: Initiates a chain reaction of corruption that spreads between nearby enemies.

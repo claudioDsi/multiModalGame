@@ -1,0 +1,26 @@
+Entry: 1291 / 1291
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, portrait of Kaelen, a grim-faced male warrior with short cropped silver hair and a scar across his left eye, wearing tattered black and crimson armor adorned with broken chains, holding a crackling crystalline greatsword, standing defiantly atop a crumbling prison tower under a stormy red sky, dynamic lighting from lightning strikes, dark fantasy style, detailed pixel art, 16-bit era
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames: 1) Kaelen standing ready with crystalline greatsword held in two hands, 2) Kaelen crouching low in a defensive stance, sword poised to strike, 3) Kaelen mid-stride walking forward, armor plates shifting, 4) Kaelen leaping upwards, sword trailing magical energy, all on a transparent background, 16-bit style
+
+Background Story:
+Kaelen was a Blade-Sworn, an elite enforcer bound by magical oath to serve the Order of the Eclipse. For years, he carried out their ruthless decrees without question, believing their ends justified any means. His loyalty was ultimately betrayed when the Order manipulated him into leading an assault on a caravan they claimed harbored rebels; only after the slaughter did Kaelen discover the victims were his own family, hidden from him since childhood. Shattered, the magical oath shattered with him, and his subsequent rage against the Order earned him a sentence within the adamantine prison-fortress of Veridian Hold. Now, his singular goal is to break his chains and escape, but he is haunted by the ghosts of those he killed and the bond that still faintly tethers him to the Order. He must carve a bloody path to freedom, severing the last mystical ties to his former masters while confronting the guardians who were once his comrades. The stakes are not just his life, but the redemption of a soul drowned in a sea of innocent blood.
+
+Skill Tree:
+- Tier 1:
+  - Oathbreaker's Fury: Consecutive attacks build rage faster, increasing damage output.
+  - Arcane Edge: Imbues the greatsword with unstable magic, causing small area-of-effect explosions on impact.
+  - Chain Resonance: Damaging an enemy causes a minor shockwave to travel along any remaining mystical bonds, hurting nearby foes.
+- Tier 2:
+  - Abyssal Breath: Grants the ability to breathe underwater and move freely in liquid environments.
+  - Temporal Shear: A relic ability that briefly slows time in a radius around Kaelen, allowing for precise strikes.
+  - Phantom Onslaught: Creates a "shadow" duplicate that mirrors Kaelen's attacks for a short duration.
+- Tier 3:
+  - Rage Incarnate: When the rage meter is fully charged, Kaelen enters an unstoppable state where his attacks cannot be interrupted.
+  - Eclipse Purge: A powerful relic ability that dispels illusory constructs and magical barriers created by guardians.
+  - Final Severance: A finishing move that deals massive damage and permanently severs a portion of the character's connection to the Order.

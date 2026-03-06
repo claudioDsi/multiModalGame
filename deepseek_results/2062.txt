@@ -1,0 +1,26 @@
+Entry: 2062 / 2062
+
+Name: Kaito
+
+Concept art Image Prompt:
+Pixel art depicting a man with spiky black hair and a stoic expression, wearing a dark gray trench coat over a rumpled white button-down shirt, with a red tie loosened at the collar. He stands in a neon-drenched back alley at night, leaning against a brick wall under a flickering sign, one hand in his coat pocket and the other holding a glowing cigarette. The moody lighting creates strong contrasts of deep shadows and vibrant neon reflections on the wet pavement. Art style tags: detailed pixel art, urban noir, atmospheric, gritty.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, depicting the same man in 4 distinct frames. Frame 1: neutral standing pose, coat slightly open. Frame 2: crouching low, one hand bracing on the ground. Frame 3: mid-stride walking animation, coat flowing behind. Frame 4: jumping pose, legs coiled and arms forward for balance. Consistent dark gray trench coat, white shirt, black pants.
+
+Background Story:
+Kaito was a promising detective with the Organized Crime Task Force, renowned for his sharp instincts and unyielding dedication. His career shattered when a botched raid resulted in the death of his partner, an event he blames entirely on himself. Consumed by guilt and disillusioned with a corrupt system, he now operates as a private investigator, walking the fine line between justice and the underworld to survive. He is driven by a desperate need for redemption, but his methods often skirt the edge of the law he once swore to uphold. His current investigation into a string of high-profile assassinations has drawn the attention of both the major crime syndicate and his former colleagues. Kaito's intimate knowledge of the city's power structures makes him a valuable asset and a dangerous loose end for everyone involved. He must navigate this treacherous path alone, trusting no one while trying to uncover a truth that could either redeem him or destroy what little he has left.
+
+Skill Tree:
+- Tier 1:
+  - Sharp Observer: Increases the chance of finding critical clues during investigations.
+  - Street Brawler: Enhances the power of basic melee attacks.
+  - Gut Feeling: Occasionally highlights interactive objects or persons of interest in the environment.
+- Tier 2:
+  - Shadow Stalker: Reduces enemy detection range and makes footsteps quieter.
+  - Pressure Point Strikes: Melee attacks have a chance to temporarily stun enemies.
+  - Forensic Analysis: Unlocks additional dialogue options and information from evidence.
+- Tier 3:
+  - Unbreakable Will: Grants temporary immunity to status effects when health is critically low.
+  - Ace in the Hole: Unleashes a powerful, precise shot that guarantees a critical hit with a firearm.
+  - The Truth Unravels: Exposes the true nature of a key target, revealing their weaknesses.

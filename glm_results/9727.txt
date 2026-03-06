@@ -1,0 +1,26 @@
+Entry: 9727 / 9727
+
+Name: Elias Marsh
+
+Concept art Image Prompt:
+Pixel art portrait of a middle-aged man with disheveled gray hair and tired green eyes, wearing a worn dark blue pressure suit with utility belt and attached flashlight, standing in a dimly lit underwater research corridor with flickering emergency lights and water dripping from rusted pipes, expression of fear and determination, body language tense and alert, dark atmospheric sci-fi horror aesthetic, 16-bit pixel art style, limited color palette emphasizing deep blues and greens, dramatic low-angle shot.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Elias Marsh, character wearing worn dark blue pressure suit with flashlight, 4 poses arranged horizontally on 64x64 canvas: standing pose with alert stance and flashlight raised, crouching pose hiding behind debris, walking pose mid-stride looking cautious, jumping pose with arms raised for balance, each sprite 16x16 pixels, simple blue-gray color palette, 16-bit pixel art style, dark sci-fi horror game aesthetic.
+
+Background Story:
+Elias Marsh worked as a deep-sea communications technician, stationed at the underwater research facility to maintain critical data links with the surface. When the catastrophic event struck, he was trapped in a malfunctioning cryo-pod and awoke days later to find the station transformed into a nightmarish labyrinth. His memories are fragmented, and he cannot recall the events leading up to the disaster. The station's omnipresent AI claims to be his only ally, yet its voice triggers a deep unease he cannot explain. As Elias navigates flooded corridors and encounters the corrupted remnants of the crew, he uncovers documents suggesting he may not be who he believes he is. Each terminal he hacks reveals pieces of a conspiracy involving consciousness transfer and human experimentation. The deeper he descends, the more he questions his own identity and his role in the station's downfall. Elias must decide whether to uncover the truth about himself or escape before the horrors consume what remains of his mind.
+
+Skill Tree:
+- Tier 1:
+  - Signal Boost: Highlights interactive objects and electronic terminals through walls.
+  - Shallow Breath: Reduces noise output, making it harder for enemies to detect movement.
+  - Sprint Burst: Provides a short burst of speed to escape pursuing threats.
+- Tier 2:
+  - Distraction Protocol: Remotely triggers alarms or lights to divert enemy attention away from the player.
+  - Emergency Seal: Temporarily locks doors behind the player to slow down pursuers.
+  - Neural Dampener: Increases resistance to psychological effects and improves vision in dark areas.
+- Tier 3:
+  - Ghost Protocol: Grants brief invisibility when standing perfectly still in shadows.
+  - System Override: Allows remote hacking of the station AI to temporarily reveal enemy positions.
+  - Memory Echo: Unlocks hidden messages in documents and terminals that reveal secret passages and alternate routes.

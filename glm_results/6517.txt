@@ -1,0 +1,26 @@
+Entry: 6517 / 6517
+
+Name: Solara Veyne
+
+Concept art Image Prompt:
+Pixel art full-body portrait of a fierce female martial artist with flowing silver-white hair tied in a high ponytail, piercing amber eyes, and a determined expression. She wears a sleeveless crimson trench coat with gold embroidery over a fitted black combat suit, fingerless gloves, and armored boots. A glowing amber energy aura surrounds her raised fist. Dynamic action pose mid-punch with motion blur lines. Background features a stylized sunset dojo arena with floating paper lanterns. Warm dramatic lighting with rim light accentuating her silhouette. Detailed 16-bit pixel art style, vibrant color palette, fighting game character select screen aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet featuring a female martial artist with silver-white ponytail and crimson trench coat. Four distinct poses arranged horizontally on a 64x64 pixel canvas: Frame 1 - standing idle with confident stance and fists at ready; Frame 2 - crouching defensively with weight shifted forward; Frame 3 - walking forward with mid-stride leg position and arms swinging; Frame 4 - jumping with knees tucked and one fist raised overhead. Clean outlines, limited 32-color palette, animated fighting game sprite style, transparent background, consistent character proportions across all frames.
+
+Background Story:
+Solara Veyne was born into a legendary bloodline of martial artists tasked with guarding the Celestial Ember, an ancient artifact said to grant its wielder control over flame and light. When a rival faction invaded her village seeking the artifact's power, Solara's mother sealed the Ember within Solara's own soul to keep it from falling into evil hands. Now burdened with its volatile energy, Solara wanders the world seeking masters who can teach her to control the growing inferno inside her. Her journey has led her to the grand tournament, where the strongest fighters across all realms gather to prove their worth. Solara fights not for glory but for the chance to test herself against the world's greatest warriors and finally master the gift her mother died to protect. The stakes are deeply personal—if she loses control, the Ember could consume her entirely, destroying everyone she cares about. Her internal conflict rages between the desire for vengeance against those who destroyed her home and the discipline required to harness her power for protection rather than destruction.
+
+Skill Tree:
+- Tier 1:
+  - Ember Strike: A quick flaming punch that extends Solara's reach and ignites enemies briefly.
+  - Flash Step: A short-range instant dash that leaves behind a blinding afterimage to disorient foes.
+  - Heat Wave: A defensive circular burst that repels incoming projectiles and close-range attackers.
+- Tier 2:
+  - Phoenix Rising: An anti-air uppercut that launches Solara upward trailing flames, carrying enemies skyward.
+  - Scorched Earth: Solara slams the ground, creating spreading flames that limit enemy movement options.
+  - Blazing Parry: A counter-stance that absorbs one attack and retaliates with amplified flame damage.
+- Tier 3:
+  - Supernova Burst: Solara releases her full power in a devastating expanding sphere of light that deals massive damage.
+  - Celestial Inferno: A sustained barrage of flame projectiles that track enemies and pin them down.
+  - Final Dawn: Solara channels the Celestial Ember's true power, entering an enhanced state with increased speed and damage for a limited time.

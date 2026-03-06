@@ -1,0 +1,26 @@
+Entry: 116419 / 116419
+
+Name: Lyra Weaver
+
+Concept art Image Prompt:
+A young woman with flowing silver hair and determined purple eyes, wearing a tattered hooded cloak over a simple tunic and trousers, holding a glowing loom-shuttle dagger. She stands poised on a moss-covered stone archway in a surreal, twilight-drenched forest, with floating musical notes and threads of light weaving through the air. The style should be pixel art with a vibrant color palette, strong rim lighting, and a sense of dynamic movement.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Lyra Weaver, a young woman with silver hair and a hooded cloak. Four frames representing key poses: standing confidently with her dagger at the ready; crouching low with threads of light swirling around her; mid-walk cycle, cloak flowing; and leaping upwards, surrounded by a burst of motes of light. 64x64 pixel grid, vibrant colors, clear silhouettes.
+
+Background Story:
+Lyra was an apprentice in the Guild of Echoes, weavers of reality's very fabric through song and thread. She was a prodigy, but her ambition led her to attempt a forbidden melody—the "Weave of Silence"—which catastrophically unraveled part of the world and trapped its sound, creating the dissonant Silent Plains. Her mentor sacrificed himself to contain the backlash, leaving Lyra scarred with guilt and a fragment of the dangerous Weave resonating within her. Now, carrying her mentor's modified loom-shuttle as a dagger, she ventures into the twisted, procedurally generated dungeons born from her mistake. She must face the dissonant creatures and rhythmic environmental hazards she inadvertently created. Her quest is not just to restore what was lost, but to master the power that broke the world, weaving new harmonies from the chaos. She is driven by a desperate need for redemption, but fears that using her growing power might cause another, greater catastrophe.
+
+Skill Tree:
+- Tier 1:
+  - Rhythmic Weave: Lyra's basic attacks in time with the music generate small "threads" of energy that briefly increase her movement speed.
+  - Tempo Step: Dodging on the beat creates a faint echo image, slightly extending the invulnerability window of her next dodge.
+  - Resonant Prick: A successful parry with her dagger emits a small sonic pulse, staggering nearby minor enemies.
+- Tier 2:
+  - Harmonic Loom: Lyra can now spend accumulated threads to create a temporary patch of "solid sound" on the ground, which acts as a platform or traps enemies.
+  - Cascade Cadence: After a perfect dodge streak, Lyra's next three attacks are significantly faster and weave a damaging trail of light behind them.
+  - Counter-Melody: A well-timed parry against a boss's heavy attack will not only stagger the boss but also instantly refill a portion of Lyra's special meter.
+- Tier 3:
+  - Grand Weave: Lyra channels all her power to perform a high-risk, high-reward maneuver, attempting to temporarily "re-weave" a small area of the dungeon, resetting hazards and healing her, but leaving her completely vulnerable during the long channeling time.
+  - Silent Heart: By mastering the resonance within her, Lyra can enter a state of perfect rhythm for a short duration, where her movements don't consume stamina and every hit is a critical strike.
+  - Final Chord: Lyra's ultimate attack unleashes the contained Weave of Silence in a massive, devastating wave that obliterates standard enemies and deals massive damage to bosses, but afterward, the world falls silent for a moment, disabling all music-based skills until the rhythm gradually returns.

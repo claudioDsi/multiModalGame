@@ -1,0 +1,26 @@
+Entry: 6750 / 6750
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art illustration of Kaelen, a nimble male fighter with silver hair and a cyan headband. He wears a white sleeveless gi with blue trim, fingerless fighting gloves, and loose fitting dark pants tucked into combat boots. He stands in a dynamic fighting stance on a stone bridge at sunset, one palm extended forward generating a swirl of pixelated wind effects. The background features soft lighting with a warm orange glow, detailed shading, and a 16-bit retro aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Kaelen on a 64x64 canvas. Top left: Standing pose in a neutral idle stance with hands raised. Top right: Crouching pose with one knee on the ground and arms blocking. Bottom left: Walking pose with one leg extended forward and arms swinging. Bottom right: Jumping pose with knees tucked and fists raised overhead. The character has white hair, cyan accents, and a white outfit. Clean outlines, limited color palette, transparent background.
+
+Background Story:
+Kaelen grew up in the secluded mountain peaks of the Iron Range, where the winds howl with enough force to strip the flesh from bone. Trained by the silent monks of the Altitude Temple, he learned to harness air currents to augment his striking speed. Unlike his predecessors who sought inner peace, Kaelen sought combat perfection to prove that speed triumphs over brute strength. He left the monastery to test his technique in the global tournament, seeking the champion who defeated his master years ago. Kaelen struggles with the burden of expectation, as his master was disgraced in the previous tournament, and he must restore honor to his school. He fights not for glory, but to force the world to recognize the viability of the "Gale Fist" style. His internal conflict lies in his desire for mercy versus the ruthless efficiency required to win. The stakes are high, as a loss would mean the dissolution of his fighting style by the ruling martial council.
+
+Skill Tree:
+- Tier 1:
+  - Gale Palm: A quick palm strike that pushes the opponent back slightly.
+  - Wind Step: A short dash forward that passes through projectiles.
+  - Rising Current: An upward striking move used for anti-air defense.
+- Tier 2:
+  - Cyclone Kick: A spinning kick that hits multiple times while moving forward.
+  - Air Pressure: A projectile move consisting of a fast-moving ball of compressed air.
+  - Counter Gust: A parry move that opens the opponent for a counterattack.
+- Tier 3:
+  - Tempest Rush: A devastating combo of rapid strikes ending in a heavy knockback.
+  - Vacuum Trap: A move that pulls the opponent closer to set up a combo.
+  - Eye of the Storm: A temporary buff that increases movement speed and jump height.

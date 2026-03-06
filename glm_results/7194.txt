@@ -1,0 +1,26 @@
+Entry: 7194 / 7194
+
+Name: Sora Kitani
+
+Concept art Image Prompt:
+Pixel art style, full body portrait of Sora Kitani, a young adult technical student with short disheveled silver hair and bright cyan eyes, wearing a modern 2010s urban outfit consisting of a dark hooded jacket with circuit board patterns, cargo shorts, and sneakers, holding a bulky modified handheld gaming device with a glowing screen, standing in a dimly lit urban alleyway at night, background features neon signs and rain-slicked pavement, atmospheric lighting with a cool blue hue, detailed 16-bit aesthetic, dramatic angle.
+
+Sprite sheet Image Prompt:
+Pixel art style, sprite sheet of Sora Kitani on a 64x64 canvas, 4 distinct frames: frame 1 is standing idle with hands in pockets looking attentive; frame 2 is crouching down examining a digital device on the ground; frame 3 is walking briskly with a slight lean forward; frame 4 is jumping mid-air with knees tucked, consistent character design with silver hair and dark jacket, clean black outlines, limited color palette suitable for retro game assets.
+
+Background Story:
+Sora Kitani is a brilliant but reclusive engineering student attending a prestigious technical institute in the heart of a bustling metropolis. Obsessed with the concept of retrocausality, Sora spends days modifying obsolete electronics to detect anomalies in the local time-space continuum. Her research leads her to discover a hidden frequency that allows her phone to receive text messages from the near future, dragging her into a shadowy conflict involving a clandestine research organization. Motivated by the accidental death of her older brother years prior, she seeks to rewrite the past and uncover the truth behind the city's strange temporal disturbances. Internally, Sora struggles with the ethical ramifications of altering timelines, fearing that saving her brother might erase the existence of her closest friends. She operates from a cramped apartment filled with CRT monitors and soldering equipment, serving as the reluctant operator for a group of friends investigating the phenomenon. The stakes rise when she realizes her own existence is becoming unstable, phasing in and out of reality with every major change she initiates. Sora must navigate complex branching scenarios, using her intellect to outmaneuver agents of the organization while managing the emotional toll of her choices.
+
+Skill Tree:
+- Tier 1:
+  - Temporal Ping: Reveals hidden objects or clues in the immediate environment by highlighting them for a short duration.
+  - Logic Divert: Allows Sora to solve environmental puzzles instantly by analyzing circuit patterns.
+  - Sprint Burst: Increases movement speed temporarily to evade pursuit or reach timed objectives.
+- Tier 2:
+  - Future Glance: Peeks at the outcome of a dialogue choice, showing if it leads to a negative or positive immediate result.
+  - Memory Overwrite: Changes a minor NPC's perception of an event, opening new dialogue paths.
+  - Signal Jam: Disables electronic surveillance cameras in a small radius for a limited time.
+- Tier 3:
+  - Causality Loop: Rewinds time by thirty seconds in a specific room to retry a failed action or puzzle.
+  - World Line Shift: Unlocks a hidden dialogue option that drastically alters the story branch.
+  - Quantum Stabilize: Prevents a "Game Over" scenario once per playthrough by stabilizing a fatal injury.

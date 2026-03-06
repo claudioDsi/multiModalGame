@@ -1,0 +1,26 @@
+Entry: 74 / 74
+
+Name: Commander Jaxon Vane
+
+Concept art Image Prompt:
+Pixel art illustration of Commander Jaxon Vane, a battle-hardened human male with a cybernetic eye and scarred cheek, wearing heavy tactical matte-black and crimson armor with glowing blue vents. He stands in a dynamic command pose on the bridge of a sleek spaceship, looking out a viewport at a burning galaxy. The background features holographic star maps and dark bulkheads. The lighting is dramatic with cyan accents. Art style tags: 16-bit pixel art, sci-fi, cinematic, detailed, dark atmosphere.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Commander Jaxon Vane, wearing heavy tactical armor. The canvas is 64x64 pixels and contains 4 distinct frames arranged horizontally. Frame 1: Standing idle holding a rifle. Frame 2: Crouching low behind cover. Frame 3: Walking mid-stride. Frame 4: Jumping with knees tucked. The character is small but detailed, using a limited palette of black, crimson, and grey with clear outlines.
+
+Background Story:
+Jaxon Vane was once a celebrated tactical officer for the Interstellar Coalition until a catastrophic defeat cost him his battalion and his left eye, leaving him disgraced in the eyes of the public. Recalled from exile by a shadowy director, he is now the only hope to stop the "Harvesters," a synthetic hive-mind erasing organic life across the galaxy. Jaxon carries the weight of every soldier he has ever lost, driving him to make the ruthless decisions necessary for survival. He must navigate a web of political intrigue and recruit a team of assassins, biologists, and mercenaries who distrust both him and each other. His mission takes him to the galaxy's edge, a suicide run where he must sacrifice his own humanity to ensure the return of his crew. Failure means the total annihilation of all advanced civilizations.
+
+Skill Tree:
+- Tier 1:
+  - Adrenaline Surge: Instantly regenerates health points when damage is taken.
+  - Heavy Munitions: Increases inventory capacity for high-caliber ammunition.
+  - Command Presence: Unlocks basic dialogue options to intimidate enemies into fleeing.
+- Tier 2:
+  - Interrupt Protocol: Allows the user to instantly attack or trigger traps during enemy dialogue.
+  - Tactical Cloak: Grants temporary invisibility to flank enemies or avoid detection.
+  - Unified Front: Squadmates receive a defense bonus based on the Commander's reputation.
+- Tier 3:
+  - Last Rites: Massive damage boost when health is critical, allowing for a final stand.
+  - Galactic Diplomat: Guarantees success in high-stakes negotiation encounters.
+  - Omega Bombardment: Calls in an orbital strike that devastates a large area of the battlefield.

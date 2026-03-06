@@ -1,0 +1,26 @@
+Entry: 127 / 127
+
+Name: Alessio Vane
+
+Concept art Image Prompt:
+Pixel art style character concept of Alessio Vane, a stealthy rogue standing on a terracotta rooftop overlooking a Renaissance canal city at sunset. He wears a dark teal hooded tunic, fitted leather vambraces, and a crimson sash. An intricate mechanical blade housing is visible on his left wrist. He holds a curved dagger in his right hand. The background features distinct pixelated Venetian architecture, chimneys, and a canal reflecting the orange light. High contrast, detailed 16-bit style, cinematic lighting.
+
+Sprite sheet Image Prompt:
+Pixel art style sprite sheet of Alessio Vane on a 64x64 canvas. 4 frames representing 4 poses: 1. Standing idle with arms crossed and hood shadowing face. 2. Crouching low in a stealth position with hand on the ground. 3. Walking mid-stride with cloak swaying. 4. Jumping with knees tucked and arms out for balance. Consistent dark teal outfit and brown leather details, clean outline, limited color palette.
+
+Background Story:
+Born into a prestigious lineage of merchant lords in the canal city of Vespera, Alessio Vane enjoyed a life of luxury until a ruthless political coup left his family decimated and his name ruined. Orphaned and hunted by the ruling Council, he found refuge in the forgotten underground tunnels of the city, where a secretive guild of freedom fighters trained him in the arts of shadows and silent death. Driven by a burning desire for retribution, Alessio now uses his high-status knowledge and lethal skills to dismantle the conspiracy that betrayed him. His fight takes him across the rooftops and through the canals, turning the city's architecture into a weapon of justice. Though he fights for the people, his soul is tormented by the violence he must inflict to achieve peace. The lines between heroic liberation and personal vengeance blur as he climbs the ranks of the conspiracy, targeting corrupt nobles one by one. Ultimately, he must decide if he is fighting to save the city or just to satisfy his own grief.
+
+Skill Tree:
+- Tier 1:
+  - Swift Movement: Increases sprint speed and enables basic climbing grips for faster traversal.
+  - Hidden Dagger: Allows for silent takedowns when approaching enemies from behind undetected.
+  - Coin Toss: Throws a coin to distract nearby guards, creating openings for escape or assassination.
+- Tier 2:
+  - Smoke Veil: Deploys a smoke bomb to blind enemies, allowing for quick escapes or counter-attacks.
+  - Counter Strike: Parry an enemy's attack during combat to instantly break their defense.
+  - Rooftop Acrobat: Reduces fall damage and allows for extended ledge hanging for better positioning.
+- Tier 3:
+  - Phantom Bolt: Fires a silent projectile from a hidden wrist mechanism to eliminate distant targets.
+  - Shadow Blend: Becomes nearly invisible while standing still in dark corners or crowds.
+  - Chain Assassination: Allows chaining instant kills between multiple adjacent enemies in rapid succession.

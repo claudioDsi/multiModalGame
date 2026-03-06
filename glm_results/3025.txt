@@ -1,0 +1,26 @@
+Entry: 3025 / 3025
+
+Name: Kael Ashbound
+
+Concept art Image Prompt:
+Pixel art digital illustration of a tall gaunt male warrior with ashen gray skin and hollow glowing amber eyes, wearing tattered dark leather armor over remnants of a village watchman's uniform, a heavy notched iron sword sheathed on his back, standing in a desolate twilight landscape with crumbling stone ruins and swirling black mist, dramatic side lighting from a dying sun casting long shadows, muted earth tones with accents of ember orange, art style tags: pixel art, dark fantasy, moody atmosphere, 16-bit detailed, isometric perspective, melancholic tone
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on 64x64 canvas, 4 frames arranged horizontally: frame 1 standing idle with head tilted down and hand resting on sword hilt, frame 2 crouching low with one knee on ground scanning for enemies, frame 3 walking stride mid-step with cloak billowing, frame 4 jumping upward with sword drawn overhead, character features ash-gray skin, tattered dark leather armor, glowing amber eyes, consistent silhouette across all poses, dark transparent background, style: pixel art, retro 16-bit game sprite, clean outlines, limited palette
+
+Background Story:
+Kael Ashbound was once an ordinary village watchman in a peaceful border settlement, living a quiet life with his wife and young daughter. When the Shadow Legions swept through the region on a campaign of slaughter, he watched helplessly as everything he loved burned to ash. He died with a rusted blade in his hand, cut down while trying to shield his family from the invaders. Yet death did not claim him fully—the ancient curse permeating the Land of Shadows bound his restless spirit to his charred remains, forcing him to rise again as something neither alive nor truly dead. Now Kael wanders the twilight realm driven by a singular purpose: to hunt down those who ordered the massacre and destroy them one by one. His existence is a torment, caught between worlds, remembering only fragments of his past life through the memories of those he slays. The enemies he faces are beginning to remember him, whispering tales of the Hollow Man who cannot be killed, and the shadows themselves seem to bend to his growing wrath.
+
+Skill Tree:
+- Tier 1:
+  - Ash Strike: Infuse your weapon with lingering rage to deal increased damage with each consecutive hit.
+  - Wraith Step: Briefly become intangible to pass through enemies and avoid incoming attacks.
+  - Grave Sense: Detect nearby enemies through walls and see their combat rank and name.
+- Tier 2:
+  - Ember's Echo: Leave behind a ghostly trail of burning footprints that damages pursuing enemies.
+  - Memory Drain: Extract combat knowledge from defeated foes, gaining a temporary boost to counter their specific weapon type.
+  - Phantom Chains: Bind a single enemy in spectral restraints, stunning them for several seconds.
+- Tier 3:
+  - From the Ashes: Automatically revive once per encounter with partial health when your mortal body is destroyed.
+  - Mark of Doom: Permanently brand a nemesis enemy, dealing double damage and tracking their location across the map.
+  - The Final Grave: Create a zone of darkness that pulls all nearby enemies inward and crushes them with shadow pressure.

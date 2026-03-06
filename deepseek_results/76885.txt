@@ -1,0 +1,26 @@
+Entry: 76885 / 76885
+
+Name: Cassian the Relic-Warden
+
+Concept art Image Prompt:
+pixel art concept art of a character, a young man with a scarred face and an intense gaze, wearing weathered leather armor reinforced with tarnished steel plates, a tattered cloak draped over one shoulder, posing dynamically with a unique glaive-like weapon that has a crescent blade at one end and a weighted pommel at the other, standing atop a crumbling stone archway at dusk, dramatic low-angle shot with warm sunset lighting casting long shadows, detailed pixel art style with a gritty, textured look, 16th century warrior aesthetic
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, four frames arranged in a 2x2 grid on a 64x64 canvas, character design consistent with Cassian: frame 1 shows a standing pose holding his glaive ready, frame 2 shows a low crouch with weapon angled defensively, frame 3 shows a mid-stride walking pose, frame 4 shows a leaping jump pose with weapon arcing overhead, simple monochrome background, clean pixel art lines
+
+Background Story:
+Cassian was raised as an acolyte in a secluded monastery dedicated to protecting dangerous artifacts from falling into the wrong hands. His entire lineage has served as guardians for generations, sworn to prevent the relic's destructive power from resurfacing. When rumors spread of the artifact's location being rediscovered, Cassian's monastery was attacked and destroyed by those seeking its power. He alone survived, carrying the guilt of his failure to protect his mentors and family. Now he travels the land, using his unique polearm combat style to track down those who destroyed his home. His motivation is twofold: to prevent the artifact from causing widespread catastrophe, and to avenge his fallen brethren. Cassian struggles with the violence required of his quest, as his monastic upbringing taught peace above all else. The conflict between his duty as a warden and his pacifist teachings creates constant internal turmoil as he fights his way through the growing conflict.
+
+Skill Tree:
+- Tier 1:
+  - Crescent Sweep: Unleashes a wide arcing attack that can hit multiple opponents at once.
+  - Warden's Stance: Assumes a defensive posture that reduces incoming damage from frontal attacks.
+  - Relic Sense: Temporarily highlights nearby hidden items and secret passages on the battlefield.
+- Tier 2:
+  - Momentum Strike: Charged attack that gains power based on distance traveled before impact.
+  - Guard Breaker: A piercing thrust that ignores enemy blocking and armor.
+  - Echo Step: Leaves a temporary afterimage that distracts opponents and confuses targeting.
+- Tier 3:
+  - Wrath of the Fallen: Enters a powered state where each consecutive hit increases damage dealt.
+  - Chain Bind: Launches the glaive's chain to briefly immobilize an enemy, setting them up for combos.
+  - Guardian's Sacrifice: A powerful area-of-effect explosion that consumes health to deal massive damage to all nearby foes.

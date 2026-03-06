@@ -1,0 +1,26 @@
+Entry: 1254 / 1254
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, character concept, a determined young warrior with short, windswept brown hair and a scar across one eye, wearing a worn leather duster coat over a simple tunic and durable trousers, holding a gleaming, ornate spear that crackles with ethereal energy, standing on a rocky outcrop overlooking a desolate, sunset-lit canyon with dust devils swirling below, dynamic lighting with long shadows and a warm color palette, detailed textures, fantasy western art style
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, four frames showing a character with brown hair and a leather duster coat, frame 1: standing idle holding a spear, frame 2: crouching low with spear extended defensively, frame 3: mid-stride walking animation with dust kicking up, frame 4: leaping upward with spear held high, simple background, vibrant colors, clean lines
+
+Background Story:
+Kaelen was once a member of the Vanguard, an order of mystics sworn to protect the ley lines that crisscross the desolate continent. A catastrophic betrayal saw their citadel fall and the land's magic become corrupted. He survives as a lone drifter, marked by a scar that throbs with the land's pain. His motivation is twofold: to heal the bleeding world and to confront the former comrade who led the charge against their order. An internal conflict gnaws at him, torn between his duty to restore balance and a growing vengeful rage that threatens to corrupt him as well. The stakes are the very soul of the land; if the corruption is not reversed, reality itself will unravel into chaos. He travels from one twisted settlement to the next, a solitary figure in a world slowly losing its form and meaning.
+
+Skill Tree:
+- Tier 1:
+  - Dust Devil Spin: Unleash a rapid spinning attack that damages all nearby enemies.
+  - Canyon Stride: Temporarily increase movement speed and dodge chance after a successful evade.
+  - Ley Line Tap: Basic attacks have a chance to restore a small amount of mana.
+- Tier 2:
+  - Rending Lunge: Lunge forward with the spear, piercing through enemies and causing them to bleed.
+  - Cactus Hide: Gain a temporary armor bonus when health falls below a certain threshold.
+  - Echo Strike: Landing three consecutive hits on the same target triggers an extra hit of bonus damage.
+- Tier 3:
+  - Wasteland Wrath: Enter a super-state for a short duration, drastically increasing attack speed and damage.
+  - Final Sunder: A powerful finishing move that deals massive damage to a single, heavily wounded foe.
+  - World-Shaper's Resolve: Upon receiving a fatal blow, instead become invulnerable for a few seconds and trigger a health regeneration effect.

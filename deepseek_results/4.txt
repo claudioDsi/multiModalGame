@@ -1,0 +1,26 @@
+Entry: 4 / 4
+
+Name: Silas the Shade
+
+Concept art Image Prompt:
+pixel art, a gaunt master thief in a grimdark plague city, character design sheet, leaning against a rain-slicked cobblestone alleyway, wearing a tattered dark grey cloak with a high collar, a leather harness holding tools, face obscured by a plague doctor's bird-like mask with tinted lenses, hood up, gloved hand resting on a worn dagger hilt, dynamic low-angle shot, moody cinematic lighting from a distant flickering lantern, highly detailed, atmospheric, dark fantasy, --ar 16:9
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames: 1) standing pose with one hand on hip, 2) low crouch with blades drawn, 3) mid-step walking animation with cloak flowing, 4) legs bent in a dynamic jump, character is a slim thief in a dark cloak with a bird-like mask, isolated on transparent background, clean lines, --ar 1:1
+
+Background Story:
+Silas was not born into the city's misery but was forged by it when a rampant plague claimed his family, leaving him an orphan in the filth-ridden canals. He learned to survive by becoming a shadow, his small frame and quick wit making him an ideal messenger and pilferer for the city's criminal underbelly. His signature plague mask, once a tool of necessity during the outbreak, now serves as both a disguise and a grim reminder of his past. He steals not for wealth, but to redistribute necessities to the forgotten souls suffering in the city's underbelly, creating a fragile network of informants and allies. This makes him a target for both the oppressive city watch and the jealous rival gangs who see his charity as a threat to their control. Silas is torn between his desire to remain a phantom and the growing pull to become a symbol of resistance for the people. He knows that every theft risks his life, but the alternative—allowing the powerful to hoard while the sick die in the streets—is a cost he refuses to pay. His actions are slowly stirring the stagnant waters of the city, attracting dangerous attention from those who profit from the despair.
+
+Skill Tree:
+- Tier 1:
+  - Light Step: Movement makes significantly less noise, making it harder for enemies to detect your presence.
+  - Quick Fingers: Increases lockpicking speed and allows for the picking of basic locks without consuming tools.
+  - Shadow Meld: Temporarily become nearly invisible when standing perfectly still in shadows.
+- Tier 2:
+  - Silent Takedown: Perform instant, quiet takedowns on unaware enemies from behind.
+  - Acrobat's Leap: Jump higher and farther, allowing access to previously unreachable rooftops and ledges.
+  - Keen Eye: Highlight interactable objects and points of interest through walls within a short radius.
+- Tier 3:
+  - Ghostwalk: For a brief duration, move at high speed without creating any sound or leaving a visible trace.
+  - Master Pick: Automatically open any lock without a minigame or tool cost, but with a long cooldown.
+  - Duelist's Feint: When confronted in open combat, create a distracting feint that briefly stuns the opponent, allowing for a quick escape or counter-attack.

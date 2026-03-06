@@ -1,0 +1,26 @@
+Entry: 233 / 233
+
+Name: Kira Vance
+
+Concept art Image Prompt:
+Pixel art style, medium shot of a young woman scientist with short tousled dark brown hair and determined amber eyes, wearing a weathered charcoal tactical vest over a faded white lab coat with rolled sleeves, cargo pants, heavy boots, fingerless tactical gloves; a glowing amber data pad attached to her left forearm; stance: alert, slightly crouched, one hand raised signaling stop, the other gripping a customized pulse pistol; expression focused and wary; background: industrial research facility corridor with flickering overhead lights, exposed pipes, shattered glass on floor, emergency red alarm glow; lighting: dramatic side lighting with cool blue emergency strips contrasting warm orange sparks from damaged electronics; art style tags: 16-bit pixel art, detailed sprites, science fiction, atmospheric, cinematic composition.
+
+Sprite sheet Image Prompt:
+Pixel art style, sprite sheet with 4 frames arranged horizontally on transparent background, canvas size 64x64 pixels per frame; character: same woman scientist with short dark brown hair, charcoal tactical vest over white lab coat, cargo pants, boots, forearm data pad; Frame 1: standing pose, idle, arms relaxed at sides, slight breath animation; Frame 2: crouching pose, one knee down, pistol aimed forward, intense focus; Frame 3: walking pose, mid-stride, coat tails swaying, slight forward lean; Frame 4: jumping pose, legs tucked, arms spread for balance, hair flowing upward; consistent character proportions across all frames, clean outlines, limited color palette, 16-bit style, smooth animation-ready frames.
+
+Background Story:
+Kira Vance was a promising theoretical physicist at the Apex Research Complex, specializing in dimensional field manipulation. When an unauthorized experiment triggered a cascade breach, reality itself began to unravel, warping the facility and transforming colleagues into hostile aberrations. Kira survived the initial collapse through quick thinking and an experimental displacement gauntlet that now fuses with her nervous system. The gauntlet allows her to perceive and briefly manipulate local spacetime, making her uniquely equipped to navigate the corrupted halls. She seeks to reach the Core Chamber and reverse the breach before it expands beyond containment. Internally, she battles guilt over her indirect role in enabling the experiment and the faces of friends she must now put down. The facility's deteriorating stability means every path she takes shifts and reconfigures. Her presence destabilizes dimensional weak points further, making stealth impossible and forcing constant adaptation. She is not a soldier, but survival has sharpened her into something formidable.
+
+Skill Tree:
+- Tier 1:
+  - Pulse Sidearm: Fires concentrated energy rounds that stagger enemies and can disable electronic locks.
+  - Field Sense: Highlights interactive objects and enemy positions through walls for a brief duration.
+  - Improvised Armor: Dismantles facility debris to craft temporary damage-absorbing plating.
+- Tier 2:
+  - Displacement Dash: Short-range teleport that leaves behind a disorienting distortion field.
+  - Kinetic Rebound: Absorbs incoming projectile energy and reflects it back as a concussive blast.
+  - Systems Hack: Overloads machinery and automated turrets to fight on her behalf temporarily.
+- Tier 3:
+  - Temporal Stasis: Freezes all entities and hazards within a localized sphere for several seconds.
+  - Cascade Nova: Unleashes stored dimensional energy in an expanding ring that disintegrates hostile matter.
+  - Reality Anchor: Creates a stabilized zone where health regenerates and dimensional anomalies cannot enter.

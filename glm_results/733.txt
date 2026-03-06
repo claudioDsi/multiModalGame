@@ -1,0 +1,26 @@
+Entry: 733 / 733
+
+Name: Rico "Neon" Valez
+
+Concept art Image Prompt:
+Pixel art portrait of a man in his thirties wearing a pastel teal suit jacket over a pink floral shirt and dark trousers, standing on a sun-drenched balcony overlooking a vibrant nighttime cityscape with neon signs and palm trees. He has slicked-back dark hair, a five o'clock shadow, and holds a duffel bag in one hand while looking confidently toward the horizon. Neon pink and blue lighting, retro 1980s aesthetic, high contrast, detailed 16-bit style.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, character wearing a pastel teal suit jacket and dark pants. Four distinct frames: 1) Standing idle with hands in pockets looking forward. 2) Crouching low holding a melee weapon. 3) Walking stride with arms swinging naturally. 4) Jumping mid-air with legs tucked and arms raised. Clean outlines, limited color palette, retro game style.
+
+Background Story:
+Rico Valez arrived in the sun-soaked metropolis of Bay City with nothing but a duffel bag and a shattered reputation. After a smuggling operation in the Caribbean went sideways, he found himself deeply indebted to a powerful crime syndicate known as The Trust. Instead of fleeing, Rico decided to carve out his own slice of paradise amidst the neon glow and art deco architecture. He navigates a treacherous landscape of rival gangs and corrupt officials, using stolen vehicles and black-market weaponry to stay alive. His ultimate goal is to dismantle The Trust's leadership and claim the city's underworld for himself. The sun-drenched streets and synth-wave nights provide the perfect backdrop for his violent ascent to power. Rico struggles with the moral weight of his actions, knowing that every step forward costs innocent lives. As he climbs the ladder, he realizes that in Bay City, the only way to survive is to become the very thing the city worships: power.
+
+Skill Tree:
+- Tier 1:
+  - Wheelman: Allows the character to enter vehicles significantly faster than average.
+  - Street Smarts: Reveals hidden collectibles and secret paths on the mini-map.
+  - Hot Start: Spawns the character with a basic sidearm and full health after a respawn.
+- Tier 2:
+  - Bulletproof Vest: Reduces incoming firearm damage by 25% while wearing armor.
+  - Lead Foot: Increases the top speed of all ground vehicles by 15%.
+  - Quick Draw: Doubles the firing rate of pistols and revolvers.
+- Tier 3:
+  - Kingpin: Unlocks the ability to recruit AI allies to assist in combat missions.
+  - Wrecking Ball: Causes vehicles to explode on impact with enemy targets.
+  - Time Out: Slows down time for precise aiming during intense firefights.

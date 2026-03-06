@@ -1,0 +1,26 @@
+Entry: 8576 / 8576
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art concept art of Kaelen, a scarred medieval warrior with silver hair, wearing weathered steel armor with gold trim and a tattered red cape, wielding a massive rune-etched greatsword, standing in a battle-ready stance on a rocky cliff, background features a crimson dragon soaring through stormy purple skies, dramatic lighting with high contrast, detailed 32-bit pixel art style, dark fantasy aesthetic.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Kaelen, 4 distinct animation frames arranged horizontally, frame 1: standing idle holding a greatsword, frame 2: crouching low with sword raised, frame 3: walking forward stride, frame 4: mid-air jumping action pose, character design matches the concept art with steel armor and red cape, 64x64 canvas size, limited color palette, clean pixel outlines, transparent background.
+
+Background Story:
+Kaelen was once a stalwart guardian of the Sacred Spire, sworn to protect the six sisters whose songs maintained the world's equilibrium. When the eldest sister unleashed her treacherous rampage, Kaelen was the sole survivor of the initial onslaught, left for dead amidst the ruins of his order. He was discovered by Rhyx, a rogue dragon cast out by the same magical discord that now threatens the realm. Forming a pact of mutual survival and vengeance, Kaelen and Rhyx now roam the war-torn lands, hunting the fiends summoned by the corrupted song. Kaelen wields a heavy greatsword, relying on brute strength and aerial support from Rhyx to combat the magical horrors. He struggles with the guilt of failing his duty and the realization that the "peace" he protected was built on lies. His ultimate goal is to confront the eldest sister, not to restore the old order, but to forge a new world free from the manipulation of divine song. The bond between rider and dragon is his only anchor in a reality gone mad.
+
+Skill Tree:
+- Tier 1:
+  - Iron Cleave: A powerful overhead slash that crushes enemy armor and deals heavy damage.
+  - Shadow Dash: A quick evasion move that allows Kaelen to pass through enemies unharmed.
+  - Dragon's Breath: Rhyx provides a short-range burst of fire to knock back surrounding foes.
+- Tier 2:
+  - Cyclone Strike: Kaelen spins his greatsword rapidly, hitting all enemies in a wide radius.
+  - Sky Dive: Kaelen leaps into the air and slams down, creating a shockwave upon impact.
+  - War Cry: A roar that boosts attack power for a short duration while stunning nearby enemies.
+- Tier 3:
+  - Crimson Fury: A relentless chain of attacks that increases in speed with every hit landed.
+  - Rhyx's Wrath: Rhyx descends to carpet bomb the battlefield with powerful fireballs.
+  - Songbreaker: A finishing move that nullifies magic in the area and deals critical damage to bosses.

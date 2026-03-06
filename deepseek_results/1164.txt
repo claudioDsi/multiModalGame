@@ -1,0 +1,26 @@
+Entry: 1164 / 1164
+
+Name: Kaelen
+
+Concept art Image Prompt:
+Pixel art, side view of a determined young woman with a practical short ponytail and smudges of dirt on her face, wearing a worn leather jerkin over a grey tunic, cargo pants tucked into sturdy boots, standing atop a ruined concrete structure, overlooking a fog-shrouded cityscape dominated by a monolithic tower. Moody lighting with a single beam of pale light breaking through the clouds. Art style: gritty, detailed pixel art, post-apocalyptic, atmospheric.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, female character with short dark hair and a dark grey tunic, 4 frames: 1) standing alert with a makeshift knife held ready, 2) crouching low to the ground, one hand resting on the floor for balance, 3) walking with a determined stride, 4) jumping dynamically with arms extended for balance. Dark, muted color palette with a single highlight color on the weapon.
+
+Background Story:
+Kaelen was a scavenger living on the fringes of the monolithic structure known as the Spire, a decaying citadel that casts a permanent shadow over the city. She survived by her wits alone, navigating the treacherous lower levels for salvage. A violent encounter with a predatory faction left her for dead and revealed a faint, repeating signal emanating from the Spire's peak—a signal that echoes a fragmented memory from her forgotten childhood. Driven by the need to understand her past and the mysterious pull of the signal, Kaelen resolves to ascend the oppressive structure. Her journey is not just for survival, but a confrontation with the truth about the Spire's origin and her own inexplicable connection to it. She must push her body and mind to their absolute limits, using her innate resilience to overcome both external threats and the internal terror of what she might discover. The Spire's hold is more than physical; it is a psychological prison she must shatter to be truly free.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger's Eye: Highlights interactive objects and weak points on enemies within a short range.
+  - Relentless Endurance: Temporarily increases movement speed and reduces stamina consumption after taking damage.
+  - Improvised Arsenal: Allows the crafting of basic weapons and tools from common scrap materials.
+- Tier 2:
+  - Silent Tread: Eliminates footstep sounds, making it harder for enemies to detect movement.
+  - Adrenaline Surge: Landing a critical hit grants a brief period of health regeneration.
+  - Environmental Agility: Increases jump height and allows for quick vaults over low obstacles.
+- Tier 3:
+  - Unbreakable Will: When health drops critically low, gain a significant boost to damage reduction and melee damage for a short duration.
+  - Spire's Echo: Gain the ability to briefly rewind time by a few seconds to correct a mistake, usable once per rest.
+  - Decaying Strikes: Successful melee attacks apply a stacking damage-over-time effect to enemies.

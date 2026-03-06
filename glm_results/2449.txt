@@ -1,0 +1,26 @@
+Entry: 2449 / 2449
+
+Name: Elara Vane
+
+Concept art Image Prompt:
+Pixel art style, medium shot of Elara Vane, a determined young woman with messy platinum silver hair and glowing amber eyes. She wears a tattered, high-collared techno-mystic duster coat with glowing cyan circuit patterns and heavy industrial combat boots. Her hands are encased in oversized mechanical gauntlets that radiate faint spectral energy. She stands atop a crumbling skyscraper ruin overlooking a vast, crumbling city under a swirling purple twilight sky. Dramatic rim lighting from a setting sun, cyberpunk fantasy atmosphere, highly detailed 16-bit pixel art, vibrant color palette, static pose looking towards the horizon.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, character Elara Vane, canvas size 64x64 pixels, white background. 4 distinct frames arranged horizontally. Frame 1: Standing idle pose, slightly hunched, gauntlets glowing. Frame 2: Crouching low, one knee on the ground, defensive stance. Frame 3: Walking stride, coat flowing backward. Frame 4: Jumping mid-air, legs tucked, arms raised. Consistent character design with silver hair and duster coat, clean outlines, retro 16-bit aesthetic, limited color palette.
+
+Background Story:
+Elara Vane awoke in the desolate streets of the Hollow District with no memory of her past, her wrist branded with a glowing countdown of thirteen days. She is a Harvester, a rare individual capable of extracting spiritual essence from the dying world to power the Ark, a massive vessel destined for a new world. Armed with her customized Aether Gauntlets, she fights through hordes of corrupted specters that feed on the remaining life force of the city. Every soul she saves grants the Ark the energy needed to ascend, but the process physically drains her own vitality. With the clock ticking towards zero, she must make impossible choices about who is worthy of boarding the Ark before the final darkness consumes everything. She is constantly haunted by visions of a life she cannot remember, driving her forward to understand why she was chosen for this burden. As the days pass, Elara realizes that saving the world might require the ultimate sacrifice of her own existence.
+
+Skill Tree:
+- Tier 1:
+  - Soul Siphon: Elara drains health from enemies to replenish her own reserves during combat.
+  - Flash Step: A quick dash ability that allows her to phase through solid objects and enemy attacks.
+  - Spirit Sense: Highlights hidden collectibles and enemy weak points within a short radius.
+- Tier 2:
+  - Kinetic Burst: Releases a shockwave of energy from the gauntlets that knocks back surrounding enemies.
+  - Chrono Lock: Temporarily freezes a single target in time, leaving them vulnerable to attack.
+  - Spectral Shield: Creates a barrier of souls that absorbs a set amount of damage before breaking.
+- Tier 3:
+  - World Ender: Unleashes the full power of the gauntlets in a massive area-of-effect explosion of light.
+  - Ascension Protocol: Doubles the duration of the day cycle, granting more time to explore before the countdown advances.
+  - Final Rite: Revives Elara instantly with full health upon fatal damage, but resets the soul counter to zero.

@@ -1,0 +1,26 @@
+Entry: 8576 / 8576
+
+Name: Lyra
+
+Concept art Image Prompt:
+pixel art, character concept art, Lyra, a young woman with determined eyes and windswept silver hair, wearing a tattered blue tunic, leather pauldrons, and a red scarf, holding a gleaming shortsword, standing on a cliff edge at sunset overlooking a medieval fantasy landscape with distant castles and a large dragon silhouette in the sky, dynamic lighting, detailed pixel art style, atmospheric
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames, Lyra, a female character with silver hair in a ponytail and a red scarf, frame 1: standing pose holding a shortsword ready, frame 2: crouching low with sword held defensively, frame 3: mid-stride walking animation, frame 4: jumping upwards with sword raised, simple background, clean lines, consistent pixel art style
+
+Background Story:
+Lyra is the youngest and only surviving member of the Choral Sisters, an organization of six magical siblings who maintained peace through their harmonic songs. She witnessed the brutal betrayal of her sisters by the eldest, Elara, and her dragon mount. Now branded a fugitive, Lyra is hunted by the very order she once called family. Her motivation is twofold: to survive the relentless pursuit of Elara's forces, and to uncover the dark truth behind the sudden corruption of her eldest sister. Lyra grapples with the conflict between her pacifist upbringing and the violent reality she must navigate to survive. She carries a fractured piece of the sisters' Songstone, which grants her minor magical abilities but serves as a beacon to her hunters. The stakes are the very soul of the realm, as Elara's dragon grows in power and threatens to drown the world in dissonant fire. Lyra's journey is not just one of revenge, but a desperate quest to restore the harmony she once embodied.
+
+Skill Tree:
+- Tier 1:
+  - Swift Strike: Increases attack speed for a short duration after a successful dodge.
+  - Echoing Note: Lyra's next spell after a basic attack deals bonus area-of-effect damage.
+  - Draconic Whispers: Slightly increases damage dealt against draconic-type enemies.
+- Tier 2:
+  - Harmonic Parry: Successfully blocking an attack creates a shockwave that staggers nearby foes.
+  - Aerial Assault: Jump attacks now create a small damaging vortex upon landing.
+  - Soaring Melody: Extends the duration and height of Lyra's jump ability.
+- Tier 3:
+  - Final Cadence: Landing a killing blow on an enemy restores a portion of Lyra's health and magic.
+  - Resonance Cascade: Spells have a chance to chain to additional targets, weakening them.
+  - Oath of the Last Sister: When health is critically low, Lyra's damage output is significantly increased for a short time.

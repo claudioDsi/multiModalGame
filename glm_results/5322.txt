@@ -1,0 +1,26 @@
+Entry: 5322 / 5322
+
+Name: Vira Chainweaver
+
+Concept art Image Prompt:
+Pixel art illustration of Vira Chainweaver, a agile treasure hunter with sun-tanned skin and windswept copper hair tied in a high ponytail. She wears a fitted teal adventure vest over a cream sleeveless tunic, rugged brown fingerless gloves, and sturdy knee-high boots with bronze buckles. Wrapped around her waist is a coiled luminous energy whip with a faint electric-blue glow. She stands in a dynamic combat stance atop a crumbling stone pedestal, surrounded by lush emerald jungle foliage and ancient moss-covered pillars. Warm golden-hour lighting filters through the canopy, casting dappled highlights on her determined expression. Detailed 16-bit pixel art style, vibrant color palette, adventure game aesthetic, transparent background.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Vira Chainweaver on a 64x64 canvas divided into 4 distinct frames. Frame 1: Standing pose with weight shifted slightly to one leg, arms relaxed, the energy whip coiled at her hip emitting a faint blue shimmer. Frame 2: Crouching pose with one knee down, body leaned forward, hands braced on the ground, looking alert. Frame 3: Walking pose mid-stride with left leg extended forward, right arm swinging naturally, ponytail trailing behind. Frame 4: Jumping pose with knees tucked, arms raised overhead, the energy whip trailing dynamically upward in an arc. Consistent teal adventure vest, cream tunic, copper hair, brown boots across all frames. Crisp clean pixel lines, limited color palette, 16-bit retro game style, white background.
+
+Background Story:
+Vira grew up in the cliffside settlement of Oakhaven, where storytellers spoke of the ancient World-Serpent that once swallowed the sun and doomed the world to shadow. A failed guardian ritual in her youth bound her soul to the Skyweave, a living energy cord passed down by her forgotten bloodline of temple wardens. Now she carries the weight of a fractured lineage, haunted by memories of her older sibling who vanished while attempting the same ritual years ago. When seismic tremors signal that the World-Serpent is stirring from its subterranean slumber, Vira must descend into the Overgrown Depths to reassemble the scattered keystones before the beast can rise. Her internal struggle pits personal vengeance against the greater good, as the same power she needs to defeat the Serpent may also be the key to saving—or erasing—what remains of her family.
+
+Skill Tree:
+- Tier 1:
+  - Skyweave Swing: Latch onto glowing anchors to swing across wide chasms and reach higher platforms.
+  - Tether Pull: Yank enemies out of formation or pull distant items into reach with a quick energy lash.
+  - Slipstream Dash: Slide a short distance to evade attacks or slip through tight environmental gaps.
+- Tier 2:
+  - Voltagrip: Electrify the Skyweave to stun enemies caught in its grasp for a brief duration.
+  - Anchor Launch: Create a temporary anchor point mid-air to swing again and extend aerial traversal.
+  - Coil Shield: Wrap the Skyweave around Vira to absorb one incoming hit before breaking.
+- Tier 3:
+  - Stormweaver: Charge the Skyweave with accumulated ambient energy for increased damage and area effect.
+  - Skyward Bind: Suspend multiple enemies in mid-air leaving them vulnerable to follow-up attacks.
+  - World-Tether Cataclysm: Unleash a sweeping energy wave that damages all nearby enemies and reshapes certain terrain obstacles.

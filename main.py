@@ -7,8 +7,8 @@ if __name__ == '__main__':
 
 
 
-    generate_characters_from_obfuscated_csv_to_files(csv_path="games_obfuscated.csv", model="gpt-oss:120b-cloud",
-                                           obfuscated_column="obfuscated_summary", output_dir="results/")
+    generate_characters_from_obfuscated_csv_to_files(csv_path="games_obfuscated.csv", model="glm-5:cloud",
+                                           obfuscated_column="obfuscated_summary", output_dir="glm_results/")
 
     #get_games_by_id()
 

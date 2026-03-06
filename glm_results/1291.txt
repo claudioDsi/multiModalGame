@@ -1,0 +1,26 @@
+Entry: 1291 / 1291
+
+Name: Valerius
+
+Concept art Image Prompt:
+Pixel art character concept of Valerius, a muscular warrior with pale skin and glowing red eyes, standing in a dark stone dungeon. He wears tattered bronze and leather gladiatorial armor, with heavy broken chains hanging from his wrists. He wields a massive, jagged double-edged axe. The background features ancient ruins and a dimly lit entrance. Lighting is dramatic with deep shadows and a spotlight highlighting the character. Art style tags: 16-bit pixel art, dark fantasy, high contrast, side-scroller game asset, detailed sprite.
+
+Sprite sheet Image Prompt:
+A 64x64 pixel art sprite sheet containing 4 frames of the character Valerius. Frame 1: Standing pose holding a heavy axe with a defensive posture. Frame 2: Crouching low to the ground with the axe ready to sweep. Frame 3: Walking animation mid-stride, dragging the axe slightly. Frame 4: Jumping pose with knees tucked and axe raised overhead. The character has brown hair, bronze armor, and red loincloth. Background is transparent.
+
+Background Story:
+Valerius was once the supreme commander of the Obsidian Legion, a military order sworn to the "Eternal Architects." During a campaign to purge a corrupted region, he was manipulated by his masters via a magical geas to slaughter the inhabitants, only to discover they were his own family disguised by an illusion. Horrified by the deed and the betrayal, Valerius shattered the binding oath of loyalty with sheer will, causing the magical brand on his chest to scar over. He was subsequently imprisoned in the Abyssal Keep, a jail for those who defy the Architects. Now, Valerius must fight his way out, severing the lingering psychic bonds that allow the Architects to track him. His motivation is not just freedom, but the complete annihilation of the organization that stole his life.
+
+Skill Tree:
+- Tier 1:
+  - Oathbreaker's Rage: Valerius enters a frenzy where attacks automatically chain together until the player ceases input or takes damage.
+  - Hydro-Lung: A magical discipline that allows Valerius to breathe underwater and move through deep currents without obstruction.
+  - Chain Bind: Valerius uses his broken shackles to pull distant enemies closer or latch onto high ledges for traversal.
+- Tier 2:
+  - Chronos Amulet: Valerius manipulates time to decay ancient barriers or slow down fast-moving mechanical traps within the environment.
+  - Shadow Resonance: Creates a shadow duplicate that mimics Valerius's attacks, effectively doubling his damage output for a short duration.
+  - Illusion Dispel: Reveals hidden passageways and dispels magical constructs created by the Architects to confuse the player.
+- Tier 3:
+  - Elemental Infusion: Imbues Valerius's axe with fire, ice, or lightning, allowing him to exploit enemy weaknesses and unlock specific doors.
+  - Divine Allegiance: Valerius aligns with a forgotten deity, gaining a unique ultimate ability based on the chosen god's domain.
+  - Arsenal Mastery: Allows Valerius to equip and swap between two distinct main weapons during combat without opening the menu.

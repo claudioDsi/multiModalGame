@@ -1,0 +1,26 @@
+Entry: 538 / 538
+
+Name: Kael
+
+Concept art Image Prompt:
+Pixel art concept art of a lone survivor, Kael, standing on a rocky outcrop overlooking a vast, ruined cityscape under a dusk sky. He wears a patched-up, hooded trench coat over tactical gear, a gas mask with a single cracked lens hangs at his belt, and he carries a customized, scoped rifle slung over his shoulder. His pose is vigilant, looking through binoculars, with a worn backpack at his feet. The lighting is dramatic, with long shadows cast by the setting sun, highlighting the desolate environment. Art style: detailed pixel art, gritty post-apocalyptic aesthetic, 16-bit color palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet, 64x64 canvas, featuring a character in a hooded trench coat. Four frames: 1) Standing: neutral pose, holding a compact rifle at rest. 2) Crouching: low to the ground, rifle aimed forward. 3) Walking: a two-frame walking cycle, arms swinging slightly, rifle held ready. 4) Jumping: legs bent mid-leap, coat flaring. Clean outlines, limited color palette contrasting the character against a transparent background.
+
+Background Story:
+Kael was a reconnaissance scout for one of the last functioning city-states before it fell to a relentless, consuming blight. He was on a deep-range patrol when his home was silently eradicated, leaving him the sole survivor. Now he travels the scarred open lands and treacherous ruins, driven by a need to understand what happened and to find any other signs of life. He is tormented by the guilt of having been absent during his community's final moments, believing he could have made a difference. His primary goal is to locate the rumored "Genesis Vault," a mythical repository of knowledge that might hold a cure for the blight or the means to rebuild. The stakes are the absolute extinction of humanity, with Kael potentially being the last person capable of turning the tide. His expertise in long-range survival and combat makes him uniquely suited to navigate the dangerous, open-world setting, where threats emerge from vast distances and tight, ruined interiors alike.
+
+Skill Tree:
+- Tier 1:
+  - Steady Aim: Reduces weapon sway when aiming for increased accuracy.
+  - Silent Step: Decreases noise generated from movement, making you harder to detect.
+  - Scavenger's Eye: Highlights interactive objects and resources from a greater distance.
+- Tier 2:
+  - Penetration Rounds: Rifle shots can pierce through weaker cover and multiple enemies.
+  - Threat Radar: Briefly reveals enemies within a large radius after a successful sniper kill.
+  - Adrenaline Surge: Taking damage provides a temporary boost to movement and reload speed.
+- Tier 3:
+  - Pulse Shot: Fires a special round that disrupts enemy electronics and stuns organic targets.
+  - Phantom Presence: Entering a crouched state while stationary renders you nearly invisible to enemies.
+  - Last Stand: Upon receiving fatal damage, time slows for a short period, allowing for one final, powerful shot.

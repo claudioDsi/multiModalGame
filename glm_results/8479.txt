@@ -1,0 +1,26 @@
+Entry: 8479 / 8479
+
+Name: Kaelen, the Void Strider
+
+Concept art Image Prompt:
+Pixel art character design of Kaelen, a rogue ninja wearing tattered slate-grey robes with glowing cyan geometric patterns. He wears a half-mask covering his mouth and wields a double-edged spear. He stands in a dynamic combat pose on a floating rock fragment against a dark void background with digital glitch effects. The art style is detailed 16-bit pixel art with deep shadows and vibrant cyan highlights, emphasizing a deep and rich setting atmosphere.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 pixel canvas. The image contains 4 distinct frames arranged horizontally representing a small ninja character: frame 1 is standing idle with arms crossed, frame 2 is crouching low, frame 3 is walking with legs moving, frame 4 is jumping mid-air. The character wears slate-grey robes and has cyan accents. High contrast, sharp pixel lines, transparent background, retro arcade style.
+
+Background Story:
+Kaelen was born into a clan of silent guardians who protected the dimensional rifts between worlds. Rejecting the clan's code of absolute passivity, he trained in forbidden martial arts that channel chaotic energy from the rifts themselves. This defiance led to his exile, forcing him to wander the fractured lands as a mercenary. He seeks the "Chrono Shards," fragments of a broken timeline, hoping to rewrite the moment of his banishment. Kaelen struggles with the corruption of the void energy he wields, fearing that the very power he needs to save the world will eventually erase his existence. His arrival in the central kingdom disrupts the balance of power, drawing attention from rival factions who wish to exploit his unique connection to the rifts.
+
+Skill Tree:
+- Tier 1:
+  - Rift Step: Dashes forward instantly, passing through solid objects and enemies.
+  - Void Kunai: Throws a dark energy dagger that seeks the nearest enemy target.
+  - Shadow Counter: Enters a defensive stance; if hit, automatically teleports behind the attacker.
+- Tier 2:
+  - Gravity Pulse: Slams the ground, creating a shockwave that pulls enemies inward.
+  - Phantom Blade: Summons an ethereal duplicate of his weapon to attack alongside him for a few seconds.
+  - Wind Cloak: Creates a barrier of swirling air that reduces incoming damage and reflects projectiles.
+- Tier 3:
+  - Event Horizon: Creates a large spherical zone where time is slowed for all enemies inside.
+  - Nullification Strike: A powerful charged attack that removes enemy buffs and deals massive true damage.
+  - Celestial Wrath: Transforms into pure energy, increasing speed drastically and unleashing a barrage of attacks on all nearby foes.

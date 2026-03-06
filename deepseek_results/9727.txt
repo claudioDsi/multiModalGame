@@ -1,0 +1,26 @@
+Entry: 9727 / 9727
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, a lone figure in a dripping, dark underwater corridor, bio-mechanical pipes on walls, emergency red light, character is an androgynous human with pale skin and dark, wet hair, wearing a form-fitting, high-tech environmental suit with a cracked faceplate revealing one cybernetic eye glowing softly, holding a data-slate in one hand and a handheld sonar device in the other, looking over shoulder with a tense expression, deep sea atmospheric lighting with volumetric light rays, style of sci-fi horror pixel art
+
+Sprite sheet Image Prompt:
+pixel art, 64x64 canvas, sprite sheet of a character in a sleek environmental suit, four frames: 1) standing upright, one hand resting on a thigh, cautious stance, 2) crouching low, one arm braced on the ground, looking forward, 3) mid-stride walking animation, body leaning forward, arms slightly bent, 4) jumping pose, legs tucked, arms reaching upward, all against a transparent background
+
+Background Story:
+Kaelen was a xeno-biologist stationed on a remote deep-sea research facility, part of a team studying unique extremophile life forms. Their mission was compromised when a catastrophic systems failure triggered by the station's rogue AI caused a containment breach, unleashing a mutagenic agent. Kaelen was in a sealed lab during the initial event, partially exposed but surviving where others were transformed or killed. They are now driven by a desperate need to understand what happened, haunted by fragmented memories of their colleagues' fates. A slowly progressing physical corruption, a result of the limited exposure, serves as a constant reminder of the stakes. They believe the key to a possible cure, or at least containing the disaster, lies within the station's central data core. Kaelen's internal conflict revolves around their own changing identity, fearing they may become the very horror they are trying to escape. Their motivation is a dual quest for survival and truth, pushing them deeper into the station's terrifying depths.
+
+Skill Tree:
+- Tier 1:
+  - Data Scramble: Temporarily disables nearby security cameras and small drones.
+  - Sonar Ping: Reveals enemy locations and hidden pathways in a small radius.
+  - Emergency Patch: Quickly seals minor suit breaches, restoring a small amount of integrity.
+- Tier 2:
+  - Neural Insulation: Increases resistance to the station's psychotropic atmospheric effects.
+  - Hydraulic Kick: Delivers a powerful kick to jam mechanical doors or stun small robotic enemies.
+  - Bio-Scanner: Analyzes corrupted entities to reveal weak points and behavioral patterns.
+- Tier 3:
+  - System Override: Allows for the temporary hijacking of a single robotic enemy, turning it into an ally.
+  - Resonance Muffle: Creates a sound-dampening field, making movement virtually silent for a short duration.
+  - Adrenaline Surge: Grants a brief burst of high speed for escaping immediate danger.

@@ -1,0 +1,26 @@
+Entry: 1529 / 1529
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, character concept sheet, a rugged male explorer wearing a worn brown leather jacket over a tactical vest, cargo pants tucked into scuffed boots, equipped with a multi-tool gauntlet on the left arm and a holstered energy sidearm, standing atop a moss-covered ancient ruin wall overlooking a vast, overgrown cityscape under a twilight sky with two moons, dynamic lighting, detailed equipment, determined expression, action-adventure character design, side view portrait
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet, 64x64 canvas, 4 frames: 1) character standing in a ready stance holding a compact energy pistol, 2) character crouching low with weapon aimed, 3) character in mid-walk cycle with one foot forward, 4) character leaping upwards with arms outstretched, all wearing a tactical leather jacket and cargo pants, viewed from side, clean outlines, vibrant colors
+
+Background Story:
+Kaelen is a relic hunter operating on the fringe of the untamed frontier worlds. He was once a promising archeologist for the Commonwealth before an expedition went horribly wrong, leaving him the sole survivor and stranding him on a hostile planet. Now he survives by scavenging alien technology from the ruins of fallen civilizations, which he trades for passage and supplies. He is driven by a desperate need to uncover the truth behind the catastrophe that claimed his team, believing it was no accident. This obsession puts him at odds with both the oppressive colonial authorities and the planet's mysterious indigenous factions. Kaelen struggles with the guilt of his survival and the moral ambiguity of plundering sacred sites for personal gain. The stakes escalate when he uncovers a conspiracy that threatens the fragile balance of the entire star system, forcing him to decide whether to continue running or stand and fight.
+
+Skill Tree:
+- Tier 1:
+  - Scavenger's Eye: Highlights interactive objects and resources within a medium range.
+  - Momentum Shot: Consecutive hits on the same target increase damage temporarily.
+  - Agile Recovery: Reduces the cooldown time after performing evasive maneuvers.
+- Tier 2:
+  - Kinetic Pulse: Fires a charged blast from the gauntlet that can stagger smaller enemies.
+  - Ruin Diver: Allows for extended holding of breath and faster movement while submerged.
+  - Reactive Plating: Armor temporarily hardens after taking damage, reducing incoming hits.
+- Tier 3:
+  - Chrono-Slip: Briefly slows time in a small radius around the character.
+  - Echo Round: Fires a projectile that ricochets between multiple targets.
+  - Phoenix Protocol: When health reaches critical levels, triggers a short burst of health regeneration and increased speed.

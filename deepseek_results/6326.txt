@@ -1,0 +1,26 @@
+Entry: 6326 / 6326
+
+Name: Elara
+
+Concept art Image Prompt:
+pixel art concept art of a female vampire hunter, Elara, standing atop a gothic cathedral at dawn. She wears a practical, weathered leather jacket over a dark tunic, sturdy cargo pants, and combat boots. A unique, sun-absorbing gauntlet covers her left forearm, glowing faintly with stored solar energy and connected to her ornate solar-rifle slung on her back. Her determined expression is illuminated by the first rays of sunlight piercing the twilight. The background shows a sprawling, misty cityscape with a dark, vampire-infested aesthetic. Dramatic lighting, cinematic composition, detailed pixel art style.
+
+Sprite sheet Image Prompt:
+pixel art sprite sheet of a vampire hunter character. Canvas is 64x64 pixels, containing 4 frames: 1. standing idle pose, holding a solar-rifle. 2. crouching, aiming the rifle downward. 3. walking animation, mid-stride. 4. jumping, legs tucked, rifle held close. Character has a leather jacket, cargo pants, and a glowing sun-energy gauntlet. Clean lines, GBA-era pixel art aesthetic.
+
+Background Story:
+Elara is a member of the Solar Wardens, an ancient order dedicated to protecting humanity from the vampire scourge that has plunged the world into a perpetual twilight. She is an orphan, her parents having been taken by the undead hordes years ago, fueling her relentless motivation to fight back. Her internal conflict stems from her reliance on the very thing that orphaned her; she must venture into the dangerous night to hunt vampires, but her greatest power source, sunlight, is nearly impossible to find within the darkened city. The stakes are the survival of the last bastions of humanity, which are slowly being choked by the expanding vampire territories. Using her sun-sensing weapon, Elara must strategically seek out patches of waning daylight to recharge her arsenal, turning the environment itself into a weapon. Her personal journey is not just about revenge, but about restoring light to the world, making every sunrise a precious resource in her desperate war.
+
+Skill Tree:
+- Tier 1:
+  - Solar Siphon: Increases the rate at which the gauntlet absorbs and stores solar energy.
+  - Steady Aim: Reduces weapon spread while crouching, allowing for more precise shots.
+  - Agility Training: Slightly increases movement speed and jump height.
+- Tier 2:
+  - Sunburst Charge: Charges a shot that releases an area-of-effect burst of sunlight on impact.
+  - Light Step: Movement makes less noise, making it harder for vampires to detect her.
+  - Reinforced Plating: Reduces damage taken from physical attacks.
+- Tier 3:
+  - Solar Flare: Unleashes a massive, blinding flash of light from the gauntlet that stuns nearby enemies.
+  - Phantom Dash: Allows for a quick, short-range dash that leaves a temporary decoy.
+  - Dawn's Wrath: Empowers the solar-rifle to fire a continuous, high-damage beam of concentrated sunlight at the cost of rapid energy drain.

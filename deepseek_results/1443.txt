@@ -1,0 +1,26 @@
+Entry: 1443 / 1443
+
+Name: Lyra Prismane
+
+Concept art Image Prompt:
+pixel art, character concept art, Lyra Prismane, a young woman with silver hair tied in a practical ponytail and determined violet eyes, wearing tarnished steel pauldrons over a dark blue tunic etched with faint, glowing geomantic runes, wielding a crystalline spear that pulses with inner light, standing defiantly on a war-torn hilltop at dawn, smoldering battlefield and marching troops visible below, cinematic lighting with soft dawn light contrasting with harsh shadows, detailed pixel art style, 16-bit era aesthetic
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, Lyra Prismane, silver hair in ponytail, violet eyes, tarnished steel pauldrons, dark blue tunic with glowing runes, four frames: 1) standing ready with spear held vertically, 2) crouching low with spear braced defensively, 3) walking with spear held at a ready angle, 4) leaping dynamically with spear thrust forward, functional fantasy armor, detailed 16-bit style pixel art
+
+Background Story:
+Lyra was born during the Great Starfall, a celestial event that scattered arcane shards across the land. An orphan raised by geomancer monks, she learned to channel the earth's latent energy through her unique crystalline spear. When the Sunken Empire began raising fallen warriors as soulless soldiers, Lyra abandoned her peaceful life to lead the resistance. She struggles to reconcile her monastic teachings of harmony with the brutal necessities of war, fearing the battle might corrupt her connection to the living earth. Her motivation stems from protecting the sacred geomantic leylines that the Empire seeks to defile for their necromantic rituals. If she fails, not only will the kingdoms fall, but the world's vital energies will be permanently extinguished, leaving a dead, silent planet.
+
+Skill Tree:
+- Tier 1:
+  - Geomantic Resonance: Channel earth energy to temporarily increase the defense of all adjacent ally units.
+  - Crystalline Thrust: A spear attack that has a chance to petrify a single enemy for one turn.
+  - Leyline Synergy: Gain a slight boost to attack power when standing on specific terrain types.
+- Tier 2:
+  - Earthen Ward: Summon a protective barrier of stone that reduces ranged damage for allies in a small radius.
+  - Quake Swing: Smash the ground with the spear, damaging and slowing all enemies in a frontal cone.
+  - Resonant Pair-Up: When using the Pair Up system, both units recover a small amount of health.
+- Tier 3:
+  - Starfall Lance: Unleash a powerful single-target attack that ignores a portion of the enemy's armor.
+  - Prismatic Aegis: Create a large energy field that greatly reduces magic damage for all allies within it.
+  - Geode Core Awakening: Enter a heightened state where Lyra's spear attacks chain to a second nearby enemy.

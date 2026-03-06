@@ -1,0 +1,26 @@
+Entry: 1000 / 1000
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, top-down view, a slender, grey-skinned humanoid with large expressive eyes and long limbs, wearing a loincloth made of stitched leather and a bone necklace, standing defiantly on a rocky outcrop overlooking a desecrated burial ground, spectral green energy crackling around his hands, moonlit night scene with dramatic shadows and highlights, classic 16-bit era video game art style, detailed character sprite
+
+Sprite sheet Image Prompt:
+pixel art, character sprite sheet, 64x64 canvas divided into four 16x64 frames, a slender grey-skinned humanoid with large eyes, frame 1: standing neutral pose with hands at sides, frame 2: crouching low with one hand touching ground, frame 3: mid-walk cycle with legs apart and arms swinging, frame 4: jumping pose with legs tucked and arms raised, simple loincloth and bone necklace visible in all frames, clean outlines, limited color palette
+
+Background Story:
+Kaelen was once a humble caretaker of the ancient burial grounds, living a simple life of meditation and reverence. His peaceful existence was destroyed when the industrialist Syn-Tek Corporation began their sacrilegious mining operation, defiling the sacred city of the dead. Haunted by visions of his ancestors' suffering, Kaelen discovered he could channel the anger of the trapped spirits. He now wields eerie supernatural abilities granted by the very corporation that destroyed his home, creating a painful irony that fuels his internal conflict. His primary motivation is to free the imprisoned souls and heal his people from the addictive substance crafted from their ancestors' bones. The stakes are nothing less than the spiritual survival of his entire culture. If he fails, his people will remain enslaved to both their corporate masters and their addiction.
+
+Skill Tree:
+- Tier 1:
+  - Spirit Touch: Channels ancestral energy to temporarily disable mechanical devices.
+  - Shadow Meld: Allows brief moments of invisibility by bending light around his form.
+  - Ancestral Healing: Purges addiction from allies through concentrated spiritual energy.
+- Tier 2:
+  - Ethereal Burst: Releases a concussive wave of spectral force that damages enemies.
+  - Bone Resonance: Causes mined bones to vibrate violently, creating area denial zones.
+  - Soul Sight: Reveals hidden pathways and spiritual residues in the environment.
+- Tier 3:
+  - Chain Liberation: Frees multiple imprisoned spirits simultaneously in a brilliant flash.
+  - Corporeal Shift: Phases through solid matter for short distances by becoming intangible.
+  - Final Rest: Unleashes the combined power of freed spirits in a massive explosion of light.

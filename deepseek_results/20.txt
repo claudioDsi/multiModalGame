@@ -1,0 +1,26 @@
+Entry: 20 / 20
+
+Name: Kaelen Moss
+
+Concept art Image Prompt:
+pixel art, a grim determined protagonist in a steampunk underwater dystopia, male with pallid skin and one biomechanically augmented arm glowing with faint green bioluminescence, wearing a tattered oilskin coat over a corroded brass harness, holding a customized harpoon rifle, standing on a metal gantry with deep sea leviathans visible through a cracked observatory window, dim light from gauges and faulty wiring, art style detailed pixel art with a dark teal and bronze color palette, horror atmosphere
+
+Sprite sheet Image Prompt:
+pixel art, 64x64 canvas, character sprite sheet with 4 frames: 1) standing facing forward with biomechanical arm glowing, 2) crouching low with weapon ready, 3) walking mid-stride with coat flowing, 4) jumping with both legs bent mid-air, steampunk diver with corroded metal gear and bioluminescent augmentations, dark aquatic color scheme
+
+Background Story:
+Kaelen was once a bio-engineer working on the deep-sea mining rig "Abyssal Remnant," maintaining the delicate symbiotic systems that kept the crew alive. During a routine excavation, his team uncovered a pulsating organic artifact that reacted violently with the rig's systems. The subsequent disaster flooded his sector and fused the artifact to his nervous system, granting him strange biological control but trapping him in the collapsing facility. Now, Kaelen seeks to reach the surface command center to trigger an emergency purge that might save the few remaining survivors, but the artifact whispers constantly, tempting him with greater power if he abandons his mission. He battles not only the mutated crew and malfunctioning security systems but also the growing urge to fully merge with the artifact becoming a dominant lifeform. Every hack and biological modification brings him closer to salvation or damnation. The stakes are the lives of hundreds still in cryo-sleep and the containment of an entity that could infest the ocean.
+
+Skill Tree:
+- Tier 1:
+  - Grafted Reflexes: Increases movement speed and weapon swap rate.
+  - Electro-Biotic Weaving: Allows hacking of simple door panels and light fixtures.
+  - Salvaged Munitions: Unlocks crafting of basic armor-piercing and explosive harpoon tips.
+- Tier 2:
+  - Neural Tentacles: Extends hacking ability to security turrets and environmental traps.
+  - Pressure-Adapted Physiology: Reduces damage from deep-sea pressure hazards and enemy grabs.
+  - Corrosive Synthesis: Crafted ammunition now temporarily melts enemy armor on hit.
+- Tier 3:
+  - Abyssal Dominion: Enables full control over leviathan-class biological horrors for a short duration.
+  - Symbiotic Overdrive: Dramatically increases all stats for a brief period, but causes temporary system instability afterwards.
+  - Purification Protocol: Unlocks the ultimate "purge" ammunition, dealing massive damage to corrupted biological targets.

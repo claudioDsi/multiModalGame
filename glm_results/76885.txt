@@ -1,0 +1,28 @@
+Entry: 76885 / 76885
+
+Name: Aldric Thorne
+
+Concept art Image Prompt:
+Pixel art illustration of a medieval warrior named Aldric Thorne, wearing weathered steel armor with intricate engravings and a tattered crimson cape flowing behind him, wielding an ornate broadsword with ancient runes etched along the blade, stern determined expression with a visible scar across his left cheek, short dark hair slightly windswept, standing in a foggy ancient battlefield at dawn with scattered broken weapons and crumbling stone pillars in the background, dramatic warm side lighting from the rising sun casting long shadows, heroic stance with sword held ready at his side, 16-bit pixel art style, detailed dithering and shading, fighting game character select portrait aesthetic
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of a medieval warrior in steel armor and crimson cape, wielding a large broadsword, 4 distinct animation frames arranged horizontally on a transparent background: frame 1 standing idle with sword resting at side and cape draping down, frame 2 crouching low in defensive stance with sword held horizontally, frame 3 walking mid-stride with cape flowing backward and sword swaying, frame 4 jumping upward with legs tucked and sword raised overhead in attack position, each frame within 64x64 pixel canvas, clean pixel outlines, limited 16-color palette, fighting game character sprite style, consistent character proportions across all frames
+
+Background Story:
+Aldric Thorne was once a celebrated captain of the Royal Vanguard, entrusted with protecting the kingdom's most sacred relics during the turbulent wars of the 16th century. During a fateful mission to transport a mysterious artifact, his unit was betrayed from within and slaughtered by masked assailants. Aldric alone survived, but was framed for the theft and massacre by the very conspirators who orchestrated the attack. Stripped of his rank and branded a traitor, he has wandered for three years as a mercenary, sharpening both his blade and his resolve. Now whispers of the artifact's reappearance have drawn him to a gathering of warriors, each seeking the relic for their own purposes. Aldric enters the fray not for power or glory, but to reclaim his honor and expose the hidden truth behind the betrayal. The tournament arena becomes his proving ground, and every opponent defeated brings him closer to vengeance. His sword arm remains steady, but his heart carries the weight of comrades lost and justice denied.
+
+Skill Tree:
+- Tier 1:
+  - Cleaving Strike: Aldric delivers a powerful overhead slash that breaks through enemy guard and deals moderate damage.
+  - Iron Resolve: Temporarily reduces incoming damage by reinforcing his defensive stance with focused breathing.
+  - Swift Advance: A quick forward dash that closes distance rapidly while maintaining defensive readiness.
+
+- Tier 2:
+  - Crimson Fury: A rapid chain of three sword strikes enhanced by burning determination, each hit stronger than the last.
+  - Shield Breaker: A heavy thrust designed to shatter protective barriers and leave opponents vulnerable.
+  - Counter Stance: Aldric enters a parry-ready posture that automatically counters the next incoming melee attack.
+
+- Tier 3:
+  - Vanguard's Wrath: Aldric channels his fallen comrades' strength into a devastating sweeping attack that hits all nearby enemies.
+  - Relic-Bound Strike: A legendary finishing move that channels ancient power into an unblockable critical strike.
+  - Indomitable Spirit: Aldric gains temporary invincibility as sheer willpower pushes his body beyond normal human limits.

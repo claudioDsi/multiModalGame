@@ -1,0 +1,26 @@
+Entry: 233 / 233
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, character concept art, a rugged male mercenary in a rain-slicked, neon-drenched city alleyway, wearing a worn leather bomber jacket over a tactical vest, cargo pants tucked into combat boots, holding a compact energy rifle, face is stern with a faint scar across the cheek, dynamic low-angle shot, rain streaks visible in the air, neon signs reflecting on wet pavement, cinematic lighting, dark and moody atmosphere, detailed pixel art style, 16-bit aesthetic.
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, a rugged male character in a leather jacket and tactical gear, 4 frames: 1) standing idle, holding a rifle at the ready, 2) crouching low, aiming a pistol, 3) mid-stride walking animation, rifle shouldered, 4) jumping with legs tucked, dynamic motion blur effect, clean outlines, 16-bit video game style.
+
+Background Story:
+Kaelen is a former corporate security specialist who turned mercenary after a shadowy organization framed him for a massacre he didn't commit. Haunted by fragmented memories of the event, he now operates in the fringes of the hyper-industrialized metropolis, taking jobs that allow him to investigate the conspiracy that ruined his life. His primary motivation is to uncover the truth and clear his name, but he's driven by a deeper need to understand if the violent instincts he discovered within himself during the incident were always there. He walks a fine line between using the corporate-enforcer skills that made him valuable and rejecting the system that created him. Every clue he uncovers pulls him deeper into a web of corruption that extends to the highest levels of the city's power structure. The stakes are not just personal redemption, but exposing a truth that could shatter the fragile peace of the entire city-state. His presence in the urban landscape is a catalyst, causing both allies and enemies to reveal their true intentions as he gets closer to the core of the mystery.
+
+Skill Tree:
+- Tier 1:
+  - Urban Acrobatics: Increases movement speed and allows for quicker vaulting over low obstacles.
+  - Target Acquisition: Highlights enemy weak points, increasing critical hit chance.
+  - Trauma Response: Temporarily increases damage resistance when health falls below a certain threshold.
+- Tier 2:
+  - Echo Locator: Firing your weapon reveals nearby enemies through walls for a short duration.
+  - Kinetic Feedback: Successive shots on the same target increase stagger chance.
+  - Adaptive Metabolism: Health regeneration begins faster after avoiding damage for a short period.
+- Tier 3:
+  - Causality Breach: Defeating an enemy causes a small chain reaction explosion that damages nearby foes.
+  - Reactive Armor: Automatically releases an energy pulse that deflects incoming projectiles when shields are broken.
+  - Fugitive's Guile: Upon taking lethal damage, instantly teleport to a nearby location and leave a decoy.

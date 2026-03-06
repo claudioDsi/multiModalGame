@@ -1,0 +1,26 @@
+Entry: 9141 / 9141
+
+Name: Kaelen
+
+Concept art Image Prompt:
+pixel art, character concept art, a young male warrior with windswept white hair and glowing cyan eyes, wearing a sleeveless blue tunic with silver trim, dark pants, and reinforced boots, holding a crystalline shortsword that crackles with energy, poised in a dynamic combat stance on the arched rooftop of a pagoda during a starry night, moonlight and bioluminescent flora providing dramatic lighting, detailed character design, 2D fighter aesthetic, vibrant colors
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, single character in four frames arranged in a grid: 1. a standing idle pose with a hand on the hilt of a sheathed sword, 2. a low crouching pose with one hand braced on the ground, 3. a mid-stride walking animation with a ready stance, 4. a leaping jump pose with the sword drawn in an arc; the character has white hair, a blue tunic, and a glowing sword; clean outlines, vibrant colors, 64x64 canvas, fighting game sprite style
+
+Background Story:
+Kaelen was an apprentice archivist in the Grand Repository, a secluded fortress guarding ancient knowledge. During a catastrophic event known as the Great Unbinding, a rogue entity shattered the central crystal, scattering mystical energies and dangerous artifacts across the land. Kaelen was struck by a shard of the crystal, which fused with his dominant arm, granting him the ability to manifest and wield energy as a solid weapon but also threatening to consume him. He now travels the world, seeking to recover the lost artifacts before they cause untold destruction or fall into the wrong hands. His motivation is twofold: to atone for his failure to protect the Repository and to find a way to control the volatile power within him before it erases his identity. He fights with a sense of urgency, knowing that each artifact he fails to secure could empower a tyrant or unleash a calamity. The internal conflict between his disciplined nature and the raw, chaotic energy he now hosts is a constant struggle that defines his every move.
+
+Skill Tree:
+- Tier 1:
+  - Crystal Edge: Projects a short-range energy slash from the blade.
+  - Flux Step: Perform a quick, shimmering dash to close distance or evade.
+  - Arcane Parry: Creates a brief energy shield that negates a single projectile.
+- Tier 2:
+  - Shard Storm: Launches a volley of small, homing energy projectiles.
+  - Resonant Strike: A heavy attack that deals more damage to opponents who are using special moves.
+  - Unstable Feedback: Taking damage has a chance to automatically release a burst of energy.
+- Tier 3:
+  - Final Unbinding: Unleashes the sealed power within for a limited time, dramatically enhancing speed and attack power.
+  - Crystalline Prison: Traps the opponent in a cage of solid energy, temporarily immobilizing them.
+  - Repository's Legacy: Sacrifices a portion of health to create a massive, screen-wide wave of destructive force.

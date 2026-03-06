@@ -1,0 +1,26 @@
+Entry: 116419 / 116419
+
+Name: Lyra the Tuner
+
+Concept art Image Prompt:
+Pixel art illustration of a fantasy adventurer named Lyra, standing in a vibrant procedurally generated dungeon corridor. She has short, spiky white hair and wears a teal tunics with golden musical note patterns embroidered on the hem. She wields a large, ornate tuning-fork greatsword that glows faintly with blue energy. The dungeon walls are grey stone with glowing purple crystals embedded in them. The art style is colorful 16-bit pixel art with sharp outlines, dynamic lighting, and a rhythmic visual pulse effect blurring the background edges.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Lyra the Tuner on a 64x64 pixel canvas background. The sheet displays four distinct frames arranged horizontally. Frame 1: Standing pose holding the tuning-fork sword upright. Frame 2: Crouching pose with the sword held horizontally for defense. Frame 3: Walking pose mid-stride with hair flowing back. Frame 4: Jumping pose with knees tucked and sword raised high. The character wears a teal tunic and brown boots. The art style uses a limited 16-color palette with clear outlines for animation clarity.
+
+Background Story:
+Lyra was born in the Silent Quarter, a region of the kingdom where the ancient melodies have faded into dissonance. Once a humble court musician, she discovered the Tuning Fork blade, an artifact capable of restoring rhythm to a chaotic world. When the Discordant Lord stole the Kingdom's Master Tempo, the land began to freeze, trapping its people in a stasis of silence. Lyra volunteered to venture into the shifting dungeons that pulse with erratic beats. She fights to reconnect the severed ley lines of music that hold the realm together. Her internal conflict lies in balancing the destructive power of her weapon with the healing harmony she wishes to restore. If she fails, the Kingdom will fall into permanent, soundless entropy. Every step she takes must be precise, for she is the new metronome of her world.
+
+Skill Tree:
+- Tier 1:
+  - Beat Strike: Lyra deals double damage if her attack lands perfectly on the rhythm beat.
+  - Rhythm Step: A dash ability that grants brief invincibility when timed to the background track.
+  - Echo Vision: Reveals hidden traps and secrets in the dungeon tiles for a short duration.
+- Tier 2:
+  - Crescendo Slash: A charged attack that hits enemies in a wide arc three tiles ahead.
+  - Harmony Shield: Creates a temporary barrier that deflects projectile attacks on a perfect beat.
+  - Rest Note: Lyra enters a meditative state to regenerate a small amount of health between tracks.
+- Tier 3:
+  - Symphony of Pain: A screen-wide attack that damages all enemies currently on the tile grid.
+  - Tempo Shift: Briefly slows down the action speed of all enemies for eight beats.
+  - Encore Revival: Automatically revives Lyra with full health once per dungeon run if she clears a room without taking damage.

@@ -1,0 +1,26 @@
+Entry: 1050 / 1050
+
+Name: Kira Vance
+
+Concept art Image Prompt:
+Pixel art character portrait of a lean assassin with platinum white hair tied in a tight knot, wearing a sleek dark gray tactical suit with subtle body armor plating and a black half-mask covering the lower face. Sharp calculating eyes gaze forward with a faint scar along the jawline. One gloved hand rests near a holstered suppressed pistol at the thigh. The figure stands in a dim industrial corridor with overhead fluorescent lights casting cold blue-green hues and deep shadows. 16-bit pixel art style, noir atmosphere, sharp contrast, muted color palette with cyan accent lighting.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a plain background, canvas size 64x64 pixels. Four distinct frames arranged in a row: Frame 1 shows the character standing alert with arms at sides and feet together; Frame 2 shows the character crouching low on one knee with one hand touching the ground; Frame 3 shows mid-walk cycle with one leg forward and arms in natural motion; Frame 4 shows a jumping pose with knees tucked and arms raised. Character wears dark tactical suit with platinum white hair knot visible. Clean pixel edges, limited color palette, no antialiasing, retro 16-bit aesthetic.
+
+Background Story:
+Kira Vance emerged from the wreckage of a black-site facility buried in frozen mountains, the sole survivor of a genetic engineering program designed to create undetectable assassins. Raised in isolation and trained from childhood, Kira possesses heightened perception and an unnatural aptitude for reading human behavior—traits engineered into every cell. When corporate sponsors destroyed the facility to erase their tracks, Kira entered the underworld as a contract killer, leveraging unique abilities to become one of the most precise operatives in the field. Each mission is approached with forensic meticulousness: studying target patterns, environment, and psychology before executing the perfect strike. Wealth accumulates, but Kira's true motivation lies in tracing the architects of their existence, seeking answers about identity that no amount of conditioning could suppress. Nightmares of procedures and faces that cannot be named plague every moment of rest, blurring the line between implanted memory and reality. Five current contracts promise a trail leading directly to the organization that built Kira—but trusting any employer could mean walking into the very trap spent years escaping.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Meld: Reduces enemy detection range significantly when stationary in darkness.
+  - Forensic Eye: Highlights usable objects, structural weak points, and entry routes in the environment.
+  - Quick Change: Allows equipping found disguises to bypass restricted areas and lower suspicion.
+- Tier 2:
+  - Compounded Toxin: Permits crafting of slow-acting poisons from collected environmental materials.
+  - Pulse Perception: Reveals enemy heartbeats through walls for a limited duration.
+  - Ghost Protocol: Neutralized targets are automatically hidden from patrol routes and alarms.
+- Tier 3:
+  - Identity Theft: Extended duration disguises withstand close scrutiny from guards and officers.
+  - Critical Anatomy: Grants a single perfect shot opportunity that guarantees instant neutralization.
+  - Smoke Escape: Deploys a disorienting smoke screen granting temporary invisibility for emergency exits.

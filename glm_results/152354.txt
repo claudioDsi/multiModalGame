@@ -1,0 +1,26 @@
+Entry: 152354 / 152354
+
+Name: Brio
+
+Concept art Image Prompt:
+Pixel art of Brio, a small round cheerful character with a bright teal body, large expressive eyes, rosy cheeks, and a festive yellow star-shaped crown bouncing energetically on a colorful board game tile, surrounded by floating golden coins and twinkling stars, vibrant carnival background with pink and purple streamers and confetti, soft warm lighting, whimsical party atmosphere, 16-bit aesthetic, bold black outlines, vibrant saturated colors
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Brio on a 64x64 canvas, 4 distinct frames arranged horizontally: Frame 1 standing pose with idle bounce and arms at sides, Frame 2 crouching pose knees bent looking ready to spring, Frame 3 walking pose mid-stride with one leg forward, Frame 4 jumping pose with arms raised triumphantly, consistent round teal character design with star crown, bold black outlines, cheerful bright colors, clean separation between frames, party game mascot style
+
+Background Story:
+Brio was born from the collective excitement of countless game nights, a living manifestation of competitive joy. As a spirited competitor in the world of board game revelry, Brio exists to ensure every match is filled with laughter, suspense, and friendly rivalry. Though small in stature, Brio's determination to collect the most stars drives them across whimsical game boards ranging from frosting-covered flower gardens to treacherous tidal shores. The star crown Brio wears was earned through countless victories, yet it also serves as a reminder that every game is a fresh opportunity to prove oneself. Brio constantly struggles with balancing friendly competition against the burning desire to claim victory, especially when facing opponents who favor sabotage over sportsmanship. The tides of fortune can shift in an instant, teaching Brio to remain adaptable and vigilant no matter the circumstances. Whether dodging chaos unleashed by ancient artifacts or racing across familiar landscapes, Brio's cheerful spirit never wavers. Victory is sweet, but the true prize lies in the memories forged with fellow partygoers.
+
+Skill Tree:
+- Tier 1:
+  - Star Magnet: Attracts nearby stars on the board within a short radius for one turn.
+  - Quick Step: Grants Brio one additional movement space on the next dice roll.
+  - Lucky Roll: Increases the probability of rolling a seven or higher on the next turn.
+- Tier 2:
+  - Coin Charm: Doubles the coins received from bonus spaces for three turns.
+  - Sabotage Shield: Blocks one incoming trap or negative effect from an opponent.
+  - Board Warp: Instantly teleport to any previously visited space on the current board.
+- Tier 3:
+  - Star Surge: Instantly collect one star without needing to reach the star space.
+  - Chaos Reversal: Reflect the last negative effect an opponent used back at them.
+  - Victory Dance: All opponents lose five coins while Brio gains the total amount lost.

@@ -1,0 +1,26 @@
+Entry: 127 / 127
+
+Name: Kaelen of the Murmuring Stones
+
+Concept art Image Prompt:
+pixel art style, character concept art, a stealthy Renaissance-era agent poised on a steep terracotta roof overlooking a canal city at dusk. The character has a weathered face with a determined expression, long dark hair tied back, and a sharp jawline. He wears a form-fitting leather jerkin over a dark tunic, with reinforced bracers and tall boots, all in muted tones of charcoal, deep blue, and burgundy. A short sword is sheathed at his hip, and a collapsible crossbow is strapped to his back. He is in a crouching pose, one hand resting on the roof tiles for balance, scanning the city below. The atmosphere is moody with the last orange and purple light of sunset reflecting off the canals, casting long shadows. Art style: detailed pixel art with a limited color palette, reminiscent of classic adventure games.
+
+Sprite sheet Image Prompt:
+pixel art style, sprite sheet on a 64x64 canvas, 2x2 grid of four animation frames for a Renaissance-era agent. Top-left: Standing idle pose, one hand resting on sword hilt, cloak slightly swaying. Top-right: Crouching pose, low to the ground with a balanced stance, looking forward. Bottom-left: Walking animation frame, mid-stride with a fluid motion, arms poised for action. Bottom-right: Jumping animation frame, legs bent for a dynamic leap, cloak billowing upward. Simple background for clarity. Consistent color palette of dark blues, browns, and muted reds. Clean, crisp pixels.
+
+Background Story:
+Kaelen was once a trusted courier for a powerful merchant guild that secretly controls the city's political and economic life. He believed he was facilitating trade and stability, but he was actually an unwitting pawn in a vast conspiracy. When he accidentally intercepts a message detailing the guild's plan to assassinate a key political figure and frame a rival faction, his loyalty shatters. The guild, discovering his knowledge, brands him a traitor and murders his only family to silence him. Now an outcast, Kaelen survives in the shadows of the city's rooftops and canals, using his intimate knowledge of its secret pathways. His motivation is twofold: a burning desire for revenge against the guild master who ordered the hit, and a desperate need to expose the conspiracy before an innocent party is blamed and the city plunges into war. He is torn between his thirst for vengeance and the nobler goal of saving the city from chaos, knowing that one misstep could see him captured by the guild's enforcers or killed by the city guard who hunt him as a criminal. The upcoming public summit, where the assassination is planned, is the ticking clock that forces his hand.
+
+Skill Tree:
+- Tier 1:
+  - Silent Step: Reduces noise generated from movement, making stealth approaches easier.
+  - Swift Strike: Delivers a quick, disabling melee attack that does not break stealth.
+  - Canal Diver: Increases swim speed and reduces the noise made when entering water.
+- Tier 2:
+  - Rooftop Acrobat: Allows for longer jumps and safer landings from greater heights.
+  - Poisoned Tip: Applies a debilitating poison to projectile weapons, slowing targets.
+  - Urban Camouflage: Temporarily reduces enemy detection range when standing still against city surfaces.
+- Tier 3:
+  - Whispers of the Guild: Temporarily highlights all enemies and key objects through walls after a successful stealth takedown.
+  - Fatal Retribution: Unleashes a powerful, unstoppable melee combo against a single target.
+  - Shadow's Embrace: Grants a brief period of near-invisibility while moving slowly, with a long cooldown.

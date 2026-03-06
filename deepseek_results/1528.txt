@@ -1,0 +1,26 @@
+Entry: 1528 / 1528
+
+Name: Leo
+
+Concept art Image Prompt:
+pixel art, concept art, young teen male character, scruffy brown hair, determined expression, wearing a patched-up green tunic and durable brown shorts, equipped with a satchel and chunky wrist-mounted gadget, standing heroically on a mossy stone archway in a vibrant forest clearing, dynamic sunlight filtering through the canopy, 2D game art style, vivid colors, detailed pixels
+
+Sprite sheet Image Prompt:
+pixel art, sprite sheet, 64x64 canvas, young teen protagonist character with scruffy brown hair and green tunic, showing four distinct animation frames: 1) standing idle with a confident stance, 2) crouching low with one hand on the ground, 3) mid-walk cycle with arms swinging, 4) jumping with arms reaching upwards, clean animation frames on transparent background
+
+Background Story:
+Leo has spent his entire life in the tranquil Glimmerwood, a forest known for its strange, shimmering flora. His best friend Finn was always the adventurous one, pushing them to explore ancient ruins and forgotten pathways. During one such expedition, Finn accidentally triggered an old mechanism, releasing a burst of enchanted energy that transformed him into a peculiar creature, an ottsel. Now burdened with guilt, Leo vows to find a cure. He must navigate a world suddenly filled with dangerous magical creatures and complex puzzles left behind by an ancient civilization. Leo's internal struggle pits his cautious nature against the fearless bravery required to save his friend. The stakes are immense, as the transformation spell is slowly erasing Finn's memories of his former life. Their entire friendship and Finn's very identity hang in the balance, compelling Leo to become the hero he never thought he could be.
+
+Skill Tree:
+- Tier 1:
+  - Quick Step: Increases movement speed and allows for faster traversal of platforms.
+  - Sturdy Build: Reduces damage taken from environmental hazards and enemy attacks.
+  - Keen Eye: Highlights interactive objects and hidden pathways in the environment.
+- Tier 2:
+  - Gale Leap: Grants a double jump ability for reaching higher ledges.
+  - Pulse Barrier: Creates a temporary shield that deflects weak projectiles.
+  - Woodland Whisper: Calms minor forest creatures, making them non-aggressive.
+- Tier 3:
+  - Zephyr Dash: Perform a rapid dash attack that can break through certain walls.
+  - Chrono Anchor: Briefly slow down time to solve timing-based puzzles with ease.
+  - Resonant Echo: Emit a sonar pulse that reveals the solution to nearby puzzles.

@@ -1,0 +1,26 @@
+Entry: 431 / 431
+
+Name: Elias Voss
+
+Concept art Image Prompt:
+Pixel art portrait of a rugged male treasure hunter in his early 30s, wearing a weathered brown leather jacket over a cream henley shirt, dark cargo pants tucked into worn hiking boots, a vintage compass hanging from his neck, stubble on his determined face, short tousled dark brown hair, standing in a dynamic pose holding a rustic pistol, dense tropical jungle ruins background with ancient stone carvings partially covered by vines, warm golden sunset lighting filtering through canopy leaves, adventurous pulp-action tone, detailed 16-bit pixel art style, earth tone color palette with warm highlights.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of a male treasure hunter character, wearing brown leather jacket and dark cargo pants, 4 distinct frames arranged horizontally on a transparent background: frame 1 standing idle with arms crossed, frame 2 crouching low examining the ground, frame 3 walking mid-stride with confident posture, frame 4 jumping with legs tucked and arms raised, consistent character design across all frames, limited 16-color palette, retro 16-bit pixel art style, canvas size 64x64 pixels per frame, clean outlines, ready for game animation use.
+
+Background Story:
+Elias Voss grew up listening to his grandmother's tales of their ancestor, a navigator who vanished seeking a legendary artifact said to grant foresight. For years, Elias dismissed these as folklore while building a career as a salvage diver, recovering lost cargo from shipwrecks along the Atlantic coast. When his grandmother passed, he inherited her belongings and discovered a sealed envelope containing a 400-year-old navigator's log—the last recorded entries of his missing ancestor. The log's final coordinates pointed to an uncharted island chain rumored to be cursed. Driven by family duty and professional curiosity, Elias assembled a small team and embarked on the expedition, only for a violent storm to wreck their vessel on approach. Now stranded with limited supplies, he must protect his companions from a ruthless mercenary faction that arrived before them. Elias fights not just for survival, but to uncover whether his ancestor found the artifact or fell to the island's secrets.
+
+Skill Tree:
+- Tier 1:
+  - Salvage Instinct: Highlight interactable objects and hidden passages within a short range.
+  - Rope Mastery: Swing across gaps and climb faster using a grappling hook.
+  - Tactical Rolling: Quickly dodge incoming attacks with reduced stamina cost.
+- Tier 2:
+  - Ancient Insight: Decipher cryptic inscriptions to reveal secret cache locations.
+  - Improvised Trap: Craft environmental traps using gathered resources.
+  - Steady Aim: Increased accuracy and reduced recoil when firing from cover.
+- Tier 3:
+  - Navigator's Legacy: Temporarily highlight all enemies and objectives on the map.
+  - Desperate Resilience: Survive a fatal blow once per mission with minimal health remaining.
+  - Coordinated Assault: Issue commands to companions for synchronized attacks.

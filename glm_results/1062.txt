@@ -1,0 +1,26 @@
+Entry: 1062 / 1062
+
+Name: Elias Vorne
+
+Concept art Image Prompt:
+Pixel art portrait of a rugged thriller novelist in his late thirties with disheveled dark brown hair and stubble, wearing a worn brown leather jacket over a cream knit sweater, dark jeans, and hiking boots. He holds a heavy-duty flashlight in his right hand casting a warm amber beam through swirling fog. His expression shows exhausted determination, with dark circles under his eyes. Background features a misty Pacific Northwest pine forest at dusk with a distant cabin silhouette. Moody atmospheric lighting with cool blue shadows contrasting warm highlights from the flashlight. 16-bit pixel art style, detailed shading, horror game protagonist aesthetic, clear silhouette, desaturated earth tone palette.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet on a 64x64 pixel canvas with 4 frames arranged horizontally. Frame 1: Standing pose, Elias faces forward with flashlight raised at shoulder level, slight weary posture, coat hanging straight. Frame 2: Crouching pose, one knee down, flashlight aimed low in a sweeping motion, coat pooling on ground. Frame 3: Walking pose, mid-stride with left leg forward, right arm extended with flashlight beam swinging, coat slightly billowing. Frame 4: Jumping pose, legs tucked beneath, arms raised overhead with flashlight beam cutting downward. Consistent limited color palette: brown leather jacket, cream sweater, tan skin, dark brown hair. Warm white glow effect emanating from flashlight in each frame. Clear black outline, 16-bit aesthetic, readable silhouettes.
+
+Background Story:
+Elias Vorne built his career crafting pulse-pounding thrillers that blurred the line between psychological unraveling and supernatural dread, earning him a reputation as a master of late-night page-turners. But three years of silence followed his last novel, a creative drought that strained his marriage and eroded his confidence. Hoping to reignite his spark, Elias agreed to retreat with his wife Clara to the remote mist-shrouded town of Hollowbrook, where the endless gray skies and towering pines promised solitude. Hours after their arrival, Clara vanished during a walk to the general store, leaving behind only her scarf tangled in a fence. Desperate and disbelieving, Elias began finding typewritten manuscript pages scattered through the forest—pages written in his own voice, describing events moments before they occurred. The words bled into reality, and shadow-slicked figures emerged from every dark corner, whispering fragments of stories he never finished writing. Armed with only a flashlight and the fragments of a narrative he cannot remember creating, Elias must uncover who—or what—is authoring his nightmare before the final chapter closes on him forever.
+
+Skill Tree:
+- Tier 1:
+  - Focused Beam: Concentrates your flashlight into a narrow high-intensity beam that stuns shadow enemies and reveals hidden manuscript pages.
+  - Flare Toss: Throws a handheld flare that creates a temporary circle of safety, repelling darkness and illuminating nearby collectibles.
+  - Author's Instinct: Highlights interactive objects and environmental clues within a short radius through a faint golden shimmer.
+- Tier 2:
+  - Battery Efficiency: Reduces flashlight drain by forty percent, allowing extended use of light-based attacks and exploration tools.
+  - Evasive Roll: Performs a quick combat roll in any direction, granting brief invulnerability frames and creating distance from enemies.
+  - Margin Notes: Automatically annotates discovered manuscript pages with clues, revealing weak points of specific enemy types.
+- Tier 3:
+  - Revision: Rewinds the last eight seconds of gameplay, restoring health and ammo while resetting enemy positions and environmental states.
+  - Blinding Cascade: Unleashes stored battery power in a 360-degree burst of light, stunning all nearby enemies and dissolving weaker shadows.
+  - Narrative Arc: Predicts incoming ambushes and environmental hazards five seconds in advance, displaying ghostly silhouettes of threats through walls.

@@ -1,0 +1,26 @@
+Entry: 4 / 4
+
+Name: Elias Vane
+
+Concept art Image Prompt:
+Pixel art style, dark fantasy aesthetic. A medium shot of Elias Vane, a master thief with pale skin and messy dark hair, wearing a worn, dark grey leather trench coat with a high collar and a heavy charcoal scarf wrapped around his neck. He wears brass goggles pushed up on his forehead and leather gloves with reinforced grips. He is crouching on a rusted iron gargoyle attached to a gothic cathedral spire. The background is a foggy, moonlit city skyline with towering stone walls and gaslight lamps flickering in the mist. The lighting is low-key with cool blue shadows and faint amber highlights from the distant lamps. 16-bit color palette, detailed dithering on the stone textures.
+
+Sprite sheet Image Prompt:
+Pixel art style sprite sheet on a 64x64 pixel canvas with a transparent background. Four distinct frames arranged horizontally. Frame 1: Standing idle, holding a sack over his shoulder, looking vigilant. Frame 2: Crouching low on one knee, one hand touching the ground for balance. Frame 3: Walking, mid-stride, coat tails floating behind. Frame 4: Jumping, legs tucked up, arms raised for balance. The character wears a dark grey trench coat and scarf, consistent with the concept art. Crisp outlines, limited color palette suitable for game assets.
+
+Background Story:
+Born in the suffocating smog of the lower districts, Elias Vane learned early that survival required silence and a quick hand. The city’s plague did not discriminate, but the wealthy hoarded the medicine, leaving the poor to rot in the streets. Elias watched his family wither away while the aristocracy feasted behind high walls, fueling a cold, calculated hatred within him. He turned to theft not for greed, but to redistribute the resources needed to keep his neighborhood alive. Over the years, his reputation grew from a common pickpocket to a ghost story told in the mansions of the elite. He moves through the city's shadows like a phantom, bypassing clockwork locks and evading mechanical sentries with ease. His current objective is the "Heart of the Spire," a gemstone rumored to power the city’s oppressive surveillance network. If he can steal it, he might finally break the grip of fear that holds his home in chains.
+
+Skill Tree:
+- Tier 1:
+  - Shadow Meld: The character becomes significantly harder to detect when standing in dimly lit or dark areas.
+  - Quick Fingers: Allows for faster looting of containers and pickpocketing from unaware guards.
+  - Urban Grip: Increases movement speed when climbing pipes, ledges, and vertical surfaces.
+- Tier 2:
+  - Smoke Veil: Deploys a blinding powder cloud that disorients nearby enemies and provides a quick escape route.
+  - Glass Cutter: Silently creates a passage through reinforced windows without triggering noise sensors.
+  - Whispers of the City: Reveals the patrol routes of enemies through walls for a short duration.
+- Tier 3:
+  - Ghost Walk: Grants temporary invisibility and silenced footsteps for a few seconds after leaving a hiding spot.
+  - Saboteur’s Instinct: Safely disables mechanical traps and locks them down permanently without needing tools.
+  - From the Abyss: An instantaneous takedown from above that produces no sound and leaves no body trace.

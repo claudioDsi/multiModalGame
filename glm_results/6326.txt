@@ -1,0 +1,26 @@
+Entry: 6326 / 6326
+
+Name: Sol Vane
+
+Concept art Image Prompt:
+Pixel art full body portrait of Sol Vane, a young vampire hunter with windswept ash-blonde hair and protective orange-tinted goggles, wearing a sun-weathered brown leather trench coat over a light tactical vest, standing confidently in an overgrown gothic ruin. He wields the 'Daybreaker', a bulky, brass-plated revolver-style pistol with glowing photovoltaic coils and a glass lens barrel. Sunlight beams down from the top right, casting sharp shadows and illuminating the lens of the gun. The art style is vibrant 32-bit pixel art reminiscent of late 90s handheld RPGs, with a palette emphasizing gold, azure, and deep shadows.
+
+Sprite sheet Image Prompt:
+Pixel art sprite sheet of Sol Vane on a 64x64 pixel canvas, consisting of exactly 4 frames arranged horizontally: 1) Standing pose holding the solar pistol low, breathing animation; 2) Crouching pose on one knee aiming forward; 3) Walking animation with coat swaying, mid-stride; 4) Jumping pose with legs tucked and weapon raised to the sky. The character design uses a limited 16-color palette, clean black outlines, and distinct shading to ensure readability on a small screen.
+
+Background Story:
+Sol Vane grew up in the shadow of the Obsidian Citadel, a land where the sun was blotted out by the rule of the Eternal Night. Raised by a guild of scavengers who hunted relics from a forgotten age of light, Sol discovered the Daybreaker, an ancient firearm sealed within a solar temple. Unlike normal weapons, the Daybreaker is inert in darkness, requiring Sol to venture into the blinding surface world above the clouds to charge its capacitor with UV rays. Driven by the petrification of his younger sister by a high-ranking vampire lord, Sol descends into the dark depths below. He fights a dual war: against the monsters that lurk in the shadows, and against his own tactical need to find sunlight before his ammunition depletes. The cartridge on his wrist acts as a solar gauge, forcing him to time his raids for when the sun is at its zenith. If he fails, he is left defenseless in the lair of beasts.
+
+Skill Tree:
+- Tier 1:
+  - Solar Intake: Increases the rate at which sunlight charges the weapon's energy meter.
+  - Photo-Optics: Allows the user to see invisible spirit platforms in dark dungeons.
+  - Quick Step: A short dash ability used to dodge enemy projectiles or cross small gaps.
+- Tier 2:
+  - Lens Flare: Fires a scattered burst of light pellets effective against swarms of bats.
+  - Heat Haze: Creates a temporary distortion field that reduces enemy accuracy for a few seconds.
+  - Sun Shard: Charges a single shot to pierce through armored undead enemies.
+- Tier 3:
+  - Solar Prominence: Unleashes a spiraling beam of concentrated sunlight that deals massive damage.
+  - Celestial Resurrection: Uses stored solar energy to instantly revive with half health upon death.
+  - Midnight Sun: Generates a localized sphere of light that mimics natural sunlight for a limited time, allowing weapon use in total darkness.
