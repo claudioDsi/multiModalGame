@@ -58,8 +58,9 @@ RETRY_INTERVAL = 5  # Seconds to wait between retries
 
 
 # auth config
-token = "axaa3vlk4p568swth6oskvhb1a63mz"
-CLIENT_ID = "m0jr7fmh5098pvc0szzs7zjxcq0cxe"
+token = "YOUR TOKEN HERE"
+CLIENT_ID = "your client ID here"
+
 AUTH = {'Authorization': "Bearer {}".format(token)}
 
 # headers

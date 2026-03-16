@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import csv
-from typing import List, Optional, Tuple
+from typing import List, Optional, Tuple, Dict
 
 import matplotlib.pyplot as plt
+
+import numpy as np
 
 
 def _text_length(text: str, *, unit: str) -> int:
@@ -241,9 +243,10 @@ def plot_llm_comparison_violins(
     length_unit: str = "words",
     f1_output_path: str = "llm_f1_comparison_violin.png",
     lengths_output_path: str = "llm_lengths_comparison_violin.png",
+base_font=15,
    # f1_title: str = "BERTScore F1 Comparison Across Models",
    # lengths_title: str = "Text Length Comparison Across Models and Original",
-    show: bool = True,
+    show: bool =False,
 ) -> None:
     """
     Compare three LLM report CSV files with two violin plots:
@@ -261,6 +264,7 @@ def plot_llm_comparison_violins(
       - one PNG for F1 comparison
       - one PNG for length comparison
     """
+
     m1_f1, m1_orig_len, m1_gen_len = _load_f1_and_lengths(
         model1_csv_path,
         f1_column=f1_column,
@@ -299,8 +303,8 @@ def plot_llm_comparison_violins(
         showextrema=True,
     )
     ax_f1.set_xticks([1, 2, 3])
-    ax_f1.set_xticklabels([model1_name, model2_name, model3_name], rotation=10, ha="right")
-    ax_f1.set_ylabel("F1 Score")
+    ax_f1.set_xticklabels([model1_name, model2_name, model3_name], rotation=10, ha="right", fontsize=base_font)
+    ax_f1.set_ylabel("F1 Score", fontsize=base_font)
    # ax_f1.set_title(f1_title)
     ax_f1.grid(True, axis="y", linestyle="--", linewidth=0.5)
     fig_f1.tight_layout()
@@ -326,8 +330,9 @@ def plot_llm_comparison_violins(
         ],
         rotation=10,
         ha="right",
+        fontsize=base_font
     )
-    ax_len.set_ylabel("Length")
+    ax_len.set_ylabel("Length", fontsize=base_font)
     #ax_len.set_title(lengths_title)
     ax_len.grid(True, axis="y", linestyle="--", linewidth=0.5)
     fig_len.tight_layout()
@@ -499,6 +504,162 @@ def generate_model_wordclouds(
     print(f"  - {model2_output_path}")
     print(f"  - {model3_output_path}")
 
+def plot_bar_chart(
+        data: Dict,
+        *,
+        title: str = "Bar Plot",
+        xlabel: str = "",
+        ylabel: str = "",
+        fontsize: int = 12,
+        bar_width: float = 0.2,
+        output_path: Optional[str] = None,
+        show: bool = True,
+):
+    """
+    Generic 3-dimension bar plot.
+
+    Expected dictionary structure:
+
+    {
+        "ModelA": {
+            "Precision": {"Dataset1": 0.8, "Dataset2": 0.75},
+            "Recall": {"Dataset1": 0.78, "Dataset2": 0.70},
+            "F1": {"Dataset1": 0.79, "Dataset2": 0.72},
+        },
+        "ModelB": {
+            "Precision": {"Dataset1": 0.82, "Dataset2": 0.77},
+            ...
+        }
+    }
+
+    Dimensions:
+    - Level 1 → outer group (e.g. models)
+    - Level 2 → metric
+    - Level 3 → x-axis categories
+
+    Parameters
+    ----------
+    data : dict
+        Nested dictionary with 3 levels.
+    fontsize : int
+        Font size for labels and ticks.
+    bar_width : float
+        Width of each bar.
+    output_path : Optional[str]
+        If provided, saves the figure.
+    show : bool
+        Whether to display the figure.
+    """
+
+    level1 = list(data.keys())
+    level2 = list(next(iter(data.values())).keys())
+    level3 = list(next(iter(next(iter(data.values())).values())).keys())
+
+    x = np.arange(len(level3))
+
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+
+    total_bars = len(level1) * len(level2)
+    offset_index = 0
+
+    for l1 in level1:
+        for l2 in level2:
+            values = [data[l1][l2].get(cat, 0) for cat in level3]
+
+            offset = (offset_index - total_bars / 2) * bar_width + bar_width / 2
+
+            ax.bar(
+                x + offset,
+                values,
+                width=bar_width,
+                label=f"{l1}-{l2}",
+            )
+
+            offset_index += 1
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(level3, fontsize=fontsize)
+
+    ax.set_xlabel(xlabel, fontsize=fontsize)
+    ax.set_ylabel(ylabel, fontsize=fontsize)
+    ax.set_title(title, fontsize=fontsize + 2)
+
+    ax.legend(fontsize=fontsize - 2)
+
+    fig.tight_layout()
+
+    if output_path:
+        fig.savefig(output_path, dpi=200, bbox_inches="tight")
+
+    if show:
+        plt.show()
+    else:
+        plt.close(fig)
+
+
+def plot_bar_from_dict(
+    data: Dict[str, float],
+    *,
+    title: str = "Bar Plot",
+    xlabel: str = "",
+    ylabel: str = "",
+    fontsize: int = 12,
+    figsize: tuple = (8, 5),
+    output_path: Optional[str] = None,
+    show: bool = True,
+) -> None:
+    """
+    Generic bar plot for flat dictionary data.
+
+    Example input:
+    data = {
+        'gpt-oss': 0.96,
+        'deepseek': 0.92,
+        'glm': 0.30
+    }
+
+    Parameters
+    ----------
+    data : Dict[str, float]
+        Dictionary with labels as keys and numeric values.
+    fontsize : int
+        Font size for plot text.
+    figsize : tuple
+        Size of the matplotlib figure.
+    output_path : Optional[str]
+        If provided, saves the plot image.
+    show : bool
+        Whether to display the plot.
+    """
+
+    labels = list(data.keys())
+    values = list(data.values())
+
+    fig = plt.figure(figsize=figsize)
+    ax = fig.add_subplot(111)
+
+    ax.bar(labels, values)
+
+    ax.set_title(title, fontsize=fontsize + 2)
+    ax.set_xlabel(xlabel, fontsize=fontsize)
+    ax.set_ylabel(ylabel, fontsize=fontsize)
+
+    ax.tick_params(axis="x", labelsize=fontsize)
+    ax.tick_params(axis="y", labelsize=fontsize)
+
+    ax.grid(True, axis="y", linestyle="--", linewidth=0.5)
+
+    fig.tight_layout()
+
+    if output_path:
+        fig.savefig(output_path, dpi=200, bbox_inches="tight")
+
+    if show:
+        plt.show()
+    else:
+        plt.close(fig)
+
 
 
 if __name__ == "__main__":
@@ -507,7 +668,21 @@ if __name__ == "__main__":
         report_csv_path="bertscore_report_gpt_oss.csv",
         length_unit="words",
         show=True    )'''
-    '''
+
+    data = {
+        'gpt-oss': 0.96, 'deepseek': 0.92, 'glm': 1.0
+    }
+
+    plot_bar_from_dict(
+        data,
+        title="",
+        ylabel="V1 score",
+        fontsize=15,
+        output_path="conceptual_scores.pdf"
+    )
+
+
+'''
     plot_llm_comparison_violins(
         model1_csv_path="bertscore_report_gpt_oss.csv",
         model2_csv_path="bertscore_report_deepseek.csv",
@@ -519,7 +694,7 @@ if __name__ == "__main__":
         f1_output_path="f1_models_violin.png",
         lengths_output_path="lengths_models_violin.png",
         show=False,
-    )'''
+    )
 
     generate_model_wordclouds(
         model1_csv_path="bertscore_report_gpt_oss.csv",
@@ -533,3 +708,4 @@ if __name__ == "__main__":
         model3_output_path="plots/wordcloud_glm.png",
     )
 
+'''

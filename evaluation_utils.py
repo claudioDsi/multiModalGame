@@ -606,7 +606,7 @@ if __name__ == "__main__":
         offset=0,
         lang="en",
         model_type=None,
-        hf_token="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",  # set if needed
+        hf_token="YOUR HF TOKEN",  # set if needed
     )
 
     stats = compute_report_statistics(
