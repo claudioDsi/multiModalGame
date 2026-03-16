@@ -11,27 +11,25 @@ This repository contains the replication package for the paper **"Towards democr
 
 The goal is to provide indie developers with an **open-source, fully automated pipeline** that generates multimodal game assets — character background stories, skill trees, and visual prompts for concept art and sprite sheets — starting from real game data, without requiring prior knowledge of game design or visual arts tools.
 
+ ## Repository structure
+
+
 
 ## The Pipeline
 
 The pipeline takes game character data from [IGDB](https://api-docs.igdb.com), obfuscates it to avoid plagiarism, and then uses an LLM to generate a complete character asset package. The generated textual prompts are then passed to **Stable Diffusion SD3.5 Large** to produce visual assets.
 
+To run the obfuscation pipeline, please run the following commands in main.py: 
 ```
-IGDB API
-   │
-   ▼
-Data Extraction ──► Game Description ──► [LLM] Obfuscation ──► Obfuscated Description
-                                                                         │
-                                                                         ▼
-                                                              [LLM] Character Generation
-                                                               ┌─────────┴──────────┐
-                                                         Textual Assets        Visual Prompts
-                                                     ┌────────┴────────┐           │
-                                                Background Story   Skill Tree      ▼
-                                                                              [Stable Diffusion]
-                                                                          ┌────────┴────────┐
-                                                                    Concept Art       Sprite Sheet
+ obfuscate_character_descriptions_from_csv(model="gpt-oss:120b-cloud",csv_path="games_with_character.csv", output_csv_path="games_obfuscated.csv")
+
+generate_characters_from_obfuscated_csv_to_files(csv_path="games_obfuscated.csv", model="glm-5:cloud",
+                                           obfuscated_column="obfuscated_summary", output_dir="glm_results/")
 ```
+
+
+
+
 
 The three LLMs evaluated in the paper are:
 
@@ -110,8 +108,6 @@ Three co-authors independently evaluated the generated assets using a Likert sca
 | DeepSeek | 0.07 | 0.40 | **0.94** | 0.07 |
 | GLM-5 | 0.08 | **0.77** | 0.91 | **0.21** |
 
-Standing and walking poses are well-represented; crouching and jumping remain an open challenge for SD3.5 Large.
-
 ---
 
 ## Dataset Download
@@ -128,17 +124,3 @@ The full dataset, including generated character files and visual assets, is avai
 The base character and game data builds on the [PlayMyData](https://doi.org/10.1145/3643991.3644869) dataset.
 
 
-
-## Paper
-
-> *Towards democratizing multi-modal game assets: LLM-based generation with prompt engineering* — 
-
-
----
-
-## Related Work
-
-- [PlayMyData](https://doi.org/10.1145/3643991.3644869) — the multimodal video game dataset this work extends
-- [GameTileNet](https://ojs.aaai.org/index.php/AIIDE/article/view/36805) — pixel art dataset for procedural content generation
-- [LIGS](https://dl.acm.org/doi/10.1145/3706599.3720212) — LLM-infused game system for emergent narrative
-- [BenchING](https://ieeexplore.ieee.org/document/10840256) — benchmark for LLMs in narrative game tasks
